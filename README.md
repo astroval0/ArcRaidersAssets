@@ -1,6 +1,6 @@
 This repository serves as a collection of assets from inside the game ARC Raiders.
 
-I'm adding more soon!
+I'm adding more soon! feel free to make suggestions via an 'Issue' on the repo
 
 The goal is to have easy accessible assets for anyone to use.
 
