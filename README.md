@@ -36,3 +36,11 @@ currently  no 3d models will be rigged, i'm working on this though :)
 ![Arc Raiders Queen](queen.png)
 
 Little side note about the queen model: I was lazy on retexturing and skipped the main shaders, just going straight for a basic diffuse and normal, so it will look different to in game, i may improve on this later.
+
+## 💰 Bounty Contribution
+
+- **Task:** $100 Bounty For The Rest of The Item Images
+- **Reward:** $100
+- **Source:** GitHub-Bounty
+- **Date:** 2026-04-27
+
