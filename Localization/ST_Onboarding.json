@@ -1,0 +1,138 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Onboarding",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Onboarding",
+    "StringTable": {
+      "TableNamespace": "ST_Onboarding",
+      "KeysToEntries": {
+        "ID_ONBOARDING_COMPLETE_MORE_QUESTS": "Complete more quests to unlock",
+        "ID_ONBOARDING_UNLOCKED": "Unlocked",
+        "ID_ONBOARDING_UNLOCKEDSKILLTREE": "Skill Tree",
+        "ID_ONBOARDING_UNLOCKEDBATTLEPASS": "Raider Decks",
+        "ID_ONBOARDING_UNLOCKEDWORKSHOP": "Workshop",
+        "ID_ONBOARDING_UNLOCKEDQUESTS": "Quests",
+        "ID_ONBOARDING_UNLOCKEDAUGMENTATIONS": "Augmentations",
+        "ID_ONBOARDING_LEVELUP": "Level Up",
+        "ID_ONBOARDING_LEVEL_VALUE": "Level {0}",
+        "ID_ONBOARDING_TUTORIAL": "Tutorial",
+        "ID_ONBOARDING_BUTTON_RESTART": "Restart",
+        "ID_ONBOARDING_INGAME_SCRIPTED_KNOCKOUT": "Some time later...",
+        "ID_ONBOARDING_BUTTON_ADVANCEDSETTINGS": "Advanced settings",
+        "ID_ONBOARDING_BUTTON_CONTROLS": "Controls",
+        "ID_ONBOARDING_BUTTON_CONTROLSETTINGS": "Control settings",
+        "ID_ONBOARDING_BUTTON_MORESETTINGS": "More settings",
+        "ID_ONBOARDING_BUTTON_ALLSETTINGS": "All settings",
+        "ID_ONBOARDING_TITLE_CREATE_EMBARKID": "Create Embark ID",
+        "ID_ONBOARDING_TITLE_CREATE_EMBARKID_ALT2": "Create Display name",
+        "ID_ONBOARDING_ROUNDS_EXTRACTED": "Rounds Extracted",
+        "ID_ONBOARDING_NUMBER_OF_ROUNDS_EXTRACTED": "Number of rounds with a successful extraction",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_DESCRIPTION": "If you're ready for the full game experience, you can let the Storm Aftermath come to an end. ARC will return to its normal danger levels, and more players will be present per round.",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TITLE": "End the Storm Aftermath?",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_PROCEED": "Proceed",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_NOTYET": "Not yet",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING": "You cannot return to beginner servers after proceeding to the real servers.",
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING_ALT1": "This can not be undone.",
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_BEGINNER_SERVER": "Entering beginner server",
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_ONBOARDING_SERVER": "Entering onboarding server",
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_NEW_PLAYER_SERVER": "Entering new player server",
+        "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH": "Storm Aftermath",
+        "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH_ALT2": "Storm Aftermath (New Player Server)",
+        "ID_ONBOARDING_MAP_CONDITION_BEGINNER_SERVER": "Beginner Server",
+        "ID_ONBOARDING_MAP_CONDITION_ONBOARDING_SERVER": "Onboarding Server",
+        "ID_ONBOARDING_MAP_CONDITION_NEW_PLAYER_SERVER": "New Player Server",
+        "ID_ONBOARDING_MAP_CONDITION_DESCRIPTION": "The aftermath of the Storm can still be felt. ARC's most dangerous machines have temporarily retreated, and fewer fellow Raiders dare venture topside.",
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_TITLE": "During the Storm Aftermath:",
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_NEW_PLAYERS_ONLY": "Matchmaking is limited to new players",
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS": "Fewer players per round",
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS_ALT2": "Max. 12 players per round",
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LOW_THREAT": "Only lower-threat ARC enemies appear"
+      },
+      "KeysToMetaData": {
+        "ID_ONBOARDING_BUTTON_RESTART": {
+          "Note": "\"In Onboarding level, restarts from beginning\""
+        },
+        "ID_ONBOARDING_BUTTON_ADVANCEDSETTINGS": {
+          "Note": "Button for accessing more advanced settings"
+        },
+        "ID_ONBOARDING_BUTTON_CONTROLS": {
+          "Note": "Button for accessing more settings for controls"
+        },
+        "ID_ONBOARDING_BUTTON_CONTROLSETTINGS": {
+          "Note": "Button for accessing more settings for controls"
+        },
+        "ID_ONBOARDING_BUTTON_MORESETTINGS": {
+          "Note": "Button for accessing more settings"
+        },
+        "ID_ONBOARDING_BUTTON_ALLSETTINGS": {
+          "Note": "Button for accessing all settings"
+        },
+        "ID_ONBOARDING_TITLE_CREATE_EMBARKID": {
+          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info"
+        },
+        "ID_ONBOARDING_TITLE_CREATE_EMBARKID_ALT2": {
+          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_DESCRIPTION": {
+          "Note": "Text in a modal giving players a choice to go to a real server, instead of the FTUE server"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TITLE": {
+          "Note": "Title in modal giving the player a choice to go to a real server, instead of the FTUE server"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_PROCEED": {
+          "Note": "Button in modal to go to real server"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_NOTYET": {
+          "Note": "Button in modal to go to FTUE server"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING": {
+          "Note": "Disclaimer about not being able to go back to FTUE server"
+        },
+        "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING_ALT1": {
+          "Note": "Disclaimer about not being able to go back to FTUE server"
+        },
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_BEGINNER_SERVER": {
+          "Note": "Message when entering a FTUE server (announcement in-game)"
+        },
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_ONBOARDING_SERVER": {
+          "Note": "Alternative message when entering a FTUE server (announcement in-game)"
+        },
+        "ID_ONBOARDING_INGAME_ANNOUNCEMENT_NEW_PLAYER_SERVER": {
+          "Note": "Alternative message when entering a FTUE server (announcement in-game)"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH": {
+          "Note": "\"Map condition\" name for FTUE servers"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH_ALT2": {
+          "Note": "\"Map condition\" alternative name for FTUE servers"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_BEGINNER_SERVER": {
+          "Note": "\"Map condition\" alternative name for FTUE servers"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_ONBOARDING_SERVER": {
+          "Note": "\"Map condition\" alternative name for FTUE servers"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_NEW_PLAYER_SERVER": {
+          "Note": "\"Map condition\" alternative name for FTUE servers"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_TITLE": {
+          "Note": "\"Map condition\" list of explicit descriptions of effects"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_NEW_PLAYERS_ONLY": {
+          "Note": "Bullet point item of map condition effect"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS": {
+          "Note": "Bullet point item of map condition effect"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS_ALT2": {
+          "Note": "Alternative bullet point item of map condition effect"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LOW_THREAT": {
+          "Note": "Bullet point item of map condition effect"
+        }
+      }
+    }
+  }
+]

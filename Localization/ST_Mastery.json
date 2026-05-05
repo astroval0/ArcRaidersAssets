@@ -1,0 +1,308 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Mastery",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Mastery",
+    "StringTable": {
+      "TableNamespace": "ST_Mastery",
+      "KeysToEntries": {
+        "ID_EVENT_RANK_DESCRIPTION_PLACEMENT": "You were placed in a new rank.",
+        "ID_EVENT_RANK_DESCRIPTION_DEMOTION": "You were demoted to a lower rank.",
+        "ID_EVENT_RANK_DESCRIPTION_PROMOTION": "You were promoted to a higher rank.",
+        "ID_EVENT_RANK_DESCRIPTION_UNCHANGED": "You kept your rank.",
+        "ID_EVENT_RANK_HEADER_NEW_RANK": "New Rank",
+        "ID_EVENT_RANK_HEADER_END_OF_WEEK": "End Of Week",
+        "ID_EVENT_END_SEASON_HEADER": "End Of Season",
+        "ID_EVENT_END_SEASON_DESCRIPTION": "You ended the season at {0}.",
+        "ID_OBJECTIVE_ACTIVE_NOW": "Active Now",
+        "ID_OBJECTIVE_ACTIVE_FOR": "Active Now For {0}",
+        "ID_OBJECTIVE_ACTIVE_IN": "Active In {0}",
+        "ID_INGAME_NOTIFICATION_MILESTONE": "Milestone Reached",
+        "ID_INGAME_NOTIFICATION_HIGHSCORE": "Personal best beaten:",
+        "ID_MASTERY_POINTS": "Rank Points",
+        "ID_MASTERY_POINTS_ALT": "Trials Points",
+        "ID_MASTERY_RANK_1": "Rookie",
+        "ID_MASTERY_RANK_2": "Tryhard",
+        "ID_MASTERY_RANK_3": "Wildcard",
+        "ID_MASTERY_RANK_4": "Daredevil",
+        "ID_MASTERY_RANK_5": "Hotshot",
+        "ID_MASTERY_RANK_6": "Cantina Legend",
+        "ID_MASTERY_NONE_ACTIVE": "There is no Trials League active at this time",
+        "ID_MASTERY_NONE_AVAILABLE": "There are no Trials objectives available at this time",
+        "ID_MASTERY_NO_PROGRESS": "Progress any Trials objective in order to get a rank",
+        "ID_MASTERY_MILESTONE": "Milestone {0}",
+        "ID_MASTERY_STAGE": "Stage {0}",
+        "ID_MASTERY_REFRESH_TIMER": "Time remaining until refresh",
+        "ID_MASTERY_FEATURE_TITLE": "Trials",
+        "ID_NO_VALUE": "-",
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_NEW": "New rank",
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UP": "Ranked up",
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_DOWN": "Ranked down",
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UNCHANGED": "Rank unchanged",
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_PLACEMENT": "Top {0} % of players",
+        "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN": "New Trials available soon",
+        "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN_ALT2": "New objectives available soon",
+        "ID_MASTERY_LEADERBOARDS_MESSAGE_NOFRIENDS": "No friends on leaderboard",
+        "ID_MASTERY_FEATUREDESCRIPTION_TITLE": "What are Trials?",
+        "ID_MASTERY_FEATUREDESCRIPTION_BODY": "Trials are a collection of challenging scenarios; testing the skills of the most veteran Raiders. When competing in a Trial, you only earn a score if you manage to return safely to Speranza. Your highest score determines your position on the leaderboard, which may gain or lose you rank at the end of the rank period. A Trials season is made up of multiple rank periods; at the end of the season, you will receive rewards based on your final rank.",
+        "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION": "You’ll get rewards from a random pool of rare materials, gear and blueprints over the following rarity distribution:",
+        "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION_REWARDED": "You received the following rewards:",
+        "ID_MASTERY_CELEBRATIONS_RANK_DESCRIPTION_PLACEMENT": "This is where you placed this rank period:",
+        "ID_MASTERY_CELEBRATIONS_LABEL_OLD_RANK": "Previous rank:",
+        "ID_MASTERY_CELEBRATIONS_RANK_UP_DESCRIPTION": "Congratulations, you ranked up!",
+        "ID_MASTERY_CELEBRATIONS_RANK_DOWN_DESCRIPTION": "You have lost rank",
+        "ID_MASTERY_CELEBRATIONS_RANK_DOWN_INACTIVITY_DESCRIPTION": "You have lost rank due to inactivity",
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_RANK": "The Trials season has ended. You achieved rank:",
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_REWARDS": "You've received the following rewards:",
+        "ID_MASTERY_TIMER_LABEL_NEXT_SEASON_START": "Next Trials season starts:",
+        "ID_MASTERY_TIMER_WEEKS": "{0} weeks",
+        "ID_MASTERY_TIMER_MONTHS": "{0} months",
+        "ID_MASTERY_TIMER_DAYS": "{0} days",
+        "ID_MASTERY_TIMER_HOURS": "{0} hours",
+        "ID_MASTERY_TIMER_MINUTES": "{0} minutes",
+        "ID_MASTERY_TAB_OBJECTIVES": "Trials objectives",
+        "ID_MASTERY_SEASON_LABEL_RANK_REWARDS": "Rank rewards",
+        "ID_MASTERY_MESSAGE_SEASON_IS_OVER": "Trials season is over",
+        "ID_MASTERY_SEASON_MESSAGE_UNLOCKED_REWARDS": "You've unlocked {0}/{1} rewards",
+        "ID_OBJECTIVE_MULTIPLIER_DETAILS": "{0}x points on major map conditions",
+        "ID_OBJECTIVE_AVAILABILITY_ALL_MAPS": "Available on all maps",
+        "ID_OBJECTIVE_AVAILABILITY_LIMITED": "Only available on {0} maps",
+        "ID_OBJECTIVE_MULTIPLIER_SHORT": "{0}X",
+        "ID_MASTERY_FEATUREDESCRIPTION_BODY_ALT": "Complete objectives and return safely to gain ranks and claim your rewards.",
+        "ID_MASTERY_CURRENT_RANK_SHORT": "Current",
+        "ID_MASTERY_NO_RANK_REWARDS": "No rewards",
+        "ID_MASTERY_MILESTONE_REWARD_1": "Reward I",
+        "ID_MASTERY_SEASON_END_TIMER": "Season ends",
+        "ID_MASTERY_CELEBRATIONS_GO_TO_MASTERY": "Go to Trials",
+        "ID_MASTERY_MILESTONE_REWARD_2": "Reward II",
+        "ID_MASTERY_MILESTONE_REWARD_3": "Reward III",
+        "ID_MASTERY_CALCULATING_RANK": "Calculating Rank",
+        "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER": "Top {0} players",
+        "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER_ALT": "Top players",
+        "ID_MASTERY_REWARD_TOOLTIP": "You will be rewarded from a random pool of materials, gameplay items and blueprints with the following rarity distribution:",
+        "ID_MASTERY_TOP_N_RANK_FORMAT": "Top {0}",
+        "ID_MASTERY_REWARD_RANK_REQUIRED": "{0} required",
+        "ID_MASTERY_REWARD_RANK_REWARDED": "Rewarded from {0}",
+        "ID_MASTERY_PERCENTILE_TITLE": "Top {0}% of players",
+        "ID_MASTERY_RANKS_SUBTITLE_ALT_2": "Compete in weekly Trials and climb the leaderboards to earn exclusive rank-based rewards at the end of each season.",
+        "ID_MASTERY_RANK_NO_RANK": "No rank",
+        "ID_MASTERY_ABOUT_OVERLAY": "About Trials",
+        "ID_MASTERY_REWARD_TOOLTIP_EXPLAINER": "You will receive one {0} item from a random pool.",
+        "ID_MASTERY_REWARD_TOOLTIP_CLAIMED": "You have already received your {0} item for this milestone for this week.",
+        "ID_MASTERY_LEADERBOARDS_3X_PROMOTION": "3X Promotion",
+        "ID_MASTERY_LEADERBOARDS_3X_PROMOTION_UPFOR": "Up for 3X Promotion",
+        "ID_MASTERY_END_OF_SEASON_COOL_DOWN": "Season is about to end",
+        "ID_MASTERY_END_OF_SEASON_TITLE": "End of Season",
+        "ID_MASTERY_END_OF_SEASON_RANK_SUBTITLE": "This is your final rank for this season.",
+        "ID_MASTERY_BETWEEN_SEASON_RANK_SUBTITLE": "Your final rank this season",
+        "ID_MASTERY_BETWEEN_SEASON_REWARD_SUBTITLE": "You unlocked {0}/{1} rewards",
+        "ID_MASTERY_NEW_SEASON_TITLE": "New Season",
+        "ID_MASTERY_NEW_SEASON_SUBTITLE": "This is your new, adjusted rank for the season.",
+        "ID_MASTERY_ABOUT_TRIALS_TITLE": "Trials",
+        "ID_MASTERY_ABOUT_OBJECTIVES_TITLE": "Trials Objectives and Milestones",
+        "ID_MASTERY_ABOUT_LEADERBOARDS_TITLE": "Trials Leaderboards",
+        "ID_MASTERY_ABOUT_SEASONS_TITLE": "Trials Seasons",
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_1": "If you have no Trials score at the end of the week, you will automatically be demoted.",
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_4": "Once a new Trials season begins, you will start a few ranks lower than where you finished in the previous season, depending on your final rank.",
+        "ID_MASTERY_ABOUT_TRIALS_DESCRIPTION_1": "Achieve personal bests in weekly Trials objectives to earn rewards such as weapons, rare materials, and blueprints.",
+        "ID_MASTERY_ABOUT_TRIALS_DESCRIPTION_2": "Compete in weekly Trials and climb the leaderboards to earn exclusive rank-based rewards at the end of each season.",
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_1": "Each week introduces five new objectives. Earn score by achieving personal bests and returning home safely.",
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_2": "Every objective offers three possible rewards, granted the first time you surpass milestone thresholds.",
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_3": "Objective scores have no point limit.",
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_4": "Completing objectives under Major Map Conditions grants bonus score.",
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_1": "Each week, you are placed in a leaderboard group with other Raiders of the same rank, competing for the highest total Trials Objective score.",
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_2": "Trials scores reset at the end of the week, and you are placed in a new group when scoring on the next set of objectives.",
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_3": "Depending on your leaderboard placement, you may be promoted or demoted to a new rank.",
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_2": "If you participate in Trials during the Trials season, you will receive rewards at the end based on your final rank.",
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_3": "The top players from the Hotshot and Cantina Legend ranks are placed in the Cantina Legend rank at the start of each new week.",
+        "ID_MASTERY_BETWEEN_SEASON_DID_NOT_PARTICIPATE": "You did not participate in this season",
+        "ID_MASTERY_STREAK_POINTS": "Streak Points",
+        "ID_MASTERY_STREAK_ENABLE": "Enable Streak",
+        "ID_MASTERY_STREAK_DISABLE": "Disable Streak",
+        "ID_MASTERY_STREAK": "Streak",
+        "ID_MASTERY_STREAK_INACTIVE": "Inactive",
+        "ID_MASTERY_STREAK_NOT_PURCHASED": "Not Purchased",
+        "ID_MASTERY_STREAK_REDEEM": "Redeem",
+        "ID_MASTERY_STREAK_PURCHASE": "Purchase",
+        "ID_MASTERY_STREAK_ALT": "Streaks",
+        "ID_MASTERY_STREAK_LOST": "Lost",
+        "ID_MASTERY_STREAKS_ACTIVE_INFO": "Streaks Active"
+      },
+      "KeysToMetaData": {
+        "ID_MASTERY_RANK_1": {
+          "Note": "Level 1"
+        },
+        "ID_MASTERY_RANK_2": {
+          "Note": "Level 2"
+        },
+        "ID_MASTERY_RANK_3": {
+          "Note": "Level 3"
+        },
+        "ID_MASTERY_RANK_4": {
+          "Note": "Level 4"
+        },
+        "ID_MASTERY_RANK_5": {
+          "Note": "Level 5"
+        },
+        "ID_MASTERY_RANK_6": {
+          "Note": "Level 6"
+        },
+        "ID_MASTERY_NONE_ACTIVE": {
+          "Note": "Error messages for when certain Trials screens are inactive"
+        },
+        "ID_MASTERY_NONE_AVAILABLE": {
+          "Note": "Error messages for when certain Trials screens are inactive"
+        },
+        "ID_MASTERY_NO_PROGRESS": {
+          "Note": "Error messages for when certain Trials screens are inactive"
+        },
+        "ID_MASTERY_MILESTONE": {
+          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. To be used in eg notification in-game, EoR"
+        },
+        "ID_MASTERY_STAGE": {
+          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. Alternative. To be used in eg notification in-game, EoR"
+        },
+        "ID_MASTERY_REFRESH_TIMER": {
+          "Note": "Message for timer for objective or season refresh"
+        },
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UP": {
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+        },
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_DOWN": {
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+        },
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UNCHANGED": {
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+        },
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_PLACEMENT": {
+          "Note": "Message for placement for the seasonal celebration"
+        },
+        "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN": {
+          "Note": "Message for cooldown inbetween new objectives"
+        },
+        "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN_ALT2": {
+          "Note": "Message for cooldown inbetween new objectives"
+        },
+        "ID_MASTERY_LEADERBOARDS_MESSAGE_NOFRIENDS": {
+          "Note": "Message shown on leaderboard in case you dont have any friends"
+        },
+        "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION": {
+          "Note": "Tooltip when hovering milestone rewards on an objective you haven't reached"
+        },
+        "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION_REWARDED": {
+          "Note": "Tooltip when hovering milestone rewards on an objective that you have been rewarded"
+        },
+        "ID_MASTERY_CELEBRATIONS_RANK_DESCRIPTION_PLACEMENT": {
+          "Note": "Message with added context shown on the rank change celebration"
+        },
+        "ID_MASTERY_CELEBRATIONS_RANK_DOWN_DESCRIPTION": {
+          "Note": "Message about being demoted at end of the period"
+        },
+        "ID_MASTERY_CELEBRATIONS_RANK_DOWN_INACTIVITY_DESCRIPTION": {
+          "Note": "Message for demotion inactivity during Trials"
+        },
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_RANK": {
+          "Note": "Body text written out when the season has ended and what your final rank was."
+        },
+        "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_REWARDS": {
+          "Note": "Body text written out on celebration when final rewards are revealed"
+        },
+        "ID_MASTERY_TIMER_LABEL_NEXT_SEASON_START": {
+          "Note": "Text above timer to show when the next season starts"
+        },
+        "ID_MASTERY_TIMER_WEEKS": {
+          "Note": "Timer string"
+        },
+        "ID_MASTERY_TIMER_MONTHS": {
+          "Note": "Timer string"
+        },
+        "ID_MASTERY_TIMER_DAYS": {
+          "Note": "Timer string"
+        },
+        "ID_MASTERY_TIMER_HOURS": {
+          "Note": "Timer string"
+        },
+        "ID_MASTERY_TIMER_MINUTES": {
+          "Note": "Timer string"
+        },
+        "ID_MASTERY_TAB_OBJECTIVES": {
+          "Note": "Tab in \"Trials\""
+        },
+        "ID_MASTERY_CALCULATING_RANK": {
+          "Note": "Used in between update windows of weekly raids when we dont know"
+        },
+        "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER": {
+          "Note": "Sub header for highest ranks"
+        },
+        "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER_ALT": {
+          "Note": "Sub header for highest ranks"
+        },
+        "ID_MASTERY_REWARD_TOOLTIP": {
+          "Note": "Mastery reward crate tooltip"
+        },
+        "ID_MASTERY_PERCENTILE_TITLE": {
+          "Note": "Rank rating"
+        },
+        "ID_MASTERY_RANKS_SUBTITLE_ALT_2": {
+          "Note": "Rank screen description"
+        },
+        "ID_MASTERY_RANK_NO_RANK": {
+          "Note": "When the user has no rank "
+        },
+        "ID_MASTERY_ABOUT_OVERLAY": {
+          "Note": "Info box"
+        },
+        "ID_MASTERY_REWARD_TOOLTIP_EXPLAINER": {
+          "Note": "Reward tooltip"
+        },
+        "ID_MASTERY_REWARD_TOOLTIP_CLAIMED": {
+          "Note": "Reward tooltip when you ahve reviced something"
+        },
+        "ID_MASTERY_LEADERBOARDS_3X_PROMOTION": {
+          "Note": "Promotion title 3x "
+        },
+        "ID_MASTERY_LEADERBOARDS_3X_PROMOTION_UPFOR": {
+          "Note": "\"Player card\" promotion"
+        },
+        "ID_MASTERY_END_OF_SEASON_COOL_DOWN": {
+          "Note": "Cooldown text for objectives "
+        },
+        "ID_MASTERY_END_OF_SEASON_TITLE": {
+          "Note": "EoS title"
+        },
+        "ID_MASTERY_END_OF_SEASON_RANK_SUBTITLE": {
+          "Note": "Subtitle in EoS"
+        },
+        "ID_MASTERY_BETWEEN_SEASON_RANK_SUBTITLE": {
+          "Note": "Subtitle for Between seasons"
+        },
+        "ID_MASTERY_BETWEEN_SEASON_REWARD_SUBTITLE": {
+          "Note": "Between seasons reward text"
+        },
+        "ID_MASTERY_NEW_SEASON_TITLE": {
+          "Note": "New season title"
+        },
+        "ID_MASTERY_NEW_SEASON_SUBTITLE": {
+          "Note": "New season, new rank"
+        },
+        "ID_MASTERY_ABOUT_TRIALS_TITLE": {
+          "Note": "Title for Trials in About section"
+        },
+        "ID_MASTERY_ABOUT_OBJECTIVES_TITLE": {
+          "Note": "Title for Objectives and Milestones in About section"
+        },
+        "ID_MASTERY_ABOUT_LEADERBOARDS_TITLE": {
+          "Note": "Title for Leaderboards in About section"
+        },
+        "ID_MASTERY_ABOUT_SEASONS_TITLE": {
+          "Note": "Title for Seasons in About section"
+        },
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_4": {
+          "Note": "Description of ranks when new seasons start"
+        }
+      }
+    }
+  }
+]

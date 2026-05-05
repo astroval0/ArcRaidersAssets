@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Deployables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Deployables",
+    "StringTable": {
+      "TableNamespace": "ST_ITEMNAMES_DEPLOYABLES",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_DEPLOYABLES_BARRICADE_KIT": "Barricade Kit",
+        "ID_ITEMNAMES_DEPLOYABLES_DOORBLOCKER": "Door Blocker",
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_DOTGRENADE": "Blaze Grenade Trap",
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_SMOKEGRENADE": "Smoke Grenade Trap",
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_STAMINADOT": "Gas Grenade Trap",
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_THROWABLEDECOY": "Lure Grenade Trap",
+        "ID_ITEMNAMES_DEPLOYABLES_TIMEDMINE_EXPLOSIVE": "Deadline",
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_IMPULSE": "Pulse Mine",
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_STAMINADOT": "Gas Mine",
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_EXPLOSIVE": "Jump Mine",
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_STUN": "Jolt Mine",
+        "ID_ITEMNAMES_DEPLOYABLES_SOUNDTRAP": "Noisemaker",
+        "ID_ITEMNAMES_DEPLOYABLES_LAUNCHPAD": "Launch Pad",
+        "ID_ITEMNAMES_DEPLOYABLES_REMOTETRAP_FIREWORKBOX": "Fireworks Box",
+        "ID_ITEMNAMES_DEPLOYABLES_EMITTERTRAP_TESLACOIL": "Surge Coil",
+        "ID_ITEMNAMES_DEPLOYABLES_WHITEFLAG": "White Flag",
+        "ID_ITEMNAMES_DEPLOYABLES_RAIDERONASTICK": "Decoy Helmet"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

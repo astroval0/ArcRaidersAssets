@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_CodexRecords",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_CodexRecords",
+    "StringTable": {
+      "TableNamespace": "ST_CodexRecords",
+      "KeysToEntries": {
+        "ID_CODEX_RECORDS_CATEGORY_QUESTS": "Quests",
+        "ID_CODEX_RECORDS_CATEGORY_VIDEOS": "Videos",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_INTOTHEFRAY": "Into the Fray",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_FINDERSKEEPERS": "Finders Keepers",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_DORMANTBARONS": "Dormant Barons",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_COMMUNICATIONHIDEOUT": "Communication Hideout",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ABADFEELING": "A Bad Feeling",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ECHOESOFVICTORYRIDGE": "Echoes of Victory Ridge",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ROOTOFTHEMATTER": "The Root of the Matter",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SYMBOLOFUNIFICATION": "A Symbol of Unification",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_GROUNDBREAKING": "Groundbreaking",
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SWITCHINGTHESUPPLY": "Switching the Supply"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

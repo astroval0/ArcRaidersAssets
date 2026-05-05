@@ -1,0 +1,81 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_RichPresence",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_RichPresence",
+    "StringTable": {
+      "TableNamespace": "ST_RichPresence",
+      "KeysToEntries": {
+        "ID_RICH_PRESENCE_IN_GAME": "In Round",
+        "ID_RICH_PRESENCE_IN_GAME_ALT_1": "In Game",
+        "ID_RICH_PRESENCE_IN_GAME_ALT_2": "Topside",
+        "ID_RICH_PRESENCE_IN_GAME_ALT_3": "Surface",
+        "ID_RICH_PRESENCE_PARTY_SIZE_1": "Solo",
+        "ID_RICH_PRESENCE_PARTY_SIZE_1_PLURAL": "Solos",
+        "ID_RICH_PRESENCE_PARTY_SIZE_2": "Duo",
+        "ID_RICH_PRESENCE_PARTY_SIZE_2_PLURAL": "Duos",
+        "ID_RICH_PRESENCE_PARTY_SIZE_3": "Trio",
+        "ID_RICH_PRESENCE_PARTY_SIZE_3_PLURAL": "Trios",
+        "ID_RICH_PRESENCE_PARTY": "In a Party",
+        "ID_RICH_PRESENCE_IN_MENU": "In Speranza",
+        "ID_RICH_PRESENCE_IN_MENU_ALT_1": "In Menus",
+        "ID_RICH_PRESENCE_IN_MENU_ALT_2": "In Menu",
+        "ID_RICH_PRESENCE_IN_PARTY_IDLE": "Idle",
+        "ID_RICH_PRESENCE_IN_PARTY_READY": "Ready",
+        "ID_RICH_PRESENCE_IN_PARTY_NOT_READY": "Not Ready",
+        "ID_RICH_PRESENCE_IN_PARTY_SETTINGS": "Adjusting Settings",
+        "ID_RICH_PRESENCE_IN_PARTY_SETTINGS_ALT_1": "In: Settings",
+        "ID_RICH_PRESENCE_IN_PARTY_WORKSHOP": "Crafting",
+        "ID_RICH_PRESENCE_IN_PARTY_WORKSHOP_ALT_1": "In: Workshop",
+        "ID_RICH_PRESENCE_IN_PARTY_INVENTORY": "Managing Inventory",
+        "ID_RICH_PRESENCE_IN_PARTY_INVENTORY_ALT_1": "In: Inventory",
+        "ID_RICH_PRESENCE_IN_PARTY_LOADOUT": "Preparing Loadout",
+        "ID_RICH_PRESENCE_IN_PARTY_LOADOUT_ALT_1": "In: Loadout",
+        "ID_RICH_PRESENCE_IN_PARTY_TRADERS": "Trading",
+        "ID_RICH_PRESENCE_IN_PARTY_QUESTS": "In: Quests",
+        "ID_RICH_PRESENCE_IN_PARTY_STORE": "Browsing Store",
+        "ID_RICH_PRESENCE_IN_PARTY_STORE_ALT_1": "In: Store",
+        "ID_RICH_PRESENCE_IN_PARTY_SKILLTREE": "In: Skill Tree",
+        "ID_RICH_PRESENCE_IN_PARTY_CODEX": "Reading Codex",
+        "ID_RICH_PRESENCE_IN_PARTY_CODEX_ALT_1": "In: Codex",
+        "ID_RICH_PRESENCE_IN_PARTY_MASTERY": "Viewing Trials",
+        "ID_RICH_PRESENCE_IN_PARTY_MASTERY_ALT_1": "In: Trials",
+        "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN": "Customizing Character",
+        "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN_ALT_1": "In: Raider Den",
+        "ID_RICH_PRESENCE_IN_PARTY_MAP": "Selecting Map",
+        "ID_RICH_PRESENCE_IN_PARTY_MAP_ALT_1": "In: Map Selection",
+        "ID_RICH_PRESENCE_IN_PARTY_FALLBACK": "Navigating Menus",
+        "ID_RICH_PRESENCE_QUEUE": "Queueing",
+        "ID_RICH_PRESENCE_IN_GAME_TIMER": "({0})",
+        "ID_RICH_PRESENCE_PARTY_COUNT": "{0} / {1}",
+        "ID_RICH_PRESENCE_READY": "Ready",
+        "ID_RICH_PRESENCE_ELSEWHERE": "Online Elsewhere",
+        "ID_RICH_PRESENCE_INVISIBLE": "Hidden",
+        "ID_RICH_PRESENCE_EOR_WON": "Returning to Speranza",
+        "ID_RICH_PRESENCE_EOR_FAILED": "Failed Return",
+        "ID_RICH_PRESENCE_EOR": "End of Round",
+        "ID_RICH_PRESENCE_FAILED": "Failed Return",
+        "ID_RICH_PRESENCE_WON": "Returning to Speranza"
+      },
+      "KeysToMetaData": {
+        "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN": {
+          "Note": "Used for Raider Den and Character Apperance"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN_ALT_1": {
+          "Note": "Used for Raider Den and Character Apperance"
+        },
+        "ID_RICH_PRESENCE_EOR": {
+          "Note": "Describes screen the player is on, it is shown below name"
+        },
+        "ID_RICH_PRESENCE_FAILED": {
+          "Note": "Describes if player failed to extract/survive in the End of Round."
+        },
+        "ID_RICH_PRESENCE_WON": {
+          "Note": "Describes if player succeded to extract/survive in the End of Round."
+        }
+      }
+    }
+  }
+]

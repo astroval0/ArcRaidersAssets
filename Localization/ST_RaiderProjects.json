@@ -1,0 +1,1133 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_RaiderProjects",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_RaiderProjects",
+    "StringTable": {
+      "TableNamespace": "ST_RaiderProjects",
+      "KeysToEntries": {
+        "ID_RAIDER_PROJECTS_TITLE": "Projects",
+        "ID_RAIDER_PROJECTS_USED_GOAL": "Used/Goal",
+        "ID_RAIDER_PROJECTS_SELECT_RESOURCES": "Commit Resource",
+        "ID_RAIDER_PROJECTS_TRACK_RESOURCE": "Track",
+        "ID_RAIDER_PROJECTS_SELECT_ITEMS": "Select Items",
+        "ID_RAIDER_PROJECTS_NEXT_STEP": "Next Step ({0})",
+        "ID_RAIDER_PROJECTS_USE_RESOURCE": "Commit {0}",
+        "ID_RAIDER_PROJECTS_STEP_NAME": "{0} ({1}/{2})",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_1": "Unlocked Maps",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_2": "Unlocked Workshop Stations",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_3": "Codex Entries",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_4": "Raider Tokens",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_5": "Cred",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_6": "Feats",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_7": "Raider Decks Progress",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_8": "Active Leaderboards",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_9": "Raider Tokens Rewarded On Level-Up",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_10": "Settings",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_TITLE": "Expedition",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_DESCRIPTION_OPEN": "The Expedition departure window is now open.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_DESCRIPTION_CLOSE": "The Expedition departure window is now closed.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DESCRIPTION_CLOSED": "You missed the departure window for this Expedition. Fortunately, all the progress you’ve made in building your caravan will carry over to the next Expedition. If you have any remaining work to do on your caravan, you can pick up right where you left off. If it’s finished in time for the next departure window, you’ll be able to send your Raider on the Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_TITLE": "Expedition",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SUBTITLE": "Construct a caravan to send your Raider off on an Expedition beyond the Rust Belt.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DESCRIPTION": "Expeditions are perilous. Your Raider will carry all their possessions into the unknown beyond the Rust Belt. In return, your next Raider gains a unique edge that lasts until the next Expedition departs.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_BUTTON": "About",
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_EXPEDITIONS_BUTTON": "About Expeditions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITIONS_LOCKED_BUTTON": "Unlocks at level {0}",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITIONS_OPEN_PROJECT_BUTTON": "Go to project",
+        "ID_RAIDER_PROJECTS_DEPRATURE_WINDOW_OPEN": "Window opens in {0}d:{1}h:{2}mn",
+        "ID_RAIDER_PROJECTS_DEPRATURE_WINDOW_CLOSE": "Window closes in {0}d:{1}h:{2}mn",
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_TITLE": "Active buffs",
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_REPAIR": "{0}% Repair",
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_SCRAPPY": "{0}% Scrappy Basic Haul",
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_XP": "{0}% XP Boost",
+        "ID_RAIDER_PROJECTS_EXPLANATION_OVERVIEW_TITLE": "Overview",
+        "ID_RAIDER_PROJECTS_EXPLANATION_OVERVIEW_DESCRIPTION": "Undertaking an Expedition means your Raider leaves the Rust Belt for good. Preparing your caravan takes time and resources, and once it departs, much of your progress will be reset. Some rewards and advantages carry over to your next Raider, lasting until the next Expedition begins. These advantages can be increased by continuing to send Raiders on future Expeditions.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_RANKS_TITLE": "Rewards & Buffs",
+        "ID_RAIDER_PROJECTS_EXPLANATION_RANKS_DESCRIPTION": "Completing an Expedition gives your new Raider lasting advantages until the next Expedition departs. These include increased XP gain, extra Scrappy materials, increased weapon repairs, and more stash space. You can also earn bonus skill points based on the value of the items in your stash upon departure.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_CALENDAR_TITLE": "Expedition Calendar",
+        "ID_RAIDER_PROJECTS_EXPLANATION_CALENDAR_DESCRIPTION": "Expeditions run on a set schedule, with each preparation stage unlocking after the previous one is complete. You’ll have 60 days to gather resources and complete your caravan build. Once construction is finished and the departure sign-up window opens, you can sign your Raider up for departure and view the rewards that will carry over to your next Raider.\r\nMissing an Expedition departure window means losing its buffs until the next cycle, so plan your contributions and availability ahead of time.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_STEPS_TITLE": "Steps",
+        "ID_RAIDER_PROJECTS_EXPLANATION_STEPS_DESCRIPTION": "Preparing for an Expedition happens in five stages, each requiring specific resources or items. You will construct a caravan, stock it with supplies, and then leave everything behind to depart. First, you will lay the foundation, install the core systems, construct the framework, and outfit the caravan for travel. Lastly, you will load it with as many supplies as it can carry.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_TITLE": "Details",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_DESCRIPTION": "When your Raider departs on an Expedition, some things are reset and others are kept for your next Raider.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_TITLE": "This Will Be Reset",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_1": "Stash Upgrade Progress",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_2": "Inventory Items",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_3": "Blueprints",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_4": "Coins",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_5": "Seeds",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_6": "Player Level",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_7": "Skill Points",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_8": "Raider Den",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_9": "Workshop",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_10": "Quests",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_11": "Active Trackings",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_TITLE": "This Will Be Kept",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_11": "Match-Making Logic",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_12": "Trials",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_13": "Cosmetics",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_14": "Quest Outfits",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_15": "Skip UI Tutorials",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_16": "Personal Event Progress",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_17": "Bonus Skill Points Earned From Expeditions",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_18": "Bonus Stash Slots Earned From Expeditions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_BUTTON": "Skip Tutorial Level",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CLOSE_BUTTON": "Close",
+        "ID_RAIDER_PROJECTS_EXPEDITION_NEXT_BUTTON": "Next",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_1_TITLE": "Foundation",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_1_DESCRIPTION": "Building the base structure and frame of the caravan.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_2_TITLE": "Core Systems",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_2_DESCRIPTION": "Connecting wiring, ventilation, and essential power systems.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_3_TITLE": "Framework",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_3_DESCRIPTION": "Building walls and roof, installing core systems, and defining the interior layout.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_4_TITLE": "Outfitting",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_4_DESCRIPTION": "Adding storage, workbenches, utilities, and personal touches.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_PRIMARY_BUTTON": "Commit Resource",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_SECONDARY_BUTTON": "Track",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_STASH_AMOUNT": "{0} in your stash",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_COMPLETE": "Completed",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_USE_TITLE": "Commit {0}",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_USE_DESCRIPTION": "Once committed to your project, resources cannot be retrieved",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TITLE": "Loading",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_DESCRIPTION_1": "Loading the caravan with vital supplies.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_DESCRIPTION_2": "Combat gear, survival equipment, provisions, and repair materials are needed to fully prepare for the Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1": "Combat",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2": "Survival",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3": "Provisions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_4": "Repair Materials",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_SELECT_BUTTON": "Select items",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_STASH_AMOUNT": "Corresponding items in your stash",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_SELECT_ALL_BUTTON": "Select all",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_LOAD_BUTTON": "Load the caravan",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_LOAD_TITLE": "Load {0} items",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_WAITING_TITLE": "Departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_WAITING_DESCRIPTION": "Your caravan is stocked with all necessities and ready to depart on the Expedition. Once the departure window opens, you can sign up your Raider for departure, sending them beyond the borders of the Rust Belt for good.\r\nWhen the Expedition departs, all items remaining in your Raider’s stash will be contributed to it, and your next Raider can earn up to five skill points based on the total value of those items.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_TITLE": "Departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_INVENTORY_VALUE": "Inventory Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_TOTAL_VALUE": "Total Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_BONUS_SKILLS": "Bonus Skill Points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_STASH_COINS": "Stash Slots",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_RAIDER_COINS": "Raider Coins",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_DESCRIPTION": "Your caravan is fully stocked, and your Raider is signed up to depart with the Expedition.\r\nWhen the Expedition departs, all items remaining in your Raider’s stash will be contributed to it, and your next Raider can earn up to five skill points based on the total value of those items.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_DPART_BUTTON": "Depart",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_CONFIRMATION_DESCRIPTION": "If you choose to sign up, your Raider will depart Speranza with the Expedition and your progress will be reset. When they return, it will be as a new Raider, carrying the rewards of a completed Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_CONFIRMATION_WARNING": "This cannot be undone.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_DESCRIPTION": "Do you want to skip the tutorial level?",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_SECONDARY_BUTTON": "Play tutorial",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_PRIMARY_BUTTON": "Skip tutorial",
+        "ID_RAIDER_PROJECTS_EXPEDITION_ACTIVE_BUFFS": "Active buffs (Expedition)",
+        "ID_RAIDER_PROJECTS_WINDOW_CLOSES_IN": "Window closes in",
+        "ID_RAIDER_PROJECTS_WINDOW_OPENS_IN": "Window opens in",
+        "ID_RAIDER_PROJECTS_WINDOW_TIME_FORMAT": "{0}d:{1}h:{2}mn",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_WEAPONS": "Weapons",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_MODS": "Weapon Mods",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_AMMO": "Ammo",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_MINES": "Mines",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_GRENADES": "Grenades",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_SHIELDS": "Shields",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_AUGS": "Augments",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_TOOLS": "Tools",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_GADGETS": "Gadgets",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_HEALING": "Healing",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_NATURE": "Nature Items",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_KEYS": "Keys",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_TRINKETS": "Trinkets",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_RECIPES": "Blueprints",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_MISC": "Miscellaneous",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_INTRO_1": "Since arriving in Speranza, your Raider has left an undeniable mark.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_INTRO_2": "Their adventures will be the subject of bold tales for a long time to come.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_LEVEL": "Level reached:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_QUESTSCOMPLETED": "Quests completed:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_TIMETOPSIDE": "Total time spent topside:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_LEAPERSDESTROYED": "Leapers destroyed:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_ROCKETEERSDESTROYED": "Rocketeers destroyed:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_DAMAGETOQUEENS": "Damage dealt to Queens:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_DAMAGEFROMLEAPERS": "Damage received from Leapers:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_DAMAGEFROMROCKETEERS": "Damage received from Rocketeers:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_DAMAGEFROMQUEENS": "Damage received from Queens:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_HEALEDBYSTRANGER": "Times healed by a stranger:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_HEALEDBYSQUADMATE": "Times healed by a squadmate:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTVALUEGAINED": "Most value gained in a single round:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTVALUELOST": "Most value lost in a single round:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_BLUEPRINTSLEARNED": "Blueprints learned:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_TIMEPLAYEDRECORDER": "Time spent playing the recorder:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_TIMEDANCING": "Time spent dancing:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_RETURNSWHILEDOWNED": "Safe returns while downed:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_SCRAPPYMATERIALS": "Materials gathered by Scrappy:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTDOWNEDBY": "Most downed by:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTUSEDWEAPON": "Most used weapon:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTDOWNEDBY_ALT1": "Your ARC nemesis was:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_MOSTUSEDWEAPON_ALT1": "Your trusty sidearm was:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTUREVIDEO_STATS_DISTANCETRAVELED": "Distance traveled",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_4_MATERIALS": "Crafting Materials",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_NOTSIGNEDUP_DESCRIPTION": "Your caravan is stocked with all necessities and ready to depart on the Expedition. You can now sign up your Raider for departure, sending them beyond the borders of the Rust Belt for good.\r\nWhen the Expedition departs, all items remaining in your Raider’s stash will be contributed to it, and your next Raider can earn up to five skill points based on the total value of those items.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_HEADER": "The Expedition left without you",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DESCRIPTION": "You missed the window to sign up for departure. You have a chance to leave now, your Raider will depart immediately and your progress will be reset. Any bonuses you have not fulfilled requirements for, will be available to catch up with the upcoming Expeditions.\r\n\r\nIf you rather stay behind you will lose any temporary buffs. Your caravan’s progress will be saved, so you can depart with the next Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LOADOUT_WARNING": "Losing these items may impact the value of your Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED": "Signed up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_NOT_SIGNED": "Not signed up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_CANT_SIGN": "You are not ready to sign up for departure. Your caravan still needs work.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_WINDOW_OPEN": "The window to sign up for departure is open!",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_WINDOW_POPUP": "The sign-up window for the Expedition has opened! If your caravan is fully built, you can now register your Raider for departure.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_WINDOW_POPUP_BUTTON_GOTO": "Go to my Expedition",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_WINDOW_POPUP_BUTTON_DISMISS": "Dismiss",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_WINDOW_CLOSED": "The window to sign up for departure opens on {0}.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_BUTTON": "Sign Up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SIGNUP_HEADER": "Sign Up For Departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_WALLET_VALUE": "Wallet Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_SKILL_POINTS_VALUE": "Skill Points Earned",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART": "Stay In Speranza",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART_ALT": "Stay Here",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DEPART": "Depart",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DEPART_ALT": "Depart (Hold)",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_HEADER": "The Storm",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_HEADER_ALT": "Skip The Storm",
+        "ID_RAIDER_PROJECTS_EXPEDITION_COMPLETE_HEADER": "Expedition Completed",
+        "ID_RAIDER_PROJECTS_EXPEDITION_COMPLETE_SUBTITLE": "Well done!",
+        "ID_RAIDER_PROJECTS_EXPEDITION_COMPLETE_DESCRIPTION": "You have successfully completed your Expedition Project and sent your Raider into the unknown. Your new Raider will enjoy a long-term buff to XP gain and stash space, benefit from increased repair efficiency, and receive extra materials from Scrappy. This buff will last until the next Expedition departs, but it can be kept and improved if you choose to send your new Raider on that Expedition as well.",
+        "ID_RAIDER_PROJECTS_WINTER_HINT_ABOUT": "About",
+        "ID_RAIDER_PROJECTS_WINTER_TITLE": "Flickering Flames",
+        "ID_RAIDER_PROJECTS_WINTER_DESCRIPTION": "A festival of resilient warmth, centered around the hardy candleberry bush.",
+        "ID_RAIDER_PROJECTS_WINTER_TAB_PROJECT": "Project",
+        "ID_RAIDER_PROJECTS_WINTER_TAB_EVENT": "Event",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_1_TITLE": "Candlelight",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_1_DESCRIPTION": "The namesake use for the candleberry, Speranzans boil the fruit into a thick wax that burns cleanly and fragrantly.",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_2_TITLE": "Decorations",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_2_DESCRIPTION": "Many Speranzans have become surprisingly adept at the art of bringing beauty and greenery into the home.",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_3_TITLE": "Presents",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_3_DESCRIPTION": "Crafty Speranzans have turned the candleberries into a wealth of gifts. These include perfumes and soaps, as well as gifts unrelated to the recipient's odors.",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_4_TITLE": "Beverages",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_4_DESCRIPTION": "Candleberries can be crushed into refreshing juices, while the leaves and roots make for a tea that can drive out the toughest of colds.",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_5_TITLE": "Meals",
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_5_DESCRIPTION": "Though candleberry leaves are bitter, simmering them in stew and soups adds a touch of earthiness that nostalgic Speranzans have grown to love.",
+        "ID_RAIDER_PROJECTS_WINTER_REWARD_SUBHEADER": "Reward",
+        "ID_RAIDER_PROJECTS_WINTER_REWARD_SUBHEADER_ALT": "Rewards",
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_HEADER": "Banquet completed",
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_DESCRIPTION": "The preparations for your banquet are now complete! It’s time to kick back, make a toast, and quietly bask in the envious glances of uninvited passers-by.",
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_BUTTON_CLAIMREWARD": "Claim rewards",
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_BUTTON_GOTOPROJECT": "Go to Flickering Flames",
+        "ID_RAIDER_PROJECTS_WINTER_WIDGET_HEADER_PROGRESS": "Progress",
+        "ID_RAIDER_PROJECTS_WINTER_UNLOCK_CONDITION": "Unlocks after {0} rounds played",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_OVERVIEW_TITLE": "Overview",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_OVERVIEW_DESCRIPTION": "Use ARC parts to build a display of your hunting trophies, in order to not-so-subtly shut down anyone who questions the bold tales of your topside adventures.",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_PROJECT_COMPLETED_TITLE": "Trophy Display Built",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_PROJECT_COMPLETED_DESCRIPTION": "Your trophy display is complete! All that remains is to loiter about while Speranzans gasp, gawk and linger at the indisputable evidence of your topside accomplishments.",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_REWARDS": "Rewards",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_MODAL_TITLE": "Trophy Display",
+        "ID_RAIDER_PROJECTS_TROPHYCASE_MODAL_BUTTON": "Go to Trophy Display",
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_HEADER": "About Expeditions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_DESCRIPTION": "Undertaking an Expedition means your Raider leaves the Rust Belt for good. Preparing your caravan takes time and resources, and when it departs, much of your progress resets. Some rewards carry over to your next Raider until the next Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_TOOLTIP": "Available until the next Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFS_HEADER": "Temporary Buffs",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_HEADER": "Permanent Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_OUTFIT": "Raider Outfit",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_SCRAPPY": "Scrappy Cosmetic",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_ICON": "Expedition Indicator Icon",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_STASH": "Extra Stash Space",
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_SKILL_POINTS": "Bonus Skill Points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GAIN_LOSE_HEADER": "Gains and Losses",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GAIN_LOSE_DESCRIPTION": "When you take part in the Expedition, everything tied to your Raider gets reset, such as your items, skills, workshop, Raider Den, and quests. You keep everything tied to your Embark account, such as your Raider Tokens, all Raider Deck progress, unlocked cosmetics, existing temporary buffs, and any permanent rewards earned from previous Expeditions. You will gain any additional temporary buffs this Expedition grants you.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEPS_HEADER": "Step By Step",
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEPS_DESCRIPTION": "Build a caravan to be able to depart on an Expedition. Once your caravan is completed, you can sign up as soon as the departure window opens.\r\n\r\nIf you miss the departure, you will lose any temporary buffs until the next Expedition. However, any permanent rewards from past Expeditions will be retained.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_TOOLTIP": "The departure window for the Expedition opens once the Trials Season ends.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_CATCHUP_HEADER": "Bonuses and Catching Up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_HEADER": "Earning a Bonus",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_DESCRIPTION": "You can earn bonus rewards during the remainder of the departure window. When you finally depart at the end of the window, all remaining items in your stash will be contributed to the Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_HEADER": "Playing Catch Up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_DESCRIPTION": "Missed earlier Expedition bonus rewards? You will have a chance to catch up during the departure window.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PROGRESS_KEPT_DESCRIPTION": "If you miss the departure, your caravan's building progress is carried over to the next Expedition. You'll be able to pick up where you left off.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_LONG": "What is Kept",
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_SHORT": "Kept",
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_LONG": "What is Reset",
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_SHORT": "Reset",
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_PERMANENT_UNLOCKS": "Permanent Unlocks",
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_RAIDER_PROGRESSION": "Raider Progression",
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_EMBARK_ACCOUNT": "Embark Account",
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_OTHER": "Other",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_PREVIOUS_EXPEDITION": "Previous Expedition",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_PREVIOUS_EXPEDITION_PLURAL": "Previous Expeditions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_SKILLPOINT_VALUE": "Value per Reward",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_START": "Start",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_NAVIGATE": "Navigate",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_HIDE_UI": "Hide UI",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_PREVIEW": "Preview",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_PROGRESS": "Progress",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_SIGNED_UP": "Signed up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_BACK_TO_PROJECTS": "Back to Projects",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_CLOSED": "Your caravan is stocked and ready. When the departure window opens, you can earn additional bonuses, and sign your Raider up to leave the Rust Belt for good. On departure, all remaining stash items are contributed.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_OPEN": "Your caravan is stocked and ready. With the departure window open, you can sign your Raider up to leave the Rust Belt for good. On departure, all remaining stash items are contributed, and your next Raider can earn up to five skill points based on their total value.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_CLOSED_SHORT": "Your caravan is stocked and ready. When the departure window opens, you can sign your Raider up to leave the Rust Belt for good.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_OPEN_SHORT": "Your caravan is stocked and ready. With the departure window open, you can sign your Raider up to leave the Rust Belt for good.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_HEADER": "You're all set",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_AVAILABLE": "Catch Up Available",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT": "You have skill points from a previous Expedition to catch up on!",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_PLURAL": "You have skill points from previous Expeditions to catch up on!",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_AVAILABLE": "Skill points available for catch-up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_TOTAL": "Total Skill points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CURRENT_EXPEDITION": "Current Expedition",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_EXPEDITIONS": "Catch up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_TIMER": "Departs in",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_SIGNED_UP": "You are signed up",
+        "ID_RAIDER_PROJECTS_WEATHERSTATION_COMPLETED_HEADER": "Weather Station Built",
+        "ID_RAIDER_PROJECTS_WEATHERSTATION_COMPLETED_DESCRIPTION": "Your weather station is now up and running, and collecting a veritable wealth of data. Though the meteorological results will take some time to collect, you do have an immediate source of particularly captivating small talk.",
+        "ID_RAIDER_PROJECTS_WEATHERSTATION_MODAL_BUTTON": "Go to Weather Station",
+        "ID_RAIDER_PROJECTS_WEATHERSTATION_MODAL_TITLE": "Weather Station",
+        "ID_RAIDER_PROJECTS_SATELLITE_MODAL_BUTTON": "Go to High-Gain Antenna",
+        "ID_RAIDER_PROJECTS_SATELLITE_MODAL_TITLE": "High-Gain Antenna",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE1_TITLE": "Project: High-Gain Antenna",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE1_DESCRIPTION": "With ARC’s operations growing ever more destructive, generous rewards are being offered for the construction of high-gain antennas, to be deployed around the Rust Belt. \r\n\r\nWhen placed in open areas, these parabolic dishes can form an array that picks up on distant signals within a narrow beamwidth. Shani believes these may help triangulate the origins of the troubling ARC signals that were recently reported.",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE2_TITLE_ALT1": "Rare Resources",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE2_TITLE": "ARC Operations: Dead Reckoning",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE2_DESCRIPTION": "The antennas require rare components that can not be crafted. However, ARC’s ongoing operations offer a rare opportunity to collect the parts required to build your antenna.",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE3_TITLE": "A Greater Purpose",
+        "ID_RAIDER_PROJECTS_SATELLITE_PAGE3_DESCRIPTION": "After sufficient antennas have been constructed and weather conditions are safe, they will be deployed across the Rust Belt in hopes of triangulating the source of recent ARC signals.",
+        "ID_RAIDER_PROJECTS_SATELLITE_COMPLETED_TITLE": "Antenna Built",
+        "ID_RAIDER_PROJECTS_SATELLITE_COMPLETED_DESCRIPTION": "Your high-gain antenna will be deployed around the Rust Belt once conditions are safe, and may help us triangulate the origins of the disturbing ARC signals.",
+        "ID_RAIDER_PROJECTS_BUFF_OVERVIEW_SCRAPPY": "{0}% Scrappy Basic Haul",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARDS_PLURAL": "You can catch up on bonuses from previous Expeditions.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_STASH_SLOTS": "Bonus Stash Slots",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT3": "Signed up for departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_NOT_SIGNED_ALT": "Not signed up for departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT": "Ready",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT2": "Ready to depart",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_HEADER_ALT2": "The Expedition departed",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_HEADER_ALT": "Last call for departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DEPART_ALT2": "Depart now",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART_ALT2": "Stay",
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART_ALT3": "Stay behind",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_CONFIRMATION_DESCRIPTION_ALT": "If you choose to sign up, your Raider will depart Speranza once the Expedition leaves, and return as a new one. This action cannot be undone.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARDS": "Secured rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARD_SINGULAR": "Secured reward",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARDS_ALT": "Secured",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARDS": "Pending rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARD_SINGULAR": "Pending reward",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARDS_ALT": "Pending",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_CATCHUP": "Pending catch-up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_SKILLPOINTS": "Secured Skill Points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_SKILLPOINT_SINGULAR": "Secured Skill Point",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_SKILLPOINTS": "Pending Skill Points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_SKILLPOINT_SINGULAR": "Pending Skill Point",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_SIGNUP": "Sign up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_NOTNOW": "Not now",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_TOTAL_OWNED_VALUE": "Total Owned Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_OWNED_VALUE": "Total Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_REQUIRED_VALUE": "Required Value",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_PER_REWARD": "Per Reward",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_CATCHUP": "Available Catch-up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_CATCHUP_REWARDS": "Catch up Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_REWARDS": "Available Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_SKILLPOINTS": "Available Skill Points",
+        "ID_RAIDER_PROJECTS_EXPEDITION_SUBHEADER_UPCOMING_EXPEDITIONS": "Upcoming Expeditions",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_FUTURE_EXPEDITIONS": "You will be able to catch up on any missed bonus rewards in future Expeditions.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_NEXT_EXPEDITION": "You will be able to catch up on any missed bonus rewards in your next Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_UPCOMING": "You will have the opportunity to catch up on any missed bonus rewards in your upcoming Expedition.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_UPCOMING_PLURAL": "You will have the opportunity to catch up on any missed bonus rewards in your upcoming Expeditions.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_PREVIOUS": "You have the opportunity to catch up on missed bonus rewards from your previous Expeditions.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_SIGNUP": "You've earned all the rewards available for this Expedition. Make sure you sign up to avoid missing the departure.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED": "You've earned all the rewards available for this Expedition. Make sure you're signed up to avoid missing the departure.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_SIGNEDUP": "You've earned all the rewards available for this Expedition, and are signed up to depart. When the window closes, your Raider will depart and leave Speranza, and a new arrival will take their place.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP_SIGNUP": "You've earned all the rewards available for this Expedition. Any pending catch up rewards will be set by the time of departure. Make sure you sign up to avoid missing the departure.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP": "You've earned all the rewards available for this Expedition. Any pending catch up rewards will be set by the time of departure. Make sure you're signed up to avoid missing the departure.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP_SIGNEDUP": "You've earned all the rewards available for this Expedition, and are signed up to depart. Any pending catch up rewards will be set by the time of deparure. When the window closes, your Raider will depart and leave Speranza, and a new arrival will take their place.",
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_LOST_TITLE": "This Will Be Lost",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LOST_SHORT": "Lost",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CARAVAN_BUIDING_PROGRESS": "Caravan Building Progress",
+        "ID_RAIDER_PROJECTS_EXPEDITION_CARAVAN_PROGRESS": "Caravan Progress",
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITION_REWARDS": "Expedition Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARD_AVAILABLE": "Rewards available for catch-up",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARDS": "Catch-up Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARD_TOTAL": "Total Rewards",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES_TEXTAFTER": "until window closes",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES_TEXTAFTER_ALT": "until departure window closes",
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTING_TEXTAFTER": "until departure",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS_TEXTAFTER": "until window opens",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS_TEXTAFTER_ALT": "until departure window opens",
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_TIMER_ALT": "Departure:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS": "Window opens:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES": "Window closes:",
+        "ID_RAIDER_PROJECTS_EXPEDITION_NEXT_REWARD": "Next reward",
+        "ID_RAIDER_PROJECT_EXPEDITION_KEPT_PROJECTS": "Projects",
+        "ID_RAIDER_PROJECT_EXPEDITION_KEPT_PROJECT_PROGRESS": "Project Progress",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_TITLE": "Cement Your Legacy",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_TITLE_ALT": "A Triumphant Exit",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_TITLE_ALT2": "Coup de Grâce",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_DESCRIPTION": "With your caravan built, you have one last opportunity to truly cement your legacy before departure.",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_DAMAGE_TITLE": "Wreak havoc",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_DAMAGE_TITLE_ALT": "Lay waste",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_DAMAGE_DESCRIPTION": "Put your spare gear to good use, and let your final triumphs reverberate throughout Speranza's cantinas long after you're gone.",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_DAMAGE_DESCRIPTION_ALT": "Use your last gear to leave a mark that will remain long after you're gone.",
+        "ID_RAIDER_PROJECT_TIMER_TO_EXPIRE": "{0} to expire",
+        "ID_RAIDER_PROJECT_TIMER_TO_EXPIRE_ALT": "to expire",
+        "ID_RAIDER_PROJECT_TIMER_REMAINING": "remaining",
+        "ID_RAIDER_PROJECT_APRIL_PROJECT_NAME": "Avian Alarm",
+        "ID_RAIDER_PROJECT_EXPEDITION_AVIAN_ALARM_DESCRIPTION": "Speranzans have noticed that some birds are sensitive to atmospheric changes, and have taken to designing multi-tiered alarm systems to warn of impending danger. Though their precision has been debated, the calming effect of their companionship is beyond reproach.",
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_RESORT_DESCRIPTION": "An apparent favorite pastime of resort guests, miniature ship models have been found all around the Riven Tides area. The dream of safety beyond the horizon has turned many Speranzans into avid collectors, and even the local bird population seems to have taken a shine to these fine models.",
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_BONUS_REWARDS": "Bonus Rewards"
+      },
+      "KeysToMetaData": {
+        "ID_RAIDER_PROJECTS_TITLE": {
+          "Note": "Header for the widget that leads the player to their Projects (where Expeditions lives)"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_1": {
+          "Note": "Kept 1"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_2": {
+          "Note": "Kept 2"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_3": {
+          "Note": "Kept 3"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_4": {
+          "Note": "Kept 4"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_5": {
+          "Note": "Kept 5"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_6": {
+          "Note": "Kept 6"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_7": {
+          "Note": "Kept 7"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_8": {
+          "Note": "Kept 8"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_9": {
+          "Note": "Kept 9"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_10": {
+          "Note": "Kept 10"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_TITLE": {
+          "Note": "Notification header to notify the player that the Departure window for the Expedition is now open. Triggered in the front-end, via a discreet notification."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_DESCRIPTION_OPEN": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_POPUP_DESCRIPTION_CLOSE": {
+          "Note": "Popup Header to notify the player that the Departure window for the Expedition has closed."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DESCRIPTION_CLOSED": {
+          "Note": "Description for Closed Window popup"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_TITLE": {
+          "Note": "Header for the Expedition overview, in the Projects screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SUBTITLE": {
+          "Note": "Subheader for the Expedition overview, in the Projects screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DESCRIPTION": {
+          "Note": "Description/Tagline for the Expedition overview in the Projects screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_BUTTON": {
+          "Note": "Secondary Button to trigger a popup describing Expeditions in more details"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_EXPEDITIONS_BUTTON": {
+          "Note": "Button variant"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITIONS_LOCKED_BUTTON": {
+          "Note": "Locked Button to access Expedition"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITIONS_OPEN_PROJECT_BUTTON": {
+          "Note": "Primary Button"
+        },
+        "ID_RAIDER_PROJECTS_DEPRATURE_WINDOW_OPEN": {
+          "Note": "Timer to departure window opening"
+        },
+        "ID_RAIDER_PROJECTS_DEPRATURE_WINDOW_CLOSE": {
+          "Note": "Timer to departure window closing"
+        },
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_TITLE": {
+          "Note": "Header for widget telling players about the active buffs they have from completing the previous expedition"
+        },
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_REPAIR": {
+          "Note": "This buff lower the cost of repairing an item (weapon, shield)"
+        },
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_SCRAPPY": {
+          "Note": "This buff increases the amount of resource you automatically get from Scrappy"
+        },
+        "ID_RAIDER_PROJECTS_BUFFS_OVERVIEW_XP": {
+          "Note": "This buff increases the total XP you get in game only"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_OVERVIEW_TITLE": {
+          "Note": "5"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_OVERVIEW_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_RANKS_TITLE": {
+          "Note": "Header"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_RANKS_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_CALENDAR_TITLE": {
+          "Note": "Header"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_CALENDAR_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_STEPS_TITLE": {
+          "Note": "Header"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_STEPS_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_TITLE": {
+          "Note": "Header (this one is about listing exactly what gets reset and what is kept, in a straightforward"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_TITLE": {
+          "Note": "Will be RESET"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_1": {
+          "Note": "Reset 1"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_2": {
+          "Note": "Reset 2"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_3": {
+          "Note": "Reset 3"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_4": {
+          "Note": "Reset 4"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_5": {
+          "Note": "Reset 5"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_6": {
+          "Note": "Reset 6"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_7": {
+          "Note": "Reset 7"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_8": {
+          "Note": "Reset 8"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_9": {
+          "Note": "Reset 9"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_10": {
+          "Note": "Reset 10"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_RESET_11": {
+          "Note": "Reset 11"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_TITLE": {
+          "Note": "Will be KEPT"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_11": {
+          "Note": "Kept 11"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_12": {
+          "Note": "Kept 12"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_13": {
+          "Note": "Kept 13"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_14": {
+          "Note": "Kept 14"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_15": {
+          "Note": "Kept 15"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_16": {
+          "Note": "Kept 16"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_17": {
+          "Note": "Kept 17"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_KEPT_18": {
+          "Note": "Kept 18"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CLOSE_BUTTON": {
+          "Note": "Secondary Button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_NEXT_BUTTON": {
+          "Note": "Primary Button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_1_TITLE": {
+          "Note": "Header for step 1 (building the caravan)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_1_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_2_TITLE": {
+          "Note": "Header for step 2 (building the caravan)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_2_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_3_TITLE": {
+          "Note": "Header for step 3 (building the caravan)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_3_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_4_TITLE": {
+          "Note": "Header for step 4 (building the caravan)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_4_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_PRIMARY_BUTTON": {
+          "Note": "Primary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_SECONDARY_BUTTON": {
+          "Note": "Secondary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_STASH_AMOUNT": {
+          "Note": "Shows you the amount of required ressource you have in your stash"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_COMPLETE": {
+          "Note": "For when you have filled one of the requirement"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_USE_TITLE": {
+          "Note": "Header stating the name of the ressource about to be used"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_USE_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TITLE": {
+          "Note": "Header for step 5 (loading the caravan)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_DESCRIPTION_1": {
+          "Note": "First part of description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_DESCRIPTION_2": {
+          "Note": "Second part of description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1": {
+          "Note": "Header for first family of item (made-up, player-facing family that regroup already existing categories of items)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2": {
+          "Note": "Header for second family of item"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3": {
+          "Note": "Header for third family of item"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_4": {
+          "Note": "Header for fourth family of item"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_SELECT_BUTTON": {
+          "Note": "Primary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_STASH_AMOUNT": {
+          "Note": "Header for when the player selects a family of items to load"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_SELECT_ALL_BUTTON": {
+          "Note": "Secondary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_LOAD_BUTTON": {
+          "Note": "Primary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_LOAD_TITLE": {
+          "Note": "Header stating the amount of items about to be loaded"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_WAITING_TITLE": {
+          "Note": "Header - For when the player has finished building and loading the caravan and have to wait until the departure window opens"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_WAITING_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_TITLE": {
+          "Note": "Header"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_DPART_BUTTON": {
+          "Note": "Primary button - as in \"to depart your raider\", hinting at the word \"departure\" used across this feature"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_CONFIRMATION_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_CONFIRMATION_WARNING": {
+          "Note": "Warning"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_SECONDARY_BUTTON": {
+          "Note": "Secondary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SKIP_TUTORIAL_PRIMARY_BUTTON": {
+          "Note": "Primary button"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_ACTIVE_BUFFS": {
+          "Note": "Active buffs header for some screens in the front end"
+        },
+        "ID_RAIDER_PROJECTS_WINDOW_CLOSES_IN": {
+          "Note": "Timer to departure window opening"
+        },
+        "ID_RAIDER_PROJECTS_WINDOW_OPENS_IN": {
+          "Note": "Timer to departure window closing"
+        },
+        "ID_RAIDER_PROJECTS_WINDOW_TIME_FORMAT": {
+          "Note": "Time format for departure window"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_WEAPONS": {
+          "Note": "Under the Combat family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_MODS": {
+          "Note": "Under the Combat family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_AMMO": {
+          "Note": "Under the Combat family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_MINES": {
+          "Note": "Under the Combat family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_1_GRENADES": {
+          "Note": "Under the Combat family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_SHIELDS": {
+          "Note": "Under the Survival family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_AUGS": {
+          "Note": "Under the Survival family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_TOOLS": {
+          "Note": "Under the Survival family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_GADGETS": {
+          "Note": "Under the Survival family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_2_HEALING": {
+          "Note": "Under the Survival family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_NATURE": {
+          "Note": "Under the Provisions family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_KEYS": {
+          "Note": "Under the Provisions family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_TRINKETS": {
+          "Note": "Under the Provisions family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_RECIPES": {
+          "Note": "Under the Provisions family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_3_MISC": {
+          "Note": "Under the Provisions family of items"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEP_5_TYPE_4_MATERIALS": {
+          "Note": "Under the Materials family of items"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_HINT_ABOUT": {
+          "Note": "Hints that triggers a descriptive popup. This can be reused for all the other projects too."
+        },
+        "ID_RAIDER_PROJECTS_WINTER_TITLE": {
+          "Note": "Project Header, displayed on the Raider Projects screen"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_DESCRIPTION": {
+          "Note": "Short description on the Raider Projects screen "
+        },
+        "ID_RAIDER_PROJECTS_WINTER_TAB_PROJECT": {
+          "Note": "Tab name for the Project part of the winter event (sub nav)"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_TAB_EVENT": {
+          "Note": "Tab name for the Live Event part of the winter event (subnav)"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_1_TITLE": {
+          "Note": "First step of building the Project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_2_TITLE": {
+          "Note": "Second Step of building the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_3_TITLE": {
+          "Note": "Third Step of building the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_4_TITLE": {
+          "Note": "Fourth step of building the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_STAGE_5_TITLE": {
+          "Note": "Fifth step of building the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_REWARD_SUBHEADER": {
+          "Note": "Subheader for reward unlocked after completing a goal"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_REWARD_SUBHEADER_ALT": {
+          "Note": "Subheader for several rewards unlocked after the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_HEADER": {
+          "Note": "Header for the last screen of the project"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_DESCRIPTION": {
+          "Note": "Description"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_COMPLETED_BUTTON_GOTOPROJECT": {
+          "Note": "Invite the player to go to the Live Event part of the Winter Event"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_WIDGET_HEADER_PROGRESS": {
+          "Note": "Potential header for the Project Widget on the homescreen"
+        },
+        "ID_RAIDER_PROJECTS_WINTER_UNLOCK_CONDITION": {
+          "Note": "Unlock condition"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_HEADER": {
+          "Note": "Header for new About section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_ABOUT_DESCRIPTION": {
+          "Note": "Description for new About section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_TOOLTIP": {
+          "Note": "Tooltip that highlights temporary buffs being available until next Expedition departure."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFS_HEADER": {
+          "Note": "Header for the Temporary Buffs section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_HEADER": {
+          "Note": "Header for the Permanent Rewards section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_OUTFIT": {
+          "Note": "Raider Outfit permanent reward."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_SCRAPPY": {
+          "Note": "Scrappy skin permanent reward."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_ICON": {
+          "Note": "Icon permanent reward."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_STASH": {
+          "Note": "Stash space permanent reward."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_REWARDS_SKILL_POINTS": {
+          "Note": "Bonus skill points permanent reward."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_GAIN_LOSE_HEADER": {
+          "Note": "Header for section on what is kept and what is reset."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_GAIN_LOSE_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEPS_HEADER": {
+          "Note": "Header for section on Expedition steps."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_STEPS_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTURE_TOOLTIP": {
+          "Note": "Tooltip that shows when the departure window opens."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_CATCHUP_HEADER": {
+          "Note": "Bonus and Catch Up header, if used in one single section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_HEADER": {
+          "Note": "Bonus header is Bonus and Catch Up are kept separate."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BONUS_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_HEADER": {
+          "Note": "Catch Up header is Bonus and Catch Up are kept separate."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PROGRESS_KEPT_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_LONG": {
+          "Note": "Long header for section on what is kept after an Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_SHORT": {
+          "Note": "Short header for section on what is kept after an Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_LONG": {
+          "Note": "Long header for section on what is reset after an Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_SHORT": {
+          "Note": "Short header for section on what is reset after an Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_PERMANENT_UNLOCKS": {
+          "Note": "Subheader for what permanent unlocks are being kept."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_RESET_RAIDER_PROGRESSION": {
+          "Note": "Subheader for which Raider Progression are being kept."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_EMBARK_ACCOUNT": {
+          "Note": "Subheader for what account-tied things are being kept."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_KEPT_OTHER": {
+          "Note": "Subheader for other things that are being kept."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_PREVIOUS_EXPEDITION": {
+          "Note": "Singular variant of the design that shows how many skill points a player can gain during Catch Up."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_PREVIOUS_EXPEDITION_PLURAL": {
+          "Note": "Plural variant of the design that shows how many skill points a player can gain during Catch Up."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CATCHUP_SKILLPOINT_VALUE": {
+          "Note": "New string -- instead of Skill Points"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_START": {
+          "Note": "Start button for Expeditons main screen."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_NAVIGATE": {
+          "Note": "HUD element that shows how to navigate using gamepad."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_HIDE_UI": {
+          "Note": "Hide UI button, to showcase the caravan progress."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_PREVIEW": {
+          "Note": "Preview rewards button."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_PROGRESS": {
+          "Note": "Header shown at the top of the screen, where the player can go back and forth between the About section and the Expedition project progression section."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_SIGNED_UP": {
+          "Note": "To show that the player has already signed up for the Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_BACK_TO_PROJECTS": {
+          "Note": "Button to navigate back to Projects main screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_CLOSED": {
+          "Note": ""
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_OPEN": {
+          "Note": "Long text informing the player that they are ready to sign up and that the departure window is open."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_CLOSED_SHORT": {
+          "Note": "Short text informing the player that they are ready to sign up once the departure window opens."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_WINDOW_OPEN_SHORT": {
+          "Note": "Short text informing the player that they are ready to sign up and that the departure window is open."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_READY_HEADER": {
+          "Note": "Buffer screen header for when the player is ready to depart."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_AVAILABLE": {
+          "Note": "To be shown on the buffer screen when the player has available skill points to catch up on."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT": {
+          "Note": "Singular description for the player having skill points to catch up on."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_PLURAL": {
+          "Note": "Plural description for the player having skill points to catch up on."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_AVAILABLE": {
+          "Note": "Header for available skill points during catch up."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_SKILLPOINT_TOTAL": {
+          "Note": "Total skill points counting current Expedition skill points plus catch up skill points."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CURRENT_EXPEDITION": {
+          "Note": "Showing how many skill points the player gains from the current Expedition."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_EXPEDITIONS": {
+          "Note": "Showing how many skill points the player gains from the current Catch Up."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_TIMER": {
+          "Note": "Text for timer"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_SIGNED_UP": {
+          "Note": "Confirmation that the player is signed up to depart."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED": {
+          "Note": "Shorten to fit in Cantina widget. Also shown on the departure screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_NOT_SIGNED": {
+          "Note": "Shorten to fit in Cantina widget. Also shown on the departure screen"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT3": {
+          "Note": "Variation of Signed up, to be shown when the player has signed up for departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_NOT_SIGNED_ALT": {
+          "Note": "Variation of Not signed up, to be shown when the player has signed up for departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT": {
+          "Note": "Variation of Signed up, to be shown when the player has signed up for departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CANTINA_WIDGET_SIGNED_ALT2": {
+          "Note": "Variation of Signed up, to be shown when the player has signed up for departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DEPART_ALT2": {
+          "Note": "Alt button label for Late Departure modal to depart immediately"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART_ALT2": {
+          "Note": "Alt button label for Late Departure modal to not depart"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_GRACE_DONT_DEPART_ALT3": {
+          "Note": "Alt button label for Late Departure modal to not depart"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARDS": {
+          "Note": "Rewards can be secured for when the expedition leaves, e.g. if you do enough damage to reach a skill point, that skill point will be given to you upon departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARD_SINGULAR": {
+          "Note": "Rewards can be secured for when the expedition leaves, e.g. if you do enough damage to reach a skill point, that skill point will be given to you upon departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_REWARDS_ALT": {
+          "Note": "Rewards can be secured for when the expedition leaves, e.g. if you do enough damage to reach a skill point, that skill point will be given to you upon departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARDS": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARD_SINGULAR": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_REWARDS_ALT": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_CATCHUP": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_SKILLPOINTS": {
+          "Note": "Rewards can be secured for when the expedition leaves, e.g. if you do enough damage to reach a skill point, that skill point will be given to you upon departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_SECURED_SKILLPOINT_SINGULAR": {
+          "Note": "Rewards can be secured for when the expedition leaves, e.g. if you do enough damage to reach a skill point, that skill point will be given to you upon departure"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_SKILLPOINTS": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_PENDING_SKILLPOINT_SINGULAR": {
+          "Note": "Some rewards (currently catch up) arent safe yet, it all depends on your state when you depart. The value can fluctuate (currently with value on your Raider at the time of departure) thus never fully safe."
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_SIGNUP": {
+          "Note": "Button for Sign up confirmation modal"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUTTON_NOTNOW": {
+          "Note": "Button for dismissing Sign up confirmation modal"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_TOTAL_OWNED_VALUE": {
+          "Note": "Small label to show what players own in their inventory and wallet"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_OWNED_VALUE": {
+          "Note": "Small label to show what players own in their inventory and wallet"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_REQUIRED_VALUE": {
+          "Note": "Small label to show required value per reward"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_PER_REWARD": {
+          "Note": "Small label to show required value per reward"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_CATCHUP": {
+          "Note": "Small label to show available rewards through catch up"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_CATCHUP_REWARDS": {
+          "Note": "Small label to show available rewards through catch up"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_REWARDS": {
+          "Note": "Small label to show available rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_AVAILABLE_SKILLPOINTS": {
+          "Note": "Small label to show available skill points"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_FUTURE_EXPEDITIONS": {
+          "Note": "This describes catch up for those players who dont have a catchup available and that they can catch up in the coming expeditions"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_NEXT_EXPEDITION": {
+          "Note": "This describes catch up for those players who dont have a catchup available and that they can catch up in the coming expeditions"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_CATCHUP_PREVIOUS": {
+          "Note": "This describes how a player can catch up on previous rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_SIGNUP": {
+          "Note": "Completed expeditions, awaiting departure date, need to sign up"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED": {
+          "Note": "Completed expeditions, awaiting departure date"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_SIGNEDUP": {
+          "Note": "Completed expeditions, awaiting departure date, you are signed up"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP_SIGNUP": {
+          "Note": "Completed expeditions, awaiting departure date, need to sign up. But catchup is pending"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP": {
+          "Note": "Completed expeditions, awaiting departure date. But catchup is pending"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPLANATION_LAST_STEP_COMPLETED_CATCHUP_SIGNEDUP": {
+          "Note": "Completed expeditions, awaiting departure date, you are signed up. But catchup is pending"
+        },
+        "ID_RAIDER_PROJECTS_EXPLANATION_DETAILS_LOST_TITLE": {
+          "Note": "Title for what is lost"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LOST_SHORT": {
+          "Note": "Title for what is lost"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CARAVAN_BUIDING_PROGRESS": {
+          "Note": "The projects progress"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_CARAVAN_PROGRESS": {
+          "Note": "The projects progress"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_EXPEDITION_REWARDS": {
+          "Note": "General term for all expedition rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARD_AVAILABLE": {
+          "Note": "We dont know yet what the next reward is except its not Skill Points, so Im calling them simply Rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARDS": {
+          "Note": "We dont know yet what the next reward is except its not Skill Points, so Im calling them simply Rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_CATCHUP_REWARD_TOTAL": {
+          "Note": "We dont know yet what the next reward is except its not Skill Points, so Im calling them simply Rewards"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES_TEXTAFTER": {
+          "Note": "Text for timer (behind timer)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES_TEXTAFTER_ALT": {
+          "Note": "Text for timer (behind timer)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_DEPARTING_TEXTAFTER": {
+          "Note": "Text for timer (behind timer)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS_TEXTAFTER": {
+          "Note": "Text for timer (behind timer)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS_TEXTAFTER_ALT": {
+          "Note": "Text for timer (behind timer)"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_BUFFER_DEPARTURE_TIMER_ALT": {
+          "Note": "Text for timer"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_OPENS": {
+          "Note": "Text for timer"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_WINDOW_CLOSES": {
+          "Note": "Text for timer"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_NEXT_REWARD": {
+          "Note": "To mention what amount is needed until next reward"
+        },
+        "ID_RAIDER_PROJECT_EXPEDITION_KEPT_PROJECTS": {
+          "Note": "This is kept with a reset"
+        },
+        "ID_RAIDER_PROJECT_EXPEDITION_KEPT_PROJECT_PROGRESS": {
+          "Note": "This is kept with a reset"
+        },
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_TITLE_ALT": {
+          "Note": "Alt title"
+        },
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_STEP_PAGE_TITLE_ALT2": {
+          "Note": "Alt title"
+        },
+        "ID_RAIDER_PROJECT_TIMER_TO_EXPIRE": {
+          "Note": "{Time} to expire. Describes the amount of time left to complete a project."
+        },
+        "ID_RAIDER_PROJECT_TIMER_TO_EXPIRE_ALT": {
+          "Note": "{Time} to expire. Describes the amount of time left to complete a project."
+        },
+        "ID_RAIDER_PROJECT_TIMER_REMAINING": {
+          "Note": "{Time} remaining. Describes the amount of time left to complete a project."
+        },
+        "ID_RAIDER_PROJECT_APRIL_PROJECT_NAME": {
+          "Note": "For more context, it would be preferred if the string didnt need to wrap to two lines, but I wonder if 14 is too aggressive of a goal so 25 is two lines (with latin)"
+        },
+        "ID_RAIDER_PROJECT_EXPEDITION_LAST_RESORT_DESCRIPTION": {
+          "Note": "This is used in the second bubble of the About page for the \"Last Resort Event\" explaining things about the event, such as finding boats in Riven Tides"
+        },
+        "ID_RAIDER_PROJECTS_EXPEDITION_LABEL_BONUS_REWARDS": {
+          "Note": "max 20 chars"
+        }
+      }
+    }
+  }
+]

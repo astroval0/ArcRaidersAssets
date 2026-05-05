@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Options_Crosshair",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Options_Crosshair",
+    "StringTable": {
+      "TableNamespace": "ST_Options_Crosshair",
+      "KeysToEntries": {
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_SMOOTH_DESC_02": "Recommended. Will smoothly move the crosshair to where the shot will hit, if the line of fire between the weapon and the crosshair is blocked. Setting this to OFF will make the transition instant.",
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_BLOCKED_DESC": "Recommended. Will show where your bullets will hit if an obstacle blocks the line of fire between the weapon and the crosshair.",
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_SMOOTH_DESC_01": "Will smoothly move the crosshair to where the shot will hit if the line of fire between the weapon and the crosshair is blocked. Setting this to OFF will make the transition instant.",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_CENTER_DOT": "Weapon Crosshair Center Dot",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_CENTER_DOT_RADIUS": "Crosshair Center Dot Radius",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_THICKNESS": "Crosshair Thickness",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_LENGTH": "Crosshair Length",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_THICKNESS": "Crosshair Outline Thickness",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OPACITY": "Crosshair Opacity",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_RED": "Crosshair Red",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_GREEN": "Crosshair Green",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_BLUE": "Crosshair Blue",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_RED": "Crosshair Outline Red",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_GREEN": "Crosshair Outline Green",
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_BLUE": "Crosshair Outline Blue",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_CROSS": "Cross",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_CIRCLE": "Circle",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_TCROSS": "T-Cross",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_ROUNDEDDIAMOND": "Rounded Diamond",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_ANGLEDRADIALLINES": "Angled Radial Lines",
+        "ID_OPTIONS_CROSSHAIR_SHAPE": "Crosshair Shape",
+        "ID_OPTIONS_CROSSHAIR_OVERRIDE_SHAPE": "Override Crosshair Shape",
+        "ID_OPTIONS_CROSSHAIR_SHAPE_TCIRCLECROSS": "T-Cross and Circle",
+        "ID_OPTIONS_CROSSHAIR_HEADER": "Crosshair",
+        "ID_OPTIONS_CROSSHAIR_HEADER_02": "Crosshair Settings",
+        "ID_OPTIONS_CROSSHAIR_BLOCKEDPATH_HEADER": "Blocked Line of Fire"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

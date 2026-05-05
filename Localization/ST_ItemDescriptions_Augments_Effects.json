@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Augments_Effects",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Augments_Effects",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Augments_Effects",
+      "KeysToEntries": {
+        "ID_ITEMDESC_AUGMENTEFFECTS_HEALTHREGEN": "Restores {0} health every {1} seconds. When damage is taken, the effect is paused for {2} seconds.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_HEALTHREGEN2": "Restores {0} health every {1} seconds. When damage is taken, the effect is paused for {2} seconds.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_EMERGENCYSMOKE": "Upon Shield break, deploys a small smoke grenade. Has a fixed cooldown.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_ANTITICKFIELD": "Automatically throws off attached Ticks after {0}s.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_QUICKDRAW": "Stowed or unequipped Pistols and Hand Cannons are {0}% faster to equip.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_MOBILEREPAIR": "Allows Shield Rechargers to be used while running.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_REVIVALTOPUP": "When revived from being downed, releases a healing cloud that restores {0} health over {1} seconds. Has a {2}-second cooldown.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_EMERGENCYADDS": "Upon Shield break, automatically administers a weak Adrenaline Shot. Has a fixed cooldown.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_FULLBODYTOURNIQUET": "While downed and stationary, health regenerates up to {0}% of max downed health.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDSHIELDRECHARGER": "Reusable Shield Recharger on a fixed cooldown. Can be used like a normal Shield Recharger, but cannot be dropped or removed from its slot.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDBINOCULARS": "Can be equipped and used like regular binoculars, but cannot be dropped or removed from their slot.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER": "After being holstered for {0} seconds, non-Experimental firearms are automatically reloaded.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_XLSAFEPOCKET": "A Safe Pocket that allows any item to be stored.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDDEFIB": "Reusable Defibrillator on a fixed cooldown. Can be used like a normal Defibrillator, but cannot be dropped or removed from its slot.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_REVIVALTOPUP_BURST": "When revived from being downed, releases a healing cloud that instantly restores {0} health. Has a {1}-second cooldown.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT1": "After being holstered for {0} seconds, non-Energy Ammo firearms are automatically reloaded.",
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT2": "After being holstered for {0} seconds, firearms using conventional ammo are automatically reloaded."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

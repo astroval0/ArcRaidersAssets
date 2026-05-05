@@ -1,0 +1,207 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_CharacterScreen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_CharacterScreen",
+    "StringTable": {
+      "TableNamespace": "ST_CharacterScreen",
+      "KeysToEntries": {
+        "SLOT_LAUNCHER": "Launcher",
+        "SLOT_FIREARM": "Firearm",
+        "SLOT_MOBILITY": "Mobility Gadget",
+        "SLOT_SKINS": "Skins",
+        "SLOT_SCHEMATICS": "Blueprints",
+        "SLOT_RAIDER": "Raider",
+        "BUTTON_SET_FEATURED": "Select Character",
+        "SLOT_TALENTS": "Talents",
+        "SLOT_ARMOR": "Shield",
+        "ID_CHARACTER_FACE": "Face",
+        "ID_CHARACTER_OUTFIT": "Outfit",
+        "ID_CHARACTER_HAIR": "Hair",
+        "ID_CHARACTER_BACKPACK": "Backpack",
+        "ID_CHARACTER_PURCHASE_NOTIF_BUTTON_CANCEL": "Cancel",
+        "ID_CHARACTER_PURCHASE_NOTIF_BODY": "Do you want to purchase {0}?",
+        "ID_CHARACTER_PURCHASE_NOTIF_BUTTON_ACCEPT": "Purchase",
+        "ID_CHARACTER_PURCHASE_INSUFFICIENTFUNDS": "Insufficient Raider Tokens. Check the Raider Decks for more.",
+        "ID_CHARACTER_XP_RATIO": "{0}/{1} XP",
+        "ID_CHARACTERSCREEN_CHANGE_APPEARANCE": "Change Appearance",
+        "ID_CHARACTERSCREEN_SEE_SKILL_TREE": "See Skill Tree",
+        "ID_CHARACTERSCREEN_PURCHASEWARNING_REQUIRESBASE": "Requires the base skin to purchase",
+        "ID_CHARACTERSCREEN_EQUIPWARNING_REQUIRESBASE": "Requires the base skin to equip",
+        "ID_CHARACTERSCREEN_APPEARANCE": "Appearance",
+        "ID_CHARACTERSCREEN_TAB_STYLE": "Style",
+        "ID_CHARACTERSCREEN_TAB_APPEARANCE": "Appearance",
+        "ID_CHARACTERSCREEN_STYLE": "Style",
+        "ID_CHARACTERSCREEN_EMOTES": "Emotes",
+        "ID_CHARACTERSCREEN_SCRAPPY": "Scrappy",
+        "ID_CHARACTERSCREEN_APPEARANCE_FACE": "Face",
+        "ID_CHARACTERSCREEN_APPEARANCE_HAIR": "Hair",
+        "ID_CHARACTERSCREEN_APPEARANCE_BODYTYPE": "Body Type",
+        "ID_CHARACTERSCREEN_STYLE_OUTFITS": "Outfits",
+        "ID_CHARACTERSCREEN_STYLE_BACKPACKS": "Backpacks",
+        "ID_CHARACTERSCREEN_STYLE_ATTACHMENTS": "Attachments",
+        "ID_CHARACTERSCREEN_STYLE_RAIDERTOOL": "Raider Tool",
+        "ID_CHARACTERSCREEN_EMOTES_SUBNAV": "Emotes",
+        "ID_CHARACTERSCREEN_EMOTES_EMOTEWHEEL": "Wheel",
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL": "Equip to wheel",
+        "ID_CHARACTERSCREEN_EMOTES_RESETWHEEL": "Reset wheel",
+        "ID_CHARACTERSCREEN_EMOTES_ADDWHEEL": "Add wheel",
+        "ID_CHARACTERSCREEN_EMOTES_NOEDIT": "Default; not editable",
+        "ID_CHARACTERSCREEN_LOCKED_SLOT_EXPLANATION_GENERIC": "Fixed Emote",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE": "Locked by:",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_QUEST": "Quest",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_LEVEL": "Level",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_DECKS": "Decks",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EVENT": "Live Event",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_TRIALS": "Trials",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EXPEDITION": "Expedition",
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE_ALT2": "Will unlock based on:",
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_FIXEDEMOTE": "Fixed Emote",
+        "ID_CHARACTERSCREEN_BACKPACKCHARMS": "Backpack Charms",
+        "ID_CHARACTERSCREEN_FACESTYLE": "Face Style",
+        "ID_CHARACTERSCREEN_BODYTYPE": "Body Type",
+        "ID_CHARACTERSCREEN_OUTFIT": "Outfit",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_DECK": "Claim in Raider Deck",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_HARDCURRENCY": "Purchase",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_MASTERY": "Maintain at least this Trials rank until season end",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_REWARD": "Quest reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_FUTURE_REWARD": "Future Quest reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD": "Level Up reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD_TITLE": "Level {0}",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LIVEEVENT_REWARD": "Live Event reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_FUTURE_REWARD": "Future Live Event reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_REWARD": "Raider Project reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_FUTURE_REWARD": "Future Raider Project reward",
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_HARDCURRENCY_PARTOFBUNDLE": "Part of",
+        "ID_CHARACTERSCREEN_ALL_HEADGEAR_HIDDEN": "Show headgear",
+        "ID_CHARACTERSCREEN_ALL_HEADGEAR_VISIBLE": "Hide headgear",
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_UNCHANGEABLE": "Can't be changed",
+        "ID_CHARACTERSCREEN_STYLE_FACIALHAIR": "Facial hair"
+      },
+      "KeysToMetaData": {
+        "ID_CHARACTERSCREEN_APPEARANCE": {
+          "Note": "Everything that has to do with the actual body appearance of the raider"
+        },
+        "ID_CHARACTERSCREEN_STYLE": {
+          "Note": "Everything that has to do with how you style the body, i.e. skins, backpacks, etc."
+        },
+        "ID_CHARACTERSCREEN_EMOTES": {
+          "Note": "Emotes that the raider will be able to customize on the emote wheel"
+        },
+        "ID_CHARACTERSCREEN_SCRAPPY": {
+          "Note": "Customizing Scrappy"
+        },
+        "ID_CHARACTERSCREEN_APPEARANCE_FACE": {
+          "Note": "Appearance sub-category"
+        },
+        "ID_CHARACTERSCREEN_APPEARANCE_HAIR": {
+          "Note": "Appearance sub-category"
+        },
+        "ID_CHARACTERSCREEN_APPEARANCE_BODYTYPE": {
+          "Note": "Appearance sub-category"
+        },
+        "ID_CHARACTERSCREEN_STYLE_OUTFITS": {
+          "Note": "Style sub-category"
+        },
+        "ID_CHARACTERSCREEN_STYLE_BACKPACKS": {
+          "Note": "Style sub-category"
+        },
+        "ID_CHARACTERSCREEN_STYLE_ATTACHMENTS": {
+          "Note": "Style sub-category"
+        },
+        "ID_CHARACTERSCREEN_STYLE_RAIDERTOOL": {
+          "Note": "Style sub-category"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_SUBNAV": {
+          "Note": "Sub-nav tab to navigate to Emotes"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_EMOTEWHEEL": {
+          "Note": "General noun for the emote wheel used in a few places"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL": {
+          "Note": "Button allowing the player to equip the emote"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_RESETWHEEL": {
+          "Note": "Button allowing the player to reset the wheel to default choices"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_ADDWHEEL": {
+          "Note": "Allows the player to add a new wheel"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_NOEDIT": {
+          "Note": "Informs the player that some wheel options are set and can't be changed"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE": {
+          "Note": "To signal that a cosmetic is locked by a condition"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_QUEST": {
+          "Note": "To signal that a cosmetic is locked by a quest"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_LEVEL": {
+          "Note": "To signal that a cosmetic is locked by a level"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_DECKS": {
+          "Note": "To signal that a cosmetic is locked by a decks"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EVENT": {
+          "Note": "To signal that a cosmetic is locked by a event"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_TRIALS": {
+          "Note": "To signal that a cosmetic is locked by a trials"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EXPEDITION": {
+          "Note": "To signal that a cosmetic is locked by a expedition"
+        },
+        "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE_ALT2": {
+          "Note": "To signal that a cosmetic will be unlocked by something"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_FIXEDEMOTE": {
+          "Note": "Tells the player that this is a non-changeable, non-negotiable emote in the emote wheel (see here)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_DECK": {
+          "Note": "Unlock condition: raider deck "
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_HARDCURRENCY": {
+          "Note": "Unlock condition: hard currency purchase"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_MASTERY": {
+          "Note": "Unlock condition: mastery"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_REWARD": {
+          "Note": "Unlock condition: Quest rewards (meaning you already have this quest available)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_FUTURE_REWARD": {
+          "Note": "Unlock condition: future quest reward (not yet available to you)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD": {
+          "Note": "Unlock condition: level up reward"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD_TITLE": {
+          "Note": "Exact level of the above unlock condition"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LIVEEVENT_REWARD": {
+          "Note": "Unlock condition: live event reward (Already available to you)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_FUTURE_REWARD": {
+          "Note": "Unlock condition: future live event reward (not yet available to you)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_REWARD": {
+          "Note": "Unlock condition: Raider project reward (already available)"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_FUTURE_REWARD": {
+          "Note": "Unlock condition: raider project reward (not yet available to you)"
+        },
+        "ID_CHARACTERSCREEN_ALL_HEADGEAR_HIDDEN": {
+          "Note": "Shows how to show all currently equipped headgear (See here)"
+        },
+        "ID_CHARACTERSCREEN_ALL_HEADGEAR_VISIBLE": {
+          "Note": "Show how to hide all currently equipped headgear"
+        },
+        "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_UNCHANGEABLE": {
+          "Note": "Informs the player some emotes cannot be changed/overridden"
+        }
+      }
+    }
+  }
+]

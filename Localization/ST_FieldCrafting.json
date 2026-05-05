@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_FieldCrafting",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_FieldCrafting",
+    "StringTable": {
+      "TableNamespace": "ST_FieldCrafting",
+      "KeysToEntries": {
+        "ID_FIELDCRAFTING_CONSUME_RANDOM_WARNING": "Will consume random available resources.",
+        "ID_FIELDCRAFTING_PLANT_TYPE": "Plant Material"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

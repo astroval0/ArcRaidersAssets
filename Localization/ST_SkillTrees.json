@@ -1,0 +1,84 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SkillTrees",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_SkillTrees",
+    "StringTable": {
+      "TableNamespace": "ST_SkillTrees",
+      "KeysToEntries": {
+        "ID_SKILLTREES_LARGER_THAN_99": "99+",
+        "ID_SKILLTREES_NUM_POINTS_AVAILABLE": "{0} {0}|plural(one=Skill Point, few=Skill Points, many=Skill Points, other=Skill Points) Available",
+        "ID_SKILLTREES_CURRENT_LEVEL": "Level {0}",
+        "ID_SKILL_TREES_CURRENT_AND_NEXT_LEVEL_XP": "{0} / {1} XP",
+        "ID_SKILLTREES_NODE_LOCKED_DESC_POINTS_REQUIREMENT": "Requires {0} points in {1}",
+        "ID_SKILLTREES_NODE_LOCKED_DESC_INCOMPLETE_PATH": "No available path",
+        "ID_SKILLTREES_SKILL_LEVEL": "Level",
+        "ID_SKILLTREES_SCREEN_TITLE": "Skill Tree",
+        "ID_SKILLTREES_BUTTON_LABEL_CHANGE_CATEGORY": "Change Category",
+        "ID_SKILLTREES_BUTTON_LABEL_NEXT_CATEGORY": "Next Category",
+        "ID_SKILLTREES_BUTTON_LABEL_PREVIOUS_CATEGORY": "Previous Category",
+        "ID_SKILLTREES_NODE_LOCKED_DESC_PRECEDINGSKILL_REQUIREMENT": "Requires both parent skills to be unlocked",
+        "ID_SKILLTREES_RESET_SKILL_TREE": "Reset Skill Tree",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION_ALT2": "This will reset and give back {0} allocated points in your Skill Tree and allow you to choose your Skills from scratch. Do you want to proceed?",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_TITLE": "Reset Your Skills",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CONFIRM_RESET": "Confirm & Reset",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CANCEL": "Cancel",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION": "This will reset and give back your allocated points in your Skill Tree and allow you to choose your Skills from scratch. Do you want to proceed?",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_LABEL_COST": "Cost",
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_RESET": "Reset",
+        "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_AVAILABLE_SKILL_POINTS": "Available Skill Points:",
+        "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_SKILL_POINTS": "Skill Points:",
+        "ID_SKILLTREES_LABEL_TIER": "Tier {0}",
+        "ID_SKILLTREES_SKILL_NAME_TIER": "{0} (tier {1})",
+        "ID_SKILLTREES_CALLOUT_ACQUIRE": "Acquire",
+        "ID_SKILLTREES_CALLOUT_ACQUIRE_ALT2": "Acquire Skill"
+      },
+      "KeysToMetaData": {
+        "ID_SKILLTREES_RESET_SKILL_TREE": {
+          "Note": "Button for reset"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_TITLE": {
+          "Note": "Title in the reset confirmation modal"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION": {
+          "Note": "Description in the reset confirmation modal. Could include info about it not being reversible"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION_ALT2": {
+          "Note": "Description in the reset confirmation modal including amount of points reset. Could include info about it not being reversible"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_LABEL_COST": {
+          "Note": "Label for writing out the cost of resetting the skilltree"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_RESET": {
+          "Note": "Button label"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CONFIRM_RESET": {
+          "Note": "Button label"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CANCEL": {
+          "Note": "Button label"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_AVAILABLE_SKILL_POINTS": {
+          "Note": "Label for informing about available Skill Points"
+        },
+        "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_SKILL_POINTS": {
+          "Note": "Label for informing about available Skill Points"
+        },
+        "ID_SKILLTREES_LABEL_TIER": {
+          "Note": "Label for explaining tier of a skill"
+        },
+        "ID_SKILLTREES_SKILL_NAME_TIER": {
+          "Note": "Title for Skill name and tier"
+        },
+        "ID_SKILLTREES_CALLOUT_ACQUIRE": {
+          "Note": "Callout/Button for acquiring skill"
+        },
+        "ID_SKILLTREES_CALLOUT_ACQUIRE_ALT2": {
+          "Note": "Callout/Button for acquiring skill ALT"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_InfoRows_Firearms",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_InfoRows_Firearms",
+    "StringTable": {
+      "TableNamespace": "ST_InfoRows_Firearms",
+      "KeysToEntries": {
+        "ID_INFOROW_DMGBONUS_HEAVYAMMO": "Very effective against ARC armor plating",
+        "ID_INFOROW_DMGBONUS_LIGHTAMMO": "Weak against ARC armor plating",
+        "ID_INFOROW_DMGBONUS_MEDIUMAMMO": "Somewhat effective against ARC armor plating",
+        "ID_INFOROW_DMGBONUS_SPECIAL_SNIPERRIFLE": "Very effective against ARC armor plating & weak points",
+        "ID_INFOROW_DMGBONUS_SPECIAL_BEAMRIFLE": "Extremely effective against ARC armor plating and limbs",
+        "ID_INFOROW_DMGBONUS_SHOTGUNAMMO": "Somewhat effective against ARC armor plating",
+        "ID_INFOROW_QUIRK_ASSAULTRIFLE_LOWTIER_01": "Has to be reloaded 2 bullets at a time",
+        "ID_INFOROW_QUIRK_BATTLERIFLE_BREACHACTION_01": "Must be reloaded between every shot",
+        "ID_INFOROW_QUIRK_LMG_MEDIUM_01": "Is most accurate while crouched",
+        "ID_INFOROW_BOON_PISTOL_HIGHPOWER_01": "Fires two shots at a time",
+        "ID_INFOROW_QUIRK_PISTOL_SILENCED_01": "Tricky to use in combat",
+        "ID_INFOROW_BOON_PISTOL_SILENCED_01": "Has an integrated silencer",
+        "ID_INFOROW_QUIRK_SMG_LOWTIER_01": "Is hard to control",
+        "ID_INFOROW_BOON_SPECIAL_RAILGUN_01": "Capable of damaging multiple targets with one shot",
+        "ID_INFOROW_BOON_SMG_LOWTIER_01": "Deals good damage",
+        "ID_INFOROW_BOON_LMG_MEDIUM_01": "Has a large ammo capacity",
+        "ID_INFOROW_BOON_ASSAULTRIFLE_LOWTIER_01": "A cheap offensive option",
+        "ID_INFOROW_BOON_ASSAULTRIFLE_PNEUMATIC_01": "Quick and accurate",
+        "ID_INFOROW_QUIRK_ASSAULTRIFLE_PNEUMATIC_01": "Has low bullet velocity and takes a long time to reload",
+        "ID_INFOROW_BOON_BATTLERIFLE_BREACHACTION_01": "Packs a punch",
+        "ID_INFOROW_QUIRK_LAUNCHER_ANTIARC_MEDIUM_01": "Projectiles only detonate when hitting ARC.",
+        "ID_INFOROW_BOON_LAUNCHER_ANTIARC_MEDIUM_01": "Highly effective vs ARC"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

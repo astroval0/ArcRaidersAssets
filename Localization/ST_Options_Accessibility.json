@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Options_Accessibility",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Options_Accessibility",
+    "StringTable": {
+      "TableNamespace": "ST_Options_Accessibility",
+      "KeysToEntries": {
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_DEUTRANOPIA": "Deuteranopia",
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_DEFAULT": "Default",
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_TRITANOPIA": "Tritanopia",
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_PROTANOPIA": "Protanopia"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

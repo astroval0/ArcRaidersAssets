@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ComingFeatures",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ComingFeatures",
+    "StringTable": {
+      "TableNamespace": "ST_ComingFeatures",
+      "KeysToEntries": {
+        "ID_COMING_FEATURES_CODEX_TITLE": "Codex",
+        "ID_COMING_FEATURES_CODEX_DESCRIPTION": "Your own RAIDER LOG will hold all the things you learn about ARC, The Rust Belt, Toledo, Speranza & its inhabitants.",
+        "ID_COMING_FEATURES_DEN_TITLE": "Raider Den",
+        "ID_COMING_FEATURES_DEN_DESCRIPTION": "Home sweet home!\r\nThis is your RAIDEN DEN, your personal space in the bustling neighbourhood of Speranza. This is a place you can shape to your taste.",
+        "ID_COMING_FEATURES_STORE_TITLE": "Bilguun's Goods",
+        "ID_COMING_FEATURES_STORE_DESCRIPTION": "Here you will be able to buy various items, including things to equip your RAIDER with and to use in customizing your RAIDER DEN.",
+        "ID_COMING_FEATURES_TRADING_TITLE": "Player Trading",
+        "ID_COMING_FEATURES_TRADING_DESCRIPTION": "At the shady SPERANZA PIAZZA you will be able to trade with other RAIDERS.",
+        "ID_COMINGFEATURES_UNDER_CONSTRUCTION": "Under Construction",
+        "ID_COMINGFEATURES_FEATURE": "Feature"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

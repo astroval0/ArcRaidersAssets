@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_IngameMenu",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_IngameMenu",
+    "StringTable": {
+      "TableNamespace": "ST_IngameMenu",
+      "KeysToEntries": {
+        "ID_INGAME_BUTTON_RETURN_TO_GAME": "Return to Game",
+        "ID_INGAME_BUTTON_SETTINGS": "Settings",
+        "ID_INGAME_BUTTON_FORCE_DEATH": "Force Death",
+        "ID_INGAME_BUTTON_SURRENDER": "Surrender",
+        "TITLE_ACTIVE_QUESTS": "Active quests",
+        "TITLE_MAP_LEGEND": "Legend",
+        "ID_INGAME_NOTIF_GOHOME_TEXT": "Are you sure you want to return to Speranza?",
+        "ID_INGAME_NOTIF_GOHOME_TITLE": "Return to Speranza",
+        "ID_INGAME_NOTIF_GOHOME_ACCEPT": "Yes",
+        "ID_INGAME_TAB_INVENTORY": "Inventory",
+        "ID_INGAME_TAB_MAP": "Map",
+        "ID_INGAME_NOTIF_SURRENDER_TITLE": "Surrender",
+        "ID_INGAME_NOTIF_SURRENDER_TEXT": "Are you sure you want to surrender? You will lose all your gear.",
+        "ID_INGAME_NOTIF_SURRENDER_ACCEPT": "Yes",
+        "ID_INGAME_NOTIF_SURRENDER_DECLINE": "No",
+        "ID_INGAME_NOTIF_FORCE_DEATH_TITLE": "Force Death",
+        "ID_INGAME_NOTIF_FORCE_DEATH_TEXT": "Are you sure?",
+        "ID_INGAME_NOTIF_FORCE_DEATH_BUTTON_CONFIRM": "Let's do it",
+        "ID_INGAME_NOTIF_FORCE_DEATH_BUTTON_DECLINE": "Not yet",
+        "ID_INGAME_TAB_CHALLENGES": "Feats",
+        "ID_INGAME_NOTIF_GOHOME_DECLINE": "No",
+        "ID_INGAME_BUTTON_GOHOME": "Return to Speranza",
+        "ID_INGAME_TAB_CRAFTING": "Crafting",
+        "ID_INGAME_BUTTON_RETURN_TO_SPECTATOR": "Return to Spectator",
+        "ID_INGAME_BUTTON_UNSTUCK": "Fix Stuck Player"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

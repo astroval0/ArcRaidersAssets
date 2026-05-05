@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_AnnouncementTemplates",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_AnnouncementTemplates",
+    "StringTable": {
+      "TableNamespace": "ST_AnnouncementTemplates",
+      "KeysToEntries": {
+        "ID_ANNOUNCEMENT_SUBMIT_YOUR_ANSWER": "Submit your answer",
+        "ID_ANNOUNCEMENT_NEXT_QUESTION": "Next question",
+        "ID_ANNOUNCEMENT_QUESTION_PROGRESS": "{0}/{1} questions"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

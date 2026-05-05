@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Listing",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Listing",
+    "StringTable": {
+      "TableNamespace": "ST_Listing",
+      "KeysToEntries": {
+        "ID_LISTING_LAST": "{0}, and {1}",
+        "ID_LISTING_PAIR": "{0} and {1}",
+        "ID_LISTING_JOIN": "{0}, {1}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

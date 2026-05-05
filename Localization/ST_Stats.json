@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Stats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Stats",
+    "StringTable": {
+      "TableNamespace": "ST_Stats",
+      "KeysToEntries": {
+        "ID_STATS_DAMAGE": "Damage",
+        "ID_STATS_DAMAGE_RANGE": "Effective Range",
+        "ID_STATS_RELOAD_TIME": "Reload Time",
+        "ID_STATS_FIRE_RATE": "Fire Rate",
+        "ID_STATS_HANDLING": "Handling",
+        "ID_STATS_ACCURACY": "Accuracy",
+        "ID_STATS_CLIP_SIZE": "Magazine Size",
+        "ID_STATS_CHARGES": "Charges",
+        "ID_STATS_ROLE_RESTRICTIONS": "Role Restrictions",
+        "ID_STATS_CRAFTING_COST": "Crafting cost",
+        "ID_STATS_POWER_RATING": "Power rating",
+        "ID_STATS_ROUNDS_PER_MINUTE": "Rounds Per Minute",
+        "ID_STATS_RANGE": "Range",
+        "ID_STATS_NOISE_REDUCTION": "Noise Reduction",
+        "ID_STATS_AGILITY": "Agility",
+        "ID_STATS_STABILITY": "Stability",
+        "ID_STATS_STEALTH": "Stealth",
+        "ID_STATS_DURABILITY": "Durability",
+        "ID_STATS_AMMO_TYPE": "Ammo type",
+        "ID_STATS_MAGAZINE_SIZE": "Magazine size"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

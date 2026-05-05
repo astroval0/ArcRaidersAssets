@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Inbox_RichTextFormats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Inbox_RichTextFormats",
+    "StringTable": {
+      "TableNamespace": "ST_Inbox_RichTextFormats",
+      "KeysToEntries": {
+        "ID_INBOX_RTF_PREVIEW_TITLE_WITH_GIFT": "<img id=\"Inbox_Gift\"/> {0}",
+        "ID_INBOX_RTF_PREVIEW_TITLE": "{0}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

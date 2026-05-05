@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Gadgets",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Gadgets",
+    "StringTable": {
+      "TableNamespace": "ST_ITEMNAMES_GADGETS",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_GADGETS_REMOTE_RAIDER_FLARE": "Remote Raider Flare",
+        "ID_ITEMNAMES_GADGETS_ZIPLINE": "Zipline",
+        "ID_ITEMNAMES_GADGETS_PHOTOELECTRIC_CLOAK": "Photoelectric Cloak",
+        "ID_ITEMNAMES_GADGETS_SNAP_HOOK": "Snap Hook",
+        "ID_ITEMNAMES_GADGETS_BINOCULARS": "Binoculars",
+        "ID_ITEMNAMES_GADGETS_SPRAYCAN_FIRE": "Flame Spray",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_FLUTE": "Recorder",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_BANJO": "Banjo",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_BONGO": "Bongo",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_COWBELL": "Cowbell",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_HARMONICA": "Harmonica",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_PIANO": "Piano",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_SHAKER": "Shaker",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_SLIDE_GUITAR": "Slide Guitar",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_TAMBOURINE": "Tambourine",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_UDU": "Udu",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACCORDION": "Accordion",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACOUSTIC_GUITAR": "Acoustic Guitar",
+        "ID_ITEMNAMES_GADGETS_METALDETECTOR": "Dockmaster's Detector",
+        "ID_ITEMNAMES_GADGETS_POWEREDDESCENDER": "Powered Descender"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

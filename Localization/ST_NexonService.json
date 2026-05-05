@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_NexonService",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_NexonService",
+    "StringTable": {
+      "TableNamespace": "ST_NexonService",
+      "KeysToEntries": {
+        "ID_NEXON_SERVICE_NEXON": "Nexon",
+        "ID_NEXONSERVICE_RATINGSCREEN_BODY": "The game is rated for ages 15 and older, and it is not suitable for adolescents under that age.",
+        "ID_NEXONSERVICE_PCCAFE_BONUS": "Active buffs (PC Cafe Benefits)",
+        "ID_NEXONSERVICE_PCCAFE_BENEFITS": "PC CAFE BENEFITS",
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_WARNING": "Game access is unavailable from {0} due to the Gaming Time Selection System.",
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_QUIT_DESC": "Game access has been blocked due to the Gaming Time Selection System.",
+        "ID_NEXONSERVICE_IMMERSIONPREVENTION": "Your game time has passed by {0} {0}|plural(one=hour,other=hours). Excessive game use can interfere with your normal daily life.",
+        "ID_NEXONSERVICE_TERMS_AGREEMENT_REQUIRED": "To play the game, please agree to the Terms and try again.",
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_TITLE": "Your item has arrived.",
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY": "Your item has arrived. Confirm your purchase to receive it.\r\n\r\nYou may request a refund within 7 days of purchase.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_CONFIRM_PURCHASE": "Confirm",
+        "ID_NEXONSERVICE_MESSAGE_PURCHASE_STATUS": "Purchase",
+        "ID_NEXONSERVICE_PURCHASE_CONFIRM_MESSAGE": "Do you want to confirm the purchase?\r\nOnce you confirm the purchase, you cannot withdraw it.",
+        "ID_NEXONSERVICE_WITHDRAW_CONFIRM_MESSAGE": "Do you want to withdraw the purchase?\r\nIf you withdraw the purchase, you will not be able to use the item.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_WITHDRAW_PURCHASE": "Withdraw",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_FAILED_EXPIRED": "The withdrawal period has expired.",
+        "ID_NEXONSERVICE_KR_LEGAL_WITHDRAW": "The purchased item can be canceled from your Inbox within 7 days.",
+        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TITLE": "Purchase completed",
+        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TO_INBOX": "Purchase completed. You can check the item in your Inbox.",
+        "ID_NEXONSERVICE_PRODUCT_PENDING_CLAIM": "Pending Claim",
+        "ID_NEXONSERVICE_DISCONNECT_GUSS": "The connection to the server has been lost.",
+        "ID_NEXONSERVICE_MESSAGE_CLAIM_PURCHASED_PRODUCT_FAILED": "Failed to claim the purchased product.",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_FAILED": "Failed to refund the purchased product.",
+        "ID_NEXONSERVICE_STORE_ITEM_PENDING_CLAIM": "This item is pending claim",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_SUCCESS": "Purchase cancellation complete.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_DELETE_ERROR_HAS_PENDING": "Please complete the pending purchase before deleting the message."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

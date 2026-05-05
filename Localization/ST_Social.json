@@ -1,0 +1,214 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Social",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Social",
+    "StringTable": {
+      "TableNamespace": "ST_Social",
+      "KeysToEntries": {
+        "ID_SOCIAL_COPY_EMBARK_ID": "Copy Embark ID",
+        "ID_SOCIAL_OPEN_PARTY": "Open Party",
+        "ID_SOCIAL_ONLINE": "Online",
+        "ID_SOCIAL_EDIT": "Edit",
+        "ID_SOCIAL_ACCEPT": "Accept",
+        "ID_SOCIAL_REJECT": "Reject",
+        "ID_SOCIAL_OFFLINE": "Offline",
+        "ID_SOCIAL_INCOMING_FRIEND_INVITES": "Friend Invites",
+        "ID_SOCIAL_INCOMING_PARTY_INVITES": "Party Invites",
+        "ID_SOCIAL_ADD_FRIENDS": "Add Friends",
+        "ID_SOCIAL_FRIEND_REQUEST_SENT": "You sent a friend request to {0}!",
+        "ID_SOCIAL_FRIEND_REQUEST_FAILED": "Friend request failed",
+        "ID_SOCIAL_FRIEND_REQUEST_ALREADY_SENT": "Friend request already sent to {0}",
+        "ID_SOCIAL_FRIEND_REQUEST_INVALID": "Invalid format! Use playername#1234!",
+        "ID_SOCIAL_FRIEND_REQUEST_NOT_FOUND": "No player with Embark ID: {0}",
+        "ID_SOCIAL_FRIEND_REQUEST_ALREADY_FRIENDS": "You are already friends",
+        "ID_SOCIAL_FRIEND_REQUEST_SELF": "You can't befriend yourself!",
+        "ID_SOCIAL_FRIEND_REQUEST": "Friend Request",
+        "ID_SOCIAL_FRIEND_REQUEST_ACCEPTED": "{0} has accepted your friend request!",
+        "ID_SOCIAL_ADD_FRIEND": "Add Friend",
+        "ID_SOCIAL_CONTEXTUAL_INVITE_TO_PARTY": "Invite to Party",
+        "ID_SOCIAL_CONTEXTUAL_MUTE": "Mute",
+        "ID_SOCIAL_CONTEXTUAL_UNMUTE": "Unmute",
+        "ID_SOCIAL_CONTEXTUAL_ACCEPT_PARTY_INVITE": "Accept Party Invite",
+        "ID_SOCIAL_CONTEXTUAL_DECLINE_PARTY_INVITE": "Decline Party Invite",
+        "ID_SOCIAL_CONTEXTUAL_SEND_FRIEND_REQUEST": "Send Friend Request",
+        "ID_SOCIAL_CONTEXTUAL_CANCEL_FRIEND_REQUEST": "Cancel Friend Request",
+        "ID_SOCIAL_CONTEXTUAL_REMOVE_FRIEND": "Remove Friend",
+        "ID_SOCIAL_CONTEXTUAL_ACCEPT_FRIEND_INVITE": "Accept Friend Invite",
+        "ID_SOCIAL_CONTEXTUAL_DECLINE_FRIEND_INVITE": "Decline Friend Invite",
+        "ID_SOCIAL_CONTEXTUAL_LEAVE_PARTY": "Leave party",
+        "ID_SOCIAL_CONTEXTUAL_BLOCK_PLAYER": "Block",
+        "ID_SOCIAL_CONTEXTUAL_REPORT_PLAYER": "Report",
+        "ID_SOCIAL_CONTEXTUAL_KICK_FROM_PARTY": "Kick from party",
+        "ID_SOCIAL_CONTEXTUAL_SHOW_PLATFORM_PROFILE": "Profile",
+        "ID_SOCIAL_CONTEXTUAL_CHANGE_NAME": "Change Embark ID",
+        "ID_SOCIAL_CONTEXTUAL_COPY_NAME": "Copy Embark ID",
+        "ID_SOCIAL_CONTEXTUAL_JOIN_VOIP": "Join Voice Chat",
+        "ID_SOCIAL_CONTEXTUAL_LEAVE_VOIP": "Leave Voice Chat",
+        "ID_SOCIAL_EMBARK_ID_COPIED": "Embark ID copied to clipboard!",
+        "ID_SOCIAL_PREPARING_TO_DEPLOY": "Preparing to Deploy...",
+        "ID_SOCIAL_SENT_INVITES": "Invites Sent",
+        "ID_SOCIAL_JOIN": "Join",
+        "ID_SOCIAL_REPORT_SENT": "Your report has been sent!",
+        "ID_SOCIAL_REMOVE_FRIEND_CONFIRMATION": "Are you sure you want to remove {0}?",
+        "ID_SOCIAL_BLOCK_PLAYER_CONFIRMATION": "Are you sure you want to block {0}?",
+        "ID_SOCIAL_KICK_FROM_PARTY_CONFIRMATION": "Are you sure you want to kick {0} from your party?",
+        "ID_SOCIAL_OPTION_FILL_SQUAD": "Fill Squad",
+        "ID_SOCIAL_NOTIFICATION_FRIEND_REQUEST_RECEIVED_HEADER": "Friend Request",
+        "ID_SOCIAL_NOTIFICATION_FRIEND_REQUEST_RECEIVED": "{0} sent you a friend request!",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_RECEIVED_HEADER": "Party Invite",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_RECEIVED": "{0} invited you to their party.",
+        "ID_SOCIAL_NOTIFICATION_PARTY_JOIN_FAILED_TEXT": "Failed to join the party.",
+        "ID_SOCIAL_INPUT_ADD_FRIEND_HINT": "playername#1234",
+        "ID_SOCIAL_PLAYER_REPORT_ACTION_CONTINUE": "Continue",
+        "ID_SOCIAL_PLAYER_REPORT_CHEATING": "Cheating",
+        "ID_SOCIAL_PLAYER_REPORT_EXPLOITING": "Exploiting",
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_DESC": "Add additional information about what happened:",
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_HINT": "512 character limit",
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_INFO": "Add additional information about what happened:",
+        "ID_SOCIAL_PLAYER_REPORT_OFFENSIVEPROFILE": "Offensive Profile",
+        "ID_SOCIAL_PLAYER_REPORT_OTHER": "Other",
+        "ID_SOCIAL_PLAYER_REPORT_REASON_DESC": "Select reason for reporting player:",
+        "ID_SOCIAL_PLAYER_REPORT_SCAMMING": "Scamming",
+        "ID_SOCIAL_PLAYER_REPORT_SEND": "Send report",
+        "ID_SOCIAL_PLAYER_REPORT_SPAMMING": "Spamming",
+        "ID_SOCIAL_PLAYER_REPORT_SUMMARY_DESC": "Thank you for reporting and for helping to keep Arc Raiders a fun place for everyone!",
+        "ID_SOCIAL_PLAYER_REPORT_SUMMARY_HEADER": "Thank you for reporting!",
+        "ID_SOCIAL_PLAYER_REPORT_VERBALABUSE": "Verbal Abuse",
+        "ID_SOCIAL_NOTIFICATION_CONFIRM_LEAVE_PARTY_TITLE": "Confirm Leave Party",
+        "ID_SOCIAL_NOTIFICATION_CONFIRM_LEAVE_PARTY_TEXT": "Do you want to leave your party?",
+        "ID_SOCIAL_MORE_THAN_99": "99+",
+        "ID_SOCIAL_FRIEND_REQUEST_SEND_PREAMBLE": "A friend request will be sent to",
+        "ID_SOCIAL_RECENT_PLAYERS": "Recent Players",
+        "ID_SOCIAL_MATCHMAKING_LOCATION": "Location",
+        "ID_SOCIAL_MATCHMAKING_DESTINATION": "Destination",
+        "ID_SOCIAL_MATCHMAKING_IN_GAME": "In Game",
+        "ID_SOCIAL_CONTEXTUAL_RAIDER": "Raider Card",
+        "ID_SOCIAL_CONTEXTUAL_PROFILE_XBOX": "Gamercard",
+        "ID_SOCIAL_CONTEXTUAL_REPORT_PLAYER_ALREADY": "Already Reported",
+        "ID_SOCIAL_NOTIFICATION_PARTY_JOIN_FAILED_FULL_TEXT": "Failed to join the party: the party is full.",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_SENT": "Sent with success!",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_HEADER": "Party Invite",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_HEADER": "Failed to send party invite",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_GENERIC": "Unknown internal failure",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_FULL": "The party is full",
+        "ID_SOCIAL_NAME_HINT": "Enter Embark ID",
+        "ID_SOCIAL_EDIT_EMBARK_ID": "Edit Embark ID",
+        "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER": "Must start with a letter or number",
+        "ID_SOCIAL_EDIT_EMBARK_ID_NUMBERS_ROW": "Limited to a maximum of {0} {0}|plural(one=number, few=numbers, many=numbers, other=numbers) in a row",
+        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS": "Accepted symbols: hyphen (-), underscore (_), and period (.)",
+        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS_ROW": "Limited to a maximum of {0} {0}|plural(one=symbol, few=symbols, many=symbols, other=symbols) in a row",
+        "ID_SOCIAL_EDIT_EMBARK_ID_CHAR_RANGE": "Must contain between {0}-{1} {1}|plural(one=character, few=characters, many=characters, other=characters)",
+        "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER_END": "Must end with a letter or number",
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN": "You can only change your Embark ID once every 30 days.",
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_REMAINING_DAYS": "You can change your Embark ID again in {0} {0}|plural(one=day, few=days, many=days, other=days)",
+        "ID_SOCIAL_EDIT_EMBARK_ID_SUCCESS_TITLE": "Embark ID changed",
+        "ID_SOCIAL_EDIT_EMBARK_ID_SUCCESS_DESCRIPTION": "Successfully changed Embark ID to {0}.",
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_REMAINING_HOURS_MINUTES": "You can change your Embark ID again in {0}",
+        "ID_SOCIAL_EDIT_EMBARK_ID_ERROR_TITLE": "Embark ID could not be changed",
+        "ID_SOCIAL_EDIT_EMBARK_ID_PROFANITY": "Must not include profanity",
+        "ID_SOCIAL_BUTTON_HIDE_DISCRIMINATOR": "Hide Discriminator (only applies to you)",
+        "ID_SOCIAL_BUTTON_SHOW_DISCRIMINATOR": "Show Discriminator",
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_PARTYLEADER_CLIENT_OUTDATED": "Partyleader has an outdated game client",
+        "ID_SOCIAL_DESKTOP_NOTIFICATION_MATCHMAKING_COMPLETED": "Look sharp, Raider: \r\nyou're on your way topside.",
+        "ID_SOCIAL_PARTY": "Party",
+        "ID_SOCIAL_PARTY_LEAVE": "Leave",
+        "ID_SOCIAL_TAB_REQUESTS": "Requests",
+        "ID_SOCIAL_TAB_FRIENDS": "Friends",
+        "ID_SOCIAL_TAB_RECENT": "Recent",
+        "ID_SOCIAL_FRIEND_REQUEST_PLAYER_BLOCKED": "You have blocked this player.",
+        "ID_SOCIAL_CANCEL": "Cancel",
+        "ID_SOCIAL_CONTEXTUAL_MORE_ACTIONS": "Actions",
+        "ID_SOCIAL_TAB_BLOCKED": "Blocked",
+        "ID_SOCIAL_CONTEXTUAL_UNBLOCK_PLAYER": "Unblock Player",
+        "ID_SOCIAL_RECENT_STATUS_PLAYED_WITH_RECENTLY": "Played with recently",
+        "ID_SOCIAL_RECENT_STATUS_LAST_ROUND": "Last round:",
+        "ID_SOCIAL_RECENT_STATUS_LAST_ROUND_WITH": "Last played with:",
+        "ID_SOCIAL_RECENT_STATUS_HOURS_AGO": "{0} hours ago",
+        "ID_SOCIAL_RECENT_STATUS_DAYS_AGO": "{0} days ago",
+        "ID_SOCIAL_RECENT_STATUS_YEARS_AGO": "{0} years ago",
+        "ID_SOCIAL_EDIT_EMBARK_ID_CONFIRMATION": "Change your Embark ID?",
+        "ID_SOCIAL_EDIT_EMBARK_ID_CONFIRMATION_BODY": "Changing your Embark ID to: {0}\r\nYou can only change your Embark ID once every 30 days.",
+        "ID_SOCIAL_RECENT_STATUS_YEARS_PLURAL": "{NumYears} {NumYears}|plural(one=year, few=years, many=years, other=years) ago",
+        "ID_SOCIAL_RECENT_STATUS_HOURS_PLURAL": "{NumHours} {NumHours}|plural(one=hour, few=hours, many=hours, other=hours) ago",
+        "ID_SOCIAL_RECENT_STATUS_DAYS_PLURAL": "{NumDays} {NumDays}|plural(one=day, few=days, many=days, other=days) ago",
+        "ID_SOCIAL_EMPTY_FRIENDS_LIST": "Raiders you befriend will appear here.",
+        "ID_SOCIAL_EMPTY_RECENT_LIST": "Raiders you meet topside will appear here.",
+        "ID_SOCIAL_EMPTY_REQUEST_LIST": "You do not currently have any pending friend or party requests.",
+        "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_TITLE": "Failed to join party",
+        "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_TITLE": "Party unable to matchmake",
+        "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_DESCRIPTION": "You have an update available. Restart the game to download the update and play with your party.",
+        "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_DESCRIPTION": "You have a required update available. Restart the game to download the update and play with your party.",
+        "ID_SOCIAL_PARTY_LEADER_UPDATE_NEEDED_SNACKBAR_DESCRIPTION": "The party leader has a required update available. They need to restart their game to download the update and play in this party.",
+        "ID_SOCIAL_CANNOT_UNBLOCK_ON_EPIC": "This player is blocked through your Epic account. Please open the Epic Social Overlay to manage your block settings.",
+        "ID_SOCIAL_CONTEXTUAL_JOIN_PARTY": "Join Party",
+        "ID_SOCIAL_OPTION_OPEN_PARTY": "Open Party",
+        "ID_SOCIAL_OPTION_OPEN_PARTY_DESC": "Allows party members friends to join this party",
+        "ID_SOCIAL_OPEN_PARTY_ERROR": "Failed to change party settings",
+        "ID_SOCIAL_OPEN_PARTY_ERROR_DESC": "Please try again later.",
+        "ID_SOCIAL_OPTION_OPEN_PARTY_DESC_LEADER": "Only party leader can change party settings.",
+        "ID_SOCIAL_PLAYER_REPORT_GRIEFING": "Griefing",
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMER_GROUP_TITLE": "Streaming",
+        "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY": "Matchmaking Delay",
+        "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY_DESCRIPTION": "While matchmaking, a randomized delay will be added to your queue to make it more difficult for viewers to queue simultaneously.\r\n\r\nWhen playing in a party, make sure the party leader has this setting toggled on. This cannot be changed while in matchmaking.",
+        "ID_SOCIAL_FRIEND_REQUEST_TOO_MANY": "Too many pending outgoing requests",
+        "ID_SOCIAL_FRIEND_REQUEST_RATE_LIMIT": "Too many requests, please wait"
+      },
+      "KeysToMetaData": {
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_SENT": {
+          "Note": "Feedback for party invite"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_HEADER": {
+          "Note": "Feedback for party invite"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_FULL": {
+          "Note": "Feedback for party invite"
+        },
+        "ID_SOCIAL_RECENT_STATUS_PLAYED_WITH_RECENTLY": {
+          "Note": "In Recent tab in social tab, decribes players that recently interacted/played with"
+        },
+        "ID_SOCIAL_RECENT_STATUS_LAST_ROUND": {
+          "Note": "Out-lines what encounter was had with a player from previous round."
+        },
+        "ID_SOCIAL_RECENT_STATUS_LAST_ROUND_WITH": {
+          "Note": "In Recent tab in social tab, decribes players that recently interacted/played within a time frame"
+        },
+        "ID_SOCIAL_RECENT_STATUS_HOURS_AGO": {
+          "Note": "Timeframe within hours players recently interacted/played with"
+        },
+        "ID_SOCIAL_RECENT_STATUS_DAYS_AGO": {
+          "Note": "Timeframe within hours players recently interacted/played with"
+        },
+        "ID_SOCIAL_RECENT_STATUS_YEARS_AGO": {
+          "Note": "Timeframe within hours players recently interacted/played with"
+        },
+        "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_TITLE": {
+          "Note": "Title on snackbar for failed party"
+        },
+        "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_TITLE": {
+          "Note": "Title on snackbar for when a party won't be able to matchmake due to mismatched versions"
+        },
+        "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_DESCRIPTION": {
+          "Note": "Description in the case when the player cannot join the party due to mismatched versions"
+        },
+        "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_DESCRIPTION": {
+          "Note": "Description in the case when the player can join the party but when they won't be able to matchmake into a game, due to mismatched versions."
+        },
+        "ID_SOCIAL_PARTY_LEADER_UPDATE_NEEDED_SNACKBAR_DESCRIPTION": {
+          "Note": "Description for when party leader has an older version."
+        },
+        "ID_SOCIAL_EMPTY_FRIENDS_LIST": {
+          "Note": "Show in the Friends tab if the friend list is empty."
+        },
+        "ID_SOCIAL_EMPTY_RECENT_LIST": {
+          "Note": "Show in the Recent tab if the Recent list is empty."
+        },
+        "ID_SOCIAL_EMPTY_REQUEST_LIST": {
+          "Note": "Show in the Request tab if the Request list is empty."
+        }
+      }
+    }
+  }
+]

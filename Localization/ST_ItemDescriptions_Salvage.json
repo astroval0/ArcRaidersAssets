@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Salvage",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Salvage",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Salvage",
+      "KeysToEntries": {
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TOMATO": "Ultra rare drop. If you not grow it. This can be sold for good cash",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_LETS_YOU_ENTER_AN_ARC_RAID": "Lets you enter an ARC Raid",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_A_MAKESHIFT_KEY_THAT_LETS_YOU_OPEN_THE_OUTSKIRTS_BUNKER_ON_SPACEPORT": "A makeshift key that lets you open a bunker in Spaceport",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_BULLY_PART": "Drops from Bullies.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_DAMAGED_MEERKAT": "Damaged ARC Part. Might be worth a few coins.",
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_DRIVER": "Drops from Meerkat.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_SEEDS": "Rare seeds found in the world or bought by traders. Used to grow things",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TRACTOR_PART": "Drops from Tractors.",
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_DRONE_PART": "Part of a Meerkat Drone",
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_TICK_DRONE_PART": "Seed container for a Tick Drone"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMDESCRIPTIONS_SALVAGE_A_MAKESHIFT_KEY_THAT_LETS_YOU_OPEN_THE_OUTSKIRTS_BUNKER_ON_SPACEPORT": {
+          "Note": "Outskirts Bunker Key"
+        }
+      }
+    }
+  }
+]

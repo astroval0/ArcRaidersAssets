@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_EORJourney",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_EORJourney",
+    "StringTable": {
+      "TableNamespace": "ST_EORJourney",
+      "KeysToEntries": {
+        "ID_EORJOURNEY_RAIDER": "Raider",
+        "ID_EORJOURNEY_ARC": "ARC",
+        "ID_EORJOURNEY_DEAD": "Knocked out",
+        "ID_EORJOURNEY_DBNO": "Downed",
+        "ID_EORJOURNEY_REVIVE": "Revive",
+        "ID_EORJOURNEY_HATCH": "Hatch",
+        "ID_EORJOURNEY_LIFT": "Cargo Elevator",
+        "ID_EORJOURNEY_METRO": "Metro",
+        "ID_EORJOURNEY_HEAL": "Heal",
+        "ID_EORJOURNEY_PATCH": "Recharge",
+        "ID_EORJOURNEY_LOOT": "Loot",
+        "ID_EORJOURNEY_BUTTON_LEAVESQUAD": "Leave Squad",
+        "ID_EORJOURNEY_BUTTON_STAYINSQUAD": "Stay in Squad"
+      },
+      "KeysToMetaData": {
+        "ID_EORJOURNEY_BUTTON_LEAVESQUAD": {
+          "Note": "Leave Squad when exiting End of Round"
+        },
+        "ID_EORJOURNEY_BUTTON_STAYINSQUAD": {
+          "Note": "Stay in Squand when exiting End of Round"
+        },
+        "ID_EORJOURNEY_ARC": {
+          "Note": ""
+        },
+        "ID_EORJOURNEY_DEAD": {
+          "Note": ""
+        },
+        "ID_EORJOURNEY_DBNO": {
+          "Note": ""
+        },
+        "ID_EORJOURNEY_LIFT": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

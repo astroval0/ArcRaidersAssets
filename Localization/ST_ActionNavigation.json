@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ActionNavigation",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ActionNavigation",
+    "StringTable": {
+      "TableNamespace": "ST_ActionNavigation",
+      "KeysToEntries": {
+        "ID_ACTIONNAVIGATION_EXIT": "Exit",
+        "ID_ACTIONNAVIGATION_BACK": "Back",
+        "ID_ACTIONNAVIGATION_SELECT": "Select",
+        "ID_ACTIONNAVIGATION_REMOVE": "Remove",
+        "ID_ACTIONNAVIGATION_CANCEL": "Cancel",
+        "ID_ACTIONNAVIGATION_LEFT": "Left",
+        "ID_ACTIONNAVIGATION_RIGHT": "Right",
+        "ID_ACTIONNAVIGATION_VIEW": "View",
+        "ID_ACTIONNAVIGATION_EDIT": "Edit",
+        "ID_ACTIONNAVIGATION_RESET": "Reset",
+        "ID_ACTIONNAVIGATION_APPLY": "Apply",
+        "ID_ACTIONNAVIGATION_CLEAR": "Clear",
+        "ID_ACTIONNAVIGATION_SORT": "Sort",
+        "ID_ACTIONNAVIGATION_DISMANTLE": "Dismantle",
+        "ID_ACTIONNAVIGATION_TAB_LEFT": "Tab Left",
+        "ID_ACTIONNAVIGATION_EQUIP": "Equip",
+        "ID_ACTIONNAVIGATION_CRAFT": "Craft",
+        "ID_ACTIONNAVIGATION_DROP": "Drop",
+        "ID_ACTIONNAVIGATION_UPGRADE": "Level Up",
+        "ID_ACTIONNAVIGATION_OPEN": "Open",
+        "ID_ACTIONNAVIGATION_TAB_RIGHT": "Tab Right",
+        "ID_ACTIONNAVIGATION_SPECIAL_LEFT": "Special Left",
+        "ID_ACTIONNAVIGATION_SPECIAL_RIGHT": "Special Right",
+        "ID_ACTIONNAVIGATION_DETAILS": "Details",
+        "ID_ACTIONNAVIGATION_FRIENDS": "Friends",
+        "ID_ACTIONNAVIGATION_SKIP": "Skip",
+        "ID_ACTIONNAVIGATION_SKIP_HOLD": "Hold to Skip",
+        "ID_ACTIONNAVIGATION_TRACKINGLIST": "Tracking List",
+        "ID_ACTIONNAVIGATION_OPEN_LOADOUT": "Open Loadout"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

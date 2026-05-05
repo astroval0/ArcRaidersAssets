@@ -1,0 +1,54 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Enemy",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Enemy",
+    "StringTable": {
+      "TableNamespace": "ST_Enemy",
+      "KeysToEntries": {
+        "ID_ENEMY_GOLDGOBLIN_NAME": "Gold Goblin",
+        "ID_ENEMY_DETONATORDRONE_NAME": "Detonator Drone",
+        "ID_ENEMY_GROUNDHEAVY_NAME": "Ground Heavy",
+        "ID_ENEMY_HEAVYDRONE_NAME": "Heavy Drone",
+        "ID_ENEMY_LIGHTDRONE_NAME": "Light Drone",
+        "ID_ENEMY_MOSSMONSTER_NAME": "Moss Monster",
+        "ID_ENEMY_ONIONELITE_NAME": "Onion Elite",
+        "ID_ENEMY_SHIELDBUBBLE_NAME": "Shield Bubble",
+        "ID_ENEMY_SNEAKDROP_NAME": "Sneak Drop",
+        "ID_ENEMY_SNITCHBOT_NAME": "Snitch",
+        "ID_ENEMY_TICKBOT_NAME": "Tick",
+        "ID_ENEMY_WASABIHALF_NAME": "Wasabi Half",
+        "ID_ENEMY_SALT_NAME": "Salt",
+        "ID_ENEMY_FIREBALL_NAME": "Fireball",
+        "ID_ENEMY_ROCKETEER_NAME": "Rocketeer",
+        "ID_ENEMY_WASP_NAME": "Wasp",
+        "ID_ENEMY_HORNET_NAME": "Hornet",
+        "ID_ENEMY_BULL_NAME": "Leaper",
+        "ID_ENEMY_TURRET_NAME": "Turret",
+        "ID_ENEMY_ROLLBOT_NAME": "ARC Surveyor",
+        "ID_ENEMY_DUMMY_NAME": "Target Dummy",
+        "ID_ENEMY_POP_NAME": "Pop",
+        "ID_ENEMY_PEPPERMINT_NAME": "Queen",
+        "ID_ENEMY_CHONK_NAME": "Bastion",
+        "ID_ENEMY_SNIPER_NAME": "Sentinel",
+        "ID_ENEMY_PINGER_NAME": "Spotter",
+        "ID_ENEMY_CHONK_MORTAR_NAME": "Bombardier",
+        "ID_ENEMY_SPEARMINT_NAME": "Matriarch",
+        "ID_ENEMY_RUNNER": "Shredder",
+        "ID_ENEMY_HORNETFLAMETHROWER_NAME": "Firefly",
+        "ID_ENEMY_HORNETFLAMETHROWER_NAME_ALT1": "Blaze Hornet",
+        "ID_ENEMY_BOOM_NAME": "Comet",
+        "ID_ENEMY_LASERROCKETEER_NAME": "Vaporizer",
+        "ID_ENEMY_MONOLITH_NAME": "Turbine",
+        "ID_ENEMY_MONOLITH_ALT1": "ARC Turbine"
+      },
+      "KeysToMetaData": {
+        "ID_ENEMY_PEPPERMINT_NAME": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

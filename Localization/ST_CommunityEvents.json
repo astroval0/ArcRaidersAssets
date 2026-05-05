@@ -1,0 +1,205 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_CommunityEvents",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_CommunityEvents",
+    "StringTable": {
+      "TableNamespace": "ST_CommunityEvents",
+      "KeysToEntries": {
+        "ID_COMMUNITYEVENT_TT1_PERSONALDELTA_FORMAT": "+{0}",
+        "ID_COMMUNITYEVENT_WIDGET_HEADER": "Live Event",
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_TASKHEADER": "Your Task",
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_DISMISS": "Dismiss",
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_VIEWDETAILS": "View Details",
+        "ID_COMMUNITYEVENTS_DONATEBUTTON_FORMAT": "Donate {0}",
+        "ID_COMMUNITYEVENTS_DONATED": "Donated",
+        "ID_COMMUNITYEVENTS_YOUR_POINTS": "Your Points",
+        "ID_COMMUNITYEVENTS_YOUR_RANK": "Your Rank",
+        "ID_COMMUNITYEVENTS_TOP_RAIDER": "Top Raider",
+        "ID_COMMUNITYEVENTS_NO_EVENT_AVAILABLE": "No Live Event available",
+        "ID_COMMUNITYEVENTS_REWARDS_UNLOCKED": "Rewards Unlocked",
+        "ID_COMMUNITYEVENT_YOUR_CONTRIBUTION": "Your Contribution",
+        "ID_COMMUNITYEVENTS_MATERIALS": "Materials",
+        "ID_COMMUNITYEVENTS_COMMUNITY_PROGRESSION": "Community Progression",
+        "ID_COMMUNITYEVENTS_UNLOCK_NEXT_STAGE": "Unlock Next Stage",
+        "ID_COMMUNITYEVENTS_PHASE_FORMAT": "Phase {0}",
+        "ID_COMMUNITYEVENTS_POINTS_HINT": "Collect points now to earn rewards laters",
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_1": "Supporter",
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_4": "Catalyst",
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_3": "Patron",
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_2": "Contributor",
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_5": "Torchbearer",
+        "ID_COMMUNITYEVENTS_MERITS": "Merits",
+        "ID_COMMUNITYEVENTS_REWARDS": "Rewards",
+        "ID_COMMUNITYEVENTS_REWARD_UNLOCK_FORMAT": "Earn {0} to receive",
+        "ID_COMMUNITY_EVENTS_REWARDS_RECEIVED": "Received",
+        "ID_COMMUNITYEVENTS_MATERIALS_CONTRIBUTED": "Materials Contributed",
+        "ID_COMMUNITYEVENTS_MERITS_REWARDED": "Merits Rewarded",
+        "ID_COMMUNITYEVENTS_GENERIC_EVENT_ENDED_DETAILS": "Thank you for participating",
+        "ID_COMMUNITYEVENTS_GENERIC_EVENT_ENDED_TITLE": "Event ended",
+        "ID_COMMUNITYEVENTS_EXCAVATING_FORMAT": "Excavating... {0}",
+        "ID_COMMUNITYEVENTS_COMMUNITY_PROGRESS": "Community Progress",
+        "ID_COMMUNITYEVENTS_OFFER_AMOUNT_FORMAT": "{0} in stash",
+        "ID_COMMUNITYEVENTS_OFFER_NONE_IN_STASH": "None in stash",
+        "ID_COMMUNITYEVENTS_DONATIONS": "Donations",
+        "ID_COMMUNITYEVENTS_NEW_TOTAL": "New Total",
+        "ID_COMMUNITYEVENTS_TOTAL": "Total",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_TITLE": "Finalizing Tube expansion",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_1": "Building Raider hatches",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_2": "Testing radio systems",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_3": "Greasing rails",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_TITLE": "Available Soon",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_LOCKED_TITLE": "{0}/{1} rounds required on unlock",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_TITLE_ALT1": "Finalizing expansion",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_GENERIC": "Building Raider structures",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_GENERIC_LONG": "The engineering crews are finishing up the necessary Raider structures around the Stella Montis facility.",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_1_LONG": "The engineering crews are building Raider hatches to allow for a quick getaway.",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_2_LONG": "The engineering crews are testing the radio systems to ensure Raiders can be warned of imminent danger.",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_3_LONG": "The engineering crews are making sure the Tube rails are properly oiled and maintained.",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_LOCKED_TITLE_ALT": "{0} rounds left to unlock",
+        "ID_COMMUNITYEVENTS_MAXIMUM_MERITS_REACHED": "Merit limit reached. You can still donate materials.",
+        "ID_COMMUNITYEVENTS_MORE_INFO": "More Information",
+        "ID_COMMUNITY_EVENTS_ABOUT": "About the event",
+        "ID_COMMUNITYEVENTS_MAXIMUM_MERITS_REACHED_ALT": "Merit limit reached.",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_30_MIN": "We are putting the finishing touches on the new Tube stations. Check back in about 30 minutes",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_UNKNOWN": "We are putting the finishing touches on the new Tube stations. Check back later",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_MINUTES": "We are putting the finishing touches on the new Tube stations. Check back in a couple of minutes",
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_1_HOUR": "We are putting the finishing touches on the new Tube stations. Check back in about an hour",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_TITLE": "Flickering Flames",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_SUBTITLE": "Live Event",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_LONG": "As fierce snowfalls cover Topside in a frigid blanket, the inhabitants of Speranza gather together to salvage whatever warmth and community they can. The candleberry bush forms the centerpiece of these festivities, with Speranzans fashioning the hardy plant into a surprisingly lavish banquet.",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_GAMEPLAY": "During the event, the Cold Snap map condition will allow you to gather rare Candleberries, which can be used to prepare your own Candleberry Banquet. However, the risk of frostbite means going topside is even more dangerous than usual.",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_CLOSE": "Close",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_HEADER_PROJECT_REWARDS": "Project Rewards",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_GO_TO_PROJECT": "Go to Candleberry Banquet",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_TITLE": "Flickering Flames",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_SUBTITLE": "Event ended",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_DESCRIPTION": "Though the sense of warmth and community may linger a while longer, the snows have started to thaw, and the last candleberry bushes have been plucked bare.",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_BERRIES": "Candleberries collected",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_MERITS": "Total Merits earned",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_REWARDS": "Rewards earned",
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_BUTTON_DISMISS": "Dismiss",
+        "ID_COMMUNITYEVENT_WINTER_TIMER": "Event ends in {0}",
+        "ID_COMMUNITYEVENT_WINTER_SUBTITLE": "Live Event",
+        "ID_COMMUNITYEVENT_WINTER_TITLE": "Flickering Flames",
+        "ID_COMMUNITYEVENT_WINTER_DESCRIPTION": "Earn Merits by gathering rare Candleberries during the Cold Snap map condition, and use them to prepare your own Candleberry Banquet.",
+        "ID_COMMUNITYEVENT_WINTER_XPAMOUNT": "{0} XP",
+        "ID_COMMUNITYEVENT_WINTER_MERITAMOUNT": "{0} Merits",
+        "ID_COMMUNITYEVENT_XP_CATEGORIES_HEADER": "XP from:",
+        "ID_COMMUNITY_EVENT_XP_PVE_ACTIONS": "XP from dealing damage to ARC, destroying ARC, or assisting another player to take down ARC",
+        "ID_COMMUNITYEVENTS_SEASONALEVENTSCURRENCY": "SeasonalEventsCurrency",
+        "ID_COMMUNITYEVENTS_TICKETS_PUNCHED": "Tickets Punched",
+        "ID_COMMUNITYEVENTS_MERITS_FROM_TICKETS": "Merits from Event Items",
+        "ID_COMMUNITY_EVENTS_MERITS_VIEW_REWARDS": "View Rewards",
+        "ID_COMMUNITY_EVENTS_MERITS_TO_EARN_MERITS": "To earn Merits:",
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE": "Merit rewards",
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_1": "Event goals",
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_2": "Merit goals",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN": "{0} Merits upon return to Speranza.",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN_ALT": "Merits upon return to Speranza.",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_CLAIMED": "Merits already claimed.",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED": "Merits from Event Items",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED_ALT": "Merits from Items",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS": "Merit gained from:",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS_ALT": "Merit from:",
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_DESCRIPTION": "Return with ship models or earn Experience Points (XP).",
+        "ID_COMMUNITY_EVENTS_APRIL_EVENT_NAME": "Miniature Voyages",
+        "ID_COMMUNITY_EVENTS_LAST_RESORT_PROJECT": "The Last Resort"
+      },
+      "KeysToMetaData": {
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_TITLE": {
+          "Note": "Header for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_SUBTITLE": {
+          "Note": "Subheader for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_LONG": {
+          "Note": "Description for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_GAMEPLAY": {
+          "Note": "Other paragraph of description for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_CLOSE": {
+          "Note": "Button on Popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_HEADER_PROJECT_REWARDS": {
+          "Note": "Header for displaying the rewards unlocked and unclaimed in the project"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_GO_TO_PROJECT": {
+          "Note": "Other button on Popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_TITLE": {
+          "Note": "Header for the Winter Event sunset popup (when the event ends)"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_SUBTITLE": {
+          "Note": "Subheader for the Winter Event sunset popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_DESCRIPTION": {
+          "Note": "Description for the Winter Event sunset popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_BERRIES": {
+          "Note": "Stat 1 shown in the Winter Event sunset popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_MERITS": {
+          "Note": "Stat 2 shown in the Winter Event sunset popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_REWARDS": {
+          "Note": "Stat 3 shown in the Winter Event sunset popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_POPUP_END_BUTTON_DISMISS": {
+          "Note": "Button on Popup"
+        },
+        "ID_COMMUNITYEVENT_WINTER_TIMER": {
+          "Note": "Timer to the end of the event"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_VIEW_REWARDS": {
+          "Note": "Button hint for showing all rewards gained in the event."
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_TO_EARN_MERITS": {
+          "Note": "Title for description about how to earn merits"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE": {
+          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_1": {
+          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_2": {
+          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN": {
+          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN_ALT": {
+          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_CLAIMED": {
+          "Note": "Description of tooltip on the a item that already have claimed merits"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED": {
+          "Note": "Title for EOR element describing the amount of merits gained from multiple items"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED_ALT": {
+          "Note": "Title for EOR element describing the amount of merits gained from multiple items"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS": {
+          "Note": "Title for describing items that merit can be gained from"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS_ALT": {
+          "Note": "Title for describing items that merit can be gained from"
+        },
+        "ID_COMMUNITY_EVENTS_MERITS_ITEM_DESCRIPTION": {
+          "Note": "Description on how to obtain merits"
+        },
+        "ID_COMMUNITY_EVENTS_APRIL_EVENT_NAME": {
+          "Note": "Name of the linear progression"
+        },
+        "ID_COMMUNITY_EVENTS_LAST_RESORT_PROJECT": {
+          "Note": "Project and event name combined"
+        }
+      }
+    }
+  }
+]

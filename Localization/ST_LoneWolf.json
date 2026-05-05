@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_LoneWolf",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_LoneWolf",
+    "StringTable": {
+      "TableNamespace": "ST_Lonewolf",
+      "KeysToEntries": {
+        "ID_LONE_WOLF_TITLE": "Solo vs. Squads",
+        "ID_LONE_WOLF_TITLE_ALT": "Lone Wolf",
+        "ID_LONE_WOLF_ONBOARDING_DESCRIPTION": "You are now able to take on squads as a solo Raider.",
+        "ID_LONE_WOLF_TOOLTIP_DESCRIPTION": "Face off against squads as a solo Raider. Unlocked at level {0}.",
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_PARTY": "You can't play Solo vs. Squads while you are in a party.",
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_FILL_SQUAD": "You can't play Solo vs. Squads while Fill Squad is turned on.",
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_COMBO": "You can only play Solo vs. Squads when you’re not in a party and Fill Squad is turned off.",
+        "ID_LONE_WOLF_UNLOCKED_OVERLAY_TITLE": "Solo vs. Squads unlocked",
+        "ID_LONE_WOLF_UNLOCKED_OVERLAY_TITLE_ALT": "Lone Wolf unlocked",
+        "ID_END_OF_ROUND_LONE_WOLF_BONUS": "Solo vs. Squads Bonus",
+        "ID_END_OF_ROUND_LONE_WOLF_BONUS_ALT": "Lone Wolf Bonus",
+        "ID_MATCHMAKING_EXPLAINER_LONE_WOLF": "Playing Solo vs. Squads",
+        "ID_MATCHMAKING_EXPLAINER_LONE_WOLF_ALT": "Solo vs. Squads",
+        "ID_MATCHMAKING_EXPLAINER_SOLO": "Playing as Solo",
+        "ID_MATCHMAKING_EXPLAINER_SOLO_ALT": "Solo vs. Solos",
+        "ID_MATCHMAKING_EXPLAINER_SQUAD": "Playing as a Party",
+        "ID_MATCHMAKING_EXPLAINER_SQUAD_ALT": "Squads vs. Squads",
+        "ID_MATCHMAKING_EXPLAINER_DUO_ALT": "Duos vs. Duos"
+      },
+      "KeysToMetaData": {
+        "ID_LONE_WOLF_TITLE": {
+          "Note": "Feature title"
+        },
+        "ID_LONE_WOLF_ONBOARDING_DESCRIPTION": {
+          "Note": "Onboarding mesage"
+        },
+        "ID_LONE_WOLF_TOOLTIP_DESCRIPTION": {
+          "Note": "Tooltip"
+        },
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_PARTY": {
+          "Note": "Disabled tooltip, party"
+        },
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_FILL_SQUAD": {
+          "Note": "Disabled tooltip, fill squad"
+        },
+        "ID_LONE_WOLF_DISABLED_TOOLTIP_COMBO": {
+          "Note": "Disabled tooltip, combo"
+        },
+        "ID_LONE_WOLF_UNLOCKED_OVERLAY_TITLE_ALT": {
+          "Note": "Unlock overlay"
+        },
+        "ID_END_OF_ROUND_LONE_WOLF_BONUS_ALT": {
+          "Note": "EoR bonus"
+        },
+        "ID_MATCHMAKING_EXPLAINER_LONE_WOLF": {
+          "Note": "Lone wolf mode"
+        },
+        "ID_MATCHMAKING_EXPLAINER_LONE_WOLF_ALT": {
+          "Note": "Alt"
+        },
+        "ID_MATCHMAKING_EXPLAINER_SOLO": {
+          "Note": "Solo"
+        },
+        "ID_MATCHMAKING_EXPLAINER_SOLO_ALT": {
+          "Note": "Alt"
+        },
+        "ID_MATCHMAKING_EXPLAINER_SQUAD": {
+          "Note": "Squad"
+        },
+        "ID_MATCHMAKING_EXPLAINER_SQUAD_ALT": {
+          "Note": "Alt"
+        },
+        "ID_MATCHMAKING_EXPLAINER_DUO_ALT": {
+          "Note": "Duos"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PlayerProfile",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PlayerProfile",
+    "StringTable": {
+      "TableNamespace": "ST_PlayerProfile",
+      "KeysToEntries": {
+        "ID_PLAYERPROFILE_BADGE": "Badge",
+        "ID_PLAYERPROFILE": "Player Profile",
+        "ID_PLAYERPROFILE_EMBLEM": "Emblem",
+        "ID_PLAYERPROFILE_EMBLEM_CUSTOMIZATION": "Emblem Customization",
+        "ID_PLAYERPROFILE_ROUND_HISTORY": "Round History",
+        "ID_PLAYERPROFILE_TITLES": "Titles",
+        "ID_PLAYERPROFILE_RAIDER_POSE": "Raider Pose",
+        "ID_PLAYERPROFILE_BACKGROUND": "Background",
+        "ID_PLAYERPROFILE_FRAMES": "Frames",
+        "ID_PLAYERPROFILE_BADGE_SLOT": "Badge Slot",
+        "ID_PLAYERPROFILE_STATISTICS": "Statistics",
+        "ID_PLAYERPROFILE_BACKGROUNDS": "Backgrounds",
+        "ID_PLAYERPROFILE_BADGE_SLOT_FIRST": "Bagde Slot First",
+        "ID_PLAYERPROFILE_BADGE_SLOT_SECOND": "Badge Slot Second",
+        "ID_PLAYERPROFILE_BADGE_SLOT_THIRD": "Badge Slot Third"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

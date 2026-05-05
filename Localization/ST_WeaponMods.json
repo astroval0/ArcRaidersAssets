@@ -1,0 +1,32 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_WeaponMods",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_WeaponMods",
+    "StringTable": {
+      "TableNamespace": "ST_WeaponMods",
+      "KeysToEntries": {
+        "ID_WEAPONMODS_MANUAL_TARGETING": "Manual Targeting",
+        "ID_WEAPONMODS_SMART_TARGETING": "Smart Targeting",
+        "ID_WEAPONMODS_LOCK_ON_TARGETING": "Lock-On Targeting",
+        "ID_WEAPONMODS_AUTOMATIC_TARGETING": "Automatic Targeting",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_TECH_MOD": "Empty slot for a tech mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_GRIP_MOD": "Empty slot for a grip mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_STOCK_MOD": "Empty slot for a stock mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_SHOTGUN_MUZZLE_MOD": "Empty slot for a shotgun muzzle mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_MUZZLE_MOD": "Empty slot for a muzzle mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_SHOTGUN_MAGAZINE_MOD": "Empty slot for a shotgun magazine mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_MEDIUM_MAGAZINE_MOD": "Empty slot for a medium magazine mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_HEAVY_MAGAZINE_MOD": "Empty slot for a heavy magazine mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_LIGHT_MAGAZINE_MOD": "Empty slot for a light magazine mod.",
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_AN_UNDERBARREL_MOD": "Empty slot for an underbarrel mod.",
+        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY_UPGRADING_THE_WEAPON": "Mod slot unlocked by upgrading the weapon.",
+        "ID_WEAPONMODS_EMPTY_SLOT_SHIELD_MOD": "Empty slot for a shield mod.",
+        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY": "Mod slot unlocked by upgrading the shield."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

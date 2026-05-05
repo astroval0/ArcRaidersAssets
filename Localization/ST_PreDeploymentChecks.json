@@ -1,0 +1,62 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PreDeploymentChecks",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PreDeploymentChecks",
+    "StringTable": {
+      "TableNamespace": "ST_PreDeploymentChecks",
+      "KeysToEntries": {
+        "ID_DEPLOYMENTCHECK_BUTTON_CANCEL": "Cancel",
+        "ID_DEPLOYMENTCHECK_BUTTON_CONTINUE": "Ready Up Anyways",
+        "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_TITLE": "You have unaccepted quests",
+        "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_BODY": "Before you go topside, one or more Traders have a quest available.",
+        "ID_DEPLOYMENTCHECK_QUEST_UNCLAIMED_TITLE": "You have unclaimed rewards",
+        "ID_DEPLOYMENTCHECK_QUEST_UNCLAIMED_BODY": "Before you go topside, claim your rewards for doing quests!",
+        "ID_DEPLOYMENTCHECK_LOADOUT_WARNING_TITLE": "Are you sure you're done packing?",
+        "ID_DEPLOYMENTCHECK_LOADOUT_EMPTY": "Your loadout is empty. It's dangerous to go out empty-handed.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_EMPTY_APARTSAFEPOCKET": "Your loadout is empty apart from the contents of your Safe Pocket. Perhaps you got knocked out, and forgot to empty your Safe Pocket?",
+        "ID_DEPLOYMENTCHECK_LOADOUT_OVERENCUMBERED": "You have too much weight in your loadout. You will be over encumbered.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_NONE": "You haven't equipped any shield. It's not wise to go out without protection.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_GADGET_NONE": "You haven't equipped a gadget. Are you sure you want to go without one?",
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_ALMOSTBROKEN": "The firearm you have equipped is damaged - it will soon break.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_BROKEN": "The firearm you have equipped is broken. You can't use it.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_NONE": "You haven't equipped any firearm. It's dangerous to go out unarmed.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_BROKEN": "The shield you have equipped is already broken. It won't do any good.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_ALMOSTBROKEN": "The shield you have equipped is damaged - it will soon break.",
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_NOAMMO": "Your loadout doesn't contain the type of ammo for your equipped weapon(s).",
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_ONENOAMMO": "Your loadout doesn't contain the type of ammo for one of your equipped weapons.",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_INTRO": "You may not be ready to go topside:",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_DAMAGEDSHIELD": "Equipped Shield is damaged",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_BROKENSHIELD": "Equipped Shield is broken",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOSHIELD": "No Shield equipped",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_EMPTYLOADOUT": "Loadout is empty",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_EMPTYLOADOUTSAFEPOCKET": "Loadout is empty, except for your Safe Pocket",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_DAMAGEDFIREARM": "Equipped firearm is damaged",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_BROKENFIREARM": "Equipped firearm is broken",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOCOMPATIBLEAMMO": "Missing ammo for equipped firearm(s)",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOFIREARM": "No firearm equipped",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_OVERENCUMBERED": "Overencumbered",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_UNACCEPTEDQUESTS": "Unaccepted quests available",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_UNCLAIMEDQUESTS": "Unclaimed quest rewards",
+        "ID_DEPLOYMENTCHECK_LOADOUT_NOHEALING": "You don't have any healing items equipped.",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF": "Matchmaking times may be longer while crossplay is disabled. Check if:",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_TITLE": "Crossplay is disabled",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_INGAME": "Crossplay disabled in Settings",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BUTTON_DISMISS": "Don't show again",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_PARTYMEMBER_IF": "If in party, crossplay disabled by a party member",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_PARTYMEMBER": "Crossplay disabled by a party member",
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_SYSTEM": "Crossplay disabled in system settings",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOAUGMENT": "No Augment equipped",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOSAFEPOCKET": "Augment has no Safe Pocket",
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_RAIDERHATCHKEY_UNUSABLE": "Raider Hatch Keys equipped but the destination has no active Raider Hatches"
+      },
+      "KeysToMetaData": {
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

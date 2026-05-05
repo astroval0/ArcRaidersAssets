@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClanRoles",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClanRoles",
+    "StringTable": {
+      "TableNamespace": "ST_ClanRoles",
+      "KeysToEntries": {
+        "ID_CLAN_ROLE_CAPTAIN": "Captain",
+        "ID_CLAN_ROLE_LEADER": "Leader",
+        "ID_CLAN_ROLE_MEMBER": "Member",
+        "ID_CLAN_ROLE": "Role",
+        "ID_CLAN_ROLE_RECRUITER": "Recruiter",
+        "ID_CLAN_ROLE_NONE": "None"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

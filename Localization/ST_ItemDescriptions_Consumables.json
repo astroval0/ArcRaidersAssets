@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Consumables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Consumables",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Consumables",
+      "KeysToEntries": {
+        "ID_ITEMDESC_ADRENALINSHOT": "A serum that fully restores stamina and temporarily increases stamina regeneration.",
+        "ID_ITEMDESC_HEALINGHOT_SMALL": "A medical item that gradually restores health over time.",
+        "ID_ITEMDESC_HEALINGHOT_MEDIUM": "A medical item that gradually restores a large amount health over time.",
+        "ID_ITEMDESC_HEALTHPACK_01": "A medical item that restores a large amount of health.",
+        "ID_ITEMDESC_HEALTHSPRAY": "A medical item that continuously restores health during use. Can be used on yourself or your allies.",
+        "ID_ITEMDESC_ARMORPACK": "A handheld kit that recharges a shield on use.",
+        "ID_ITEMDESC_DEFIBRILLATOR": "An injection that quickly revives downed raiders and restores some health.",
+        "ID_ITEMDESC_AGAVEJUICE": "A concoction that temporarily increases stamina regeneration, at a small initial cost to health.",
+        "ID_ITEMDESC_FRUITMIX": "A food item that moderately increases both health and stamina.",
+        "ID_ITEMDESC_HEALINGHOT_IMPROVISED": "An improvised medical item that gradually restores health over time.",
+        "ID_ITEMDESC_SHIELDOVERTIMEPACK": "A handheld kit that gradually recharges shield over time."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

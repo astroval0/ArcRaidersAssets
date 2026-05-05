@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Consumables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Consumables",
+    "StringTable": {
+      "TableNamespace": "ST_ITEMNAMES_CONSUMABLES",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_CONSUMABLES_ADRENALINE_SHOT": "Adrenaline Shot",
+        "ID_ITEMNAMES_CONSUMABLES_ARMOR_PATCHER": "Surge Shield Recharger",
+        "ID_ITEMNAMES_CONSUMABLES_STERILIZED_BANDAGE": "Sterilized Bandage",
+        "ID_ITEMNAMES_CONSUMABLES_BANDAGE": "Bandage",
+        "ID_ITEMNAMES_CONSUMABLES_VITA_SHOT": "Vita Shot",
+        "ID_ITEMNAMES_CONSUMABLES_AGAVE_JUICE": "Agave Juice",
+        "ID_ITEMNAMES_CONSUMABLES_FLOWERS": "Flowers",
+        "ID_ITEMNAMES_CONSUMABLES_FRUIT_MIX": "Fruit Mix",
+        "ID_ITEMNAMES_CONSUMABLES_HERBAL_BANDAGE": "Herbal Bandage",
+        "ID_ITEMNAMES_CONSUMABLES_SHIELD_OVER_TIME_PACK": "Shield Recharger"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

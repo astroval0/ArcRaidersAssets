@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SessionModifiers",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_SessionModifiers",
+    "StringTable": {
+      "TableNamespace": "ST_SessionModifiers",
+      "KeysToEntries": {
+        "ID_SESSIONMODIFIERS_NO_RESPAWNS": "No respawns",
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_50_PERCENT": "Loot Drop Rate Boost 50%",
+        "ID_SESSIONMODIFIERS_MORE_LOOT_ENEMIES": "More loot from enemies",
+        "ID_SESSIONMODIFIERS_LESS_LOOT_ENEMIES": "Less loot from enemies",
+        "ID_SESSIONMODIFIERS_LESS_LOOT_BOXES_25_PERCENT": "25% less loot in boxes",
+        "ID_SESSIONMODIFIERS_LOOT_INCREASE_1000_PERCENT": "1000% Increased amount of loot.",
+        "ID_SESSIONMODIFIERS_MORE_PLAYER_HEALTH_50_PERCENT": "Players have 50% more health.",
+        "ID_SESSIONMODIFIERS_PLAYER_HEALTH_REGEN": "Health regen over time",
+        "ID_SESSIONMODIFIERS_PLAYER_DAMAGE_RESISTANCE_50_PERCENT": "Players take 50% more damage.",
+        "ID_SESSIONMODIFIERS_ENEMY_DAMAGE_VULNERABILITY_50_PERCENT": "Enemies take 50% less damage.",
+        "ID_SESSIONMODIFIERS_PLAYER_DEAL_MORE_DAMAGE": "Player deal more damage.",
+        "ID_SESSIONMODIFIERS_ENEMY_DEAL_DAMAGE_100_PERCENT": "Enemies deal 100% more damage.",
+        "ID_SESSIONMODIFIERS_ENEMY_DEAL_LESS_DAMAGE_60_PERCENT": "Enemies deal 60% less damage.",
+        "ID_SESSIONMODIFIERS_FASTER_DBNO_BLEEDOUT": "Faster DBNO Bleed-out",
+        "ID_SESSIONMODIFIERS_SLOWER_DBNO_BLEEDOUT": "Slower DBNO Bleed-out",
+        "ID_SESSIONMODIFIERS_XP_BOOST_100_PERCENT": "XP Boost 100%",
+        "ID_SESSIONMODIFIERS_XP_BOOST_75_PERCENT": "XP Boost 75%",
+        "ID_SESSIONMODIFIERS_XP_BOOST_40_PERCENT": "XP Boost 40%",
+        "ID_SESSIONMODIFIERS_XP_BOOST_20_PERCENT": "XP Boost 20%",
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_75_PERCENT": "Score Boost 75%",
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_40_PERCENT": "Score Boost 40%",
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_20_PERCENT": "Score Boost 20%",
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_10_PERCENT": "Score Boost 10%",
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_RARE": "Loot Drop Rarity Rare",
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_LEGENDARY": "Loot Drop Rarity Legendary",
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_EPIC": "Loot Drop Rarity Epic",
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_COMMON": "Loot Drop Rarity Common",
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_200_PERCENT": "Loot Drop Rate Boost 200%",
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_100_PERCENT": "Loot Drop Rate Boost 100%",
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_20_PERCENT": "Loot Drop Rate Boost 20%",
+        "ID_SESSIONMODIFIERS_POWER_RECHARGE_INCREASE_100_PERCENT": "100% incread power recharge rate",
+        "ID_SESSIONMODIFIERS_UNLIMITED_RESPAWNS": "Unlimited respawns"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

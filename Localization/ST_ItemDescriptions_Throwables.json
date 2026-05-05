@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Throwables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Throwables",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Throwables",
+      "KeysToEntries": {
+        "ID_ITEMDESC_IMPACTGRENADE_SMALL": "A grenade that detonates on impact, dealing explosive damage in a small radius.",
+        "ID_ITEMDESC_SMOKEGRENADE": "A grenade that creates a lingering smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+        "ID_ITEMDESC_STAMINADOTGRENADE": "A grenade that emits a lingering toxic cloud on impact, draining the stamina of any Raiders within its area of effect.",
+        "ID_ITEMDESC_DOTGRENADE": "A grenade that detonates on impact, covering an area in fire that deals damage over time.",
+        "ID_ITEMDESC_TAGGINGGRENADE": "A grenade that detonates after a delay, tagging Raiders and ARC enemies in an area, allowing you to briefly track their location.",
+        "ID_ITEMDESC_BASICSTICKYGRENADE": "A grenade that sticks to surfaces, dealing explosive damage after a short delay.",
+        "ID_ITEMDESC_STICKYREMOTEGRENADE": "A remote-detonated grenade that can stick to surfaces and ARC, dealing explosive damage when triggered.",
+        "ID_ITEMDESC_THROWABLEDECOY": "A noisy device that sticks to surfaces, distracting nearby ARC machines and drawing their fire.",
+        "ID_ITEMDESC_HEGRENADE": "A grenade that detonates after a delay, dealing explosive damage in its radius.",
+        "ID_ITEMDESC_SCATTERMISSILEGRENADE": "A grenade that scatters into multiple homing missiles, each one targeting ARC and dealing explosive damage on impact.",
+        "ID_ITEMDESC_STUNGRENADE": "A grenade that detonates after a delay, stunning enemies within its radius.",
+        "ID_ITEMDESC_GLOWSTICK": "A throwable chemical light that illuminates the area around it.",
+        "ID_ITEMDESC_HOMINGMISSILEGRENADE": "A homing grenade that targets a single nearby ARC dealing explosive damage on impact.",
+        "ID_ITEMDESC_TRAILBLAZER": "A grenade that emits a trail of flammable gas along its path, causing an explosive chain reaction when it ignites.",
+        "ID_ITEMDESC_SMOKEGRENADE_SMALL": "A grenade that pops a thick but small smoke cloud on impact, blocking visibility from ARC and other Raiders.",
+        "ST_ITEMDESC_SHRAPNELGRENADE": "A makeshift fuze grenade that bursts into razor-sharp fragments upon detonation.",
+        "ID_ITEMDESC_SNOWBALL": "A compact snowball fashioned out of the most malleable and aerodynamic snow.",
+        "ID_ITEMDESC_SNOWBALL_ROCK": "A heavier \"snowball\" for the Raiders who don't play nice.",
+        "ID_ITEMDESC_LURE_FIRECRACKER": "A device that sparks and pops in a pleasant manner.",
+        "ID_ITEMDESC_CRASHPAD": "A throwable emergency landing device, to soften some heavy landings."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

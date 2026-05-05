@@ -1,0 +1,139 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_InputAction",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_InputAction",
+    "StringTable": {
+      "TableNamespace": "ST_InputAction",
+      "KeysToEntries": {
+        "ID_INPUTACTION_JUMP": "Jump",
+        "ID_INPUTACTION_FORWARD": "Move Forward",
+        "ID_INPUTACTION_BACKWARD": "Move Backward",
+        "ID_INPUTACTION_LEFT": "Move Left",
+        "ID_INPUTACTION_RIGHT": "Move Right",
+        "ID_INPUTACTION_INTERACT": "Interact",
+        "ID_INPUTACTION_SENDTELEMETRY": "Send Telemetry",
+        "ID_INPUTACTION_SMARTSPRINT": "Smart Sprint",
+        "ID_INPUTACTION_DODGEROLL": "Dodge Roll",
+        "ID_INPUTACTION_AIM": "Aim (Hold)",
+        "ID_INPUTACTION_FIRE": "Fire / Throw / Deploy",
+        "ID_INPUTACTION_ABILITY_GADGET": "Ability Gadget",
+        "ID_INPUTACTION_CROUCHHOLD": "Crouch (Hold)",
+        "ID_INPUTACTION_RELOAD": "Reload Weapon",
+        "ID_INPUTACTION_LAUNCHER": "Launcher",
+        "ID_INPUTACTION_FIREARM": "Firearm",
+        "ID_INPUTACTION_ITEMS": "Items",
+        "ID_INPUTACTION_ACCESSINVENTORY": "Access Inventory",
+        "ID_INPUTACTION_MAP": "Map",
+        "ID_INPUTACTION_PING": "Ping",
+        "ID_INPUTACTION_EMOTE": "Emote",
+        "ID_INPUTACTION_FLASHLIGHT": "Flashlight",
+        "ID_INPUTACTION_TOGGLECHATALL": "Toggle Chat - All",
+        "ID_INPUTACTION_TOGGLECHATSQUAD": "Toggle Chat - Squad",
+        "ID_INPUTACTION_SPRINTHOLD": "Sprint (Hold)",
+        "ID_INPUTACTION_SPRINTTOGGLE": "Sprint (Toggle)",
+        "ID_INPUTACTION_PAN": "Pan",
+        "ID_INPUTACTION_ZOOM": "Zoom",
+        "ID_INPUTACTION_CROUCHTOGGLE": "Crouch (Toggle)",
+        "ID_INPUTACTION_SHOULDERSWAP": "Shoulder Swap",
+        "ID_INPUTACTION_WEAPON1": "Weapon 1",
+        "ID_INPUTACTION_WEAPON2": "Weapon 2",
+        "ID_INPUTACTION_GADGET": "Gadget",
+        "ID_INPUTACTION_MELEEWEAPON": "Melee Weapon",
+        "ID_INPUTACTION_MAPPIN": "Place Waypoint",
+        "ID_INPUTACTION_WALKTOGGLE": "Walk (Toggle)",
+        "ID_INPUTACTION_WALKHOLD": "Walk (Hold)",
+        "ID_INPUTACTION_MOVE_LEFT": "Move Left",
+        "ID_INPUTACTION_MOVE_BACKWARD": "Move Backward",
+        "ID_INPUTACTION_MOVE_RIGHT": "Move Right",
+        "ID_INPUTACTION_JUMP_VAULT": "Jump / Vault",
+        "ID_INPUTACTION_SPRINT_HOLD": "Sprint (Hold)",
+        "ID_INPUTACTION_CROUCH_SLIDE_HOLD": "Crouch/Slide (Hold)",
+        "ID_INPUTACTION_TOGGLE_CROUCH": "Toggle Crouch",
+        "ID_INPUTACTION_DODGE_ROLL": "Dodge Roll",
+        "ID_INPUTACTION_TOGGLE_WALK": "Toggle Walk",
+        "ID_INPUTACTION_COMBAT": "Combat",
+        "ID_INPUTACTION_PRIMARY_WEAPON": "Primary Weapon",
+        "ID_INPUTACTION_SECONDARY_WEAPON": "Secondary Weapon",
+        "ID_INPUTACTION_QUICK_EQUIP_ITEMS": "Quick Equip Items",
+        "ID_INPUTACTION_SWAP_SHOULDER": "Swap Shoulder",
+        "ID_INPUTACTION_CYCLE_EQUIPMENT_UP": "Cycle Equipment Up",
+        "ID_INPUTACTION_CYCLE_EQUIPMENT_DOWN": "Cycle Equipment Down",
+        "ID_INPUTACTION_COMMUNICATION": "Communication",
+        "ID_INPUTACTION_PING_WHEEL_HOLD": "Ping Wheel (Hold)",
+        "ID_INPUTACTION_EMOTE_WHEEL_HOLD": "Emote Wheel (Hold)",
+        "ID_INPUTACTION_PUSH_TO_TALK": "Push To Talk (Party)",
+        "ID_INPUTACTION_PUSH_TO_TALK_PROXIMITY": "Push To Talk (Proximity)",
+        "ID_INPUTACTION_GENERAL": "General",
+        "ID_INPUTACTION_TOGGLE_FLASHLIGHT": "Toggle Flashlight",
+        "ID_INPUTACTION_INVENTORY": "Inventory",
+        "ID_INPUTACTION_CONTROLS_HOLD": "Controls (Hold)",
+        "ID_INPUTACTION_GAME_MENU": "Game Menu",
+        "ID_INPUTACTION_TOGGLE_HUD": "Toggle HUD",
+        "ID_INPUTACTION_MOVEMENT": "Movement",
+        "ID_INPUTACTION_UNARMED": "Unarmed",
+        "ID_INPUTACTION_ITEM_NEXT": "Next Weapon",
+        "ID_INPUTACTION_ITEM_PREVIOUS": "Previous Weapon",
+        "ID_INPUTACTION_TOGGLE_GLOBAL_PING": "Ping Heard By (Toggle) / Emote Loudness (Toggle)",
+        "ID_INPUTACTION_SHOW_CONTROLS": "Show Controls",
+        "ID_INPUTACTION_SWAP_TO_WEAPON": "Unarmed (Hold) / Swap Weapons / Equip Weapon",
+        "ID_INPUTACTION_CROUCH_OR_DODGEROLL": "Crouch (Toggle) / Dodge Roll (Double press)",
+        "ID_INPUTACTION_RELOAD_OR_INTERACT": "Interact / Reload",
+        "ID_INPUTACTION_INVENTORY_OR_MAP": "Inventory / Map (Hold)",
+        "ID_INPUTACTION_MAP_LAYER": "Switch Layer",
+        "ID_INPUTACTION_HOLD": "Hold",
+        "ID_INPUTACTION_TOGGLE": "Toggle",
+        "ID_INPUTACTION_MOVE": "Move",
+        "ID_INPUTACTION_DOUBLE_PRESS": "Double press",
+        "ID_INPUTACTION_RIGHT_CLICK": "Right-click",
+        "ID_INPUTACTION_DOUBLE_CLICK": "Double-click",
+        "ID_INPUTACTION_TAP_AND_PROGRESS": "Tap and progress",
+        "ID_INPUTACTION_PRESS_AND_PROGRESS": "Press and progress",
+        "ID_INPUTACTION_STOW_AWAY": "Stow away",
+        "ID_INPUTACTION_AUGMENTSLOT_1": "Augment Slot 1",
+        "ID_INPUTACTION_AUGMENTSLOT_2": "Augment Slot 2",
+        "ID_INPUTACTION_STOW_AWAY_HOLD": "(Hold) Stow Away",
+        "ID_INPUTACTION_TOGGLE_AIM": "Aim (Toggle)",
+        "ID_INPUTACTION_TOGGLE_PARENTHESIS": "(Toggle) {0}",
+        "ID_INPUTACTION_HOLD_PARENTHESIS": "(Hold) {0}"
+      },
+      "KeysToMetaData": {
+        "ID_INPUTACTION_HOLD": {
+          "Note": "Type of button press"
+        },
+        "ID_INPUTACTION_TOGGLE": {
+          "Note": "Type of button press"
+        },
+        "ID_INPUTACTION_MOVE": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_DOUBLE_PRESS": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_RIGHT_CLICK": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_DOUBLE_CLICK": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_TAP_AND_PROGRESS": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_PRESS_AND_PROGRESS": {
+          "Note": "Type of button action"
+        },
+        "ID_INPUTACTION_STOW_AWAY": {
+          "Note": "Alternative for \"unarmed\" state"
+        },
+        "ID_INPUTACTION_AUGMENTSLOT_1": {
+          "Note": "Binding in settings for augment slots 1"
+        },
+        "ID_INPUTACTION_AUGMENTSLOT_2": {
+          "Note": "Binding in settings for augment slots 2"
+        }
+      }
+    }
+  }
+]

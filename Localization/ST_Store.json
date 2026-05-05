@@ -1,0 +1,94 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Store",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Store",
+    "StringTable": {
+      "TableNamespace": "ST_Store",
+      "KeysToEntries": {
+        "ID_STORE_BUTTON_PREVIEW_BUNDLE": "Preview bundle",
+        "ID_STORE_BUNDLE_PAGE_NAME": "Bundle",
+        "ID_STORE_BUTTON_PURCHASE_SINGLE_ITEM": "Purchase single item",
+        "ID_STORE_BUTTON_PURCHASE_BUNDLE": "Purchase bundle",
+        "ID_STORE_RARITY_EPIC": "Epic",
+        "ID_STORE_RARITY_LEGENDARY": "Legendary",
+        "ID_STORE_EQUIP": "Equip",
+        "ID_STORE_BUNDLE_PURCHASED_CELEBRATION": "Bundle purchased",
+        "ID_STORE_OVERLAY_HARD_CURRENCY_TITLE": "Purchase Raider Tokens",
+        "ID_STORE_NOT_ENOUGH_HARD_CURRENCY": "Not enough Raider Tokens",
+        "ID_STORE_BUNDLE_ITEMS_BREAKDOWN_TITLE": "This bundle includes:",
+        "ID_STORE_BUTTON_CLOSE": "Close",
+        "ID_STORE_HARD_CURRENCY_PURCHASE_BONUS": "{0}% bonus",
+        "ID_STORE_SECTION_EXPIRATION_TIMER": "New offers in {0}",
+        "ID_STORE_RARITY_RARE": "Rare",
+        "ID_STORE_PURCHASE_SUCCESSFUL": "Purchase successful",
+        "ID_STORE_PURCHASE_ERROR": "Purchase failed",
+        "ID_STORE_COST": "Cost",
+        "ID_STORE_AVAILABLE": "Available",
+        "ID_STORE_CELEBRATION_RAIDER_TOKENS": "{amount} Raider Tokens",
+        "ID_STORE_ERROR_PURCHASE_FAIL": "The purchase failed and was cancelled.",
+        "ST_STORE_VIEW_CURRENCY": "Currency",
+        "ID_STORE_UPSELL_TITLE": "Upgrade to the premium edition",
+        "ID_STORE_UPSELL_BUTTON_PURCHASE": "Upgrade to the premium edition",
+        "ID_STORE_UPSELL_ITEMS_BREAKDOWN_TITLE": "Included in the premium edition:",
+        "ID_STORE_BUTTON_CONFIRM_PURCHASE": "Confirm purchase",
+        "ID_STORE_BUTTON_PURCHASE": "Purchase",
+        "ID_STORE_UPSELL_BUTTON_PREVIEW": "Preview",
+        "ID_STORE_USA_LEGAL_PURCHASE_DESCRIPTION": "Purchasing virtual currency or a digital item only grants you a license to use the currency or item on an Embark service.",
+        "ID_STORE_LEGAL_TERMS_DESCRIPTION": "For the full details on the license please see the [Terms of Service]({0}) and [End User License Agreement]({1}).",
+        "ID_STORE_JAPAN_EXPIRATION_DESCRIPTION": "Raider Tokens are used to purchase items in ARC Raiders. You can purchase more below or earn them through gameplay.",
+        "ID_STORE_JAPAN_EXPIRATION_UNUSED_TITLE": "Unused Raider Tokens",
+        "ID_STORE_JAPAN_EXPIRATION_DATE_TITLE": "Expiration Date",
+        "ID_STORE_JAPAN_EXPIRATION_DETAILS": "Unused Raider Tokens expire 180 days after the acquisition or purchase. Raider Tokens are used in the order of acquisition or purchase; the oldest Raider tokens will be used first.",
+        "ID_STORE_PURCHASED": "Purchased",
+        "ID_STORE_ITEM_ALREADY_OWNED": "You already own this item",
+        "ID_STORE_REFRESH_LABEL": "Days until the Store refreshes: {0}",
+        "ID_STORE_REFRESH_SOON_LABEL": "Store refreshing soon",
+        "ID_STORE_PURCHASE_CLARIFICATION": "Includes all of the above",
+        "ID_STORE_RAIDER_TOKENS_FORMAT": "{0} {0}|plural(zero=Raider Tokens, one=Raider Token, two=Raider Tokens, few=Raider Tokens, many=Raider Tokens, other=Raider Tokens)",
+        "ID_STORE_HC_STORE_DELUXE_UPGRADE": "Upgrade to the deluxe edition bundle",
+        "ID_STORE_HC_STORE_BONUS_VALUE": "+ {0} bonus",
+        "ID_STORE_OWNED": "Owned",
+        "ID_STORE_HC_STORE_JAPANESE_COPY": "Description based on [Specified Commercial Transaction Law]({0})",
+        "ID_STORE_FEATURE_SECTION_TITLE": "Featured Items",
+        "ID_STORE_RAIDER_TOKENS_STORE_TITLE": "Raider Tokens Store",
+        "ID_STORE_HC_STORE_OVERLAY_DESCRIPTION": "Raider Tokens are used to acquire cosmetics in ARC Raiders. You can purchase more below or claim them through Decks.",
+        "ID_STORE_PURCHASE_FREE": "Free",
+        "ID_STORE_JAPAN_LEGAL_TRANSACTIONS_LAW": "[Description based on Specified Commercial Transactions Law]({0})",
+        "ID_STORE_OFFER_LABEL_NEW": "New",
+        "ID_STORE_DISCOUNT_LABEL_WITH_AMOUNT": "{0} OFF",
+        "ID_STORE_DISCOUNT_LABEL_WITH_AMOUNT_ALT1": "{0} Off",
+        "ID_STORE_DISCOUNT_LABEL_TEXTONLY": "Discounted",
+        "ID_STORE_BUNDLE_PREVIEW_PRICE_DISCLAIMER": "Bundle price reduction is based on purchasing each item individually. Total price is additionally reduced if you own one or more of the bundle items."
+      },
+      "KeysToMetaData": {
+        "ID_STORE_COST": {
+          "Note": "Cost of the item you're about to purchase"
+        },
+        "ID_STORE_AVAILABLE": {
+          "Note": "Amount of raider tokens you have available at the moment"
+        },
+        "ID_STORE_CELEBRATION_RAIDER_TOKENS": {
+          "Note": "Purchase confirmation of a certain amount of raider tokens"
+        },
+        "ID_STORE_ERROR_PURCHASE_FAIL": {
+          "Note": "Error catch all popup"
+        },
+        "ID_STORE_HC_STORE_DELUXE_UPGRADE": {
+          "Note": "Title copy for the deluxe upgrade offer"
+        },
+        "ID_STORE_HC_STORE_BONUS_VALUE": {
+          "Note": "Informs the player how much more value a certain offer gives compared to the cheapest option"
+        },
+        "ID_STORE_OWNED": {
+          "Note": "Informs the player that they already own a bundle"
+        },
+        "ID_STORE_OFFER_LABEL_NEW": {
+          "Note": "Label explaining that an offer is a new offer"
+        }
+      }
+    }
+  }
+]

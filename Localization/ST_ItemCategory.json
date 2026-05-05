@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemCategory",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemCategory",
+    "StringTable": {
+      "TableNamespace": "ST_ItemCategory",
+      "KeysToEntries": {
+        "ID_ITEMCATEGORY_LAUNCHER": "Launcher",
+        "ID_ITEMCATEGORY_FIREARM": "Firearm",
+        "ID_ITEMCATEGORY_CONSUMABLE": "Consumable",
+        "ID_ITEMCATEGORY_LAUNCHER_PAYLOAD": "Launcher Payload",
+        "ID_ITEMCATEGORY_LAUNCHER_UNIVERSAL_PAYLOAD": "Launcher Universal Payload",
+        "ID_ITEMCATEGORY_THROWABLE": "Throwable",
+        "ID_ITEMCATEGORY_DEPLOYABLE": "Deployable",
+        "ID_ITEMCATEGORY_MODIFICATION": "Modification",
+        "ID_ITEMCATEGORY_MOBILITY_GADGET": "Mobility Gadget",
+        "ID_ITEMCATEGORY_ARMOR": "Shield",
+        "ID_ITEMCATEGORY_CRAFTING_REAGENT": "Crafting Reagent",
+        "ID_ITEMCATEGORY_BACKPACK": "Backpack",
+        "ID_ITEMCATEGORY_CRAFTING_PART": "Crafting Part",
+        "ID_ITEMCATEGORY_FIREARM_PAYLOAD": "Firearm Payload",
+        "ID_ITEMCATEGORY_MELEE_WEAPON": "Melee Weapon",
+        "ID_ITEMCATEGORY_UNARMED": "Unarmed"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

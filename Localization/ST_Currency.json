@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Currency",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Currency",
+    "StringTable": {
+      "TableNamespace": "ST_Currency",
+      "KeysToEntries": {
+        "ID_CURRENCY_SOFT_SHORT": "Soft",
+        "ID_CURRENCY_SOFT_LONG": "Soft Currency",
+        "ID_CURRENCY_HARD_SHORT": "Tokens",
+        "ID_CURRENCY_HARD_LONG": "Raider Tokens",
+        "ID_CURRENCY_SEASONAL_SHORT": "Seasonal",
+        "ID_CURRENCY_SEASONAL_LONG": "Seasonal Currency",
+        "ID_CURRENCY_TECH_LONG": "Tech Currency",
+        "ID_CURRENCY_TECH_SHORT": "Tech",
+        "ID_CURRENCY_COINS": "Coins",
+        "ID_CURRENCY_COINS_DESCRIPTION": "Used to buy gear from Traders. Earned by selling loot and completing quests.",
+        "ID_CURRENCY_BATTLEPASS_POINTS": "Cred",
+        "ID_CURRENCY_BATTLEPASS_POINTS_DESCRIPTION": "Used to claim Raider Deck rewards. Earned by completing Feats.",
+        "ID_CURRENCY_XP": "XP",
+        "ID_CURRENCY_XP_LONG": "Experience Points",
+        "ID_CURRENCY_SKILL_POINTS": "Skill Points",
+        "ID_CURRENCY_SKILL_POINTS_DESCRIPTION": "Skill Points",
+        "ID_CURRENCY_HARD_DESCRIPTION": "Used to purchase decks and cosmetics.",
+        "ID_CURRENCY_COMMUNITYEVENT": "Merits",
+        "ID_CURRENCY_COMMUNITYEVENT_DESCRIPTION": "Earned by participating in Live Events."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

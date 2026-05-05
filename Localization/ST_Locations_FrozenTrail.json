@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Locations_FrozenTrail",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Locations_FrozenTrail",
+    "StringTable": {
+      "TableNamespace": "ST_Locations_FrozenTrail",
+      "KeysToEntries": {
+        "ID_LOCATION_FROZENTRAIL": "Frozen Trail",
+        "ID_LOCATIONS_FROZENTRAIL_CENTRALSTATION": "Central Station",
+        "ID_LOCATIONS_FROZENTRAIL_FACTORY": "Factory",
+        "ID_LOCATIONS_FROZENTRAIL_LOADINGPLATFORM": "Loading Platform",
+        "ID_LOCATIONS_FROZENTRAIL_OBSERVATORY": "Observatory",
+        "ID_LOCATIONS_FROZENTRAIL_RADIOTOWER": "Radio Tower",
+        "ID_LOCATIONS_FROZENTRAIL_RAILYARD": "Railyard",
+        "ID_LOCATIONS_FROZENTRAIL_SUPERMARKET": "Supermarket",
+        "ID_LOCATIONS_FROZENTRAIL_VILLAGE": "Village"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

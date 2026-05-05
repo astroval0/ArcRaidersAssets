@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Ping",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Ping",
+    "StringTable": {
+      "TableNamespace": "ST_Ping",
+      "KeysToEntries": {
+        "ID_PING_NEED_HEALING": "Need healing!",
+        "ID_PING_WILL_HEAL": "Will heal here!",
+        "ID_PING_ATTACK_TARGET": "{0} -- Attack!",
+        "ID_PING_NEED_AMMO": "Need ammo!",
+        "ID_PING_PLAYER": "Raider",
+        "ID_PING_SCAVENGABLE_ENEMY_PART": "Scavengeable {0} Part",
+        "ID_PING_LOCATION": "Location",
+        "ID_PING_EXTRACTION_POINT": "Extraction Point",
+        "ID_PING_REMOVE": "Remove",
+        "ID_PING_ACCEPT": "Accept",
+        "ID_PING_REJECT": "Reject",
+        "ID_PING_DIRECTION": "Direction",
+        "ID_PING_ATTACK": "Attack!",
+        "ID_PING_DISTANCE_FORMAT": "{0}m",
+        "ID_PING_WATCHING": "Watching Here!",
+        "ID_PING_WARNING": "Danger!",
+        "ID_PING_SOMEONES_BEEN_HERE": "Someone's Been Here!",
+        "ID_PING_REGROUP": "Group Up Here",
+        "ID_PING_LOOTING": "Looting Here!",
+        "ID_PING_AUDIO_HEARD": "Heard Something Here",
+        "ID_PING_AVOID": "Avoid That!",
+        "ID_PING_DIBS": "I want that",
+        "ID_PING_DECLINE": "No thanks",
+        "ID_PING_LAST_SEEN": "{0} spotted",
+        "ID_PING_DEAD_PLAYER": "Knocked out Raider"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

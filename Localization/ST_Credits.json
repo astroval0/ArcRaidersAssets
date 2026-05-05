@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Credits",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Credits",
+    "StringTable": {
+      "TableNamespace": "ST_Credits",
+      "KeysToEntries": {
+        "ID_CREDITS_ADDITIONAL_THANKS": "Additional Thanks",
+        "ID_CREDITS_EMBARK_BABIES": "Embark Babies",
+        "ID_CREDITS_EMBARK_STUDIOS": "Embark Studios",
+        "ID_CREDITS_ARC_RAIDERS": "ARC Raiders",
+        "ID_CREDITS_ARC_RAIDERS_TEAM": "ARC Raiders Team",
+        "ID_CREDITS_EMBARK_TEAM": "Embark Team",
+        "ID_CREDITS_ARC_RAIDERS_DEV_TEAM": "ARC Raiders Dev Team",
+        "ID_CREDITS_NEXON_TEAM": "Nexon Team",
+        "ID_CREDITS_OUR_FRIENDS_AT_NEXON": "Our friends at Nexon",
+        "ID_CREDITS_THANKS_FOR_SUPPORT": "Thank you for all the support <3",
+        "ID_CREDITS_HONORABLE_MENTION": "Honorable Mention",
+        "ID_CREDITS_PARTNER_THANKS": "Partner Thanks",
+        "ID_CREDITS_CREDITS": "Credits",
+        "ST_CREDITS_CONTRACTORS": "Contractors"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

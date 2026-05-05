@@ -1,0 +1,39 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Augments",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Augments",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Augments",
+      "KeysToEntries": {
+        "ID_ITEMDESC_AUGMENT_COMBAT_FREELOADOUT": "The Free Loadout version of the Combat augment. Focuses on combat ability, with standard carry capacity and utility.",
+        "ID_ITEMDESC_AUGMENT_COMBAT_T2": "A combat augment more focused on maneuverability than absorbing damage.",
+        "ID_ITEMDESC_AUGMENT_COMBAT_T1": "Basic combat augment. Supports stronger shields, but with limited backpack capacity and Quick Use slots.",
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_AGGRESSIVE": "An improved version of the Combat II augment. Supports more shield types, and comes with extra space for grenades.",
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_FLANKING": "A combat augment more focused on maneuverability than absorbing damage.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_FREELOADOUT": "The Free Loadout version of the Tactical augment. Adds more Quick Use slots for increased tactical opportunities.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T1": "Basic tactical augment. More Quick Use slots for more tactical choice, but limited survivability and slightly lower looting potential.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T2": "Adds more backpack space and an extra utility item slot.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_DEFENSIVE": "A defense-focused augment for keeping Shields topped up.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_HEALING": "A healing-focused augment which adds extra slots for healing items.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_FREELOADOUT": "The Free Loadout version of the Looting augment. Most carry capacity, but with least defensive and tactical capability.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_T1": "Basic looting augment. More backpack slots and weight capacity, but low defensive and tactical capability.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_T2": "Significantly increases looting potential; adds slots for trinkets.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_CAUTIOUS": "A looting augment that swaps some carry capacity to increase survivability.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_DBNO": "A heavy-duty pack mule augment. Large weight capacity and large backpack space.",
+        "ID_ITEMDESC_AUGMENT_FREELOADOUT": "Basic augment for rookie Raiders, offering slightly more backpack space and carry capacity.",
+        "ID_ITEMDESC_AUGMENT_DURABILITY": "Augments will break once durability reaches zero.",
+        "ID_ITEMDESC_AUGMENT_RUINED": "An augment ruined beyond repair.",
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_RELOADER": "A combat augment prioritising offensive capability and preparedness at the expense of backpack space.",
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_CUSTODIAN": "A looting augment that trades weight and utility for increased looting potential.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_REVIVAL": "A tactical augment focused on utility over defense and looting.",
+        "ID_ITEMDESC_AUGMENT_T4_CUSTODIAN": "An augment that trades weight and utility for increased looting potential.",
+        "ID_ITEMDESC_AUGMENT_T4_REVIVAL": "An augment focused on utility over defense and looting.",
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_SMOKE": "An upgraded version of the Tactical MK. 2 augment, adding expanded capacity across the board."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

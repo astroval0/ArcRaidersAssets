@@ -1,0 +1,582 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Frontend",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Frontend",
+    "StringTable": {
+      "TableNamespace": "ST_Frontend",
+      "KeysToEntries": {
+        "ID_FRONTEND_BUTTON_BACK": "Back",
+        "ID_FRONTEND_BUTTON_CANCEL": "Cancel",
+        "ID_FRONTEND_BUTTON_PLAY": "Play",
+        "ID_FRONTEND_BUTTON_EXIT": "Exit",
+        "ID_FRONTEND_TAB_LOBBY": "Main Hub",
+        "ID_FRONTEND_TAB_CUSTOMIZATION": "Customization",
+        "ID_FRONTEND_TAB_BATTLEPASS": "Raider Decks",
+        "ID_FRONTEND_TAB_CHARACTERS": "Character",
+        "ID_FRONTEND_TAB_STORE": "Store",
+        "ID_FRONTEND_TAB_OPTIONS": "Settings",
+        "ID_FRONTEND_BUTTON_GAMEMODE": "Game Mode",
+        "ID_FRONTEND_BUTTON_RECONNECT": "Reconnect",
+        "ID_FRONTEND_MATCHMAKING_STATUS": "Finding Game",
+        "ID_FRONTEND_SKIP_MATCHMAKING": "Start Early (Hold)",
+        "ID_FRONTEND_SELECT": "Select",
+        "ID_FRONTEND_TAB_QUESTS": "Quests",
+        "ID_FRONTEND_ACTIVE_QUESTS": "Active Quests",
+        "ID_FRONTEND_BUTTON_ONBOARDING": "Onboarding",
+        "ID_FRONTEND_BUTTON_INSTRUCTIONS": "Instructions",
+        "ID_FRONTEND_BUTTON_CUSTOMIZE": "Customize",
+        "ID_FRONTEND_BUTTON_HIDEDETAILS": "Hide Details",
+        "ID_FRONTEND_BOOTSCREEN": "Arc Raiders © 2023 Embark Studios. Logos, Arc Raiders Logos are trademarks or registered trademarks owned by or exclusively licensed to Embark Studios. All other trademarks are the property of their respective owners. All rights reserved.",
+        "ID_FRONTEND_BUTTON_CLEAR_NEW": "Clear new indicator",
+        "ID_FRONTEND_TAB_FRIENDS": "Friends",
+        "ID_FRONTEND_BUTTON_LEAVE_PARTY": "Leave Party",
+        "ID_FRONTEND_BUTTON_CANCEL_MATCHMAKING": "Cancel",
+        "ID_FRONTEND_MATCHMAKING_CURRENT_WAIT": "{0}",
+        "ID_FRONTEND_EMOTES_SCREEN": "Emotes",
+        "ID_FRONTEND_BUTTON_PURCHASE": "Purchase",
+        "ID_FRONTEND_BUTTON_REPAIR": "Repair",
+        "ID_FRONTEND_BUTTON_BUILD": "Build",
+        "ID_FRONTEND_LABEL_COST": "Cost:",
+        "ID_FRONTEND_LABEL_INGREDIENTS": "Ingredients:",
+        "ID_FRONTEND_BUTTON_PLAY_SQUAD": "DUO WITH RANDOM",
+        "ID_FRONTEND_BUTTON_PLAY_SOLO": "GO SOLO",
+        "ID_FRONTEND_TAB_CHAMBERS": "Workshop",
+        "ID_FRONTEND_TAB_INVENTORY": "Inventory",
+        "ID_FRONTEND_TAB_TRADERS": "Traders",
+        "ID_FRONTEND_BUTTON_DEPLOY": "Deploy",
+        "ID_FRONTEND_QUEST_SCREEN_DESCRIPTION_OUT_OF_QUESTS": "Hey Raider! You did well, all quests are completed for now. You can still expand your chambers further and explore all equipment you can craft using workshop stations.",
+        "ID_FRONTEND_QUEST_SCREEN_DESCRIPTION_HAS_QUESTS": "The people of Speranza always have tasks they need done and will reward you handsomely for your assistance.",
+        "ID_FRONTEND_OFFER_START_TRACKING": "Track Resources",
+        "ID_FRONTEND_OFFER_STOP_TRACKING": "Untrack",
+        "ID_FRONTEND_TAB_SOCIAL": "Social",
+        "ID_FRONTEND_COLONY_RUN_TITLE": "Free Loadout",
+        "ID_FRONTEND_COLONY_RUN_DESCRIPTION": "You will be given a random set of basic, second-hand gear. A free loadout has fewer inventory slots, and no Safe Pocket. The items in your custom loadout will be moved back to your stash.",
+        "ID_FRONTEND_PARTY_DESCRIPTION_SOLO": "Solo: For the lone Raiders. Expect to encounter other solo Raiders as well as duos.",
+        "ID_FRONTEND_PARTY_DESCRIPTION_DUO": "Duo: Team up with one randomly assigned Raider. You will encounter other duos as well as solo Raiders.",
+        "ID_FRONTEND_BUTTON_DEPLOY_SOLO": "DEPLOY SOLO",
+        "ID_FRONTEND_BUTTON_DEPLOY_DUO": "DEPLOY DUO",
+        "ID_FRONTEND_BUTTON_DEPLOY_SQUAD": "DEPLOY SQUAD",
+        "ID_FRONTEND_PREGAME_SERVER_PREFERENCES": "Server preferences",
+        "ID_FRONTEND_PREGAME_SQUAD": "Squad",
+        "ID_FRONTEND_PREGAME_DESTINATION": "Destination",
+        "ID_FRONTEND_PREGAME_CHANGE_DESTINATION": "Change Destination",
+        "ID_FRONTEND_PREGAME_CHANGE_PREFERENCES": "Change Preferences",
+        "ID_FRONTEND_PREGAME_PARTY_OVERLAY": "Party Leader is selecting your destination",
+        "ID_FRONTEND_PREGAME_SOLO": "Solo",
+        "ID_FRONTEND_PREGAME_LONE_RAIDERS": "Lone Raiders",
+        "ID_FRONTEND_PREGAME_SQUADS": "Squads",
+        "ID_FRONTEND_PREGAME_FILL_SQUAD": "Fill Squad",
+        "ID_FRONTEND_PREGAME_NO_FILL": "No Fill",
+        "ID_FRONTEND_BUTTON_CONFIRM_SELECTION": "Confirm Selection",
+        "ID_FRONTEND_PREGAME_LONE_RAIDERS_DESCRIPTION": "You will encounter other solo players.",
+        "ID_FRONTEND_PREGAME_SQUADS_DESCRIPTION": "Be ready to encounter teams of 2 to 3 Raiders.",
+        "ID_FRONTEND_PREGAME_LOADOUT_TITLE": "What you are bringing with you",
+        "ID_FRONTEND_PREGAME_PREPARE_TO_DEPLOY": "Prepare to Deploy",
+        "ID_FRONTEND_PREGAME_CURRENT_LOADOUT": "Custom Loadout",
+        "ID_FRONTEND_PREGAME_DEPLOYING_WITH": "deploying with",
+        "ID_FRONTEND_SELECTED": "Selected",
+        "ID_FRONTEND_PREGAME_SELECT_YOUR_DESTIONATION": "Select your destination",
+        "ID_FRONTEND_BUTTON_CONFIRM": "Confirm",
+        "ID_FRONTEND_PREGAME_FILL": "Fill",
+        "ID_FRONTEND_INVENTORY_SYNC_FAIL_NOTIF_ACTION": "We have to redirect you back to the {0}",
+        "ID_FRONTEND_PREGAME_READY_UP_WAITING": "Waiting for others to ready up",
+        "ID_FRONTEND_PREGAME_CANCEL_MATCHMAKING": "Cancel Matchmaking",
+        "ID_FRONTEND_PREGAME_CANCEL_READY_UP": "Cancel Ready Up",
+        "ID_FRONTEND_BUTTON_START": "Start",
+        "ID_FRONTEND_BUTTON_READY_UP": "Ready Up",
+        "ID_FRONTEND_ARCRAID_TITLE": "You are going for an Arc Raid!",
+        "ID_FRONTEND_BUTTON_EQUIP": "Equip",
+        "ID_FRONTEND_BUTTON_SAVE": "Save",
+        "ID_FRONTEND_TRACKED_RECIPES": "Tracked Resources",
+        "ID_FRONTEND_BUTTON_TUTORIAL": "Watch tutorial",
+        "ID_FRONTEND_TAB_RAIDERDEN": "Raider",
+        "ID_FRONTEND_PREGAME_FILL_SQUAD_TITLE": "Fill Squad:",
+        "ID_FRONTEND_STATE_ON": "On",
+        "ID_FRONTEND_STATE_OFF": "Off",
+        "ID_FRONTEND_BUTTON_PREVIEW": "Preview",
+        "ID_FRONTEND_BUTTON_CLAIM": "Claim",
+        "ID_FRONTEND_PREGAME_DESTINATION_NO_PARTY": "Only available when playing solo.",
+        "ID_FRONTEND_BUTTON_REPORT_BUG": "Report a bug",
+        "ID_FRONTEND_COMING_FEATURES": "Coming Features",
+        "ID_FRONTEND_COLONY_RUN_TIME_REMAINING": "Free Loadout ({0})",
+        "ID_FRONTEND_MATCHMAKING": "Matchmaking",
+        "ID_FRONTEND_MATCHMAKING_ESTIMATED_WAIT": "- {0}",
+        "ID_FRONTEND_PREGAME_CROSS_PLAY_TITLE": "Crossplay:",
+        "ID_FRONTEND_TAB_SYSTEM": "System",
+        "ID_FRONTEND_TAB_LOGBOOK": "Logbook",
+        "ID_FRONTEND_TAB_TRADES": "Trades",
+        "ID_FRONTEND_MAP_SELECTION": "Map Selection",
+        "ID_FRONTEND_MANAGE_LOADOUT": "Manage Loadout",
+        "ID_FRONTEND_TRADER_STASH_FULL_WARNING": "Purchases are not available while your Stash is full.",
+        "ID_FRONTEND_TRADER_STASH_OVERFLOWING_WARNING": "Purchases are not available while your Stash is overflowing.",
+        "ID_FRONTEND_REWARDCLAIM_STASH_FULL_WARNING": "Make space in your Stash to claim this reward.",
+        "ID_FRONTEND_BUTTON_PREPARE": "Prepare",
+        "ID_MASTERY_TITLE": "Trials",
+        "ID_MASTERY_TITLE_ALT": "Trials Objectives",
+        "ID_MASTERY_POINT_SINGULAR": "point",
+        "ID_MASTERY_POINT_PLURAL": "points",
+        "ID_MASTERY_LEADERBOARD_BUTTON_TITLE": "Leaderboards",
+        "ID_MASTERY_LEADERBOARD_BUTTON_SUBTITLE": "Coming soon",
+        "ID_MASTERY_OBJECTIVE_SINGULAR": "Objective",
+        "ID_MASTERY_OBJECTIVE_PLURAL": "Objectives",
+        "ID_MASTERY_CLAIM_BUTTON_TITLE": "Claim",
+        "ID_MASTERY_CLAIMED_TITLE": "Claimed",
+        "ID_MASTERY_REWARD_LEVEL_1": "Bronze",
+        "ID_MASTERY_REWARD_LEVEL_2": "Silver",
+        "ID_MASTERY_REWARD_LEVEL_3": "Gold",
+        "ID_MASTERY_REWARD_LEVEL_4": "Diamond",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_1": "Reached Bronze",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_2": "Reached Silver",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_3": "Reached Gold",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_4": "Reached Diamond",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_1_ALT": "Bronze Unlocked",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_2_ALT": "Silver Unlocked",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_3_ALT": "Gold Unlocked",
+        "ID_MASTERY_REACHED_REWARD_LEVEL_4_ALT": "Diamond Unlocked",
+        "ID_MASTERY_HIGHSCORE_TITLE": "Personal best",
+        "ID_MASTERY_HIGHSCORE_TITLE_ALT": "Personal best reached",
+        "ID_MASTERY_HIGHSCORE_BEATEN_TITLE": "Personal best beaten",
+        "ID_MASTERY_NEW_HIGHSCORE_TITLE": "New personal best",
+        "ID_MASTERY_SUCCESSFUL_EXTRACTION_REQUIRED": "Safe Return Required",
+        "ID_MASTERY_FAILED_TO_EXTRACT": "Failed to return safely",
+        "ID_MASTERY_FAILED_TO_EXTRACT_ALT": "Safe Return Failed",
+        "ID_MAP_MAP_CONDITION_TITLE": "Map Condition",
+        "ID_MAP_MAP_CONDITION_TITLE_ALT": "Condition",
+        "ID_MAP_MAP_CONDITIONS_TITLE_ALT": "Conditions",
+        "ID_MAP_MAP_CONDITION_ENDS_IN": "Ends in",
+        "ID_MAP_MAP_CONDITION_STARTS_IN": "Starts in",
+        "ID_FRONTEND_OPENINVENTORY_CALLOUT": "Open Inventory",
+        "ID_FRONTEND_MATCHMAKING_WAITINGFORSQUAD": "Waiting for Squadmates",
+        "ID_FRONTEND_MATCHMAKING_CANCEL": "Cancel Ready Up",
+        "ID_FRONTEND_MATCHMAKING_LOADOUT": "Loadout",
+        "ID_FRONTEND_CELEBRATIONS_NEWMAP": "Map Unlocked",
+        "ID_FRONTEND_CELEBRATIONS_NEWMAP_BUTTON": "OK",
+        "ID_FRONTEND_CELEBRATIONS_NEWTAB": "Feature Unlocked",
+        "ID_FRONTEND_CELEBRATIONS_NEWTAB_BUTTON": "Open {tab.name}",
+        "ID_FRONTEND_ACTIONS_VIEW_REWARDS": "View Rewards",
+        "ID_FRONTEND_ACTIONS_MOVE_EQUIP": "Equip",
+        "ID_FRONTEND_ACTIONS_MOVE_SWAP": "Swap",
+        "ID_FRONTEND_ACTIONS_MOVE_SAFEPOCKET": "Move to Safe Pocket",
+        "ID_FRONTEND_ACTIONS_MOVE_QUICK": "Move to Quick Use",
+        "ID_FRONTEND_ACTIONS_MOVE_STASH": "Move to Stash",
+        "ID_FRONTEND_ACTIONS_MOVE_BACKPACK": "Move to Backpack",
+        "ID_FRONTEND_ACTIONS_DETACH_MODS": "Detach Mods",
+        "ID_FRONTEND_ACTIONS_GO_TO_QUEST": "Go to Quest",
+        "ID_FRONTEND_ACTIONS_SWAP_PRIMARY_SLOT": "Swap with Primary Slot",
+        "ID_FRONTEND_ACTIONS_SWAP_SECONDARY_SLOT": "Swap with Secondary Slot",
+        "ID_FRONTEND_ACTIONS_EQUIP_PRIMARY_SLOT": "Equip to Primary Slot",
+        "ID_FRONTEND_ACTIONS_EQUIP_SECONDARY_SLOT": "Equip to Secondary Slot",
+        "ID_FRONTEND_ACTIONS_SEND_STASH": "Send to Stash",
+        "ID_FRONTEND_ACTIONS_DROP": "Drop",
+        "ID_FRONTEND_ACTIONS_GRAB": "Grab",
+        "ID_FRONTEND_ACTIONS_PLACE": "Place",
+        "ID_FRONTEND_ACTIONS_PLACE_HALF": "Place Half",
+        "ID_FRONTEND_ACTIONS_HIDE_TOOLTIP": "Hide Tooltip",
+        "ID_FRONTEND_ACTIONS_SHOW_TOOLTIP": "Show Tooltip",
+        "ID_FRONTEND_MASTERY_FORMAT_POINTS": "{0} points",
+        "ID_MASTERY_FAILED_TO_EXTRACT_NO_PROGRESS": "Faild to extract, progress lost",
+        "ID_MASTERY_FAILED_TO_EXTRACT_NO_PROGRESS_ALT": "Failed extraction, progress lost",
+        "ID_FRONTEND_TAB_TRACKED": "Tracked",
+        "ID_FRONTEND_TAB_TRACKER": "Tracker",
+        "ID_FRONTEND_TAB_PROGRESS": "Progress",
+        "ID_FRONTEND_ROUNDS_PLAYED": "Rounds played: {0}/{1}",
+        "ID_FRONTEND_CELEBRATIONS_UNLOCKEDGENERIC": "Unlocked",
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF": "Crossplay is disabled",
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF_DESCRIPTION_ALT1": "Enabling crossplay may reduce matchmaking times.",
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF_DESCRIPTION_ALT2": "You may experience longer matchmaking times.",
+        "ID_FRONTEND_BUTTON_READY": "Ready",
+        "ID_FRONTEND_BUTTON_DONE": "Done",
+        "ID_FRONTEND_OVERLAY_PROCESSING_TITLE": "Processing...",
+        "ID_MASTERY_WEEKLY_RAIDS": "Weekly Trials",
+        "ID_MASTERY_LEADERBOARD_RANK": "Rank",
+        "ID_MASTERY_LEADERBOARD_POSITION": "Position",
+        "ID_MASTERY_POINT_CAPITALIZED": "Points",
+        "ID_LEADERBOARDS_UP_FOR_PROMOTION": "Up For Promotion",
+        "ID_LEADERBOARDS_RANK_UNCHANGED": "Unchanged",
+        "ID_LEADERBOARDS_RANK_RISK_FOR_DEMOTION": "Risk For Demotion",
+        "ID_LEADERBOARDS_PROMOTION": "Promotion",
+        "ID_LEADERBOARDS_PROMOTION_2X": "2X Promotion",
+        "ID_LEADERBOARDS_DEMOTION": "Demotion",
+        "ID_FRONTEND_TAB_PLAY": "Play",
+        "ID_FRONTEND_TAB_HOME": "Home",
+        "ID_LEADERBOARDS_PROMOTION_2X_ALT": "2X Promo.",
+        "ID_LEADERBOARDS_PROMOTION_2X_ALT_2": "Double Promotion",
+        "ID_LEADERBOARDS_UP_FOR_PROMOTION_2X": "Up for 2X Promotion",
+        "ID_MASTERY_LEADERBOARD_RANK_CHANGE": "Rank Change",
+        "ID_MASTERY_LEADERBOARD_RANK_CHANGE_ALT": "Change",
+        "ID_MASTERY_LEADERBOARD_RANKS": "Ranks",
+        "ID_LEADERBOARDS_SEASON_REWARDS": "Season Rewards",
+        "ID_LEADERBOARDS_VIEW_REWARDS": "View",
+        "ID_LEADERBOARDS_NO_LEAGUE_TITLE": "No League",
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS": "Progress any Trials objective in order to be placed in a league",
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS_ALT": "Progress any Trials objective in order to get a rank",
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS_ALT2": "Play a weekly Trial to get a rank",
+        "ID_LEADERBOARDS_RANK_CHANGE": "24h Change",
+        "ID_LEADERBOARDS_VIEW_FRIENDS": "View Friends",
+        "ID_LEADERBOARDS_FILTER_FRIENDS": "Filter Friends",
+        "ID_LEADERBOARDS_VIEW_LEADERBOARD": "View Leaderboard",
+        "ID_LEADERBOARDS_TOP_RANKED_TITLE": "Top 500",
+        "ID_LEADERBOARDS_PROMOTION_BEST": "Best of the Best",
+        "ID_MASTERY_YOUR_BEST_SCORE": "Your best score",
+        "ID_MASTERY_MILESTONE_TITLE": "Milestone",
+        "ID_MASTERY_MILESTONE_FORMAT": "Next milestone: {0}",
+        "ID_MASTERY_NEXT_RAID_FORMAT": "Next - {0}:{1}",
+        "ID_MASTERY_ACTIVE_RAID_FORMAT": "Active - {0}:{1}",
+        "ID_MASTERY_ACTIVE_RAID_TITLE": "Active Now",
+        "ID_MASTERY_CURRENT_RANK": "Current Rank",
+        "ID_MASTERY_DAMAGE": "Damage",
+        "ID_MASTERY_DAMAGE_FORMAT": "{0} Damage",
+        "ID_MASTERY_SEARCH": "{0}|plural(one=Search, other=Searches)",
+        "ID_MASTERY_SEARCH_FORMAT": "{0} Searched",
+        "ID_MASTERY_DESTROY": "{0}|plural(one=Kill, other=Kills)",
+        "ID_MASTERY_DESTROY_FORMAT": "{0} Destroyed",
+        "ID_MASTERY_FIND": "{0}|plural(one=Find, other=Finds)",
+        "ID_MASTERY_FIND_FORMAT": "{0} Found",
+        "ID_MASTERY_INTERACT": "{0}|plural(one=Interaction, other=Interactions)",
+        "ID_MASTERY_INTERACT_FORMAT": "{0} Interacted",
+        "ID_MASTERY_WEEK_ENDS": "Week ends in",
+        "ID_MASTERY_BEST_TITLE": "Best",
+        "ID_MASTERY_HIGH_SCORE_FORMAT": "Personal best: {0}",
+        "ID_MASTERY_RANK_SCORE": "Rank Score",
+        "ID_MASTERY_TOTAL_SCORE": "Total Score",
+        "ID_MASTERY_THIS_ROUND_SCORE": "This round score",
+        "ID_MASTERY_BRONZE_CRATE": "Bronze Crate",
+        "ID_MASTERY_SILVER_CRATE": "Silver Crate",
+        "ID_MASTERY_GOLD_CRATE": "Gold Crate",
+        "ID_FRONTEND_ON_RETURN_FROM_ROUND_TO_LOBBY_BTN": "To Speranza",
+        "ID_FRONTEND_MANAGE_LOADOUT_POST_ROUND_TITLE": "Manage returning loadout",
+        "ID_FRONTEND_MASTERY_NO_OBJECTIVES_AVAILABLE": "No Trials objectives available at this time",
+        "ID_MASTERY_RANKS_OVERVIEW_TITLE": "How do the ranks work?",
+        "ID_MASTERY_RANKS_OVERVIEW_DESCRIPTION": "Earn points through Trials objectives to earn a rank. At the end of the season collect your rewards based on your final placement in the league",
+        "ID_FRONTEND_BUTTON_CONSUME": "Consume",
+        "ID_FRONTEND_MASTERY_NO_LEAGUE_AVAILABLE": "No Trials league active at this time",
+        "ID_LEADERBOARDS_UNRANKED": "Unranked",
+        "ID_FRONTEND_LEVELS_UNLOCKED_ALT2": "Requires level {0}",
+        "ID_FRONTEND_LEVELS_UNLOCKED": "Unlocks at level {0}",
+        "ID_FRONTEND_RECIPE_VIEW": "Blueprint View",
+        "ID_FRONTEND_LIST_VIEW": "List View",
+        "ID_FRONTEND_LIST_VIEW_ALT": "Resources View",
+        "ID_FRONTEND_EXPAND": "Expand",
+        "ID_FRONTEND_COLLAPSE": "Collapse",
+        "ID_FRONTEND_PREGAME_QUEUE_MODE": "Queue Mode",
+        "ID_FRONTEND_PREGAME_QUEUE_MODE_TITLE": "Queue Mode:",
+        "ID_FRONTEND_TRACKER_VIEW_OBJECTIVES": "View Objectives",
+        "ID_FRONTEND_TRACKER_VIEW_RESOURCES": "View Resources",
+        "ID_FRONTEND_TRACKER_NAVIGATE": "Navigate",
+        "ID_FRONTEND_TRACKER_NAVIGATE_ALT": "Navigate List",
+        "ID_FRONTEND_BUTTON_SEE_DESTINATIONS": "See Destinations",
+        "ID_PLATFORM_NEXON_PCCAFE_BENEFITS": "PC CAFE BENEFITS",
+        "ID_FRONTEND_BUTTON_PATCHNOTES_VERSION": "Patch Notes {0}",
+        "ID_FRONTEND_BUTTON_DESCEND": "Descend",
+        "ID_FRONTEND_BUTTON_DESCENDTOSPERANZA": "Descend to Speranza",
+        "ID_FRONTEND_BUTTON_GOTOSPERANZA": "Go to Speranza",
+        "ID_FRONTEND_BUTTON_TOSPERANZA": "To Speranza"
+      },
+      "KeysToMetaData": {
+        "ID_MASTERY_TITLE": {
+          "Note": "Title of screen"
+        },
+        "ID_MASTERY_TITLE_ALT": {
+          "Note": "Title of screen - Alternative"
+        },
+        "ID_MASTERY_POINT_SINGULAR": {
+          "Note": "Single point"
+        },
+        "ID_MASTERY_POINT_PLURAL": {
+          "Note": "Multiple points"
+        },
+        "ID_MASTERY_LEADERBOARD_BUTTON_TITLE": {
+          "Note": ""
+        },
+        "ID_MASTERY_LEADERBOARD_BUTTON_SUBTITLE": {
+          "Note": ""
+        },
+        "ID_MASTERY_OBJECTIVE_SINGULAR": {
+          "Note": "Single objective"
+        },
+        "ID_MASTERY_OBJECTIVE_PLURAL": {
+          "Note": "Multiple objectives"
+        },
+        "ID_MASTERY_CLAIM_BUTTON_TITLE": {
+          "Note": "Button action to claim"
+        },
+        "ID_MASTERY_CLAIMED_TITLE": {
+          "Note": "Once a reward is claimed"
+        },
+        "ID_MASTERY_REWARD_LEVEL_1": {
+          "Note": "Reward tier 1 for any objective"
+        },
+        "ID_MASTERY_REWARD_LEVEL_2": {
+          "Note": "Reward tier 2 for any objective"
+        },
+        "ID_MASTERY_REWARD_LEVEL_3": {
+          "Note": "Reward tier 3 for any objective"
+        },
+        "ID_MASTERY_REWARD_LEVEL_4": {
+          "Note": "Reward tier 4 for any objective"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_1": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_2": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_3": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_4": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_1_ALT": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_2_ALT": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_3_ALT": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_REACHED_REWARD_LEVEL_4_ALT": {
+          "Note": "Once a reward is reached"
+        },
+        "ID_MASTERY_HIGHSCORE_TITLE": {
+          "Note": "Title for highscore"
+        },
+        "ID_MASTERY_HIGHSCORE_TITLE_ALT": {
+          "Note": "Title for highscore"
+        },
+        "ID_MASTERY_HIGHSCORE_BEATEN_TITLE": {
+          "Note": "Title for highscore"
+        },
+        "ID_MASTERY_NEW_HIGHSCORE_TITLE": {
+          "Note": "Title for highscore"
+        },
+        "ID_MASTERY_SUCCESSFUL_EXTRACTION_REQUIRED": {
+          "Note": "Extraction Required text"
+        },
+        "ID_MASTERY_FAILED_TO_EXTRACT": {
+          "Note": "Extraction failed text"
+        },
+        "ID_MASTERY_FAILED_TO_EXTRACT_ALT": {
+          "Note": "Extraction failed text"
+        },
+        "ID_MAP_MAP_CONDITION_TITLE": {
+          "Note": "Title for map conditons"
+        },
+        "ID_MAP_MAP_CONDITION_TITLE_ALT": {
+          "Note": "Title for map conditons"
+        },
+        "ID_MAP_MAP_CONDITIONS_TITLE_ALT": {
+          "Note": "Title for map conditons"
+        },
+        "ID_MAP_MAP_CONDITION_ENDS_IN": {
+          "Note": "Title for when a condition ends"
+        },
+        "ID_MAP_MAP_CONDITION_STARTS_IN": {
+          "Note": "Title for when a condition starts"
+        },
+        "ID_FRONTEND_OPENINVENTORY_CALLOUT": {
+          "Note": "In case we want to change the label in bottom"
+        },
+        "ID_FRONTEND_TRADER_STASH_FULL_WARNING": {
+          "Note": "Warning text on Trades screen"
+        },
+        "ID_FRONTEND_TRADER_STASH_OVERFLOWING_WARNING": {
+          "Note": "Warning text on Trades screen - Alternative"
+        },
+        "ID_FRONTEND_REWARDCLAIM_STASH_FULL_WARNING": {
+          "Note": "\"Generic warning text on screens that gives your rewards you can claim (battlepass, mastery, quests,...)\""
+        },
+        "ID_FRONTEND_BUTTON_PREPARE": {
+          "Note": "CTA on the Homescreen"
+        },
+        "ID_FRONTEND_BUTTON_PLAY": {
+          "Note": "CTA on the Homescreen"
+        },
+        "ID_FRONTEND_PREGAME_PARTY_OVERLAY": {
+          "Note": "Map selection warning body text"
+        },
+        "ID_FRONTEND_PREGAME_FILL_SQUAD_TITLE": {
+          "Note": "Loadout Confirmation body text"
+        },
+        "ID_FRONTEND_MATCHMAKING_WAITINGFORSQUAD": {
+          "Note": "Matchmaking widget - waiting for squad members to ready up"
+        },
+        "ID_FRONTEND_MATCHMAKING_CANCEL": {
+          "Note": "Matchmaking widget button"
+        },
+        "ID_FRONTEND_MATCHMAKING_LOADOUT": {
+          "Note": "Matchmaking widget button to check the loadout you're bringing with you"
+        },
+        "ID_FRONTEND_CELEBRATIONS_NEWMAP": {
+          "Note": "Celebration title"
+        },
+        "ID_FRONTEND_CELEBRATIONS_NEWMAP_BUTTON": {
+          "Note": "Confirm new unlock"
+        },
+        "ID_FRONTEND_CELEBRATIONS_NEWTAB": {
+          "Note": "Celebration title"
+        },
+        "ID_FRONTEND_CELEBRATIONS_NEWTAB_BUTTON": {
+          "Note": "New tab celebration button"
+        },
+        "ID_FRONTEND_ACTIONS_VIEW_REWARDS": {
+          "Note": "allows to select items in the reward panel"
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_EQUIP": {
+          "Note": "moves item from stash container to avalible loadout"
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_SWAP": {
+          "Note": "swaps selected item with other Item."
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_SAFEPOCKET": {
+          "Note": "moves item a Safe Pocket slot"
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_QUICK": {
+          "Note": "moves item to Quick Belt slot"
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_STASH": {
+          "Note": "moves item to a Stash slot"
+        },
+        "ID_FRONTEND_ACTIONS_MOVE_BACKPACK": {
+          "Note": "moves item to a Backpack slot"
+        },
+        "ID_FRONTEND_ACTIONS_DETACH_MODS": {
+          "Note": "removes attached mod from weapon and moves them to stash"
+        },
+        "ID_FRONTEND_ACTIONS_GO_TO_QUEST": {
+          "Note": "redirects to Quest screen"
+        },
+        "ID_FRONTEND_ACTIONS_SWAP_PRIMARY_SLOT": {
+          "Note": "swaps selected weapon with Primary Slot"
+        },
+        "ID_FRONTEND_ACTIONS_SWAP_SECONDARY_SLOT": {
+          "Note": "swaps selected weapon with Secondary Slot"
+        },
+        "ID_FRONTEND_ACTIONS_EQUIP_PRIMARY_SLOT": {
+          "Note": "equips selected weapon on Primary Slot"
+        },
+        "ID_FRONTEND_ACTIONS_EQUIP_SECONDARY_SLOT": {
+          "Note": "equips selected weapon on Secondary Slot"
+        },
+        "ID_FRONTEND_ACTIONS_SEND_STASH": {
+          "Note": "moves Item from container to Stash"
+        },
+        "ID_FRONTEND_ACTIONS_DROP": {
+          "Note": "drops item selected item to the ground"
+        },
+        "ID_FRONTEND_ACTIONS_GRAB": {
+          "Note": "lifts selected item so it can be moved around in the grid"
+        },
+        "ID_FRONTEND_ACTIONS_PLACE": {
+          "Note": "places the selected item on empty slot"
+        },
+        "ID_FRONTEND_ACTIONS_PLACE_HALF": {
+          "Note": "places half of the selected stack on slot"
+        },
+        "ID_FRONTEND_ACTIONS_HIDE_TOOLTIP": {
+          "Note": "hides item tooltip"
+        },
+        "ID_FRONTEND_ACTIONS_SHOW_TOOLTIP": {
+          "Note": "show item tooltip"
+        },
+        "ID_FRONTEND_TAB_TRACKER": {
+          "Note": "An alternative for the logbook"
+        },
+        "ID_FRONTEND_BUTTON_CANCEL": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_RECONNECT": {
+          "Note": ""
+        },
+        "ID_FRONTEND_MATCHMAKING_STATUS": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_PURCHASE": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_REPAIR": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_BUILD": {
+          "Note": ""
+        },
+        "ID_FRONTEND_LABEL_COST": {
+          "Note": ""
+        },
+        "ID_FRONTEND_LABEL_INGREDIENTS": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_DEPLOY": {
+          "Note": ""
+        },
+        "ID_FRONTEND_PREGAME_NO_FILL": {
+          "Note": ""
+        },
+        "ID_FRONTEND_PREGAME_FILL": {
+          "Note": ""
+        },
+        "ID_FRONTEND_PREGAME_CANCEL_MATCHMAKING": {
+          "Note": ""
+        },
+        "ID_FRONTEND_PREGAME_CANCEL_READY_UP": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_GAMEMODE": {
+          "Note": ""
+        },
+        "ID_FRONTEND_BUTTON_PLAY_SQUAD": {
+          "Note": "Outdated"
+        },
+        "ID_LEADERBOARDS_VIEW_REWARDS": {
+          "Note": "View searson rewards"
+        },
+        "ID_MASTERY_NEXT_RAID_FORMAT": {
+          "Note": "Time when next raid will become available."
+        },
+        "ID_MASTERY_DAMAGE": {
+          "Note": "Used to explain to the player how much of mastery raid objective they did"
+        },
+        "ID_MASTERY_BRONZE_CRATE": {
+          "Note": "Mastery tiers"
+        },
+        "ID_MASTERY_SILVER_CRATE": {
+          "Note": "Mastery tiers"
+        },
+        "ID_MASTERY_GOLD_CRATE": {
+          "Note": "Mastery tiers"
+        },
+        "ID_FRONTEND_OFFER_START_TRACKING": {
+          "Note": ""
+        },
+        "ID_FRONTEND_TRACKED_RECIPES": {
+          "Note": ""
+        },
+        "ID_FRONTEND_LEVELS_UNLOCKED_ALT2": {
+          "Note": "To mark out when features are locked behind a level"
+        },
+        "ID_FRONTEND_LEVELS_UNLOCKED": {
+          "Note": "To mark out when features are locked behind a level"
+        },
+        "ID_FRONTEND_RECIPE_VIEW": {
+          "Note": "Button to change the tracking list to display Resources together with the Offer it will create."
+        },
+        "ID_FRONTEND_LIST_VIEW": {
+          "Note": "Button to change the tracking list to display only Resources in a list manner."
+        },
+        "ID_FRONTEND_LIST_VIEW_ALT": {
+          "Note": "Button to change the tracking list to display only Resources in a list manner. (Alternative)"
+        },
+        "ID_FRONTEND_EXPAND": {
+          "Note": "Hint for Expanding a collapsed widget"
+        },
+        "ID_FRONTEND_COLLAPSE": {
+          "Note": "Hint for Expanding a collapsed widget"
+        }
+      }
+    }
+  }
+]

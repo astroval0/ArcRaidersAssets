@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_UIPingInputHint",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_UIPingInputHint",
+    "StringTable": {
+      "TableNamespace": "ST_UIPingInputHint",
+      "KeysToEntries": {
+        "ID_UIPING_WEAPONSLOT_POPULATED": "Request ammo",
+        "ID_UIPING_WEAPONSLOT_EMPTY": "Request weapon",
+        "ID_UIPING_ITEM_TRACKED": "Ping item",
+        "ID_UIPING_ITEM_LOOTCONTAINER": "Ping item",
+        "ID_UIPING_QUEST_OBJECTIVE": "Ping quest",
+        "ID_UIPING_ITEM_INVENTORY": "Ping item",
+        "ID_UIPING_ARMORSLOT_POPULATED": "Request Shield Recharger",
+        "ID_UIPING_ARMORSLOT_EMPTY": "Request Shield"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

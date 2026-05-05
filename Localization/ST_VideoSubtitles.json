@@ -1,0 +1,1032 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_VideoSubtitles",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_VideoSubtitles",
+    "StringTable": {
+      "TableNamespace": "ST_VideoSubtitles",
+      "KeysToEntries": {
+        "ID_VIDEOSUB_ONSCREEN_EMBARKPRESENTS": "Embark Studios presents",
+        "ID_VIDEOSUB_TT1OPENING_001": "A bed down here in Speranza sure beats sleeping outside.",
+        "ID_VIDEOSUB_TT1OPENING_002": "That's why there are so many people here.",
+        "ID_VIDEOSUB_TT1OPENING_003": "You have the freedom here to build from nothing;",
+        "ID_VIDEOSUB_TT1OPENING_004": "to be a self-made pioneer,",
+        "ID_VIDEOSUB_TT1OPENING_005": "a Raider.",
+        "ID_VIDEOSUB_TT1OPENING_006": "But at what price? That's what you should be asking yourself.",
+        "ID_VIDEOSUB_TT1OPENING_007": "Up there, topside, no hands are clean —",
+        "ID_VIDEOSUB_TT1OPENING_008": "but I never was in the first place.",
+        "ID_VIDEOSUB_TT1OPENING_009": "Everything has a price, and it's always higher than you think.",
+        "ID_VIDEOSUB_TT1OPENING_010": "(That depends on your wallet.)",
+        "ID_VIDEOSUB_TT1OPENING_011": "I wouldn't trust anyone in here.",
+        "ID_VIDEOSUB_TT1OPENING_012": "You'll have to figure it out on your own.",
+        "ID_VIDEOSUB_TT1OPENING_013": "Just be cautious.",
+        "ID_VIDEOSUB_TT1OPENING_014": "Things are not what they seem to be.",
+        "ID_VIDEOSUB_TT1OPENING_015": "I know you can do your own thing,",
+        "ID_VIDEOSUB_TT1OPENING_016": "but down here, a lot of people lean on Raiders to get through the day.",
+        "ID_VIDEOSUB_TT1OPENING_017": "There's plenty of work down here, if you want to make a difference;",
+        "ID_VIDEOSUB_TT1OPENING_018": "if you're willing to take some risks. I'm sure it will be worth it.",
+        "ID_VIDEOSUB_TT1OPENING_019": "Who knows? Maybe you'll make a friend or two here.",
+        "ID_VIDEOSUB_TT1OPENING_020": "But watch your back,",
+        "ID_VIDEOSUB_TT1OPENING_021": "you never know who you can trust.",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_010": "The camps...",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_020": "Feels like forever we could spend our nights on the surface;",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_030": "when we still thought we had a chance",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_040": "against the machines.",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_050": "Precious few still believe, these days.",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_060": "Now we cower underground;",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_070": "scramble over scraps.",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_080": "Feels like a different world,",
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_090": "yet the camps still stand...",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_010": "Shani told me about what you found.",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_020": "Something's changed…",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_030": "We’ve seen a lot more Probes",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_040": "beaming across the skies.",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_050": "More crashed Couriers.",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_060": "We’ve heard tales of what happens",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_070": "if they find what they’re looking for.",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_080": "They might be myths,",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_090": "but I don’t want us finding out",
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_100": "the hard way.",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_010": "I remember when we brought down",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_020": "the last Baron.",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_030": "We thought the Topside was ours again;",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_040": "that we could start rebuilding.",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_050": "Fools, all of us.",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_060": "ARC was back within years…",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_070": "Reinforced…",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_080": "Relentless.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_0010": "It was silent for years.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_0011": "Just whispers.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_0012": "Distant cracks of thunder.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_0013": "No one paid attention.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_0014": "I wish we did.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010": "ARC moves across the borders of the Rust Belt every night.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010_ALT1": "When one machine falls, another takes its place.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010_ALT2": "ARC has ruled the Topside for over a decade.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0011": "The machines threaten any possible settlement on the surface.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0011_ALT1": "ARC threatens any possible settlement on the surface.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012": "In the hidden city of Toledo, thousands seek shelter.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012_ALT1": "The neighborhood of Speranza houses thousands of people.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0013": "Many of them rely on vital supplies from the surface.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0014": "Among the fierce competition for these resources —",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0015": "only a few dare to go topside.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0016": "They are known as Raiders.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0010": "This elevator has been",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0020": "out of commission since—",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0030": "I can not let you in",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0040": "until you show your face.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0050": "Security to the Slingshot in sector G.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0060": "We have a possible intruder in the Tubes.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0070": "Repeat: possible intruder.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0080": "Don’t even think of trying anything.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0090": "When the elevator stops,",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0100": "exit with your hands raised.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0110": "How did you make it here by yourself?",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0120": "Who are you?",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0010": "A bed down here in Speranza",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0020": "sure beats sleeping outside.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0030": "The Raiders...",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0040": "Well, they’re a small price to pay.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0050": "…are not leaving until we get our olives!",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0060": "Up topside, clean hands",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0070": "don’t get the work done.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0080": "Speranza let me build from nothing;",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0090": "be a self-made pioneer.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0100": "A life, they call it.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0110": "Holed up underground; surviving on",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0120": "whatever scraps they choose to share...",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0130": "Everything has a price,",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0140": "and it’s always higher than you think.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0150": "Raiders may not follow orders,",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0160": "but they’ll follow a bounty,",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0170": "if it’s high enough.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0180": "I wouldn't worry about other Raiders that much.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0190": "I would worry about ARC.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0200": "Something's going on.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0010": "Supposedly this is where the ships went up, once.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0020": "They must’ve lined up, crammed in,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0030": "and left without looking back.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0040": "But you know what? I’ve been thinking–",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0050": "maybe they didn’t make it.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0060": "Maybe they burned out in the void,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0070": "got a one-way ticket to nowhere.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0080": "And here we are.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0090": "Still standing, still scraping by.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0100": "Maybe we’re the lucky ones after all.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0010": "What's it like up there?",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0020": "It's dangerous.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0030": "The whole thing is eaten by the sand.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0040": "No one lives there anymore.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0050": "You walk the streets and see signs of them—",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0060": "faded murals, old ads in shop windows,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0070": "toys left where kids used to play.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0080": "Like the place still remembers,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0090": "even if no one else does.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0010": "The Dam remained a fortress,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0020": "long after it stopped being a dam.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0030": "Thick walls and high ground:",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0040": "nowhere better to make a stand.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0050": "But now, it’s something else,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0060": "something wild.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0070": "Part ruin, part swamp.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0080": "The ARC still stalk the area,",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0090": "but for anyone willing to risk it",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0100": "there’s plenty left to take.",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_YEAR": "2180",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0005": "Hey — you are on camera.",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_SPEAKERTAG_SHANI": "Shani",
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_SPEAKERTAG_OPERATOR": "Operator",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0025": "But it's getting pretty crowded.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0027": "You have the freedom here to build from nothing.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075": "That's why I stay down here.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0210": "A lot of people down here in Speranza lean on Raiders to get through the day.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220": "I don't like it, but if you wanna go back up,",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0230": "you catch a ride with the Tubes on level four.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240": "They'll take you all the way to Buried City.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240_ALT1": "They'll take you all the way to The Dam.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0250": "OK, here we are.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0260": "This room is the best I can do for you now.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0270": "It's a dump, I know,",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0280": "but you'll learn to love it, I'm sure.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0290": "Come see me when you've settled in.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_01": "Calabretta",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_02": "South",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_03": "Buried City",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_01": "Calabretta",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_02": "North",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_03": "Acerra Spaceport",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0013": "In the city.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0012": "Where?",
+        "ID_VIDEOSUB_MEETINGSHANI_ONSCREEN_SHANISECURITY": "SHANI | Security",
+        "ID_VIDEOSUB_MEETINGSHANI_ONSCREEN_TOLEDOSPERANZA": "TOLEDO | Speranza",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_RUSTBELTSOUTHCALABRETTA": "Rust Belt | South Calabretta",
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012_ALT2": "In the underground settlement of Speranza, thousands seek shelter.",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_010": "When they talk about the First Wave,",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_020": "they mention the battles…",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_030": "The heroics.",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_040": "But fighting back is more than",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_050": "gunshots and bullet holes.",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_060": "It's mouths to feed;",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_070": "crops to grow.",
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_080": "It's all of us, together.",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_010": "Even before we were forced underground,",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_020": "we never strayed far from The Dam;",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_030": "from the water that nourishes us.",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_040": "No matter the hazards.",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_050": "No matter the threats.",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_060": "If you've ever wandered the barren wastes,",
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_070": "you'll understand why.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_010": "You got a minute?",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_015": "Depends.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_020": "Come on. I have something",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_030": "One of the rookies",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_040": "brought it back earlier.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_050": "This is…",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_060": "They found this?",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_070": "Up there?",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_080": "Old outpost, back on the ridge.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_090": "Tremors must’ve uncovered",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_100": "the entrance recently.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_110": "Used to be half-buried.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_120": "There might be more in there,",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_130": "but I know this was your mother's squad, so...",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_140": "I thought you should have it.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_150": "Y'know, coming from you,",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_160": "this almost feels like a trap.",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_170": "Still, I’ll… hang on to this.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_010": "I remember when we brought down",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_020": "the last Baron.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_030": "We thought Topside was ours again;",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_040": "that we could start rebuilding.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_050": "Fools, all of us.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_060": "ARC was back within years…",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_070": "Reinforced…",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_080": "Relentless.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_090": "But there are lessons to be learned.",
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_100": "If you are willing.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220_ALT2": "If you want in on the fun, just head up to level 4;",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_010": "Hope is a fickle thing, you know.",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_020": "I try not to get too caught up in it.",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_030": "But a night like this",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_040": "makes me want to get carried away.",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_050": "Even if it’s not forever.",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_060": "Even if it’s only for a little while.",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_070": "It’s just nice to see",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_080": "everyone smiling for once.",
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_010": "It's nice to see the flags back up.",
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_020": "Like old times.",
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_030": "Like old times, yeah.",
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_040": "But this time we'll win.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_010": "“Strategic redeployment…”",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_020": "Sounds an awful lot like they just…",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_030": "Gave up.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_010": "What nonsense.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_020": "For all their talk about",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_030": "safeguarding humanity,",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_040": "they ended up leaving most of it",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_050": "behind in the end.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_010": "That’s a grand old speech alright.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_020": "Lots of projections and justifications.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_030": "All very convincing,",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_040": "if you ignore the present.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_010": "Project Heartwood represented a",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_020": "bold collaboration between some of the world's",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_030": "most pioneering innovators;",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_040": "channeling our joint innovative spirit",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_050": "to develop turnkey solutions",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_060": "to the existential threat of",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_070": "rising ecological instability.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_080": "Although we are proud of all",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_090": "that we have accomplished,",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_100": "the Board of Directors has today concluded",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_110": "that the established trajectory",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_120": "does not meet the key performance indicators",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_130": "required to achieve the intended restabilization",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_140": "of our planet's ecological infrastructure.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_150": "In acknowledgment of that reality,",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_160": "we are announcing today",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_170": "a strategic redeployment of resources",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_180": "away from terrestrial solutions.",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_190": "We have instead set our innovators",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_200": "to the task of developing",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_210": "state-of-the-art technologies",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_220": "to safeguard humanity's fearless spirit",
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_221": "beyond the final frontier.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_ONSCREEN_LOCATION_BLUEGATE": "The Blue Gate",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_NORTH": "North",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_SOUTH": "South",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_CALABRETTANORTH": "Calabretta | North",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_CALABRETTASOUTH": "Calabretta | South",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0010": "After all these years,",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0020": "I never thought I’d see the day",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0030": "the crews opened up the northern tunnels.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0040": "The Gate is uncharted territory,",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0050": "so only those with a few scars on them",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0060": "are being let through.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0070": "You never know what might be lurking",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0080": "out there in those gentle hills.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0090": "Good luck.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0100": "You may just need it.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0100": "Even the boldest Raiders fell silent",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0200": "the moment we uncovered Stella Montis.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0300": "Every inch of it is polished;",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0400": "orchestrated to the smallest detail.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0500": "Yet the place sends shivers down your spine;",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0600": "like we were never supposed to walk these halls.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0100": "Personally, I’m not exactly thrilled",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0200": "about sending our people into a place",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0300": "we know so little about.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0400": "It stands to reason that",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0500": "we can’t warn you about what to expect,",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0600": "since there’s no real intel to go on.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0700": "That being said, Celeste seems to think",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0800": "this place might be important.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0900": "Given how thoroughly it was sealed up,",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_1000": "I’m starting to think she could be right.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0100": "I’m not exactly thrilled about sending our people",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0200": "into a place we know so little about.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0300": "But Celeste seems to think this place might be important.",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0400": "Given how thoroughly it was sealed up,",
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0500": "I’m starting to think she’s right.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010": "The Dam used to belong to us.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020": "People lived here, worked here,",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030": "raised kids here.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010_ALT1": "This place wasn’t always known as a battleground.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020_ALT1": "It used to just be the Dam.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030_ALT1": "A decent job.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0040_ALT1": "A nice place to raise kids.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010": "They used to grow real food in those domes.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020": "Proper crops.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030": "Tomatoes, cucumbers, peppers, strawberries.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040": "Stuff we can only dream of now.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT1": "We didn’t always live off of scraps",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT1": "down in Speranza.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT1": "There was a time when we thought",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT1": "we could get these domes working again",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT1": "and grow something with real sunlight.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT2": "There used to be a time",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT2": "when the food we grew",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT2": "saw some actual sunlight.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT2": "You can still see the remnants of it",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT2": "in those domes –",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0060_ALT2": "our last attempt at creating life",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0070_ALT2": "that ARC couldn’t touch.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010": "The place is flooded with useful material,",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020": "but there’ll be a cost to get to them.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030": "Keep your eyes peeled for ARC",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040": "and your gun ready.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT1": "The dark corners of the Dam",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT1": "hold a lot of old treasures,",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT1": "but don’t get too cocky.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040_ALT1": "The surface is riddled with ARC.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT2": "The Dam’s a goldmine",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT2": "if you can stomach the risk.",
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT2": "Just don’t forget to look up.",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_NEW_LOCATION": "New Destination",
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_090": "Don't you think?",
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_025": "you might want to see.",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_090": "But there are lessons to be learned,",
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_100": "If you are willing.",
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_005": "How about that?",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT1": "The Raiders don't seem to mind.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT2": "That's why it's just Raiders, there.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT3": "It's why we send the Raiders.",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220_ALT1": "If you want in, just head up to level 4;",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0230_ALT1": "the Tubes there will take you",
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0235": "all the way to Buried City.",
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0070_ALT1": "You never know what might be lurking out there.",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_010": "Our engineers are documenting",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_020": "every piece of that construction site —",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_030": "and soon enough, we’ll be able",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_040": "apply their techniques down here in Toledo.",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_050": "No more paper-thin walls",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_060": "or shuddering ceilings.",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_070": "Real progress, far ahead of",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_080": "what we were capable of before.",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_090": "Who knows what other pieces",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_100": "of long-lost knowledge",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_110": "might be kept up there?",
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_NEW_LOCATION_AVAILABLE": "New Destination Available",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0010": "Hey, heard you're leaving!",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0020": "Well, good luck out there.",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0030": "Well, look here!",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0040": "Big bad Raider, coming through!",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0050": "Hey, who the hell is gonna look after",
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0060": "that damn chicken, huh?",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_090_ALT1": "Who knows what other forgotten knowledge",
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_100_ALT1": "might be up there?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_010": "Heading up?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_020": "Just got back.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_030": "How is it up there?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040": "Gonna be at Lance's all night..",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT1": "Gonna be at the clinic all night..",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT2": "Off to Lance's...",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT3": "Lance is going to need a lot of bandages.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_050": "That bad, huh?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_060": "Attenzione! Eyes open for Shredders.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_070": "Runnin' Spaceport. Thanks though, tiger.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_070_ALT1": "Just going Spaceport. Thanks though, boss.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_080": "Kit says they´re all over.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_090": "We trusting Kit, now?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_090_ALT1": "I'll take my chances.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_100": "That's 6000.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_110": "Whatever you're about to ask is extra.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_120": "Heard you're working on something new.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_130": "My mistake then, I guess.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_140": "Come back later.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_150": "It was right there... Coming out of the clouds.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_160": "What are you talking about?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_170": "Come here...",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_180": "No, no, I don't want any part of this.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_190": "Just listen...",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_200": "My readings are all over the place.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_210": "What do you need?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_220": "New tech. We can't see anything up there.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_230": "So... Better antennas?",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_240": "Yeah... And probably way more of them.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_250": "Alright. It's going to take a lot of hands, though.",
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_260": "I'll open up my box of bribes.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0010": "It was a different world,",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0020": "when we abandoned Riven Tides.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0030": "Too exposed.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0040": "Too many ways the machines could get to us.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0050": "I remember how big everything felt.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0060": "And those first machines?",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0070": "Not a chance.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0080": "But that was then.",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0090": "Today, that open coastline",
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0100": "may just be our last resort.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_001": "Strange. It almost looks calm out there, out on the open ocean.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_002": "If only things were that simple.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_003": "It looks… calmer than I expected out there.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_004": "Almost like how I remember it.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_005": "It’s still there.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_006": "I mean, it would be. I’m not sure what I expected.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_007": "It… looks like it held together better than I thought it would.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_008": "I guess we’ll see how true that is once we get there.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_009": "You build it up in your head, coming back to a place like this.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_010": "I don’t think I accounted for how familiar it would feel.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_011": "Anyway, that’s... not why we’re here.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_012": "You get used to leaving things behind and not thinking about them again.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_013": "It’s easier that way.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_014": "I know why we’re back here.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_015": "We need the antennas up somewhere they can actually do the job,",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_016": "That’s the reason. It just happens to mean a little more than that.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_017": "Visibility’s good.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_018": "Nothing obvious stands out, which doesn’t really help.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_019": "We’ll have to get closer before any of it makes sense.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_020": "It’s nice to see the coastline again, even if I can’t be there in person.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_021": "The ocean… it’s been a while.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_022": "It’s time to get some antennas on those beautiful beaches.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_023": "and this is where that makes sense."
+      },
+      "KeysToMetaData": {
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0010": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0010": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0060": {
+          "Note": "Female"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0150": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0180": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0190": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0200": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0010": {
+          "Note": "Female"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0020": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0030": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0040": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0005": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0025": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0027": {
+          "Note": "Female"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075": {
+          "Note": "Female"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0210": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0230": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240_ALT1": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0250": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0260": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0270": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0280": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0290": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_030": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_040": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_050": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_060": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_070": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_080": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_030": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_040": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_050": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_060": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_070": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_015": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_030": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_040": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_050": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_060": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_070": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_080": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_090": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_100": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_110": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_120": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_130": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_140": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_150": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_160": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_170": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_010": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_020": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_030": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_040": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_050": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_060": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_070": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_080": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_090": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_100": {
+          "Note": "Male"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_030": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_040": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_050": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_060": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_070": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_080": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_030": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_040": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_010": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_020": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_030": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_010": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_020": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_030": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_040": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_050": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_010": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_020": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_030": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_040": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_010": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_020": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_030": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_040": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_050": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_060": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_070": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_080": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_090": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_100": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_110": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_120": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_130": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_140": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_150": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_160": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_170": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_180": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_190": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_200": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_210": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_220": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_221": {
+          "Note": "Spokesperson (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0010": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0020": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0030": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0040": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0050": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0060": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0070": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0080": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0090": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0100": {
+          "Note": "Apollo (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010_ALT1": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020_ALT1": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030_ALT1": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0040_ALT1": {
+          "Note": "Wyatt (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT1": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT1": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT1": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT1": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT1": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0060_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0070_ALT2": {
+          "Note": "Ryan (male)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT1": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT1": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT1": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040_ALT1": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT2": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT2": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT2": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_NEW_LOCATION": {
+          "Note": "Written out on top of the map cinematic when unlocking - alternative"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_010": {
+          "Note": "Raider 1 (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_020": {
+          "Note": "Raider 2 (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_030": {
+          "Note": "Raider 3 (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040": {
+          "Note": "Raider 2 (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT1": {
+          "Note": "Raider 2 (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT2": {
+          "Note": "Raider 2 (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT3": {
+          "Note": "Raider 2 (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_050": {
+          "Note": "Raider 1 (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_060": {
+          "Note": "Dino (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_070": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_070_ALT1": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_080": {
+          "Note": "Dino (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_090": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_090_ALT1": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_100": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_110": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_120": {
+          "Note": "Raider (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_130": {
+          "Note": "Raider (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_140": {
+          "Note": "Tian Wen (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_150": {
+          "Note": "Raider (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_160": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_170": {
+          "Note": "Raider (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_180": {
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_190": {
+          "Note": "Raider (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_200": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_210": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_220": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_230": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_240": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_250": {
+          "Note": "Shani (female)"
+        },
+        "ID_VIDEOSUB_INTRO_FLASHPOINT_260": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0010": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0020": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0030": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0040": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0050": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0060": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0070": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0080": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0090": {
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0100": {
+          "Note": "Celeste (female)"
+        }
+      }
+    }
+  }
+]

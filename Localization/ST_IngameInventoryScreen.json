@@ -1,0 +1,86 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_IngameInventoryScreen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_IngameInventoryScreen",
+    "StringTable": {
+      "TableNamespace": "ST_IngameInventoryScreen",
+      "KeysToEntries": {
+        "ID_INGAME_INVENTORY_FIREARM": "Firearm",
+        "ID_INGAME_INVENTORY_LAUNCHER": "Launcher",
+        "ID_INGAME_INVENTORY_GADGET": "Gadget",
+        "ID_INGAME_INVENTORY_ARMOR": "Shield",
+        "ID_INGAME_INVENTORY_BLUEPRINTS": "Blueprints",
+        "ID_INGAME_INVENTORY_BACKPACK": "Backpack",
+        "ID_INGAME_INVENTORY_PRIMARY_WEAPON": "Primary Weapon",
+        "ID_INGAME_INVENTORY_SECONDARY_WEAPON": "Secondary Weapon",
+        "ID_INGAME_INVENTORY_WEAPONS": "Weapons",
+        "ID_INGAME_INVENTORY_MELEE": "Melee",
+        "ID_INGAME_INVENTORY_QUICK_EQUIP_ITEMS": "Quick Use",
+        "ID_INGAME_INVENTORY_SAFE_POCKETS": "Safe Pockets",
+        "ID_INGAME_INVENTORY_SAFE_POCKET": "Safe Pocket",
+        "ID_INGAME_INVENTORY_PING_WEAPONSLOT": "I need a weapon.",
+        "ID_INGAME_INVENTORY_PING_ARMORSLOT": "I need a shield.",
+        "ID_INGAME_INVENTORY_PING_GEARSLOT": "I need gear.",
+        "ID_INGAME_INVENTORY_PING_ITEM_IN_SLOT": "I got {0} {1}",
+        "ID_INGAME_INVENTORY_PING_ITEM_IN_CONTAINER": "I found {0} {1}",
+        "ID_INGAME_INVENTORY_PING_WEAPON_IN_SLOT": "I need {0}",
+        "ID_INGAME_INVENTORY_EMPTY_WEAPON_SLOT": "Empty slot for a weapon",
+        "ID_INGAME_INVENTORY_EMPTY_ARMOR_SLOT": "Empty slot for shields",
+        "ID_INGAME_INVENTORY_EMPTY_GADGET_SLOT": "Empty slot for a gadget",
+        "ID_INGAME_INVENTORY_EMPTY_QUICKEQUIP_SLOT": "Empty slot for a quick equip item",
+        "ID_INGAME_INVENTORY_CONTEXTUALMENU_DROP_ITEM": "Drop To Ground",
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_SLOT": "Empty slot for any item. Item will be kept even if you get knocked out.",
+        "ID_INGAME_INVENTORY_AUGMENT": "Augment",
+        "ID_INGAME_INVENTORY_EMPTY_AUGMENT_SLOT": "Empty slot for an augment",
+        "ID_INGAME_INVENTORY_EQUIPMENT": "Equipment",
+        "ID_INGAME_INVENTORY_DISABLED_SLOT": "Disabled slot",
+        "ID_INGAME_INVENTORY_EMPTY_HEAVY_ARMOR_SLOT": "Empty slot for light, medium or heavy shields",
+        "ID_INGAME_INVENTORY_EMPTY_MEDIUM_ARMOR_SLOT": "Empty slot for light or medium shields",
+        "ID_INGAME_INVENTORY_EMPTY_LIGHT_ARMOR_SLOT": "Empty slot for light shields",
+        "ID_INGAME_INVENTORY_CONTEXTUALMENU_SALVAGE_ITEM": "Salvage {input.name} × {input.amount}",
+        "ID_INGAME_INVENTORY_SALVAGE_BUTTON": "Salvage",
+        "ID_INGAME_INVENTORY_SALVAGE_NOTIF_TITLE": "Salvage {input.name}?",
+        "ID_INGAME_INVENTORY_SALVAGE_NOTIF_BODY": "Salvaging yields fewer or lower-quality items than recycling.",
+        "ID_INGAME_INVENTORY_CONSUME_RANDOM_WARNING": "Will consume random available resources.",
+        "ID_INGAME_INVENTORY_PLANT_TYPE": "Plant material",
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_NO_WEAPON_ARMOR_AUGMENTS": "Empty slot for most items, except weapons, shields and augments. Item will be kept even if you get knocked out.",
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_NO_WEAPON_ARMOR": "Empty slot for most items, except weapons and shields. Item will be kept even if you get knocked out.",
+        "ID_INGAME_INVENTORY_AUGMENT_SLOTS": "Augmented Slots",
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_GRENADE": "Empty slot for grenades",
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_HEALING": "Empty slot for healing items",
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_TRINKET": "Empty slot for trinkets",
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_DEPLOYABLEUTILITY": "Empty slot for deployable utility items",
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_DEPLOYABLE": "Empty slot for deployable items",
+        "ID_INGAME_INVENTORY_INFO_AUGMENT_LOCKED": "Can not be equipped or unequipped while in a round.",
+        "ID_INGAME_INVENTORY_INFO_AUXILIARY_LOCKED": "Locked while {augment.name} is equipped",
+        "ID_INGAME_INVENTORY_INFO_AUXILIARY_LOCKED_GENERIC": "Locked to equipped augment"
+      },
+      "KeysToMetaData": {
+        "ID_INGAME_INVENTORY_CONTEXTUALMENU_SALVAGE_ITEM": {
+          "Note": "The text for the salvage option in the contextual menu"
+        },
+        "ID_INGAME_INVENTORY_SALVAGE_BUTTON": {
+          "Note": "Copy for the main Salvage CTA in the popup"
+        },
+        "ID_INGAME_INVENTORY_SALVAGE_NOTIF_TITLE": {
+          "Note": "Title of the salvage popup"
+        },
+        "ID_INGAME_INVENTORY_SALVAGE_NOTIF_BODY": {
+          "Note": "Popup body text warning"
+        },
+        "ID_INGAME_INVENTORY_CONSUME_RANDOM_WARNING": {
+          "Note": "Warning that certain recipes consume a random item of the same type (i.e. plant material) in your loadout"
+        },
+        "ID_INGAME_INVENTORY_PLANT_TYPE": {
+          "Note": "Special type of item that can be used interchangeably for some recipes"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUGMENT_SLOT": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

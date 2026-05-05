@@ -1,0 +1,117 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_BattlePass",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_BattlePass",
+    "StringTable": {
+      "TableNamespace": "ST_BattlePass",
+      "KeysToEntries": {
+        "ID_CHALLENGES_DAILY_TASKS": "Daily",
+        "ID_CHALLENGES": "Feats",
+        "ID_CHALLENGES_WEEKLY_TASKS": "Weekly Feats",
+        "ID_CHALLENGES_DAILY_REFRESH_TIME": "New daily feats coming in: {0}",
+        "ID_CHALLENGES_REROLL_TITLE": "Confirm reroll",
+        "ID_CHALLENGES_REROLL_DESCRIPTION": "Are you sure you want to replace \"{0}\" with a random new one?",
+        "ID_CHALLENGES_REROLL": "Reroll",
+        "ID_BATTLEPASS_UNLOCKED": "Unlocked",
+        "ID_BATTLEPASS": "Raider Deck",
+        "ID_BATTLEPASS_PAGE_TITLE": "Page {0}",
+        "ID_BATTLEPASS_CLAIMED_COUNT": "{0}/{1} Claimed",
+        "ID_BATTLEPASS_SPEND_TO_UNLOCK": "Spend {0} Cred To Unlock",
+        "ID_CHALLENGES_AVAILABLE_REROLLS": "Rerolls: {0}",
+        "ID_BATTLEPASS_ITEM_PACK": "Item Pack",
+        "ID_BATTLEPASS_OUTFIT_VARIATIONS": "Color Variations",
+        "ID_BATTLEPASS_WEAPON_INSTANCE": "Weapon Instance",
+        "ID_BATTLEPASS_LOCKED_DESCRIPTION": "Spend more Cred to unlock page",
+        "ID_BATTLEPASS_PURCHASED": "Purchased",
+        "ID_BATTLEPASS_CLAIM": "Claim for {0} Cred",
+        "ID_BATTLEPASS_BLACK_MARKET": "Black Market",
+        "ID_BATTLEPASS_NOT_ENOUGH_BPP": "Not enough Cred",
+        "ID_BATTLEPASS_PURCHASE_TITLE": "Claim",
+        "ID_BATTLEPASS_PURCHASE_DESCRIPTION": "Are you sure you want to claim {0} for {1} Cred?",
+        "ID_BATTLEPASS_CLAIMED": "Claimed",
+        "ID_CHALLENGES_DAILY_CHALLENGES": "Daily Feats",
+        "ID_BATTLEPASS_OUTFIT": "Full Cosmetic",
+        "ID_BATTLEPASS_CURRENCY": "Currency",
+        "ID_BATTLEPASS_BUTTON_UNLOCK": "Unlock",
+        "ID_BATTLEPASS_BUTTON_PURCHASE": "Purchase",
+        "ID_BATTLEPASS_STATUS_TAG_INPROGRESS": "In progress",
+        "ID_BATTLEPASS_STATUS_TAG_PROGRESS": "Progress",
+        "ID_BATTLEPASS_STATUS_TAG_COMPLETED": "Completed",
+        "ID_BATTLEPASS_PURCHASE_WARNING_NOTENOUGHRESOURCES": "Not enough Raider Tokens",
+        "ID_BATTLEPASS_REWARD_BUTTON_DETAILS": "Details",
+        "ID_BATTLEPASS_REWARD_BUTTON_SEEDETAILS": "See details",
+        "ID_BATTLEPASS_REWARD_BUTTON_CUSTOMIZE": "Customize",
+        "ID_BATTLEPASS_PURCHASE_PASS_INCLUDES": "Includes: {0}",
+        "ID_BATTLEPASS_PURCHASE_PASS_AVAILABLE_BALANCE": "Available Balance",
+        "ID_BATTLEPASS_PURCHASE_PASS_COST": "Cost",
+        "ID_BATTLEPASS_SHUTTEREDSTOREFRONT": "Shuttered Storefront",
+        "ID_BATTLEPASS_BACKALLEYMARKET": "Back-Alley Market",
+        "ID_BATTLEPASS_SECLUDEDCOURTYARD": "Secluded Courtyard",
+        "ID_BATTLEPASS_PREVIEW": "Preview",
+        "ID_BATTLEPASS_BINDING_OPEN_BATTLEPASS": "Open Raider Deck",
+        "ID_BATTLEPASS_MILESTONE": "Milestones",
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION": "Complete multiple Feats daily to earn extra Cred!",
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION_SINGLE": "Complete {0} Challenge",
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION_MULTIPLE": "Complete {0} Feats",
+        "ID_BATTLEPASS_LEMANS": "Ryder Deck",
+        "ID_BATTLEPASS_WELDER": "Voyager Deck",
+        "ID_BATTLEPASS_HAIRSTYLES": "Barber Deck",
+        "ID_BATTLEPASS_TAB_DECKS": "Decks",
+        "ID_BATTLEPASS_VARIANT_PACK": "Variant Pack",
+        "ID_BATTLEPASS_RAIDER_TOKEN_REWARD_AMOUNT": "Raider Tokens: {0}",
+        "ID_BATTLEPASS_TAB_TOOLIP_CAP_REACHED": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers.",
+        "ID_BATTLEPASS_TAB_DECKS_CAP_REACHED_MESSAGE": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers."
+      },
+      "KeysToMetaData": {
+        "ID_BATTLEPASS_BUTTON_UNLOCK": {
+          "Note": "Unlock battlepass"
+        },
+        "ID_BATTLEPASS_BUTTON_PURCHASE": {
+          "Note": "Unlock battlepass"
+        },
+        "ID_BATTLEPASS_STATUS_TAG_INPROGRESS": {
+          "Note": "Battlepass"
+        },
+        "ID_BATTLEPASS_STATUS_TAG_PROGRESS": {
+          "Note": "Battlepass"
+        },
+        "ID_BATTLEPASS_STATUS_TAG_COMPLETED": {
+          "Note": "Battlepass"
+        },
+        "ID_BATTLEPASS_PURCHASE_WARNING_NOTENOUGHRESOURCES": {
+          "Note": "Battlepass"
+        },
+        "ID_BATTLEPASS_REWARD_BUTTON_DETAILS": {
+          "Note": "See more detailed view of reward"
+        },
+        "ID_BATTLEPASS_REWARD_BUTTON_SEEDETAILS": {
+          "Note": "See more detailed view of reward"
+        },
+        "ID_BATTLEPASS_REWARD_BUTTON_CUSTOMIZE": {
+          "Note": "See more detailed view of reward"
+        },
+        "ID_BATTLEPASS_PURCHASE_DESCRIPTION": {
+          "Note": ""
+        },
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION": {
+          "Note": ""
+        },
+        "ID_BATTLEPASS_TAB_DECKS": {
+          "Note": "Name of tab for Battlepasses"
+        },
+        "ID_BATTLEPASS_RAIDER_TOKEN_REWARD_AMOUNT": {
+          "Note": "Informs the player of exactly how many raiders tokens they're claiming in BP"
+        },
+        "ID_BATTLEPASS_TAB_TOOLIP_CAP_REACHED": {
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+        },
+        "ID_BATTLEPASS_TAB_DECKS_CAP_REACHED_MESSAGE": {
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+        }
+      }
+    }
+  }
+]

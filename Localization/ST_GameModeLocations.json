@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_GameModeLocations",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_GameModeLocations",
+    "StringTable": {
+      "TableNamespace": "ST_GameModeLocations",
+      "KeysToEntries": {
+        "ID_GAMEMODE_LOCATION_SPACEPORT": "Acerra Spaceport is a majestic testament to humanity's past ambitions. This is where the Exodus shuttles, vessels of hope and desperation, once roared into the heavens, leaving a beleaguered Earth behind.",
+        "ID_GAMEMODE_LOCATION_WATERTREATMENTFACILITY": "Alcantara Power Plant, or \"The Dam\", stands as a silent sentinel amidst a toxic, waterlogged land, nourishing a riot of resilient vegetation and fauna. A monument echoing with the memories of power once generated.",
+        "ID_GAMEMODE_LOCATION_BURIEDCITY": "Amidst the sand dunes in this arid wasteland you will find a remnant of the old world quite unlike the cold steel spires of the Exodus age. Walk these narrow streets and empty plazas, and know that people once lived here.",
+        "ID_GAMEMODE_LOCATION_PRACTICERANGE": "Nestled in a secluded mountain hollow, the echoed gunshots from this practice range seem to confuse ARC's sense of direction, creating a rare pocket of open-air safety. Raiders use the Backyard to hone their skills, and catch up on some long-overdue stargazing.",
+        "ID_GAMEMODE_LOCATION_THEBLUEGATE": "Once a steadfast symbol of defiant connection, the Blue Gate now serves as a daunting entryway into the perilous mountain ranges. The surrounding valley bears scars both new and old.",
+        "ID_GAMEMODE_LOCATION_MOUNTAINCOMPOUND": "A secluded research facility amidst snow-draped peaks, Stella Montis is said to have been the last bulwark of humanity's preservation.",
+        "ID_GAMEMODE_LOCATION_FROZENTRAIL": "This is a placeholder description for the Frozen Trail"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Firearms",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Firearms",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Firearms",
+      "KeysToEntries": {
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_BULLPUP_01": "Tempest",
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_PNEUMATIC_01": "Kettle",
+        "ST_ITEMNAME_FIREARM_SMG_01": "Bobcat",
+        "ST_ITEMNAME_FIREARM_SMG_LOWTIER_01": "Stitcher",
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_LEVERACTION_01": "Renegade",
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_BREACHACTION_01": "Ferro",
+        "ST_ITEMNAME_FIREARM_PISTOL_01": "Burletta",
+        "ST_ITEMNAME_FIREARM_PISTOL_SILENCED_01": "Hairpin",
+        "ST_ITEMNAME_FIREARM_SPECIAL_SNIPERRIFLE_RAILGUN_01": "Jupiter",
+        "ST_ITEMNAME_FIREARM_SHOTGUN_SEMIAUTO_01": "Vulcano",
+        "ST_ITEMNAME_FIREARM_SHOTGUN_PUMPACTION_01": "Il Toro",
+        "ST_ITEMNAME_FIREARM_SPECIAL_BEAMRIFLE_01": "Equalizer",
+        "ST_ITEMNAME_FIREARM_HANDCANNON_SINGLEACTION_01": "Anvil",
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_BURST_01": "Arpeggio",
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_LOWTIER_01": "Rattler",
+        "ST_ITEMNAME_FIREARM_PISTOL_HIGHPOWER_01": "Venator",
+        "ST_ITEMNAME_FIREARM_LMG_MEDIUM_01": "Torrente",
+        "ST_ITEMNAME_FIREARM_SNIPERRIFLE_BOLTACTION_MEDIUM_01": "Osprey",
+        "ST_ITEMNAME_FIREARM_SPECIAL_GRENADELAUNCHER_ANTIARCLAUNCHER": "Hullcracker",
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_HEAVY_01": "Bettina",
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_ENERGYBURST_01": "Aphelion",
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_HEAVY_01_ALTERNATIVE": "Malleus",
+        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01": "Canto",
+        "ST_ITEMNAME_FIREARM_SHOTGUN_ENERGY_ADJUSTABLE_01": "Dolabra",
+        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01_ALT": "Stanza"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

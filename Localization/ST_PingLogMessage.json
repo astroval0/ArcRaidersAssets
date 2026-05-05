@@ -1,0 +1,65 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PingLogMessage",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PingLogMessage",
+    "StringTable": {
+      "TableNamespace": "ST_PingLogMessage",
+      "KeysToEntries": {
+        "ID_PINGLOGMESSAGE_NEED_HEALING": "Requested healing",
+        "ID_PINGLOGMESSAGE_WILL_HEAL": "Ready to heal squadmates",
+        "ID_PINGLOGMESSAGE_ATTACK_TARGET": "Attack that {0}",
+        "ID_PINGLOGMESSAGE_NEED_AMMO": "Requested {0}",
+        "ID_PINGLOGMESSAGE_ITEM": "Found: {0}",
+        "ID_PINGLOGMESSAGE_QUEST": "On a quest: {0}",
+        "ID_PINGLOGMESSAGE_EXTRACT": "Let's head home at {0}",
+        "ID_PINGLOGMESSAGE_ITEM_INVENTORY": "I have: {0}",
+        "ID_PINGLOGMESSAGE_TRACKING_ITEM": "Tracking an item: {0}",
+        "ID_PINGLOGMESSAGE_NEED_WEAPON": "Requested a weapon",
+        "ID_PINGLOGMESSAGE_ACCEPT": "Accepted suggestion from {0}",
+        "ID_PINGLOGMESSAGE_REJECT": "Rejected suggestion from {0}",
+        "ID_PINGLOGMESSAGE_DIRECTION": "Pointed {0}",
+        "ID_PINGLOGMESSAGE_ATTACK": "Attack over there",
+        "ID_PINGLOGMESSAGE_DEFAULT": "Pointed out: {0}",
+        "ID_PINGLOGMESSAGE_WATCHING": "Watching",
+        "ID_PINGLOGMESSAGE_WARNING": "Danger!",
+        "ID_PINGLOGMESSAGE_SOMEONES_BEEN_HERE": "Someone's been here",
+        "ID_PINGLOGMESSAGE_REGROUP": "Let's regroup",
+        "ID_PINGLOGMESSAGE_LOOTING": "Looting",
+        "ID_PINGLOGMESSAGE_AUDIO_HEARD": "Audio heard",
+        "ID_PINGLOGMESSAGE_AVOID": "Avoid that area",
+        "ID_PINGLOGMESSAGE_AVOID_TARGET": "Avoid that: {0}",
+        "ID_PINGLOGMESSAGE_LOCATION": "Suggested a location",
+        "ID_PINGLOGMESSAGE_WAYPOINT": "Set a waypoint",
+        "ID_PINGLOGMESSAGE_LOCATION_SPECIFIC": "Go to: {0}",
+        "ID_PINGLOGMESSAGE_DIBS": "Dibs on: {0}",
+        "ID_PINGLOGMESSAGE_DECLINE": "No thanks, {0}",
+        "ID_PINGLOGMESSAGE_NEED_SHIELD": "Requested a shield",
+        "ID_PINGLOGMESSAGE_REMOVE": "Removed a suggestion",
+        "ID_PINGLOGMESSAGE_NEED_SHIELDREPAIR": "Requested shield repair"
+      },
+      "KeysToMetaData": {
+        "ID_PINGLOGMESSAGE_ITEM": {
+          "Note": ""
+        },
+        "ID_PINGLOGMESSAGE_ITEM_INVENTORY": {
+          "Note": ""
+        },
+        "ID_PINGLOGMESSAGE_DEFAULT": {
+          "Note": ""
+        },
+        "ID_PINGLOGMESSAGE_LOCATION_SPECIFIC": {
+          "Note": ""
+        },
+        "ID_PINGLOGMESSAGE_AVOID_TARGET": {
+          "Note": ""
+        },
+        "ID_PINGLOGMESSAGE_DIBS": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

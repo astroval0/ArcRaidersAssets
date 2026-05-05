@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClanItems",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClanItems",
+    "StringTable": {
+      "TableNamespace": "ST_ClanItems",
+      "KeysToEntries": {
+        "ID_CLAN_BORDER_NAME_4": "Border 4",
+        "ID_CLAN_BORDER_NAME_3": "Border 3",
+        "ID_CLAN_BORDER_NAME_2": "Border 2",
+        "ID_CLAN_BORDER_NAME_1": "Border 1",
+        "ID_CLAN_BACKGROUND_NAME_4": "Background 4",
+        "ID_CLAN_BACKGROUND_NAME_3": "Background 3",
+        "ID_CLAN_BACKGROUND_NAME_2": "Background 2",
+        "ID_CLAN_BACKGROUND_NAME_1": "Background 1",
+        "ID_CLAN_BACKGROUND_DESCRIPTION_2": "BG 2 description",
+        "ID_CLAN_LOGO_DESCRIPTION_3": "Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.",
+        "ID_CLAN_LOGO_DESCRIPTION_2": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.",
+        "ID_CLAN_LOGO_DESCRIPTION_1": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+        "ID_CLAN_BORDER_DESCRIPTION_4": "Border 4 description",
+        "ID_CLAN_BORDER_DESCRIPTION_3": "Border 3 description",
+        "ID_CLAN_BORDER_DESCRIPTION_2": "Border 2 description",
+        "ID_CLAN_BORDER_DESCRIPTION_1": "Border 1 description",
+        "ID_CLAN_LOGO_NAME_4": "Logo 4",
+        "ID_CLAN_LOGO_NAME_3": "Logo 3",
+        "ID_CLAN_LOGO_NAME_2": "Logo 2",
+        "ID_CLAN_LOGO_NAME_1": "Logo 1",
+        "ID_CLAN_BACKGROUND_DESCRIPTION_1": "BG 1 description",
+        "ID_CLAN_BACKGROUND_DESCRIPTION_3": "BG 3 description",
+        "ID_CLAN_BACKGROUND_DESCRIPTION_4": "BG 4 description",
+        "ID_CLAN_LOGO_DESCRIPTION_4": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
+        "ID_CLAN_BORDER_NAME_5": "Border 5",
+        "ID_CLAN_BORDER_DESCRIPTION_5": "Border 5 description",
+        "ID_CLAN_BACKGROUND_NAME_5": "Background 5",
+        "ID_CLAN_BACKGROUND_DESCRIPTION_5": "BG 5 description"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

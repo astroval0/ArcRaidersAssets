@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_ArmorMods",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_ArmorMods",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_ArmorMods",
+      "KeysToEntries": {
+        "ID_ITEMDESC_ARMORMOD_EXPLOSIVEDMGRESIST_01": "A shield mod that increases the user's resistance to explosives.",
+        "ID_ITEMDESC_ARMORMOD_FALLDMGHEIGHTMODIFIER_01": "A shield mod that allows the user to fall from greater heights before taking fall damage.",
+        "ID_ITEMDESC_ARMORMOD_HEALOVERTIME_01": "A shield mod that passively heals the user 1 health every 5 seconds.",
+        "ID_ITEMDESC_ARMORMOD_STAMINAREGEN_01": "A shield mod that moderately increases the users stamina regeneration rate."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

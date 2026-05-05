@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Stats_Format",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Stats_Format",
+    "StringTable": {
+      "TableNamespace": "ST_Stats_Format",
+      "KeysToEntries": {
+        "ID_STATS_FORMAT_DEFAULT": "{0}",
+        "ID_STATS_FORMAT_TIME": "{0} sec",
+        "ID_STATS_FORMAT_RPM": "{0} RPM",
+        "ID_STATS_FORMAT_WEIGHT": "{0} kg",
+        "ID_STATS_FORMAT_PERCENTAGE": "{0}%",
+        "ID_STATS_FORMAT_DURATION_SECONDS": "{0}s",
+        "ID_STATS_FORMAT_PERSECONDS": "{0}/s",
+        "ID_STATS_FORMAT_RADIUS_METERS": "{0}m",
+        "ID_STATS_FORMAT_MULTIDAMAGE_SCATTERMISSILEGRENADE": "{0} x12"
+      },
+      "KeysToMetaData": {
+        "ID_STATS_FORMAT_RPM": {
+          "Note": "Rouds Per Minute"
+        }
+      }
+    }
+  }
+]

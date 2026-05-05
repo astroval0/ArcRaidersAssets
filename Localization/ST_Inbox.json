@@ -1,0 +1,287 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Inbox",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Inbox",
+    "StringTable": {
+      "TableNamespace": "ST_Inbox",
+      "KeysToEntries": {
+        "ID_INBOX_INBOX": "Inbox",
+        "ID_INBOX_FILTER_INBOX": "Inbox",
+        "ID_INBOX_FILTER_ARCHIVE": "Archive",
+        "ID_INBOX_NEW_MESSAGE": "New message",
+        "ID_INBOX_MESSAGES_MULTIPLE_TITLE": "{0} Messages",
+        "ID_INBOX_MESSAGES_SINGLE_TITLE": "1 Message",
+        "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_STATUS": "Gifts",
+        "ID_INBOX_MESSAGE_GIFTS_SINGLE_STATUS": "Gift",
+        "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_CLAIMED_STATUS": "Gifts Claimed",
+        "ID_INBOX_MESSAGE_GIFTS_SINGLE_CLAIMED_STATUS": "Gift Claimed",
+        "ID_INBOX_MESSAGE_GIFTS_CLAIMED_STATUS": "Claimed",
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ALL": "Claim All",
+        "ID_INBOX_MESSAGE_ACTION_CLAIM": "Claim",
+        "ID_INBOX_MESSAGE_ACTION_LINK_DISCORD": "Link Discord",
+        "ID_INBOX_MESSAGE_ACTION_CLAIMED": "Claimed",
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE": "Archive",
+        "ID_INBOX_MESSAGE_ACTION_UNARCHIVE": "Unarchive",
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ALL": "Archive All",
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVED": "Archived",
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH": "Your stash is full.",
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH_ALT": "Your stash is full. Free up space to claim your gift.",
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ERROR_UNCLAIMED": "Please claim the message's gift before archiving.",
+        "ID_INBOX_INBOX_EMPTY_TITLE": "Inbox Empty",
+        "ID_INBOX_INBOX_EMPTY_DESCRIPTION": "There are no messages in the inbox.",
+        "ID_INBOX_ARCHIVE_EMPTY_TITLE": "Archive Empty",
+        "ID_INBOX_ARCHIVE_EMPTY_DESCRIPTION": "There are no archived messages.",
+        "ID_INBOX_TOOLTIP_DESCRIPTION": "Messages from Embark",
+        "ID_INBOX_MESSAGE_REPORT_RECEIVED_TITLE": "Report Received!",
+        "ID_INBOX_MESSAGE_REPORT_RECEIVED_BODY": "Thank you for taking the time to report. Every action like this helps make ARC Raiders better for everyone.",
+        "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_TITLE": "Display Name Updated",
+        "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_BODY": "We changed your display name to keep it in line with our community guidelines. Thank you  for helping us keep the game welcoming for everyone.  If you have any questions, please contact our Player Support team.",
+        "ID_INBOX_MESSAGE_REFUND_PROCESSED_TITLE": "Purchase Refunded",
+        "ID_INBOX_MESSAGE_REFUND_PROCESSED_BODY": "It looks like your payment provider has processed a refund for one or more of your purchases. As a result, the related items are no longer available on your account. In some cases, this may also lead to a negative currency balance.  If you have any questions about this change, or need assistance with your account, our Player Support team is always here to help.",
+        "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_TITLE": "Purchase Rollback",
+        "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_BODY": "After a thorough investigation, we identified that one or more purchases on your account were made with an invalid or unauthorized payment method. As a result, the items and currency connected to those transactions have been removed. In some cases, this may also lead to a negative currency balance.  This doesn’t necessarily mean you were at fault. Our priority is to resolve these cases fairly and responsibly, and to maintain a healthy environment for all players.  If you have any questions or concerns, our Player Support team is always here to help.",
+        "ID_INBOX_MESSAGE_PERMANENT_BAN_TITLE": "Permanent Account Suspension",
+        "ID_INBOX_MESSAGE_PERMANENT_BAN_BODY": "Your account has been permanently suspended due to severe violations of our code of conduct. This action is final and your access to the game will not be restored.  If you have questions about your account, please contact our Player Support team.",
+        "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_TITLE": "Temporary Account Suspension",
+        "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_BODY": "Your account has been temporarily suspended due to a violation of our code of conduct. During this period, you will not be able to access ARC Raiders. Your account will be reinstated once the suspension has ended.  If you have any questions about this action or believe it was made in error, please contact our Player Support team.",
+        "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_TITLE": "Scheduled Maintenance in Progress",
+        "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_BODY": "ARC Raiders is currently undergoing scheduled maintenance, and the game will be unavailable during this time.  Our goal is always to create the best possible experience every time you set out for Topside.",
+        "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_TITLE": "Maintenance Complete",
+        "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_BODY": "Maintenance is now finished and ARC Raiders is back online! The latest improvements are live, bringing you a more enjoyable experience.  P.S. Topside is waiting!",
+        "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_TITLE": "Items Returned",
+        "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_BODY": "Your items were lost due to unfair play, but we managed to get them back for you! They’re now available for you to claim and take with you on your next journey Topside.  We’re committed to building an environment where gameplay is about skill, teamwork, and fun, not unfair advantages. Thank you for being part of this mission! Together, we’re building ARC Raiders into a fair and fun experience for everyone.",
+        "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_TITLE": "A Gift for You",
+        "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_BODY": "We know your experience hasn’t been as smooth as it should be, and we want to thank you for your patience and support. To show our appreciation, we’ve sent a little something your way. It’s waiting for you to claim and enjoy on your next journey Topside.  We’re committed to making ARC Raiders the best experience possible, and we’re grateful to have you with us.",
+        "ID_INBOX_ARCHIVE_MESSAGE": "Archive",
+        "ID_INBOX_NO_MESSAGES": "Inbox Empty",
+        "ID_INBOX_NO_MESSAGES_DETAILS": "There are no messages in the inbox",
+        "ID_INBOX_MESSAGE_ACTION_LINK_DISCORD_BODY": "Discord + ARC Raiders = ENGAGE! By linking your Discord account and Embark ID you can easily pull in your friends for a round, wherever they are online!\r\n\r\nInvite Discord friends to your Party directly from ARC Raiders, even if they’re not yet logged on!\r\nYour status from ARC Raiders can be shared with your Discord friends, letting them know when you’re ready to team up or still fending off ARC Topside!",
+        "ID_INBOX_MESSAGE_ACTION_DELETE": "Delete",
+        "ID_INBOX_MESSAGE_ACTION_DELETE_ALL": "Delete All",
+        "ID_INBOX_MESSAGE_ACTION_DELETED": "Deleted",
+        "ID_INBOX_MESSAGE_ACTION_DELETE_ERROR_UNCLAIMED": "Please claim the message's gift before deleting.",
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_COMPENSATION_ERROR_FAILED": "Failed to claim compensation, please try again.",
+        "ID_INBOX_MESSAGE_SERVER_CRASH_COMPENSATION_BODY": "Hello Raider,\r\n\r\nIt looks like you ran into some unexpected technical interference topside. Don’t worry, Scrappy managed to recover your belongings and bring them back safely to Speranza.\r\n\r\nClaim them here and they’ll be waiting in your stash.",
+        "ID_INBOX_MESSAGE_SERVER_CRASH_COMPENSATION_TITLE": "Items Recovered After Disruption",
+        "ID_INBOX_MESSAGE_TT1_REWARDS_BODY": "Good news, Raider!  Since you’ve made a mark for yourself in Tech Test 1, we’re sending you a supply drop to help you in your future adventures topside.  Thank you for helping this community thrive.  - The ARC Raiders team",
+        "ID_INBOX_MESSAGE_TT2_REWARDS_BODY": "Good news, Raider!  Since you’ve made a mark for yourself in Tech Test 2, we’re sending you a supply drop to help you in your future adventures topside.  Thank you for helping this community thrive.  - The ARC Raiders team",
+        "ID_INBOX_MESSAGE_SSOT_REWARDS_BODY": "Good news, Raider!  Since you’ve made a mark for yourself in Server Slam, we’re sending you a supply drop to help you in your future adventures topside.  Thank you for helping this community thrive.  - The ARC Raiders team",
+        "ID_INBOX_MESSAGE_TWITCH_DROPS_BODY": "Your Twitch Drop rewards are ready. Claim them now to use in your next adventure topside.  - The ARC Raiders team",
+        "ID_INBOX_MESSAGE_EMAIL_VERIFICATION_BODY": "Your email verification rewards are ready. Claim them now to use in your next adventure topside.  - The ARC Raiders team",
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE": "Thank you for playing!",
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE_ALT1": "Server Slam Ending Soon!",
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE_ALT2": "Server Slam Ending on the 19th of October",
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_BODY": "Hey Raider,\r\n\r\nThank you for participating in the Server Slam. The playtest will end on the 19th of October.\r\n\r\nPlease check out [our store page](ARCRaiders) to pre-order ARC Raiders, and we'll see you Topside on October 30th.\r\n\r\nIn the meantime, check out [Season 8 on THE FINALS](TheFinals), the world's first Dynamism Shooter!",
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_BODY_ALT1": "Thank you, Raider.\r\n\r\nThe playtest will end on the 19th of October.\r\n\r\nPlease check out [our store page](ARCRaiders) to pre-order ARC Raiders, and we'll see you Topside on October 30th.\r\n\r\nWhile you wait, [THE FINALS](TheFinals) is free to play. Enter the Arena, Contestant! The World is watching!",
+        "ID_INBOX_MESSAGE_EVENT_REWARD_TITLE": "Supply Drop",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_REWARD_BODY": "Congratulations! As a Rising Star in THE FINALS, you've earned some exclusive rewards:\r\n- [Outfit] Ryder - Red\r\n- [Backpack] Salvager - Black\r\n- [Charm] Soccer Finals Ticket",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_BODY": "Hey Raider,\r\n\r\n**Unlock an exclusive outfit in ARC Raiders** by completing a special Raider contract in THE FINALS, the world's first Dynamism Shooter from Embark Studios!\r\n\r\nBe sure to connect to the same EmbarkID in both games.",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_BUTTON": "Download THE FINALS",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_TITLE": "Can you reach THE FINALS?",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_REWARD_TITLE": "Reward for a Rising Star",
+        "ID_INBOX_MESSAGE_REPORT_ACTION_TAKEN_BODY": "Your recent report resulted in action against a player. Together, we’re making ARC Raiders a fair and fun experience for everyone. Your contribution means a lot. Thank you.",
+        "ID_INBOX_MESSAGE_REPORT_ACTION_TAKEN_TITLE": "Thank you for looking out!",
+        "ID_INBOX_MESSAGE_CHRISTMAS_2025_TITLE": "Happy Holidays!",
+        "ID_INBOX_MESSAGE_CHRISTMAS_2025_BODY": "Thank you from the **ARC Raiders team** and **Embark Studios** for being a valued part of our community. We'd like to wish you **Happy Holidays**, and hope you enjoy this small **gift** as a token of our appreciation!",
+        "ID_INBOX_MESSAGE_TEN_MILLION_PLAYERS_TITLE": "10 Million Raiders!",
+        "ID_INBOX_MESSAGE_TEN_MILLION_PLAYERS_BODY": "It's been a hell of a ride so far, and we're celebrating a huge milestone... 10 million Raiders in the Rust Belt!\r\n\r\nWe're proud and humbled by your love for ARC Raiders. There's so much more exciting content to come, so we hope you stay for the journey.\r\n\r\nYou're one of the first 10 million, so here's something to show for it.\r\n\r\n\r\nSee you Topside, Raiders.\r\n\r\nThe ARC Raiders Team",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_ARC_TO_FINALS_BODY": "Raiders,\r\nTHE FINALS is a free to play multiplayer FPS from Embark Studios. As an ARC Raiders player, you are eligible to receive the Voltage Marauder outfit set.\r\n\r\nBring a touch of Speranza style into the Arena and let everyone know ARC Raiders sent you!\r\n\r\nTo receive the outfit just download and launch THE FINALS.\r\n\r\nMake sure you log in using your existing Embark ID. The Voltage Marauder set will be granted to your account automatically.\r\n\r\nSee you Topside...\r\nAnd in the Arena!",
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_ARC_TO_FINALS_TITLE": "Represent ARC Raiders in THE FINALS!",
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_CTA_TITLE": "The Gift of Caring",
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_CTA_BODY": "Raiders,\r\n\r\nWhen Topside’s threats seem especially daunting, there are few things so reassuring as a loyal squad to have your back. Use these gifts to return the favor the next time you go Topside, or extend an olive branch to any strangers you encounter.\r\n\r\n-The ARC Raiders team",
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_TITLE": "A Token of Friendship",
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_BODY": "Raiders,\r\n\r\nRecently, Topside has seen a marked increase in Raiders banding together; taking on threats with a renewed sense of solidarity and collaboration. Here’s a small gift to help you face your fellow Raiders with that same spirit in the future.\r\n\r\n- The ARC Raiders team",
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_BODY_ALT1": "Raiders,\r\n\r\nRecently, Topside has seen a marked increase in Raiders banding together; taking on threats with a renewed sense of solidarity and collaboration. Here’s a small gift to help you meet your fellow Raiders with that same spirit in the future.\r\n\r\n- The ARC Raiders team",
+        "ID_INBOX_MESSAGE_VALENTINE_2026_BODY": "Hey Raider,\r\n\r\nToday, Speranzans celebrate the companions that always have their back - and so do we. Mark the occasion with a gift from us: 'Bonded Bolts', Speranza's emblem of shared resistance.\r\n\r\nStay safe,\r\n\r\nThe ARC Raiders Team",
+        "ID_INBOX_MESSAGE_VALENTINE_2026_TITLE": "Bonded Bolts free gift",
+        "ID_INBOX_MESSAGE_ONE_MILLION_DISCORD_TITLE": "1 Million Raiders on Discord",
+        "ID_INBOX_MESSAGE_ONE_MILLION_DISCORD_BODY": "We are blown away to see so many of you sharing your feedback, reporting issues and chatting. To celebrate, we are sending Toy Robot Backpack Charm to everyone who connected their Discord to Embark ID.\r\n\r\nThe ARC Raiders Team",
+        "ID_INBOX_MESSAGE_TRIALS_COMPENSATION_TITLE": "Compensation for Trials Disruption",
+        "ID_INBOX_MESSAGE_TRIALS_COMPENSATION_BODY": "Hey Raider,\r\n\r\nIt looks like some of your Trials progress was lost during some unexpected technical interference Topside. Don't worry, we know you would have climbed the ranks anyway, so here are some additional seasonal rewards.\r\n\r\nClaim them here.",
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_1_TITLE": "Fair Play Reminder",
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_1_BODY": "Raider!\r\nWe’ve detected activity on your account that appears to involve potential exploit use. Consider this a warning and know that continued use of exploits could lead to a suspension. \r\nTaking advantage of exploits has a real impact on the game’s economy and the way the community experiences ARC Raiders. It is our goal to fix these issues as soon as possible to restore balance. Please report them in the dedicated channels.\r\nRead more on arcraiders.com/news.\r\nThe ARC Raiders Team",
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_2_TITLE": "Exploit Use Detected",
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_2_BODY": "Raider!\r\nWe’ve confirmed exploit use on your account. Since use of exploits violates our Terms of Service and End User License Agreement, we have taken measures by removing a portion of your Coins. Continuing use of exploits could lead to account suspension.\r\nTaking advantage of exploits has a real impact on the game’s economy and the way the community experiences ARC Raiders. It is our goal to fix these issues as soon as possible to restore balance. Please report them in the dedicated channels.\r\nRead more on arcraiders.com/news.\r\nThe ARC Raiders Team"
+      },
+      "KeysToMetaData": {
+        "ID_INBOX_INBOX": {
+          "Note": "Title of inbox feature, Link to Figma"
+        },
+        "ID_INBOX_FILTER_INBOX": {
+          "Note": "Inbox Filter"
+        },
+        "ID_INBOX_FILTER_ARCHIVE": {
+          "Note": "Inbox Filter"
+        },
+        "ID_INBOX_NEW_MESSAGE": {
+          "Note": "NR of messages"
+        },
+        "ID_INBOX_MESSAGES_MULTIPLE_TITLE": {
+          "Note": "NR of messages"
+        },
+        "ID_INBOX_MESSAGES_SINGLE_TITLE": {
+          "Note": "NR of messages"
+        },
+        "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_STATUS": {
+          "Note": "Indicates if message has gifts/items"
+        },
+        "ID_INBOX_MESSAGE_GIFTS_SINGLE_STATUS": {
+          "Note": "Indicates if message has gifts/items"
+        },
+        "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_CLAIMED_STATUS": {
+          "Note": "Indicates if message has gifts/items that have been claimed"
+        },
+        "ID_INBOX_MESSAGE_GIFTS_SINGLE_CLAIMED_STATUS": {
+          "Note": "Indicates if message has gifts/items that have been claimed"
+        },
+        "ID_INBOX_MESSAGE_GIFTS_CLAIMED_STATUS": {
+          "Note": "Indicates if message has gifts/items that have been claimed, alt"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ALL": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIM": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_LINK_DISCORD": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIMED": {
+          "Note": "Message action - complete"
+        },
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_UNARCHIVE": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ALL": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVED": {
+          "Note": "Message action - complete"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH": {
+          "Note": "Claim status if not possible"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH_ALT": {
+          "Note": "Claim status if not possible, alt"
+        },
+        "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ERROR_UNCLAIMED": {
+          "Note": "Archive status if not possible"
+        },
+        "ID_INBOX_INBOX_EMPTY_TITLE": {
+          "Note": "Empty state Inbox"
+        },
+        "ID_INBOX_INBOX_EMPTY_DESCRIPTION": {
+          "Note": "Empty state Inbox"
+        },
+        "ID_INBOX_ARCHIVE_EMPTY_TITLE": {
+          "Note": "Empty state Archive"
+        },
+        "ID_INBOX_ARCHIVE_EMPTY_DESCRIPTION": {
+          "Note": "Empty state Archive"
+        },
+        "ID_INBOX_TOOLTIP_DESCRIPTION": {
+          "Note": "Used in the tool tip to descirbe what Inbox is"
+        },
+        "ID_INBOX_MESSAGE_REPORT_RECEIVED_TITLE": {
+          "Note": "Inbox Message - Title - Confirmation message after a player submits a report"
+        },
+        "ID_INBOX_MESSAGE_REPORT_RECEIVED_BODY": {
+          "Note": "Inbox Message - Body - Confirmation message after a player submits a report"
+        },
+        "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_TITLE": {
+          "Note": "Inbox Message – Title – Notification when a player’s display name is updated"
+        },
+        "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_BODY": {
+          "Note": "Inbox Message – Body – Notification when a player’s display name is updated"
+        },
+        "ID_INBOX_MESSAGE_REFUND_PROCESSED_TITLE": {
+          "Note": "Inbox Message – Title – Notification when a refund has been processed"
+        },
+        "ID_INBOX_MESSAGE_REFUND_PROCESSED_BODY": {
+          "Note": "Inbox Message – Body – Notification when a refund has been processed"
+        },
+        "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_TITLE": {
+          "Note": "Inbox Message – Title – Notification when purchases are rolled back due to invalid or unauthorized payment"
+        },
+        "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_BODY": {
+          "Note": "Inbox Message – Body – Notification when purchases are rolled back due to invalid or unauthorized payment"
+        },
+        "ID_INBOX_MESSAGE_PERMANENT_BAN_TITLE": {
+          "Note": "Inbox Message – Title – Notification of permanent account suspension"
+        },
+        "ID_INBOX_MESSAGE_PERMANENT_BAN_BODY": {
+          "Note": "Inbox Message – Body – Notification of permanent account suspension"
+        },
+        "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_TITLE": {
+          "Note": "Inbox Message – Title – Notification of temporary account suspension"
+        },
+        "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_BODY": {
+          "Note": "Inbox Message – Body – Notification of temporary account suspension"
+        },
+        "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_TITLE": {
+          "Note": "Inbox Message – Title – Notification when scheduled maintenance is ongoing"
+        },
+        "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_BODY": {
+          "Note": "Inbox Message – Body – Notification when scheduled maintenance is ongoing"
+        },
+        "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_TITLE": {
+          "Note": "Inbox Message – Title – Notification when scheduled maintenance has ended"
+        },
+        "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_BODY": {
+          "Note": "Inbox Message – Body – Notification when scheduled maintenance has ended"
+        },
+        "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_TITLE": {
+          "Note": "Inbox Message – Title – Notification when items lost due to unfair play are restored"
+        },
+        "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_BODY": {
+          "Note": "Inbox Message – Body – Notification when items lost due to unfair play are restored"
+        },
+        "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_TITLE": {
+          "Note": "Inbox Message – Title – Notification when compensation is granted for downtime"
+        },
+        "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_BODY": {
+          "Note": "Inbox Message – Body – Notification when compensation is granted for downtime"
+        },
+        "ID_INBOX_MESSAGE_ACTION_DELETE": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_DELETE_ALL": {
+          "Note": "Message action"
+        },
+        "ID_INBOX_MESSAGE_ACTION_DELETED": {
+          "Note": "Message action - complete"
+        },
+        "ID_INBOX_MESSAGE_ACTION_DELETE_ERROR_UNCLAIMED": {
+          "Note": "Delete status if not possible"
+        },
+        "ID_INBOX_MESSAGE_ACTION_CLAIM_COMPENSATION_ERROR_FAILED": {
+          "Note": "Shown to the user if the compensation cannot be claimed"
+        },
+        "ID_INBOX_MESSAGE_EVENT_REWARD_TITLE": {
+          "Note": "Title for rewards sent from different events. TT1-2, Server Slam, Email Verification, Twitch Drops"
+        },
+        "ID_INBOX_MESSAGE_TT1_REWARDS_BODY": {
+          "Note": "Inbox message for event rewards, Tech Test 1"
+        },
+        "ID_INBOX_MESSAGE_TT2_REWARDS_BODY": {
+          "Note": "Inbox message for event rewards, Tech Test 2"
+        },
+        "ID_INBOX_MESSAGE_SSOT_REWARDS_BODY": {
+          "Note": "Inbox message for event rewards Server Slam."
+        },
+        "ID_INBOX_MESSAGE_TWITCH_DROPS_BODY": {
+          "Note": "Inbox message for Twitch Drops"
+        },
+        "ID_INBOX_MESSAGE_EMAIL_VERIFICATION_BODY": {
+          "Note": "Inbox message for Email Verification"
+        }
+      }
+    }
+  }
+]

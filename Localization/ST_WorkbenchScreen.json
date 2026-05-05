@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_WorkbenchScreen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_WorkbenchScreen",
+    "StringTable": {
+      "TableNamespace": "ST_WorkbenchScreen",
+      "KeysToEntries": {
+        "ID_WORKBENCH_SCREEN_SORT_BY": "Sort by",
+        "ID_WORKBENCH_SCREEN_DISMANTLE": "Dismantle",
+        "ID_WORKBENCHSCREEN_DETAILS": "Details"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

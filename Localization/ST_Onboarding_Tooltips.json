@@ -1,0 +1,591 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Onboarding_Tooltips",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Onboarding_Tooltips",
+    "StringTable": {
+      "TableNamespace": "ST_Onboarding_Tooltips",
+      "KeysToEntries": {
+        "ID_ONBOARDINGTOOLTIPS_WELCOMETOSPERANZA": "Welcome to Speranza! Now that you're settled in, Shani has asked for you to come by her room.",
+        "ID_ONBOARDINGTOOLTIPS_PREPAREFORTOPSIDE": "You’ll have to go topside to help out Shani.",
+        "ID_ONBOARDINGTOOLTIPS_PREPARELOADOUT": "Prepare your loadout before heading out.",
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON": "A selection of basic gear has been equipped to your loadout. Make sure to equip your weapon to your weapon slot.",
+        "ID_ONBOARDINGTOOLTIPS_FIRSTDEPLOY": "With your loadout prepared, you are ready to head topside.",
+        "ID_ONBOARDINGTOOLTIPS_CHARACTERSCREEN": "You can improve your Raider on the Character screen.",
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREE": "The Skill Tree lets you unlock and improve abilities.",
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREEBRANCHES": "Each skill improves different aspects of your Raider. They can be used to cater to your preferred playstyle.",
+        "ID_ONBOARDINGTOOLTIPS_QUESTREWARD": "NPCs will reward you for your help. Head back to claim your reward.",
+        "ID_ONBOARDINGTOOLTIPS_UNLOADBACKPACK": "Make sure to unload your backpack before heading back up.",
+        "ID_ONBOARDINGTOOLTIPS_ANYTHINGLOST": "Anything you bring topside can be lost if you’re knocked out.",
+        "ID_ONBOARDINGTOOLTIPS_ESSENTIALITEM": "{0} will help you face the dangers of the Topside. Add it to your loadout before you deploy.",
+        "ID_ONBOARDINGTOOLTIPS_QUICKUSESLOTS": "Items like bandages and explosives can only be used if they’re in your Quick Use slots.",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOPINTRO": "Use stations to craft items and gear. You'll have to build specialized stations for more advanced crafting.",
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPY": "Scrappy, your loyal rooster, will gather basic supplies while you're topside.",
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPYCOLLECT": "Collect Scrappy's supplies to help you craft some basic gear.",
+        "ID_ONBOARDINGTOOLTIPS_BASICBENCH": "Your workshop comes with a Workbench. Use it to craft essentials like ammo, bandages and augments.",
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAMMO": "Craft some basic supplies for the next time you go topside.",
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAMMOCOMPLETE": "All done! Your supplies have been added to your stash.",
+        "ID_ONBOARDINGTOOLTIPS_QUESTREWARDREMINDER": "Make sure to claim your quest reward.",
+        "ID_ONBOARDINGTOOLTIPS_MAPSCREEN": "New maps are unlocked over time. Every map comes with its own risks and rewards.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONDURABILITY": "Your weapon's durability degrades with use. Be sure to repair it before it breaks.",
+        "ID_ONBOARDINGTOOLTIPS_TRADERRUN": "If you're low on gear, the Free Loadout lets you go topside with a set of low-level equipment.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONREPAIR_MOUSE": "Right-click on your weapon to repair it.",
+        "ID_ONBOARDINGTOOLTIPS_MAPCONDITIONS": "Maps conditions alter the state of a map during a set period of time.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_TITLE": "Taking cover",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_01": "Hold to crouch",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_TITLE": "Grenades",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_01": "Press to equip a grenade",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_02": "Hold to aim your throw",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_03": "Release to throw the grenade",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_TITLE": "Shooting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_01": "Press to equip gun",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_02": "Hold to aim",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_03": "Press to shoot",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RAIDERFLARES_TITLE": "Raider Flares",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RAIDERFLARES_01": "Bright red flares indicate a Raider getting knocked out. Approach at your own risk.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_LOOTING_TITLE": "Looting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_LOOTING_01": "Useful loot can be found scattered around the world. Some can be used immediately, while others can help you craft new gear and supplies.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_BREACHING_TITLE": "Breaching doors",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_BREACHING_01": "Some doors require breaching to open. They may protect valuable loot, but the noise can attract unwanted attention.",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_FLASHLIGHT": "Press to turn on flashlight",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_LOADOUT": "Press to open your loadout",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_KORAIDERS_TITLE": "Knocked-out Raiders",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP": "Press to jump or vault over an obstacle",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MAPMARKER": "Press to set map marker",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP": "Press to bring up map",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_ZIPLINE": "Press to use zipline",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH": "Hold to crouch",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE": "Hold to move",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT": "Hold to sprint",
+        "ID_ONBOARDINGTOOLTIPS_PREPARELOADOUTPLAY": "Press Play to prepare your loadout before heading out.",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOPCALLOUT": "Your workshop lets you craft items and gear.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSLOST": "Augments can be lost just like any item. You can craft new ones in your workshop, or loot them while topside.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSINTRO": "Augments let you change the slots in your loadout.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTNEWBIE": "Equip the Rookie Augment to unlock additional Safe Pockets.",
+        "ID_ONBOARDINGTOOLTIPS_CHALLENGESCRED": "Complete Feats to earn Cred. You can use Cred to claim rewards from the Raider Deck.",
+        "ID_ONBOARDINGTOOLTIPS_FREEHARDCURRENCY": "For participating in the ARC Raiders Tech Test, you've been granted free Raider Tokens. Use them to purchase a deck of your choice.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONREPAIR_GENERIC": "Open the More Actions menu to repair your weapon.",
+        "ID_OINBOARDINGTOOLTIPS_WEAPONREPAIR_GAMEPAD": "Hold {0} with your weapon selected to repair it.",
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE": "Your Stash is full. You can free up space in your stash by selling items from the More Actions menu.",
+        "ID_ONBOARDINGTOOLTIPS_STATIONUPGRADE": "Upgrade your station to unlock new capabilities.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_GENERIC": "Open the More Actions menu to upgrade your weapon.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_MOUSE": "Right-click on your weapon to upgrade it.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_GAMEPAD": "Hold {0} with your weapon selected to upgrade it.",
+        "ID_ONBOARDINGTOOLTIPS_TRADERGIFT": "One of the Traders has a welcome gift for you.",
+        "ID_ONBOARDINGTOOLTIPS_MODS_LONG": "Open the Inspect screen from the More Actions menu to apply mods to your weapon. Mods let you alter your weapon's behavior.",
+        "ID_ONBOARDINGTOOLTIPS_MODS_SHORT_INSPECT": "Open the Inspect screen from the More Actions menu to apply mods to your weapon.",
+        "ID_ONBOARDINGTOOLTIPS_MODS_SHORT_ALTERBEHAVIOR": "Mods let you alter your weapon's behavior.",
+        "ID_ONBOARDINGTOOLTIPS_MODSLOT": "Equip mods to your weapon's mod slot.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_NOVERB": "crouch",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_NOVERB": "jump or vault over an obstacle",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MAPMARKER_NOVERB": "set map marker",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP_NOVERB": "bring up map",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_NOVERB": "sprint",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_ZIPLINE_NOVERB": "use zipline",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_01_NOVERB": "equip gun",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_02_NOVERB": "aim",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_03_NOVERB": "shoot",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_01_NOVERB": "equip a grenade",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_02_NOVERB": "aim your throw",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_03_NOVERB": "throw the grenade",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_NOVERB": "crouch",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE_TITLE": "Melee",
+        "ID_ONBOARDINGTOOLTIPS_RAIDERENCOUNTERS_TITLE": "Raider encounters",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE": "Press to swing your Raider Tool",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_FLASHLIGHT_TITLE": "Flashlight",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_HOLD": "Hold",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_PRESS": "Press",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_CLICK": "Click",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_RIGHTCLICK": "Right-click",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE_NOVERB": "swing your Raider Tool",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_DEFEND_TITLE": "Defending yourself",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_TITLE": "Crouching",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP_TITLE": "Getting to safety",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST_TITLE": "Medicinal plants",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST": "Hold to pick medicinal plants",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST_NOVERB": "pick medicinal plants",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_STASHINGUP_TITLE": "Crafting materials",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_STASHINGUP": "Looted materials can be turned into useful resources",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING": "Press to open Inventory",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING_TITLE": "Field crafting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_CRAFTINGBANDAGES_TITLE": "Crafting a bandage",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_CRAFTINGBANDAGES": "Fabric can be used to craft Bandages",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING_NOVERB": "open Inventory",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EQUIP_TITLE": "Equipping gear",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EQUIP": "Only gear equipped to your loadout can be used",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_FIELDCRAFTINGTAB": "Go to Field Crafting tab",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_TITLE": "Healing",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_01": "Hold to select a healing item from your Quick Use wheel",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_01_NOVERB": "select a healing item from your Quick Use wheel",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_02": "Hold to heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_02_NOVERB": "heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE": "Hold to slide (while sprinting)",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_NOVERB": "slide while sprinting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_KORAIDERS": "Knocked-out Raiders may carry valuable gear or loot, but approach with caution.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_TITLE": "Getting to safety",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_01": "Use the panel to call a Cargo Elevator",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_02": "The Cargo Elevator takes some time to arrive. Stay aware of your surroundings: the noise may attract enemies to your location.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_03": "Use the computer inside the elevator to get to safety.",
+        "ID_ONBOARDINGTOOLTIPS_FREEBATTLEPASS": "For participating in the ARC Raiders Tech Test, you've been granted a free deck.",
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_SLIDING": "Slide",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_FIELDCRAFTING": "Craft an Improvised Bandage to heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_NOVERB": "move",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ENCOUNTERRAIDERS": "Strangers you encounter may be friendly or hostile. Always be on your guard.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_TITLE": "Recovering health",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_01": "Topside is full of dangers. You'll need to recover your health to make it back to safety.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_02": "Loot containers may contain bandages and gear to help you get back on your feet.",
+        "ID_ONBOARDINGTOOLTIPS_QUESTS_TITLE": "Quests",
+        "ID_ONBOARDINGTOOLTIPS_QUEST_TITLE": "Quest",
+        "ID_ONBOARDINGTOOLTIPS_ACCEPTQUEST_TITLE": "Accept quest",
+        "ID_ONBOARDINGTOOLTIPS_CLAIMQUEST_TITLE": "Claim quest",
+        "ID_ONBOARDINGTOOLTIPS_TOPSIDE_TITLE": "Topside",
+        "ID_ONBOARDINGTOOLTIPS_GOINGTOPSIDE_TITLE": "Going topside",
+        "ID_ONBOARDINGTOOLTIPS_EQUIP_TITLE": "Equip",
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON_TITLE": "Equip weapon",
+        "ID_ONBOARDINGTOOLTIPS_MANAGELOADOUT_TITLE": "Manage loadout",
+        "ID_ONBOARDINGTOOLTIPS_LOADOUT_TITLE": "Loadout",
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREE_TITLE": "Skill Tree",
+        "ID_ONBOARDINGTOOLTIPS_SKILLS_TITLE": "Skills",
+        "ID_ONBOARDINGTOOLTIPS_LEVELUP_TITLE": "Level up",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_TITLE": "Workshop",
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPY_TITLE": "Scrappy",
+        "ID_ONBOARDINGTOOLTIPS_CRAFTING_TITLE": "Crafting",
+        "ID_ONBOARDINGTOOLTIPS_GOTOPSIDE_TITLE": "Go topside",
+        "ID_ONBOARDINGTOOLTIPS_CRAFT_TITLE": "Craft",
+        "ID_ONBOARDINGTOOLTIPS_CHAMBERSTATION_TITLE": "Workshop station",
+        "ID_ONBOARDINGTOOLTIPS_INSTALLCHAMBERSTATION_TITLE": "Install Workshop station",
+        "ID_ONBOARDINGTOOLTIPS_UPGRADECHAMBERSTATION_TITLE": "Upgrade Workshop station",
+        "ID_ONBOARDINGTOOLTIPS_TRADERRUN_TITLE": "Free Loadout",
+        "ID_ONBOARDINGTOOLTIPS_MAP_TITLE": "Map",
+        "ID_ONBOARDINGTOOLTIPS_MAPS_TITLE": "Maps",
+        "ID_ONBOARDINGTOOLTIPS_DESTINATIONS_TITLE": "Destinations",
+        "ID_ONBOARDINGTOOLTIPS_SELECTDESTINATION_TITLE": "Select destination",
+        "ID_ONBOARDINGTOOLTIPS_SELECTMAP_TITLE": "Select map",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTS_TITLE": "Augments",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTATIONS_TITLE": "Augmentations",
+        "ID_ONBOARDINGTOOLTIPS_BATTLEPASS_TITLE": "Raider Deck",
+        "ID_ONBOARDINGTOOLTIPS_CHALLENGES_TITLE": "Feats",
+        "ID_ONBOARDINGTOOLTIPS_REPAIR_TITLE": "Repair",
+        "ID_ONBOARDINGTOOLTIPS_DURABILITY_TITLE": "Durability",
+        "ID_ONBOARDINGTOOLTIPS_MAPCONDITIONS_TITLE": "Map conditions",
+        "ID_ONBOARDINGTOOLTIPS_FULLSTASH_TITLE": "Full stash",
+        "ID_ONBOARDINGTOOLTIPS_MANAGESTASH_TITLE": "Manage stash",
+        "ID_ONBOARDINGTOOLTIPS_SELLANDRECYCLE_TITLE": "Sell and recycle",
+        "ID_ONBOARDINGTOOLTIPS_MASTERY_TITLE": "Trials",
+        "ID_ONBOARDINGTOOLTIPS_UPGRADEWEAPON_TITLE": "Upgrade weapon",
+        "ID_ONBOARDINGTOOLTIPS_TRADE_TITLE": "Trade",
+        "ID_ONBOARDINGTOOLTIPS_TRADES_TITLE": "Trades",
+        "ID_ONBOARDINGTOOLTIPS_TRADERS_TITLE": "Traders",
+        "ID_ONBOARDINGTOOLTIPS_MODS_TITLE": "Mods",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONMODS_TITLE": "Weapon mods",
+        "ID_ONBOARDINGTOOLTIPS_MOREACTIONS_TITLE": "More actions",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULTING_TITLE": "Vaulting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTING_TITLE": "Sprinting",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDING_TITLE": "Sliding",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_TITLE_01": "Moving",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_TITLE_02": "Movement",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_TOGGLE": "Toggle",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_DRAG": "Drag",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_MOVE": "Move",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SAFEPOCKET": "Move items to your Safe Pocket to retain them if you're knocked out.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVING_TITLE": "Moving",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVE_TITLE": "Move",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVEMENT_TITLE": "Movement",
+        "ID_ONBOARDINGTOOLTIPS_QUICKUSE_TITLE": "Quick Use",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COMBAT_TITLE": "Combat",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEAL_TITLE": "Heal",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_TRAVERSE_TITLE": "Traverse",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_TRAVERSAL_TITLE": "Traversal",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EXTRACT_TITLE": "Return to Speranza",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EXTRACTION_TITLE": "Returning to Speranza",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_QUICKEQUIP_TITLE": "Quick Equip",
+        "ID_ONBOARDINGTOOLTIPS_CANGOBACK": "You can go to the topside anytime now, I have more for you when you come back to speranza.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE": "to emote",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING": "to ping",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE_ALT": "Hold to emote",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING_ALT": "Press to ping",
+        "ID_ONBOARDINGTOOLTIPS_SELECTADESTINATION": "Select a destination",
+        "ID_ONBOARDINGTOOLTIPS_WEAPON_CATEGORY": "Use the Weapon filter to find a weapon to equip.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENT_CATEGORY": "Use the Augment filter to find an Augment to equip.",
+        "ID_ONBOARDINGTOOLTIPS_ARMORSLOT": "Shields deflect some of the damage you take. They are equipped to the Shield slot.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING_TITLE": "Ping",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE_TITLE": "Emote",
+        "ID_ONBOARDINGTOOLTIPS_WELCOMETOSPERANZA_TITLE": "Welcome to Speranza",
+        "ID_ONBOARDINGTOOLTIPS_TOPSIDE": "Press Play to prepare for going topside.",
+        "ID_ONBOARDINGTOOLTIPS_EQUIPAUGMENT": "Equip an augment to alter the slots available in your loadout.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAPHOLD": "Hold to bring up map",
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPYCRAFT": "Return to your workshop to craft with Scrappy's supplies",
+        "ID_ONBOARDINGTOOLTIPS_BATTLEPASS": "You have unlocked the Raider Deck, allowing you to earn additional rewards.",
+        "ID_ONBOARDINGTOOLTIPS_ARMOR": "Shields deflect some of the damage you take.",
+        "ID_ONBOARDINGTOOLTIPS_ARMOREQUIP": "Equip a Shield by putting it in your Shield slot.",
+        "IDONBOARDINGTOOLTIPS_CRAFTINGTAB": "Go to Crafting tab",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTTOGGLE": "Toggle to sprint",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCHTOGGLE": "Toggle to crouch",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTS": "Use augments to cater your loadout to your preferred playstyle.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONARMORDURABILITY": "Weapons and Shields degrade with use. Be sure to repair them before they break.",
+        "ID_ONBOARDINGTOOLTIPS_ARMOR_CATEGORY": "Use the Shield filter to find a Shield to equip.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTINVENTORY": "Equip your augment from the Inventory screen.",
+        "ID_ONBOARDINGTOOLTIPS_SHIELD_TITLE": "Shield",
+        "ID_ONBOARDINGTOOLTIPS_SHIELDS_TITLE": "Shields",
+        "ID_ONBOARDINGTOOLTIPS_BRINGSHIELD": "Make sure to bring a Shield for added protection while topside.",
+        "ID_ONBOARDINGTOOLTIPS_FIRSTREADYUP": "With your loadout prepared, press Ready Up to head topside.",
+        "ID_ONBOARDINGTOOLTIPS_FIRSTDEPLOY_GENERIC": "With everything prepared, get ready to go topside.",
+        "ID_ONBOARDINGTOOLTIPS_LOADOUT": "Bring up loadout",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTPRESS": "Press to sprint",
+        "ID_ONBOARDINGTOOLTIPS_FIRSTMAP": "The Map screen lets you choose your destination. Some maps need to be unlocked before you're able to deploy there.",
+        "ID_ONBOARDINGTOOLTIPS_QUESTOBJECTIVE_FINDSPERANZA_TITLE": "Find a way to Speranza",
+        "ID_ONBOARDINGTOOLTIPS_QUESTOBJECTIVE_SHELTER_TITLE": "Find shelter",
+        "ID_ONBOARDINGTOOLTIPS_RAIDERSCREEN": "You can improve and customize your Raider on the Raider screen.",
+        "ID_ONBOARDINGTOOLTIPS_RAIDERDENSCREEN": "You can improve your Raider on the Raider Den screen.",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT": "Stow weapon to sprint",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON": "{0} Stow weapon to sprint",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD": "Stow weapon to sprint (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD": "{0} Stow weapon to sprint (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD_ALT2": "(Hold) Stow weapon to sprint",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD_ALT2": "{0} (Hold) Stow weapon to sprint",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON": "Stow weapon",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON": "{0} Stow weapon",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD": "Stow weapon (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD": "{0} Stow weapon (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD_ALT2": "(Hold) Stow weapon",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD_ALT2": "{0} (Hold) Stow weapon",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOWWEAPON": "Stow your weapon to sprint faster — but keep an eye on your stamina.",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE": "Emote",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON": "{0} Emote",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD": "Emote (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD": "{0} Emote (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD_ALT2": "(Hold) Emote",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD_ALT2": "{0} (Hold) Emote",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EMOTE": "Use emotes to communicate with others.",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF": "Heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON": "{0} Heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD": "Heal yourself (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD": "{0} Heal yourself (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD_ALT2": "(Hold) Heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD_ALT2": "{0} (Hold) Heal yourself",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING": "Equip healing item",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON": "{0} Equip healing item",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD": "Equip healing item (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD": "{0} Equip healing item (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD_ALT2": "(Hold) Equip healing item",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD_ALT2": "{0} (Hold) Equip healing item",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING": "Open the quick use wheel to equip a healing item.",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT": "Equip quick use item",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD": "(Hold) Equip quick use item",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD_ALT2": "Equip quick use item (hold)",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_ALT2": "Open the map to plan your route.",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP": "Your map helps you find your way around Topside, and highlights promising loot spots.",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT": "Open map",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD": "(Hold) Open map",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD_ALT2": "Open map (HOLD)",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD": "Pinging helps you plan your route, and coordinate with your squad mates.",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT": "Ping",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD": "(Hold) Ping",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD_ALT2": "Ping (Hold)",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ENERGYAMMO_RELOADWARNING": "Reloading a partially loaded energy weapon will consume the entire energy clip.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_INROUNDCRAFTING": "In-Round Crafting can be accessed through the Crafting tab next to the Inventory tab.",
+        "ID_ONBOARDINGTOOLTIPS_ACCEPTQUEST": "Accept the quest from Shani and go topside",
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_TITLE": "Play together",
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTIN": "Enable Fill Squad to automatically find squadmates to collaborate with.",
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTOUT": "Fill Squad lets you automatically find squadmates to collaborate with. Turn off Fill Squad to instead embark on a solo round.",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_SCRAPPY": "Head to your Workshop to visit Scrappy, and see what supplies it has gathered for you.",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_INTRO_ALT2": "Your Workshop lets you craft items and gear. Scrappy, your loyal rooster, will gather basic supplies while you're topside.",
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_INTRO_RETURN": "Return to your Workshop to craft additional items and gear.",
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAUGMENT_ALT2": "Augments let you adjust your loadout to your preferred tactics, and few Raiders go topside without one. Use your Workbench to craft an Augment",
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAUGMENT": "Augments let you adjust your loadout to your preferred tactics. Craft an augment for the next time you go topside.",
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON_ALT2": "Equip your weapon by putting it in your weapon slot. Make sure that the ammo in your inventory matches your equipped weapon.",
+        "ID_ONBOARDINGTOOLTIPS_NEW_DESTINATION": "A new destination has been unlocked.",
+        "ID_ONBOARDINGTOOLTIPS_CODEX_TITLE": "Codex",
+        "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERTAB_TOPNAV": "Go to the Raider screen to check out the Codex.",
+        "ID_ONBOARDINGTOOLTIPS_CODEX_BACK": "Return to the Raider screen to view your Codex.",
+        "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERDEN": "Press this button to check out Codex",
+        "ID_ONBOARDINGTOOLTIPS_CODEX": "The Codex automatically documents your learnings and experiences.",
+        "ID_ONBOARDINGTOOLTIPS_INPUT_NAVIGATE": "Navigate",
+        "ID_ONBOARDINGTOOLTIPS_CHARACTER_CREATION_TITLE": "Customize your Raider",
+        "ID_ONBOARDINGTOOLTIPS_CHARACTER_CREATION_BUTTON_CONFIRM": "Confirm",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSINTRO_ALT2": "Augments can be used to cater your loadout to your preferred playstyle, and most Raiders refuse to go topside without. Equip an augment to alter the slots available in your loadout.",
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSABOUT": "Augments can be lost just like any item. You can craft new ones in your workshop, or loot them while topside. All augments have their own strengths, and cater to different playstyles.",
+        "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY": "Your shield's durability degrades with use. It will soon break.",
+        "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY_ALT2": "Shields degrade with use. It will soon break. Open the More Actions menu to repair your shield.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONDURABILITY_ALT2": "Weapons degrade with use. Be sure to repair them before they break. Open the More Actions menu to repair your weapon.",
+        "ID_ONBOARDINGTOOLTIPS_WEAPONARMORDURABILITY_ALT2": "Weapons and Shields degrade with use. Be sure to repair them before they break. Open the More Actions menu to repair your weapon.",
+        "ID_ONBOARDINGTOOLTIPS_EXPANDSTASH": "Your Stash is full. Expand your Stash size to fit more items.",
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_ALT2": "You can also free up space in the Stash by selling items in the More Actions menu.",
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE": "Your Stash is full. You can free up space in your stash by selling or recycling items from the More Actions menu.",
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE_ALT2": "You can also free up space in the stash by selling or recycling items in the More Actions menu.",
+        "ID_ONBOARDINGTOOLTIPS_BUTTON_PROCEED": "Continue",
+        "ID_ONBOARDINGTOOLTIPS_OPENINVENTORY": "You always have quick access to your inventory.",
+        "ID_ONBOARDINGTOOLTIPS_INVENTORY_TITLE": "Inventory",
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOW": "Stow what you are holding to move faster — but keep an eye on your stamina.",
+        "ID_ONBOARDINGTOOLTIPS_FIELDCRAFTING_DESCRIPTION": "You've unlocked field crafting! A Crafting tab is now available in the Inventory screen.",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY": "{0} Inventory",
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY_FIELDCRAFTING": "{0} Inventory + {0} Field Crafting",
+        "ID_ONBOARDINGTOOLTIPS_LEARNRECIPE_TITLE": "Learning blueprint",
+        "ID_ONBOARDINGTOOLTIPS_LEARNRECIPE": "Learning a blueprint will allow you to craft a new item in your Workshop. The blueprint itself will be consumed.",
+        "ID_ONBOARDINGTOOLTIPS_MOVE_FASTER_TITLE": "Move Faster",
+        "ID_ONBOARDINGTOOLTIPS_EQUIP_HOLD": "(Hold) Equip",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_DESCRIPTION": "Crouching lets you move through tight spaces and hide behind low cover.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_HOLD": "(Hold) Crouch",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULT_DESCRIPTION": "Vaulting lets you move up tall obstacles and reach higher grounds.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULT_ACTION": "Vault",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_TITLE": "Jumping",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_DESCRIPTION": "Jumping lets you get across narrow gaps.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_ACTION": "Jump",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_DESCRIPTION": "Sprinting lets you reposition quickly, but costs stamina and makes a lot of noise.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_HOLD": "(Hold) Sprint",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_DESCRIPTION": "While sprinting, you can use the crouch input to enter a slide.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_HOLD": "(Hold) Slide",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FLASHLIGHT_DESCRIPTION": "Use your flashlight to see better in dark areas.",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FLASHLIGHT_ACTION": "Turn On",
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HEALING_DESCRIPTION": "Healing items can be equipped through the Quick Use wheel."
+      },
+      "KeysToMetaData": {
+        "ID_ONBOARDINGTOOLTIPS_MAPSCREEN": {
+          "Note": ""
+        },
+        "ID_ONBOARDINGTOOLTIPS_RAIDERSCREEN": {
+          "Note": "Figma"
+        },
+        "ID_ONBOARDINGTOOLTIPS_RAIDERDENSCREEN": {
+          "Note": "Tutorial for going to Raider screen"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT": {
+          "Note": "Short hint shown in the center of the screen while a player is running"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON": {
+          "Note": "Short hint shown in the center of the screen while a player is running"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOWWEAPON": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with the button in line rich text"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EMOTE": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for emote and what that can be used for"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD_ALT2": {
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the quick use wheel in-game"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD_ALT2": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_ALT2": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD_ALT2": {
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to ping in-world"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT": {
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD": {
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD_ALT2": {
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ACCEPTQUEST": {
+          "Note": "Step where the player accepts the quest - Figma"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_TITLE": {
+          "Note": "Step where the player are shown the Fill squad option - FIgma"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_SCRAPPY": {
+          "Note": "Step to point to Scrappy"
+        },
+        "ID_ONBOARDINGTOOLTIPS_BASICBENCH": {
+          "Note": "Need it to point to augments"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON_ALT2": {
+          "Note": "We may need to point them to checking their ammo"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FIRSTDEPLOY": {
+          "Note": "Prompt to press the button to start matchmaking"
+        },
+        "ID_ONBOARDINGTOOLTIPS_NEW_DESTINATION": {
+          "Note": "Buried City unlocks. May be needed for highlight purposes"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERTAB_TOPNAV": {
+          "Note": "NPX for pointing out the Raider tab to go to Codex"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CODEX_BACK": {
+          "Note": "NPX for pointing player to go back (e.g. from Quest-screen) to be able to access Codex"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERDEN": {
+          "Note": "NPX to point to Codex on the Raider Den screen"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CODEX": {
+          "Note": "Presentation of Codex if we want it. Though I need more details of how the final version of Codex looks like for launch"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTIN": {
+          "Note": "NPX for Fill squad being opt in"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTOUT": {
+          "Note": "NPX for Fill squad being opt out"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INPUT_NAVIGATE": {
+          "Note": "Callout for how to navigate a tab"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSINTRO_ALT2": {
+          "Note": "NPX for augments to tell players that they should equip augments, and short what they do and prompt to equip"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSABOUT": {
+          "Note": "NPX for augments after one has been equipped, tell them a little about what they do (generally)"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY": {
+          "Note": "Shield durability description"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY_ALT2": {
+          "Note": "Shield durability and how to repair"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONDURABILITY_ALT2": {
+          "Note": "Weapon durability and how to repair"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONARMORDURABILITY_ALT2": {
+          "Note": "Weapon and shield durability and how to repair"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADERRUN": {
+          "Note": "Prompt to go with free loadout if they are missing gear. NPX"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EXPANDSTASH": {
+          "Note": "NPX for full stash"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_ALT2": {
+          "Note": "NPX for sell, in case you didnt expand stash as we told you to"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE": {
+          "Note": "NPX for full stash"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE": {
+          "Note": "NPX for sell"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE_ALT2": {
+          "Note": "NPX for sell, in case you didnt expand stash as we told you to"
+        },
+        "ID_ONBOARDINGTOOLTIPS_BUTTON_PROCEED": {
+          "Note": "Button to dismiss NPX"
+        },
+        "ID_ONBOARDINGTOOLTIPS_OPENINVENTORY": {
+          "Note": "NPX to open Inventory"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INVENTORY_TITLE": {
+          "Note": "Title for Inventory NPX"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOW": {
+          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state."
+        },
+        "ID_ONBOARDINGTOOLTIPS_FIELDCRAFTING_DESCRIPTION": {
+          "Note": "Shown upon entering the round after unlocking the skill in the skill tree"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY": {
+          "Note": "Callout with a hotkey assigned, in the bottom of the NPX"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY_FIELDCRAFTING": {
+          "Note": "Callout with a hotkey assigned, in the bottom of the NPX"
+        }
+      }
+    }
+  }
+]

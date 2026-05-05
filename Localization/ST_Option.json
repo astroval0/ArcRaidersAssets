@@ -1,0 +1,826 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Option",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Option",
+    "StringTable": {
+      "TableNamespace": "ST_Option",
+      "KeysToEntries": {
+        "ID_OPTION_CATEGORY_GAMEPLAY": "Gameplay",
+        "ID_OPTION_CATEGORY_GRAPHICS": "Graphics",
+        "ID_OPTION_CATEGORY_CONTROLS": "Controls",
+        "ID_OPTION_CATEGORY_ACCESSIBILITY": "Accessibility",
+        "ID_OPTION_OPTION_SHOW_HUD": "Show HUD",
+        "ID_OPTION_OPTION_COLORBLIND_MODE": "Colorblind Mode",
+        "ID_OPTION_TITLE_MOUSE_AND_KEYBOARD": "Mouse and Keyboard",
+        "ID_OPTION_TITLE_GAMEPAD": "Controller",
+        "ID_OPTION_RESET_TITLE_GAMEPLAY": "Restore gameplay settings",
+        "ID_OPTION_BUTTON_RESET": "Restore defaults",
+        "ID_OPTION_ADVANCED": "Advanced",
+        "ID_OPTION_BOOL_TOGGLE_ON": "ON",
+        "ID_OPTION_BOOL_TOGGLE_OFF": "OFF",
+        "ID_OPTION_SELECT_KEY_BINDING": "Press key",
+        "ID_OPTION_NO_KEY_BIND": "None",
+        "ID_OPTION_CATEGORY_AUDIO": "Audio",
+        "ID_OPTION_AUDIO_MUSIC_VOLUME": "Music Volume",
+        "ID_OPTION_ACCESSIBILITY_INVERT_X_AXIS": "Invert Horizontal Look Input",
+        "ID_OPTION_ACCESSIBILITY_INVERT_Y_AXIS": "Invert Vertical Look Input",
+        "ID_OPTION_ACCESSIBILITY_SENSITIVITY_X_AXIS": "Horizontal Sensitivity",
+        "ID_OPTION_ACCESSIBILITY_SENSITIVITY_Y_AXIS": "Vertical Sensitivity",
+        "ID_OPTION_NOTIFICATION_RESET_TITLE": "Restore Defaults",
+        "ID_OPTION_NOTIFICATION_RESET_TEXT": "Do you want to restore the settings to their default values?",
+        "ID_OPTION_NOTIFICATION_RESET_ACCEPT": "Yes",
+        "ID_OPTION_NOTIFICATION_RESET_DECLINE": "No",
+        "ID_OPTION_NOTIFICATION_APPLY_TITLE": "Unsaved Changes",
+        "ID_OPTION_NOTIFICATION_APPLY_TEXT": "You have made unsaved changes, do you want to apply them now?",
+        "ID_OPTION_NOTIFICATION_APPLY_ACCEPT": "Yes",
+        "ID_OPTION_NOTIFICATION_APPLY_DECLINE": "No",
+        "ID_OPTION_NOTIFICATION_APPLY_CANCEL": "Cancel",
+        "ID_OPTION_CATEGORY_USER_AGREEMENT": "User Agreement",
+        "ID_OPTION_CATEGORY_CREDITS": "Credits",
+        "ID_OPTION_AUDIO_MASTER_VOLUME": "Master Volume",
+        "ID_OPTION_AUDIO_DIALOGUE_VOLUME": "Dialogue Volume",
+        "ID_OPTION_AUDIO_SFX_VOLUME": "Effects Volume",
+        "ID_OPTION_SHOW_SUBTITLES": "Show Subtitles",
+        "ID_OPTION_SUBTITLES_SIZE": "Text Size",
+        "ID_OPTION_SUBTITLES_OPACITY": "Background Opacity",
+        "ID_OPTION_SUBTITLES_HEADER": "Subtitles",
+        "ID_OPTION_VALUE_PERCENT": "{0}%",
+        "ID_OPTION_NOTIFICATION_KEY_OVERRIDE_WARNING_TEXT": "Will override {0}",
+        "ID_OPTION_BOOL_TOGGLE_TRUE": "true",
+        "ID_OPTION_BOOL_TOGGLE_FALSE": "false",
+        "ID_OPTION_VOICECHAT_HEADER": "Voice Chat",
+        "ID_OPTION_VOICECHAT_INPUT_AUTOGAIN": "Voice Chat Input Auto Gain",
+        "ID_OPTION_VOICECHAT_ENABLED": "Enable Voice Chat",
+        "ID_OPTION_VOICECHAT_METHOD": "Voice Chat Method",
+        "ID_OPTION_VOICECHAT_INPUT": "Voice Chat Input Device",
+        "ID_OPTION_VOICECHAT_OUTPUT": "Voice Chat Output Device",
+        "ID_OPTION_VOICECHAT_CHANNEL": "Voice Chat Channel (Filled Match)",
+        "ID_OPTION_VOICECHAT_NOTIFICATIONS": "Enable Voice Chat Notifications",
+        "ID_OPTION_VOICECHAT_OUTPUT_VOLUME": "Voice Chat Volume",
+        "ID_OPTION_ACCESSIBILITY_PLAYER_OUTLINES": "Player Outlines",
+        "ID_OPTION_ACCESSIBILITY_PLAYER_FILL": "Player Fill",
+        "ID_OPTION_OPEN_MIC": "Open Microphone",
+        "ID_OPTION_PUSH_TO_TALK": "Push-to-Talk",
+        "ID_OPTION_SERVER": "Server",
+        "ID_OPTION_SQUAD": "Squad",
+        "ID_OPTION_PARTY": "Party",
+        "ID_OPTION_CATEGORY_KEYBOARD_CONTROLS": "Mouse & Keyboard",
+        "ID_OPTION_SHOW_RELOAD_BAR": "Show Reload Progress",
+        "ID_OPTION_DAMAGE_DIRECTION": "Show Damage Direction",
+        "ID_OPTION_KEYBINDING_UNASSIGNED": "Unassigned",
+        "ID_OPTION_ACCESSIBILITY_SCOPED_ZOOM_SENSITIVITY": "Scoped Zoom Sensitivity Multiplier",
+        "ID_OPTION_ACCESSIBILITY_ZOOM_SENSITIVITY": "Zoom Sensitivity Multiplier",
+        "ID_OPTION_VOICECHAT_SQUAD": "Squad",
+        "ID_OPTION_VOICECHAT_PARTY": "Party",
+        "ID_OPTION_CATEGORY_SOCIAL": "Social",
+        "ID_OPTION_TEXTCHAT_SQUAD": "Show Squad Chat",
+        "ID_OPTION_TEXTCHAT_ALLSQUAD": "Show Non-Squad-Chat",
+        "ID_OPTION_AUDIO_NIGHT_MODE": "Night Mode",
+        "ID_OPTION_AUDIO_OUTPUT_MODE": "Output Mode",
+        "ID_OPTION_VOICECHAT_ENABLED_FOR_ALL": "All",
+        "ID_OPTION_VOICECHAT_ENABLED_FOR": "Voice Chat Enabled For",
+        "ID_OPTION_VOICECHAT_ENABLED_FOR_FRIENDS_ONLY": "Friends Only",
+        "ID_OPTION_PROXIMITYVOIP_VOLUME": "Proximity Voice Chat Output Volume",
+        "ID_OPTION_PROXIMITYVOIP_MODE": "Proximity Voice Chat Mode",
+        "ID_OPTION_PROXIMITYVOIP_HEADER": "Proximity Voice Chat",
+        "ID_OPTION_PROXIMITYVOIP_PUSH_TO_TALK": "Push To Talk (Proximity Voice Chat)",
+        "ID_OPTION_VALUE_FLAT": "{0}",
+        "ID_OPTION_RESET_TEXT_GAMEPLAY": "Are you sure you want to reset all gameplay settings?",
+        "ID_OPTION_RESET_TITLE_CONTROLS": "Restore controls settings",
+        "ID_OPTION_RESET_TITLE_GRAPHICS": "Restore graphics settings",
+        "ID_OPTION_RESET_TITLE_AUDIO": "Restore audio settings",
+        "ID_OPTION_RESET_TITLE_ACCESSIBILITY": "Restore accessibility settings",
+        "ID_OPTION_RESET_TEXT_AUDIO": "Are you sure you want to reset all audio settings?",
+        "ID_OPTION_RESET_TEXT_ACCESSIBILITY": "Are you sure you want to reset all accessibility settings?",
+        "ID_OPTION_RESET_TEXT_GRAPHICS": "Are you sure you want to reset all graphics settings?",
+        "ID_OPTION_RESET_TEXT_CONTROLS": "Are you sure you want to reset all controls settings?",
+        "ID_OPTION_CATEGORY_LEGAL": "Legal",
+        "ID_OPTION_ACCESSIBILITY_CROSSHAIR_SMOOTHPROJECTEDCROSSHAIR": "Smooth Move When Line of Fire is Blocked",
+        "ID_OPTION_ACCESSIBILITY_CROSSHAIR_MOVECROSSHAIRWHENBLOCKED": "Move Crosshair When Line of Fire Is Blocked",
+        "ID_OPTION_CATEGORY_ONLINE": "Online",
+        "ID_OPTION_ONLINE_CROSSPLAY": "Crossplay",
+        "ID_OPTION_CROSSPLAY_NOTIFICATION_TITLE": "Party left",
+        "ID_OPTION_CROSSPLAY_NOTIFICATION_BODY": "You've successfully left your party.",
+        "ID_OPTION_CROSSPLAY_CONFIRMATION_BODY": "Some of your party members are on other platforms. By turning off crossplay, you'll automatically leave your current party.",
+        "ID_OPTION_CROSSPLAY_CONFIRMATION_TITLE": "Leave current party?",
+        "ID_OPTION_FONTSIZE_PC_DEFAULT": "Big",
+        "ID_OPTION_FONTSIZE_PC_SMALL": "Small",
+        "ID_OPTION_FONTSIZE_CONSOLE_DEFAULT": "Big",
+        "ID_OPTION_FONTSIZE_CONSOLE_SMALL": "Small",
+        "ID_OPTION_FONTSIZE": "Font Size",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION": "Crossplay settings can not be changed during matchmaking, or if controlled by your system settings.",
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE": "Look Response Curve",
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_EXPONENTIAL": "Exponential",
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_LINEAR": "Linear",
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_SINUSOIDAL": "Sinusoidal",
+        "ID_OPTION_ACCESSIBILITY_RIGHT_INNER_DEADZONE": "Look Inner Deadzone",
+        "ID_OPTION_GAMEPAD_LOOKBOOST_HORIZONTAL": "Horizontal Look Boost",
+        "ID_OPTION_GAMEPAD_LOOKBOOST_VERTICAL": "Vertical Look Boost",
+        "ID_OPTION_GAMEPAD_LOOKBOOST_TIME": "Look Boost Ramp-up Time",
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_HORIZONTAL": "Zoom Horizontal Look Boost",
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_VERTICAL": "Zoom Vertical Look Boost",
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_TIME": "Zoom Look Boost Ramp-up Time",
+        "ID_OPTION_GAMEPAD_LOOKACCELERATION": "Look Acceleration",
+        "ID_OPTION_GAMEPAD_FOV_SENSITIVITY_SCALING": "Gamepad Focal Length Sensitivity Scaling",
+        "ID_OPTION_FOV_SENSITIVITY_SCALING": "Field Of View Sensitivity Scaling",
+        "ID_OPTION_TITLE_GAMEPAD_SONY_CERT": "Wireless controller",
+        "ID_OPTION_GAMEPAD_AIMASSIST": "Aim Assist",
+        "ID_OPTION_ACCESSIBILITY_LEFT_INNER_DEADZONE": "Movement Inner Deadzone",
+        "ID_OPTION_GAMEPAD_FOV_SENSITIVITY_SCALING_SONY_CERT": "Wireless Controller Focal Length Sensitivity Scaling",
+        "ID_OPTION_AUDIO_MUSIC_INGAME": "Music During Gameplay",
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_ENABLED": "Enabled",
+        "ID_OPTION_AUDIO_MUTED_IN_BACKGROUND": "Mute Game When Minimized",
+        "ID_OPTION_WINDOWS_FOCUS": "Windows Focus",
+        "ID_OPTION_WINDOWS_FOCUS_FOREGROUND_MATCHMAKING": "Bring Game to Foreground on Match Found",
+        "ID_OPTION_HUD_MODE_DYNAMIC": "Dynamic",
+        "ID_OPTION_HUD_MODE_OFF": "Off",
+        "ID_OPTION_HUD_MODE_STATIC": "Static",
+        "ID_OPTION_HUD_MODE": "HUD Visibility",
+        "ID_OPTION_ACCESSIBILITY_VISION": "Vision",
+        "ID_OPTION_VOICECHAT_KEYBINDING": "Keybinding",
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_MODE": "Party Voice Chat Mode",
+        "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_MODE": "Proximity Voice Chat Mode",
+        "ID_OPTION_VOICECHAT_VOICE_CHAT_MODE": "Voice Chat Mode",
+        "ID_OPTION_VOICECHAT_INPUTDEVICE": "Input Device",
+        "ID_OPTION_VOICECHAT_OUTPUTDEVICE": "Output Device",
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT": "Party Voice Chat",
+        "ID_OPTION_VOICECHAT_ENABLEDFOR_PARTY": "Enabled Party Voice Chat",
+        "ID_OPTION_VOICECHAT_ENABLEDFOR_PROXIMITY": "Enable Proximity Voice Chat",
+        "ID_OPTION_VOICECHAT_ENABLEDFOR": "Enabled for",
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME": "Party Voice Chat Volume",
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME_ALT2": "Party Voice Chat Output Volume",
+        "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_VOLUME": "Proximity Voice Chat Volume",
+        "ID_OPTION_VOICECHAT_TOGGLE_MIC_OFF": "Mic off",
+        "ID_OPTION_VOICECHAT_TOGGLE_TOGGLETOTALK": "Toggle to Talk",
+        "ID_OPTION_VOICECHAT_TOGGLE_MUTED": "Muted",
+        "ID_OPTION_VOICECHAT_TOGGLE_MUTED_ALT2": "Muted Mic",
+        "ID_OPTION_VOICECHAT_TOGGLE_TOGGLEMIC": "Toggle Mic",
+        "ID_OPTION_GAMEPAD_AIM_ASSIST_DESCRIPTION": "Sets whether aim assist is enabled or not.",
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION": "This curve determines how much of your stick movement applies to looking based on your input.\r\nExponential: Starts low and gradually increases in steepness.\r\nLinear: Directly maps to your input with a 1:1 ratio.\r\nSinusoidal: Smooth in, steep middle, smooth out.",
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION_SONY_CERT": "This curve determines how much of your stick movement applies to looking based on your input.\r\nExponential: Starts low and gradually increases in steepness.\r\nLinear: Directly maps to your input with a 1:1 ratio.\r\nSinusoidal: Smooth in, steep middle, smooth out.",
+        "ID_OPTION_DEADZONE_DESCRIPTION": "Compensates for stick drift by setting an inner range in which input is ignored.",
+        "ID_OPTION_DEADZONE_DESCRIPTION_SONY_CERT": "Compensates for stick drift by setting an inner range in which input is ignored.",
+        "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION": "Boosts how quickly you look sideways when the stick is moved all the way. This is helpful for turning quickly, while maintaining precision for smaller adjustments.",
+        "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": "Boosts how quickly you look sideways when the stick is moved all the way. This is helpful for turning quickly, while maintaining precision for smaller adjustments.",
+        "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION": "Inverts your vertical looking, so that you look up by moving the stick down, and look down by moving it up.",
+        "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION_SONY_CERT": "Inverts your vertical looking, so that you look up by moving the stick down, and look down by moving it up.",
+        "ID_OPTION_LOOK_ACCELERATION_DESCRIPTION": "Smoothens how it feels to look around at the cost of responsiveness. Higher values result in faster acceleration, and if you want instant response, keep it disabled at 0.",
+        "ID_OPTION_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": "How much time it takes to accelerate to the full boost amount.",
+        "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION": "Boosts how quickly you look up and down when the stick is moved all the way.",
+        "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": "Boosts how quickly you look up and down when the stick is moved all the way.",
+        "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION": "While aiming, this boosts how quickly you look sideways when the stick is moved all the way. This is helpful for tracking fast moving targets, while maintaining precision for smaller adjustments.",
+        "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": "While aiming, this boosts how quickly you look sideways when the stick is moved all the way. This is helpful for tracking fast moving targets, while maintaining precision for smaller adjustments.",
+        "ID_OPTION_ZOOM_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": "While aiming, this is how much time it takes to accelerate to the full boost amount.",
+        "ID_OPTION_ZOOM_SENSITIVITY_MULTIPLIER_DESCRIPTION": "How much your sensitivity slows down when aiming.",
+        "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION": "While aiming, this boosts how quickly you look up and down when the stick is moved all the way.",
+        "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": "While aiming, this boosts how quickly you look up and down when the stick is moved all the way.",
+        "ID_OPTION_GAMEPLAY_PREFERRED_REGION": "Preferred Region",
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL": "Look Sensitivity Horizontal",
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL": "Look Sensitivity Vertical",
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL_DESCRIPTION": "How quickly you look sideways.",
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL_DESCRIPTION": "How quickly you look up and down.",
+        "ID_OPTION_MOUSE_CONTROLS_INVERT_Y": "Mouse Invert Vertical Look Input",
+        "ID_OPTION_MOUSE_SENSITIVITY": "Mouse Look Sensitivity",
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY": "Mouse Zoom Sensitivity Multiplier",
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_HORIZONTAL": "Mouse Sensitivity X-Axis",
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_VERTICAL": "Vertical Sensitivity",
+        "ID_OPTION_HUD_MODE_HIDDEN": "Hidden",
+        "ID_OPTION_HUD_EDGE_POSITION": "HUD Position",
+        "ID_OPTION_HUD_EDGE_POSITION_CENTERED": "Centered",
+        "ID_OPTION_HUD_EDGE_POSITION_STRETCHED": "Stretched",
+        "ID_OPTION_HUD_ALIGNMENT_DESCRIPTION": "Controls whether HUD elements align to a fixed horizontal boundary or anchor directly to the edges of the screen or window.",
+        "ID_OPTION_HUD_TIPS_AND_HINTS": "Tips and Hints",
+        "ID_OPTION_HUD_STAMINA_BAR_VISIBILITY": "Stamina bar visibility",
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH": "Stamina bar width",
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_LONG": "Long",
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_MEDIUM": "Medium",
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_SHORT": "Short",
+        "ID_OPTION_HUD_COMPASS_VISIBILITY": "Compass Visibility",
+        "ID_OPTION_HUD_COMPASS_ICONS": "Compass icons",
+        "ID_OPTION_HUD_COMPASS_ICONS_DESCRIPTION": "Determine what type of icons to display in the compass.",
+        "ID_OPTION_HUD_COMPASS_ICONS_PINGS_AND_WAYPOINTS": "Pings and Way-points",
+        "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP": "Show Inventory pickup",
+        "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP_DESCRIPTION": "Shows a visual representation of the inventory in the HUD when it’s being filled.",
+        "ID_OPTION_VOICECHAT_ASSIGNED_BUTTON": "Assigned button",
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL": "Automatic Gain Control",
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DESCRIPTION": "Automatically manages your microphone volume: increases gain when you’re too quiet so that others can hear you, and lowers it when you’re too loud to prevent distortion and clipping.",
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DISABLED": "Disabled",
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS": "Swap {0} and {1}",
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_SONY_CERT": "Swap {0} and {1}",
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_DESCRIPTION": "Swaps the actions of {0} and {1}.",
+        "ID_OPTION_RAIDER_VOICE": "Raider Voice",
+        "ID_OPTION_RAIDER_VOICE_ALT2": "Raider Voice Heard by",
+        "ID_OPTION_RAIDER_VOICE_ALT3": "Enable Raider Voice",
+        "ID_OPTION_RAIDER_VOICE_PARTY": "Raider Voice in Party",
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY": "Raider Voice in Proximity",
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION": "Raider Voice changes the sound of your voice to match your Raider's while in party and proximity voice chat.",
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT2": "Raider Voice changes how your voice sounds to others in party and proximity voice chat.   Using Raider Voice with Open Mic can put extra strain on lower-end systems. On such systems, we recommend switching to Push(/Toggle)-to-Talk to maintain stable performance.",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE": "Everyone",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYBODY": "Everybody",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_ON": "On",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY": "Only party",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY": "Only proximity",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_OFF": "Off",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_NOONE": "No one",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY_ALT2": "Only for party",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT2": "Only in proximity",
+        "ID_OPTION_RAIDER_VOICE_EVERYONE_DESCRIPTION": "Raider Voice will be heard by everyone.",
+        "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION": "Your real voice will be heard by everyone.",
+        "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION_ALT2": "Raider Voice will not be heard by anyone.",
+        "ID_OPTION_RAIDER_VOICE_PARTY_DESCRIPTION": "Raider Voice will be heard by players in your party",
+        "ID_OPTION_RAIDER_VOICE_SELECTION": "Raider Voice Selection",
+        "ID_OPTION_RAIDER_VOICE_SELECTION_ALT2": "Voice Selection",
+        "ID_OPTION_RAIDER_VOICE_SELECTION_SELECTED_VOICE": "Voice {0}",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION": "Improve pitch detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_ALT2": "Pitch detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_ACTIVATE": "Activate",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC": "Automatic",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT2": "Automatic detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT3": "Automatic pitch detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED": "Recorded sample",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED_ALT2": "Recorded pitch",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED": "Improved detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED_ALT2": "Improved pitch detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP": "Sample recorded: {0}",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP_ALT2": "Pitch recorded: {0}",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RECORD": "Record",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STOP": "Stop",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STARTOVER": "Start over",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET": "Reset detection",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET_ALT2": "Reset",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION": "By recording a short sample, the pitch detection of the Raider Voice will be improved.",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION_ALT2": "Pitch is the measure of how high or low your voice can go. Analyzing your average voice tone while speaking in a neutral way will help us improve the output of your Raider Voice.",
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_INFO_SAMPLE_LENGTH": "Sample length needed: {0}",
+        "ID_OPTION_VOICECHAT_GAMEPAD_PROXIMITY_VOICE_CHAT_MODE": "Gamepad Proximity Mode",
+        "ID_OPTION_VOICECHAT_GAMEPAD_PARTY_VOICE_CHAT_MODE": "Gamepad Party Mode",
+        "ID_OPTION_VOICECHAT_KEYBOARD_PROXIMITY_VOICE_CHAT_MODE": "Keyboard Proximity Mode",
+        "ID_OPTION_VOICECHAT_KEYBOARD_PARTY_VOICE_CHAT_MODE": "Keyboard Party Mode",
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_EVERYONE": "Everyone",
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_PROXIMITY": "Only proximity",
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE": "Emote Loudness:",
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_LOUD": "Loud",
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_SUBTLE": "Subtle",
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_AUTO": "Automatic",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_TITLE": "Interact/Reload Behavior",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION": "Determines how the Interact/Reload button behaves.\r\nTap to Reload: tap to reload, hold to interact.\r\nTap to Interact: tap to interact, hold to reload.\r\nPrioritize Interact: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to interact and hold to reload.\r\nPrioritize Reload: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to reload and hold to interact.",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_TAP_RELOAD": "Tap to Reload",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_TAP_INTERACT": "Tap to Interact",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_INTERACT": "Prioritize Interact",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_RELOAD": "Prioritize Reload",
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE": "Ping voice heard by:",
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE_SQUAD_ONLY": "Squad only",
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE_ALL_RAIDERS": "All Raiders",
+        "ID_OPTION_ACCESSIBILITY_SCOPED_ZOOM_SENSITIVITY_DESCRIPTION": "How much your sensitivity slows down when aiming down scoped sights.",
+        "ID_OPTION_FOV_SENSITIVITY_SCALING_DESCRIPTION": "Scales the look sensitivity based on field of view, so that the crosshair moves the same amount of pixels across all zoom levels.",
+        "ID_OPTION_ACCESSIBILITY_INVERT_FLASH_COLOR": "Invert Flash Color",
+        "ID_OPTION_ACCESSIBILITY_INVERT_FLASH_COLOR_DESCRIPTION": "Makes the blinded effect from flashes black instead of white.",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY": "Controller Vibration Intensity",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_SONY_CERT": "Controller Vibration Intensity",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_DESCRIPTION": "Sets the intensity of the controller’s vibration effects",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_DESCRIPTION_SONY_CERT": "Sets the intensity of the controller’s vibration effects",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_ADAPTIVE_TRIGGERS_SONY_CERT": "Adaptive Triggers",
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_ADAPTIVE_TRIGGERS_DESCRIPTION_SONY_CERT": "Sets the intensity of the controller’s adaptive trigger effects",
+        "ID_OPTION_DISCORD_LINK": "Link Discord",
+        "ID_OPTION_DISCORD_UNLINK": "Unlink Discord",
+        "ID_OPTION_DISCORD_LINK_TILE": "Discord Social Integration",
+        "ID_OPTION_DISCORD_LINK_DESCRIPTION": "Integrating your ARC Raiders account with Discord will enhance the social interaction with your friend list in both applications by:\r\n* Invite Discord friends to the game\r\n* Shows your Discord friends in the game\r\n* Enhances rich presence for Discord activities\r\n\r\nYou can always enable or disable the integration as you please, this will not affect the core social options in game such as Party, Friend List or Chat.",
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_FAILED_TITLE": "Discord Linking Failed",
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_TITLE": "Discord Unlinking Failed",
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_DESCRIPTION": "Unlinking Discord account failed. Please try again later or visit id.embark.games/id/",
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_FAILED_DESCRIPTION": "Linking Discord account failed. Please try again later or visit id.embark.games/id/",
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_SUCCESS_DESCRIPTION": "Successfully linked your discord account!",
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_SUCCESS_DESCRIPTION": "Successfully unlinked your discord account!",
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_COOLDOWN_DESCRIPTION": "Unlinking Discord account failed. You can only unlink your Discord account once every 48 hours.",
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_SUCCESS_TITLE": "Discord Linked!",
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_SUCCESS_TITLE": "Discord Unlinked!",
+        "ID_OPTION_GENERAL": "General",
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT": "Auto Sprint",
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_DESCRIPTION": "Automatically start sprinting after the movement input is held for a set amount of time.",
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY": "Auto Sprint Trigger Delay",
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY_DESCRIPTION": "How long the movement input needs to be held in order to trigger Auto Sprint.",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_TITLE_TONE": "Tone",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_BRIGHT": "Bright",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_DARK": "Dark",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_DEEP": "Deep",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_TITLE_PITCH": "Pitch",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_PITCH_LOW": "Low",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_PITCH_HIGH": "High",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_BRIGHTTONE": "Bright tone",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_DARRKTONE": "Dark tone",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_DEEPTONE": "Deep tone",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_LOWPITCH": "Low pitch",
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_HIGHPITCH": "High pitch",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE_ALT2": "On for everyone",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT3": "On for proximity",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_NOONE_ALT2": "Off",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE_ALT3": "Heard by everyone",
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT4": "Heard by proximity",
+        "ID_OPTION_RAIDER_VOICE_BETA": "Raider Voice Beta",
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_OFF": "Off",
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY": "Play voice",
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT2": "Preview voice",
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT3": "Play preview",
+        "ID_OPTION_VOICE": "Voice",
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT3": "Raider Voice changes how your voice sounds to others in party and proximity voice chat.",
+        "ID_OPTIONS_RAIDERVOICE_BETA_DESCRIPTION": "This feature is currently in beta, and functionality may change over time.",
+        "ID_OPTION_ACCESSIBILITY_INVERT_Y_AXIS_DESCRIPTION": "Inverts your vertical looking, so that you look up by moving the mouse down, and look down by moving it up.",
+        "ID_OPTION_INVERT_HORIZONTAL_LOOK_INPUT_DESCRIPTION": "Inverts your horizontal looking, so that you turn right by moving the stick left, and turn left by moving it right.",
+        "ID_OPTION_INVERT_HORIZONTAL_LOOK_INPUT_DESCRIPTION_SONY_CERT": "Inverts your horizontal looking, so that you turn right by moving the stick left, and turn left by moving it right.",
+        "ID_OPTION_ACCESSIBILITY_INVERT_X_AXIS_DESCRIPTION": "Inverts your horizontal looking, so that you turn right by moving the mouse left, and turn left by moving it right.",
+        "ID_OPTION_RAIDER_VOICE_QUALITY": "Raider Voice Quality",
+        "ID_OPTION_RAIDER_VOICE_QUALITY_DESCRIPTION": "Select the quality level for the Raider Voice model. The lower quality models are recommended for systems with limited CPU resources.",
+        "ID_OPTION_VOICECHAT_RADIO_EFFECT_ENABLED": "Enable Radio Effect",
+        "ID_OPTION_SETTING_REQUIRES_RESTART_TITLE": "Requires restart",
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BODY": "This settings change will take effect the next time you start the game.",
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_RESTART": "Restart now",
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_LATER": "Later",
+        "ID_OPTION_FONTSIZE_DESCRIPTION": "Font size changes the size of the body text. The larger size is recommended when playing on a television.  Restart needed to apply changes.",
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_CLOSE": "Close",
+        "ID_OPTION_MOUSE_SMOOTHING": "Mouse Smoothing",
+        "ID_OPTION_MOUSE_SMOOTHING_DESCRIPTION": "Mouse Smoothing improves the feel of lower-resolution mice. If you have a high-resolution gaming mouse, you might want to turn it off.",
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND": "This button cannot be rebound.",
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND_ALT": "{0} (Cannot be rebound)",
+        "ID_OPTION_HUD_MODE_DEFAULT": "Default",
+        "ID_OPTION_HUD_MODE_CROSSHAIRONLY": "Crosshair Only",
+        "ID_OPTIONS_BUTTON_BINDING": "Button binding",
+        "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID": "Conceal Server ID",
+        "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID_DESCRIPTION": "Changes your server ID while in round to another unique identifier to reduce stream sniping.\r\n\r\nEmbark will still be able to identify your server to assist with support.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUSMODE_DESCRIPTION": "This mode enables a set of settings to anonymize your account to other players while in a round.",
+        "ID_OPTIONS_SOCIAL_NOTIFICATIONS": "Social Notifications",
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES": "Conceal All Display Names",
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME": "Conceal My Own Display Name",
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS": "Conceal My Display Name to Others",
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY": "Matchmaking Privacy",
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION": "Enables additional protection against stream sniping by adding a randomized delay to your matchmaking, and changing your server information in the bottom-right corner to make it less predictable.\r\n\r\nWhen playing in a party, make sure the party leader has this setting toggled on. This setting cannot be changed while matchmaking.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_ALT2": "Toggle visibility of party invites from friends.\r\nOn: Party invites sent from friends will be shown at the top of your screen and can be accepted.\r\nOff: Party invites from friends will not be shown at the top of your screen, but you can accept them from your Social screen.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL_DESCRIPTION": "Toggle visibility of all social notifications such as party invites and friend requests.\r\nOn: Notifications for social features are shown.\r\nOff: Notifications for social features are muted.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_STATUS_DESCRIPTION": "Setting this to ON turns your in-game status to Offline for anyone outside your Party, even if you are Online. You and your Party members will see your presence as Hidden. This doesn't affect any action you can normally perform in game while Online.\r\n\r\nPlease note that this does not change your status on your platform.",
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME_DESCRIPTION": "Replaces your Display Name with the word “ME” in all places where it is shown in your own view.",
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES_DESCRIPTION": "Hides the Display Names of all the players in a round from your own view.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS_DESCRIPTION": "While in a round, hides your Display Name from all other players.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_USERNAME": "Conceal Display Name",
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUS_GROUP_TITLE": "Privacy",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_GROUP_TITLE": "Notifications",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS": "Show Party Invites From Friends",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES": "Show Friend Requests",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL": "Show Social Notifications",
+        "ID_OPTIONS_SOCIAL_PRIVACY_SHOW_AS_OFFLINE_TITLE": "Show As Offline",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES_DESCRIPTION": "Toggle visibility of new friend requests.\r\nOn: New friend requests will be shown at the top of your screen.\r\nOff: You’ll still be able to receive new friend requests, but the request will not be shown at the top of your screen.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION": "Toggle visibility of party invites from friends.\r\nOn: Party invites sent from friends will be shown at the top of your screen and can be accepted.\r\nOff: Party invites from friends are hidden and can’t be accepted.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMERMODE": "Streamer Mode",
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUSMODE": "Anonymous Mode",
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEALED_ME": "Me",
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMERMODE_DESCRIPTION": "This mode enables a set of settings to improve the experience when streaming.",
+        "ID_OPTION_HUD_MODE_CROSSHAIRANDINTERACTIONS": "Crosshair and Interactions",
+        "ID_OPTION_HUD_MODE_DESCRIPTION": "Default: Show all HUD elements.\r\nCrosshair and Interactions: Show only crosshair and interaction prompts.\r\nCrosshair Only: Show only the crosshair.\r\nHidden: Hide all HUD elements.",
+        "ID_OPTION_LABEL_NO_ACTION_ASSIGNED": "(No Action Assigned)",
+        "ID_OPTION_LABEL_UNASSIGNED_BRACKETS": "(Unassigned)",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_TAP_RELOAD": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nTap to Reload: tap to reload, hold to interact.",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_TAP_INTERACT": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nTap to Interact: tap to interact, hold to reload.",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_INTERACT": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nPrioritize Interact: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to interact and hold to reload.",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_RELOAD": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nPrioritize Reload: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to reload and hold to interact.",
+        "ID_OPTION_VIDEO_FSR_FRAME_GENERATION_TOOLTIP": "AMD FSR Frame Generation increases frame rate by creating additional frames computed from existing inputs.\r\n\r\nIt is highly recommended to be always running at a minimum of ~60 FPS before frame generation is applied for an optimal high-quality gaming experience and to mitigate any latency introduced by the technology.\r\n\r\nThis feature can negatively affect performance in ARC Raiders on CPUs with few cores. A minimum of 8 CPU cores is recommended for running AMD FSR Frame Generation."
+      },
+      "KeysToMetaData": {
+        "ID_OPTION_GAMEPAD_FOV_SENSITIVITY_SCALING_SONY_CERT": {
+          "Note": "Make sure to us the correct Sony term Wireless Controller"
+        },
+        "ID_OPTION_ACCESSIBILITY_VISION": {
+          "Note": "Title for a section in Accessibility"
+        },
+        "ID_OPTION_VOICECHAT_KEYBINDING": {
+          "Note": "Option connected to VoIP when using toggle to talk, keybinding for toggling"
+        },
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_MODE": {
+          "Note": "Selection of mode for party chat, open mic, toggle to talk or mic off"
+        },
+        "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_MODE": {
+          "Note": "Selection of mode for proximity chat, open mic, toggle to talk or mic off"
+        },
+        "ID_OPTION_VOICECHAT_VOICE_CHAT_MODE": {
+          "Note": "Selection of mode for voice chat, open mic, toggle to talk or mic off"
+        },
+        "ID_OPTION_VOICECHAT_INPUTDEVICE": {
+          "Note": "For Voice Chat"
+        },
+        "ID_OPTION_VOICECHAT_OUTPUTDEVICE": {
+          "Note": "For Voice Chat"
+        },
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT": {
+          "Note": "Title for section within Audio and Voice Chat"
+        },
+        "ID_OPTION_VOICECHAT_ENABLEDFOR_PARTY": {
+          "Note": "Voice Chat enabled for party - on/off"
+        },
+        "ID_OPTION_VOICECHAT_ENABLEDFOR_PROXIMITY": {
+          "Note": "Voice chat enabled for proximity - on/off"
+        },
+        "ID_OPTION_VOICECHAT_ENABLEDFOR": {
+          "Note": "Voice chat enabled - on/off"
+        },
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME": {
+          "Note": "Volume of output on Party VoIP"
+        },
+        "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME_ALT2": {
+          "Note": "Volume of output on Party VoIP alternative"
+        },
+        "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_VOLUME": {
+          "Note": "Volume of output on Proximity VoIP"
+        },
+        "ID_OPTION_VOICECHAT_TOGGLE_MIC_OFF": {
+          "Note": "Toggle for VoIP - Microphone off"
+        },
+        "ID_OPTION_VOICECHAT_TOGGLE_TOGGLETOTALK": {
+          "Note": "Toggle for VoIP - Toggle to open mic"
+        },
+        "ID_OPTION_VOICECHAT_TOGGLE_MUTED": {
+          "Note": "Toggle for VoIP - Mic muted"
+        },
+        "ID_OPTION_VOICECHAT_TOGGLE_MUTED_ALT2": {
+          "Note": "Toggle for VoIP - Mic muted alternative"
+        },
+        "ID_OPTION_VOICECHAT_TOGGLE_TOGGLEMIC": {
+          "Note": "Toggle for VoIP - Toggle to open mic"
+        },
+        "ID_OPTION_GAMEPAD_AIM_ASSIST_DESCRIPTION": {
+          "Note": "Description for aim assist"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION": {
+          "Note": "Description for Look Response Curve"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION_SONY_CERT": {
+          "Note": "Description for Look Response Curve"
+        },
+        "ID_OPTION_DEADZONE_DESCRIPTION": {
+          "Note": "Description of Deadzone"
+        },
+        "ID_OPTION_DEADZONE_DESCRIPTION_SONY_CERT": {
+          "Note": "Description of Deadzone"
+        },
+        "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION": {
+          "Note": "Description of Horizontal Look Boost"
+        },
+        "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
+          "Note": "Description of Horizontal Look Boost"
+        },
+        "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION": {
+          "Note": "Description of Invert Vertical Look Input"
+        },
+        "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION_SONY_CERT": {
+          "Note": "Description of Invert Vertical Look Input"
+        },
+        "ID_OPTION_LOOK_ACCELERATION_DESCRIPTION": {
+          "Note": "Description of Look Acceleration"
+        },
+        "ID_OPTION_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": {
+          "Note": "Description of Look Boost Ramp-up Time"
+        },
+        "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION": {
+          "Note": "Description of Vertical Look Boost"
+        },
+        "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
+          "Note": "Description of Vertical Look Boost"
+        },
+        "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION": {
+          "Note": "Zoom Horizontal Look Boost"
+        },
+        "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
+          "Note": "Zoom Horizontal Look Boost"
+        },
+        "ID_OPTION_ZOOM_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": {
+          "Note": "Zoom Look Boost Ramp-up Time"
+        },
+        "ID_OPTION_ZOOM_SENSITIVITY_MULTIPLIER_DESCRIPTION": {
+          "Note": "Description of Zoom Sensitivity Multiplier"
+        },
+        "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION": {
+          "Note": "Zoom Vertical Look Boost"
+        },
+        "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
+          "Note": "Zoom Vertical Look Boost"
+        },
+        "ID_OPTION_GAMEPLAY_PREFERRED_REGION": {
+          "Note": "Setting to change server region"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL": {
+          "Note": "Setting for changing camera horizontal sensitivity"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL": {
+          "Note": "Setting for changing camera vertical sensitivity"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL_DESCRIPTION": {
+          "Note": "Description for Look Sensitivity Horizontal"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL_DESCRIPTION": {
+          "Note": "Description for Look Sensitivity Vertical"
+        },
+        "ID_OPTION_MOUSE_CONTROLS_INVERT_Y": {
+          "Note": "Inverts mouse up and down on KBM"
+        },
+        "ID_OPTION_MOUSE_SENSITIVITY": {
+          "Note": "Setting for changing camera control sensitivity"
+        },
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY": {
+          "Note": "Setting for changing zoom sensitivity"
+        },
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_HORIZONTAL": {
+          "Note": "Setting for changing Horizontal camera sensitivity"
+        },
+        "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_VERTICAL": {
+          "Note": "Setting for changing Vertical camera sensitivity"
+        },
+        "ID_OPTION_HUD_MODE": {
+          "Note": "Setting for changing the type of HUD visibility behaviour"
+        },
+        "ID_OPTION_HUD_EDGE_POSITION": {
+          "Note": "Setting for selecting the HUD alignment to be edge to the screen or fixed in a position"
+        },
+        "ID_OPTION_HUD_EDGE_POSITION_CENTERED": {
+          "Note": "Centered with a 16:9 ratio"
+        },
+        "ID_OPTION_HUD_EDGE_POSITION_STRETCHED": {
+          "Note": "Stretched"
+        },
+        "ID_OPTION_HUD_ALIGNMENT_DESCRIPTION": {
+          "Note": "Description for HUD Position"
+        },
+        "ID_OPTION_HUD_TIPS_AND_HINTS": {
+          "Note": "Setting for showing or hiding Tips and Hints in the HUD"
+        },
+        "ID_OPTION_HUD_STAMINA_BAR_VISIBILITY": {
+          "Note": "Setting for determining visibility type of the stamina bar"
+        },
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH": {
+          "Note": "Setting for determining the width of the stamina bar"
+        },
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_LONG": {
+          "Note": "Long length of the stamina bar"
+        },
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_MEDIUM": {
+          "Note": "Medium lenght of the stamina bar"
+        },
+        "ID_OPTION_HUD_STAMINA_BAR_WIDTH_SHORT": {
+          "Note": "Short lenght of the stamina bar"
+        },
+        "ID_OPTION_HUD_COMPASS_VISIBILITY": {
+          "Note": "Setting for determing the visibility type of the compass"
+        },
+        "ID_OPTION_HUD_COMPASS_ICONS": {
+          "Note": "Setting for choosing what types of icons should be shown in the compass"
+        },
+        "ID_OPTION_HUD_COMPASS_ICONS_DESCRIPTION": {
+          "Note": "Description for Compass Icons"
+        },
+        "ID_OPTION_HUD_COMPASS_ICONS_PINGS_AND_WAYPOINTS": {
+          "Note": "Option for the Compass Icons setting, selecting this option will only show pings and waypoints in the compass"
+        },
+        "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP": {
+          "Note": "Setting for showing or hiding the inventory visual represention when picking up a item."
+        },
+        "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP_DESCRIPTION": {
+          "Note": "Description for Show Inventory pickup setting"
+        },
+        "ID_OPTION_VOICECHAT_ASSIGNED_BUTTON": {
+          "Note": "Option connected to VoIP when using toggle to talk, push to talk, displaying the assigned button"
+        },
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL": {
+          "Note": "Automatically controls voice input to lower or to increase volume depending on how loud our quiet the input is"
+        },
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DESCRIPTION": {
+          "Note": "Description for Automatic Gain Control"
+        },
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_ENABLED": {
+          "Note": "Option for Enableling Automatic Gain Control"
+        },
+        "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DISABLED": {
+          "Note": "Option for Disableling Automatic Gain Control"
+        },
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS": {
+          "Note": "Settings for inverting A and B actions"
+        },
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_SONY_CERT": {
+          "Note": "Settings for inverting Cross and Circle actions"
+        },
+        "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_DESCRIPTION": {
+          "Note": "Description for Swaping actions."
+        },
+        "ID_OPTION_RAIDER_VOICE": {
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+        },
+        "ID_OPTION_RAIDER_VOICE_ALT2": {
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+        },
+        "ID_OPTION_RAIDER_VOICE_ALT3": {
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+        },
+        "ID_OPTION_RAIDER_VOICE_PARTY": {
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over party VoIP"
+        },
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY": {
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over proximity VoIP"
+        },
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION": {
+          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat"
+        },
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT2": {
+          "Note": "Updated string needed for Raider Voice to include warning/recommendation for specs and settings if you are on a low-end machine."
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE": {
+          "Note": "Option for Raider Voice to be heard by everyone"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYBODY": {
+          "Note": "Option for Raider Voice to be heard by everybody"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_ON": {
+          "Note": "Option for Raider Voice to be on"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY": {
+          "Note": "Option for Raider Voice to be on for party"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY": {
+          "Note": "Option for Raider Voice to be on for proximity"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_OFF": {
+          "Note": "Option for Raider Voice to be off"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_NOONE": {
+          "Note": "Option for Raider Voice to be heard by no one"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY_ALT2": {
+          "Note": "Option for Raider Voice to be on for party"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT2": {
+          "Note": "Option for Raider Voice to be on for proximity"
+        },
+        "ID_OPTION_RAIDER_VOICE_EVERYONE_DESCRIPTION": {
+          "Note": "Description for the selection when everyone hears"
+        },
+        "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION": {
+          "Note": "Description for the selection when no one hears"
+        },
+        "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION_ALT2": {
+          "Note": "Description for the selection when no one hears"
+        },
+        "ID_OPTION_RAIDER_VOICE_PARTY_DESCRIPTION": {
+          "Note": "Description for the selection when only party hears"
+        },
+        "ID_OPTION_RAIDER_VOICE_SELECTION": {
+          "Note": "Setting to select a Raider Voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_SELECTION_ALT2": {
+          "Note": "Setting to select a Raider Voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_SELECTION_SELECTED_VOICE": {
+          "Note": "Name of the Raider Voices will range with a number"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION": {
+          "Note": "Setting for improving the pitch detection of the Raider Voice feature"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_ALT2": {
+          "Note": "Setting for improving the pitch detection of the Raider Voice feature"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_ACTIVATE": {
+          "Note": "Activate-button for Pitch detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC": {
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT2": {
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT3": {
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED": {
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED_ALT2": {
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED": {
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED_ALT2": {
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP": {
+          "Note": "Timestamp for when a sample last was recorded with a date"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP_ALT2": {
+          "Note": "Timestamp for when a sample last was recorded with a date"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RECORD": {
+          "Note": "Button for players to record a short audio sample"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STOP": {
+          "Note": "Button for players to stop recording a short audio sample"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STARTOVER": {
+          "Note": "Button for players to start over their recording"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET": {
+          "Note": "Button for players to reset their pitch detection to automatic detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET_ALT2": {
+          "Note": "Button for players to reset their pitch detection to automatic detection"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION": {
+          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION_ALT2": {
+          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_INFO_SAMPLE_LENGTH": {
+          "Note": "Explanation of how long the sample needs to be"
+        },
+        "ID_OPTION_VOICECHAT_GAMEPAD_PROXIMITY_VOICE_CHAT_MODE": {
+          "Note": "Title for proximity chat on Gamepad"
+        },
+        "ID_OPTION_VOICECHAT_GAMEPAD_PARTY_VOICE_CHAT_MODE": {
+          "Note": "Title for party chat on Gamepad"
+        },
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT": {
+          "Note": "Setting for enbleling Auto Sprint"
+        },
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_DESCRIPTION": {
+          "Note": "Description for what Auto Sprint means"
+        },
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY": {
+          "Note": "Setting for Auto Sprint Trigger Delay"
+        },
+        "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY_DESCRIPTION": {
+          "Note": "Description for what Auto Sprint Trigger Delay means"
+        },
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY": {
+          "Note": "Button label to preview the voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT2": {
+          "Note": "Button label to preview the voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT3": {
+          "Note": "Button label to preview the voice"
+        },
+        "ID_OPTION_VOICE": {
+          "Note": "Alternative to Raider Voice"
+        },
+        "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT3": {
+          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat"
+        },
+        "ID_OPTIONS_RAIDERVOICE_BETA_DESCRIPTION": {
+          "Note": "Description for what Raider Voice Beta means"
+        },
+        "ID_OPTION_SETTING_REQUIRES_RESTART_TITLE": {
+          "Note": "https://embark.atlassian.net/browse/PNR2-58000 Modal title to prompt a restart upon applying a change to a setting that requires a restart of the game to take effect."
+        },
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BODY": {
+          "Note": "Modal body text to tell players that the setting changed requires restart to take effect. Important: On PC it will be shown with two buttons asking if you want to Restart Now or Later. BUT on Console the button will say Close."
+        },
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_RESTART": {
+          "Note": "Button on restart-modal prompting the player to restart the game"
+        },
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_LATER": {
+          "Note": "Button on restart-modal allowing player to leave this setting changed, but not in effect until the next time they restart the game"
+        },
+        "ID_OPTION_FONTSIZE_DESCRIPTION": {
+          "Note": "Description for the font size setting. This setting is called Font Size but only changes certain body texts between Big (24px) and Small (18px) - where the bigger is suitable for TV and the smaller for PC."
+        },
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND": {
+          "Note": "Blocks a certain key from being rebound"
+        },
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND_ALT": {
+          "Note": "Blocks a certain key from being rebound"
+        },
+        "ID_OPTIONS_BUTTON_BINDING": {
+          "Note": "Used to show the assigned button to a certain action, the row also allows you to rebind the button. Possibly we could use \"Assigned button\" to not submit a new string"
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID": {
+          "Note": "Setting name for Streamers to toggle that changes your server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers."
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID_DESCRIPTION": {
+          "Note": "Setting description for toggle that Streamers to can use to change server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers. "
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES": {
+          "Note": "Setting name to conceal everyone's names on your own view."
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME": {
+          "Note": "Setting name to conceal your name on your own view."
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS": {
+          "Note": "Setting name to conceal your name to others while in a round."
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY": {
+          "Note": "Overarching setting to enable two Streamer settings that makes it more difficulty for stream sniping by modifying matchmaking settings."
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION": {
+          "Note": "Description to the overarching setting for streamers to change their matchmaking settings, to make it more difficult for stream sniping."
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEALED_ME": {
+          "Note": "Player name replacement when player name is hidden"
+        }
+      }
+    }
+  }
+]

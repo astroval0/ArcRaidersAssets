@@ -1,0 +1,115 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_MatchMaking",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_MatchMaking",
+    "StringTable": {
+      "TableNamespace": "ST_MatchMaking",
+      "KeysToEntries": {
+        "ID_MATCHMAKING_MATCHINGSUCCESS_JOINING": "JOINING GAME",
+        "ID_MATCHMAKING_STATUS_MATCHING_DEFAULT": "FINDING SESSION",
+        "ID_MATCHMAKING_STATUS_MATCHING_DONE": "FINDING GAME",
+        "ID_MATCHMAKING_STATUS_REQUESTING_SERVER": "JOINING GAME",
+        "ID_MATCHMAKING_STATUS_SKIPPING": "JOINING GAME",
+        "ID_MATCHMAKING_STATUS_CANCELING": "ABORTING",
+        "ID_MATCHMAKING_MATCHMAKING_SCENARIO_EXPIRED": "The scenario is no longer available for matchmaking because it has expired.",
+        "ID_MATCHMAKING_PERMISSION_DENIED": "Sorry, you are currently not allowed to play.",
+        "ID_MATCHMAKING_PLAYTEST_NOT_ACTIVE": "Playtest has ended.",
+        "ID_MATCHMAKING_GENERIC_ERROR": "Matchmaking has failed. Please try again in a little while.",
+        "ID_MATCHMAKING_STATUS_NOT_PARTY_LEADER": "WAITING FOR PARTY LEADER TO START",
+        "ID_MATCHMAKING_TIMEWINDOW_NOW": "Now",
+        "ID_MATCHMAKING_TIMEWINDOW_RELATIVE_OPEN_TIME": "opens in {0}",
+        "ID_MATCHMAKING_TIMEWINDOW_RELATIVE_CLOSING_TIME": "closes in {0}",
+        "ID_MATCHMAKING_TIMEWINDOW_ABSOLUTE_OPEN_TIME": "opens {0}",
+        "ID_MATCHMAKING_TIMEWINDOW_ABSOLUTE_CLOSING_TIME": "closes {0}",
+        "ID_MATCHMAKING_TIMEWINDOW_OPEN_UNTIL": "open until {0} ({1})",
+        "ID_MATCHMAKING_TIMEWINDOW_OPEN_FROM_TO": "open from {0} to {1} ({2})",
+        "ID_MATCHMAKING_SQUAD": "squad",
+        "ID_MATCHMAKING_SOLO": "solo",
+        "ID_MATCHMAKING_TIMEWINDOW_EXPIRED": "Matchmaking time window expired",
+        "ID_MATCHMAKING_TIMEWINDOW_EXPIRED_DESC": "You can no longer matchmake with your current selection as the time window has closed. Please select another map and mode to play.",
+        "ID_MATCHMAKING_TIMEWINDOW_NO_ONLINE_PLAY_SCHEDULED": "no online play scheduled",
+        "ID_MATCHMAKING_TIMEWINDOW_ONLINE_PLAY_ENDS": "online play ends in {0}",
+        "ID_MATCHMAKING_TIMEWINDOW_ONLINE_PLAY_STARTS": "online play starts in {0}",
+        "ID_FRONTEND_AVAILABLE_FOR_PLAY": "Available for Play",
+        "ID_MATCHMAKING_PARTY_LEADER_SELECTING_DESTINATION": "Party Leader is selecting your destination",
+        "ID_MATCHMAKING_AVAILABLE_FOR_PLAYING": "Available for playing",
+        "ID_MATCHMAKING_SCENARIO": "Scenario",
+        "ID_MATCHMAKING_DESTINATION": "Destination:",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING": "Not available during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP": "Not available while ready for matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING_ALT2": "Unavailable during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP_ALT2": "Unavailable while ready for matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING_ALT3": "In matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP_ALT3": "Ready for matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT": "Loadout is locked",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT2": "Locked loadout",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH": "Stash is locked",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH_ALT2": "Locked stash",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY": "Locked inventory",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_ALT2": "Inventory is locked",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT3": "Loadout is locked during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT4": "Locked loadout during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH_ALT3": "Stash is locked during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH_ALT4": "Locked stash during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_ALT3": "Locked inventory during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_ALT4": "Inventory is locked during matchmaking",
+        "ID_MATCHMAKING_MESSAGE_PARTYMEMBER_TOPSIDE": "Waiting for all party members to return to Speranza",
+        "ID_MATCHMAKING_MESSAGE_PARTYMEMBER_TOPSIDE_ALT1": "Some party members are still topside",
+        "ID_MATCHMAKING_MESSAGE_PARTYMEMBER_TOPSIDE_ALT2": "Waiting for party members to return to Speranza",
+        "ID_MATCHMAKING_PARTY_LEADER_SELECTING_DESTINATION_ALT2": "Party leader selects",
+        "ID_MATCHMAKING_PARTY_LEADER_SELECTING_DESTINATION_ALT3": "Party leader selects destination",
+        "ID_MATCHMAKING_MESSAGE_PARTYMEMBER_TOPSIDE_ALT3": "Waiting for party",
+        "ID_MATCHMAKING_MESSAGE_PARTYMEMBER_TOPSIDE_ALT4": "Waiting for party to return",
+        "ID_MATCHMAKING_MATCHINGSUCCESS_DEPARTING": "Departing",
+        "ID_MATCHMAKING_SCENARIO_MAP_CONDITION_RESTRICTED": "The selected map condition disallows to enter matchmaking with a free loadout"
+      },
+      "KeysToMetaData": {
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING": {
+          "Note": "Message for when a feature is locked while player is matchmaking. For example crafting being locked"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP": {
+          "Note": "Message for when a feature is locked while player has readied up. For example crafting being locked"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING_ALT2": {
+          "Note": "Message for when a feature is locked while player is matchmaking. For example crafting being locked"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP_ALT2": {
+          "Note": "Message for when a feature is locked while player has readied up. For example crafting being locked"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_MATCHMAKING_ALT3": {
+          "Note": "Message to tell players that their loadout is locked due to being MM. Accompagnied by a lock icon"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_READYUP_ALT3": {
+          "Note": "Message to tell players that their loadout is locked due to being Readied up. Accompagnied by a lock icon"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT2": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT3": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDLOADOUT_ALT4": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH_ALT3": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDSTASH_ALT4": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_ALT3": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        },
+        "ID_MATCHMAKING_MESSAGE_LOCKEDINVENTORY_ALT4": {
+          "Note": "Message on the loadout screen during matchmaking, since players can't modify anything"
+        }
+      }
+    }
+  }
+]

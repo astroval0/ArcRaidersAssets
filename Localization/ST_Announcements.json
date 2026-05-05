@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Announcements",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Announcements",
+    "StringTable": {
+      "TableNamespace": "ST_Announcements",
+      "KeysToEntries": {
+        "ID_ANNOUNCEMENT_ANTENNA_EAST": "East antenna has been successfully activated",
+        "ID_ANNOUNCEMENT_ANTENNA_NORTH": "North antenna has been successfully activated",
+        "ID_ANNOUNCEMENT_ANTENNA_SOUTH": "South antenna has been successfully activated",
+        "ID_ANNOUNCEMENT_ANTENNA_WEST": "West antenna has been successfully activated",
+        "ID_ANNOUNCEMENT_ATTENTION_RAIDERS": "Attention all Raiders",
+        "ID_ANNOUNCEMENT_PROXIMITY_DOWNLOAD": "Stay close to continue download",
+        "ID_ANNOUNCEMENTS_UNLOCK_GATES_ANNOUNCEMENT": "The outer gates are now opening",
+        "ID_ANNOUNCEMENTS_HIDDEN_BUNKER_IS_NOW_OPEN": "Hidden Bunker is now open",
+        "ID_ANNOUNCEMENTS_THE_BUNKER_WILL_OPEN_IN_90_SECONDS": "The Bunker will open in 60 seconds",
+        "ID_ANNOUNCEMENT_EVENT_MONOLITH1": "Turbines sighted",
+        "ID_ANNOUNCEMENT_EVENT_MONOLITH2": "Turbine signal detected",
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_CATEGORY": "Monthly update",
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE": "New in ARC Raiders",
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE_ALT1": "Now in ARC Raiders",
+        "ID_ANNOUNCEMENTS_CANTINA_NEWS_WIDGET_SLIDE_TITLE": "New in ARC Raiders"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

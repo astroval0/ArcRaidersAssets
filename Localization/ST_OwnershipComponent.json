@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_OwnershipComponent",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_OwnershipComponent",
+    "StringTable": {
+      "TableNamespace": "ST_OwnershipComponent",
+      "KeysToEntries": {
+        "ID_OWNERSHIP_COMPONENT_NOT_OWNED": "Not Owned",
+        "ID_OWNERSHIP_COMPONENT_UNKNOWN_SQUAD": "Unknown Squad",
+        "ID_OWNERSHIP_COMPONENT_OWNED_BY_TEMPLATE": "Owned by {0}",
+        "ID_OWNERSHIP_COMPONENT_UNKNOWN_OWNER": "Unknown owner"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

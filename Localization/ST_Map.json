@@ -1,0 +1,90 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Map",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Map",
+    "StringTable": {
+      "TableNamespace": "ST_Map",
+      "KeysToEntries": {
+        "ID_MARKER_PLAYER": "Player",
+        "ID_MARKER_SQUAD_MEMBER": "Squad Member",
+        "ID_MARKER_MAP_PIN": "Pinned Location",
+        "ID_MARKER_ARC_CARGO_DROP": "ARC Cargo Drop",
+        "ID_MARKER_METRO_ENTRANCE": "Metro Entrance",
+        "ID_MARKER_EXTRACTION_ELEVATOR": "Cargo Elevator",
+        "ID_MARKER_EXTRACTION_HATCH": "Raider Hatch",
+        "ID_MARKER_METRO_STATION": "Metro Station",
+        "ID_MARKER_OTHER_PLAYER": "Other Player",
+        "ID_MARKER_WAYPOINT_DESC": "Placed by {0}",
+        "ID_MARKER_WAYPOINT": "Waypoint",
+        "ID_LEGEND_CATEGORY_PLAYER": "Player",
+        "ID_LEGEND_CATEGORY_WORLD": "World",
+        "ID_LEGEND_CATEGORY_LOOT": "Loot",
+        "ID_MARKER_LOOT_CIVILIAN": "Civilian",
+        "ID_MARKER_LOOT_GENERIC": "Generic",
+        "ID_MARKER_LOOT_ELECTRICAL": "Electrical",
+        "ID_MARKER_LOOT_MECHANICAL": "Mechanical",
+        "ID_MARKER_LOOT_NATURE": "Nature",
+        "ID_MARKER_LOOT_TECHNOLOGICAL": "Technological",
+        "ID_TOOLTIP_THREAT_LABEL": "Loot value",
+        "ID_TOOLTIP_THREAT_UNKNOWN": "unknown",
+        "ID_TOOLTIP_THREAT_LOW": "low",
+        "ID_TOOLTIP_THREAT_MEDIUM": "medium",
+        "ID_TOOLTIP_THREAT_HIGH": "high",
+        "ID_TOOLTIP_THREAT_LOW_FLAVOR": "A fallback option for more risk-averse Raiders.",
+        "ID_TOOLTIP_THREAT_MEDIUM_FLAVOR": "A go-to destination for many Raiders.",
+        "ID_TOOLTIP_THREAT_HIGH_FLAVOR": "A contested hotspot fought over by daring Raiders.",
+        "ID_TOOLTIP_EXTRACTION_HATCH_REQUIREMENTS": "Required Items",
+        "ID_TOOLTIP_EXTRACTION_INACTIVE": "Closed",
+        "ID_TOOLTIP_EXTRACTION_ACTIVE": "Shutdown in",
+        "ID_TOOLTIP_THREAT_UNKNOWN_FLAVOR": "We have no intel on what’s out here. Proceed with caution.",
+        "ID_MARKER_ARC_PROBE": "ARC Probe",
+        "ID_MARKER_ARC_COURIER": "ARC Courier",
+        "ID_MARKER_SUPPLY_CALL_STATION": "Supply Call Station",
+        "ID_MARKER_ARC_PROBE_CRASHED": "Crashed ARC Probe",
+        "ID_MARKER_SUPPLY_DROP": "Supply Drop",
+        "ID_MARKER_RAIDER_CACHE": "Abandoned Raider Cache",
+        "ID_MARKER_FIELD_STATION": "Field Depot",
+        "ID_MARKER_FIELD_CRATE": "Field Crate",
+        "ID_MAP_NOT_AVAILABLE": "Map not available",
+        "ID_MAP_ANTENNA": "Antenna",
+        "ID_MAP_LAYER_SURFACE": "Surface",
+        "ID_MAP_LAYER_UNDERGROUND": "Underground",
+        "ID_MARKER_ENTRANCE_GENERIC": "Entrance",
+        "ID_LEGEND_HEADER_LOOTCATEGORY": "Loot Category",
+        "ID_LEGEND_HEADER_LOOTCATEGORIES": "Loot Categories",
+        "ID_TOOLTIP_EXTRACTION_OPENS_IN": "Unlocks in",
+        "ID_MARKER_EXTRACTION_LOCKED_RETURN_POINT": "Locked Return Point",
+        "ID_MARKER_EXTRACTION_LOCKED_RETURN_POINT_DESCRIPTION": "This return point is currently out of order, though a fallback system is expected to eventually restore access.",
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT": "Broken Return Point",
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT_DESCRIPTION": "This return point is experiencing a mechancal failure. A skillful Raider may be able to repair it with the right materials.",
+        "ID_MARKER_COMPASS_EXTRACTION_BROKEN": "Broken - {0}",
+        "ID_MARKER_COMPASS_EXTRACTION_LOCKED": "Locked - {0}",
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT_REQUIRESREPAIR": "Requires Repair",
+        "ID_TOOLTIP_EXTRACTION_REQUIRED_REPAIR_MATERIALS": "Repair Materials"
+      },
+      "KeysToMetaData": {
+        "ID_MARKER_COMPASS_EXTRACTION_BROKEN": {
+          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction."
+        },
+        "ID_MARKER_COMPASS_EXTRACTION_LOCKED": {
+          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction."
+        },
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT": {
+          "Note": "Describes extraction points that need to be repaired before returning."
+        },
+        "ID_TOOLTIP_EXTRACTION_REQUIRED_REPAIR_MATERIALS": {
+          "Note": "Describes materials needed to repair Return Points."
+        },
+        "ID_TOOLTIP_EXTRACTION_OPENS_IN": {
+          "Note": "Describes countdown to when the extraction points open automatically."
+        },
+        "ID_MARKER_EXTRACTION_LOCKED_RETURN_POINT": {
+          "Note": "Describes extraction points that need to wait before they Unlock."
+        }
+      }
+    }
+  }
+]

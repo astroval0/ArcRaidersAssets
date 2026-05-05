@@ -1,0 +1,74 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemStats_Static",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemStats_Static",
+    "StringTable": {
+      "TableNamespace": "ST_ItemStats_Static",
+      "KeysToEntries": {
+        "ID_ITEMSTATS_STATIC_FLATDAMAGE": "Damage",
+        "ID_ITEMSTATS_STATIC_DAMAGEOVERTIME": "Damage",
+        "ID_ITEMSTATS_STATIC_RADIUS": "Radius",
+        "ID_ITEMSTATS_STATIC_DURATION": "Duration",
+        "ID_ITEMSTATS_STATIC_HOMINGRANGE": "Homing Range",
+        "ID_ITEMSTATS_STATIC_DEPLOYABLEHEALTH": "Health",
+        "ID_ITEMSTATS_STATIC_RANGE": "Range",
+        "ID_ITEMSTATS_STATIC_FLATHEALING": "Healing",
+        "ID_ITEMSTATS_STATIC_HEALINGOVERTIME": "Healing",
+        "ID_ITEMSTATS_STATIC_FLATARMORREPAIR": "Recharge",
+        "ID_ITEMSTATS_STATIC_GADGETCHARGES": "Charges",
+        "ID_ITEMSTATS_STATIC_MULTIDAMAGE_SCATTERMISSILEGRENADE": "Damage",
+        "ID_ITEMSTATS_STATIC_STUNDURATION_PLAYER": "Raider Stun Duration",
+        "ID_ITEMSTATS_STATIC_STUNDURATION_ARC": "ARC Stun Duration",
+        "ID_ITEMSTATS_STATIC_STAMINADAMAGEOVERTIME": "Stamina Drain",
+        "ID_ITEMSTATS_STATIC_STAMINAREGEN": "Stamina Regeneration",
+        "ID_ITEMSTATS_STATIC_HEALCAPACITY": "Heal Capacity",
+        "ID_ITEMSTATS_STATIC_INTERACTIONTIME": "Use Time",
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATEHEALTH": "Shield Charge",
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATEMITIGATION": "Damage Reduction",
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATENUMBER": "Number of Deflectors",
+        "ID_ITEMSTATS_STATIC_FLATSTAMINA": "Stamina",
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGERATE": "Recharge Rate",
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEDELAY": "Recharge Delay",
+        "ID_ITEMSTATS_STATIC_AUGMENT_BACKPACK": "Backpack Slots",
+        "ID_ITEMSTATS_STATIC_AUGMENT_WEIGHT": "Weight Limit",
+        "ID_ITEMSTATS_STATIC_AUGMENT_WEAPONS": "Weapons Slots",
+        "ID_ITEMSTATS_STATIC_AUGMENT_CRAFTINFO": "Augments can be crafted in your Gear Bench.",
+        "ID_ITEMSTATS_STATIC_AUGMENT_QUICKUSE": "Quick Use Slots",
+        "ID_ITEMSTATS_STATIC_AUGMENT_SAFEPOCKET": "Safe Pocket Slots",
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM_HEAVY": "Light, Medium, Heavy",
+        "ID_ITEMSTATS_STATIC_TIMERDURATION": "Timer Duration",
+        "ID_ITEMSTATS_STATIC_ILLUMINATIONRADIUS": "Illumination Radius",
+        "ID_ITEMSTATS_STATIC_TRIGGERRADIUS": "Trigger Radius",
+        "ID_ITEMSTATS_STATIC_AUGMENT_AUXILIARY": "Augmented Slots",
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT": "Light",
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY": "Shield Compatibility",
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM": "Light, Medium",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY": "ARC Armor Penetration",
+        "ID_ITEMSTATS_STATIC_CRITICALMULTIPLIER": "Critical Hit Multiplier",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_WEAK": "Weak",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_MODERATE": "Moderate",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_STRONG": "Strong",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYSTRONG": "Very Strong",
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYWEAK": "Very Weak",
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEOVERTIME": "Recharge"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY": {
+          "Note": "Header of stat style info"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT": {
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM": {
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM_HEAVY": {
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+        }
+      }
+    }
+  }
+]

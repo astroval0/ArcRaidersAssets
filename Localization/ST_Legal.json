@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Legal",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Legal",
+    "StringTable": {
+      "TableNamespace": "ST_Legal",
+      "KeysToEntries": {
+        "ID_LEGAL_TOS_TITLE": "Terms of Service",
+        "ID_LEGAL_COPYRIGHT_NOTICE": "ARC RAIDERS © 2026 Embark Studios AB. ARC RAIDERS and EMBARK trademarks and logos are trademarks or registered trademarks of Embark Studios AB. NEXON trademark and logo are trademarks or registered trademarks of NXC Corporation. © 2026 Epic Games, Inc. All rights reserved. Unreal, Unreal Engine and their respective logos are trademarks or registered trademarks of Epic Games, Inc. in the U.S. Patent and Trademark Office and elsewhere.",
+        "ID_LEGAL_PP_TITLE": "Privacy Policy",
+        "ID_LEGAL_BETA_TOS_TITLE": "Agree to our Terms Of Service",
+        "ID_LEGAL_BETA_TOS_DESCRIPTION": "By accepting you agree to the Tech Test 2 Terms of Service.",
+        "ID_LEGAL_BETA_TOS_LINK": "Tech Test 2 Terms of Service",
+        "ID_LEGAL_REJECT": "Reject",
+        "ID_LEGAL_ACCEPT": "Accept",
+        "ID_LEGAL_TECHTEST2": "Tech Test 2"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

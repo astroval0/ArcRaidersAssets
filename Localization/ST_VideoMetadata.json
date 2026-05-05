@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_VideoMetadata",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_VideoMetadata",
+    "StringTable": {
+      "TableNamespace": "ST_VideoMetadata",
+      "KeysToEntries": {
+        "ID_VIDEOMETADATA_TITLE_WELCOMETOSPERANZA": "Welcome To Speranza",
+        "ID_VIDEOMETADATA_TITLE_MEETINGSHANI": "Meeting Shani",
+        "ID_VIDEOMETADATA_TITLE_EXPEDITIONDEPARTURE": "Into The Unknown",
+        "ID_VIDEOMETADATA_QUESTOPENING_PREFIX": "Quest opening:",
+        "ID_VIDEOMETADATA_QUESTCLOSING_PREFIX": "Quest closing:",
+        "ID_VIDEOMETADATA_TITLE_THEWANDERER": "The Wanderer"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

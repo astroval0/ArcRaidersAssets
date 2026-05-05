@@ -1,0 +1,79 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_MapSelection",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_MapSelection",
+    "StringTable": {
+      "TableNamespace": "ST_MapSelection",
+      "KeysToEntries": {
+        "ID_MAPSELECTION_SPACEPORT_FULL": "Acerra Spaceport",
+        "ID_MAPSELECTION_SPACEPORT_SUBTITLE": "Acerra",
+        "ID_MAPSELECTION_SPACEPORT_TITLE": "Spaceport",
+        "ID_MAPSELECTION_DAM_DESCRIPTION": "Alcantara Power Plant, or \"The Dam\", once served as a crucial Raider stronghold during the bitter closing battles of the First Wave. Even now, these toxic, waterlogged lands remain a hotspot for ARC skirmishes.",
+        "ID_MAPSELECTION_DAM_FULL": "Dam Battlegrounds",
+        "ID_MAPSELECTION_DAM_SUBTITLE": "Dam",
+        "ID_MAPSELECTION_DAM_TITLE": "Battlegrounds",
+        "ID_MAPSELECTION_SPACEPORT_DESCRIPTION": "Acerra Spaceport is a majestic testament to humanity's past ambitions. This is where the Exodus shuttles, vessels of hope and desperation, once roared into the heavens, leaving a beleaguered Earth behind.",
+        "ID_MAPSELECTION_DAM_SHORT": "Dam Battlegrounds",
+        "ID_MAPSELECTION_SPACEPORT_SHORT": "Spaceport",
+        "ID_MAPSELECTION_BURIEDCITY_FULL": "Buried City",
+        "ID_MAPSELECTION_BURIEDCITY_SHORT": "Buried City",
+        "ID_MAPSELECTION_BURIEDCITY_SUBTITLE": "Buried",
+        "ID_MAPSELECTION_BURIEDCITY_TITLE": "City",
+        "ID_MAPSELECTION_BURIEDCITY_DESCRIPTION": "Amidst the sand dunes in this arid wasteland you will find a remnant of the old world quite unlike the cold steel spires of the Exodus age. Walk these narrow streets and empty plazas, and know that people once lived here.",
+        "ID_MAPSELECTION_PRACTICERANGE_FULL": "The Backyard",
+        "ID_MAPSELECTION_PRACTICERANGE_SUBTITLE": "The",
+        "ID_MAPSELECTION_PRACTICERANGE_TITLE": "Backyard",
+        "ID_MAPSELECTION_PRACTICERANGE_SHORT": "The Backyard",
+        "ID_MAPSELECTION_PRACTICERANGE_DESCRIPTION": "Nestled in a secluded mountain hollow, the echoed gunshots from this practice range seem to confuse ARC's sense of direction, creating a rare pocket of open-air safety. Raiders use the Backyard to hone their skills, and catch up on some long-overdue stargazing.",
+        "ID_MAPSELECTION_THEBLUEGATE_FULL": "The Blue Gate",
+        "ID_MAPSELECTION_THEBLUEGATE_SHORT": "Blue Gate",
+        "ID_MAPSELECTION_THEBLUEGATE_SUBTITLE": "The",
+        "ID_MAPSELECTION_THEBLUEGATE_TITLE": "Blue Gate",
+        "ID_MAPSELECTION_PRACTICERANGE_SQUADWARNING_TITLE": "Practice Range — The Backyard",
+        "ID_MAPSELECTION_PRACTICERANGE_SQUADWARNING": "Practice range not available while in a Squad.",
+        "ID_MAPSELECTION_BREADCRUMB_GEARUP": "Next step: gear up",
+        "ID_MAPSELECTION_TITLE": "Select Destination",
+        "ID_MAPSELECTION_BREADCRUMB_PREPARELOADOUT": "Next step: prepare your loadout",
+        "ID_MAPSELECTION_BREADCRUMB_CONFIRMLOADOUT": "Next step: confirm your loadout",
+        "ID_MAPSELECTION_BUTTON_NEXTSTEP": "Next Step",
+        "ID_MAPSELECTION_PRACTICERANGE_ERRORSQUAD": "Not available while in a squad",
+        "ID_MAPSELECTION_PRACTICERANGE_ERRORFILLSQUAD": "Not available while Fill Squad is enabled",
+        "ID_MAPSELECTION_DIFFICULTY": "Difficulty",
+        "ID_MAPSELECTION_FROZENTRAIL_TITLE": "Frozen Trail",
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE": "Currently unavailable",
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE_ALT1": "Map unavailable",
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN": "Available in:",
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_ALT1": "Returns in:",
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME": "Queue time:",
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME_ALT1": "Estimated queue time:",
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME_ALT2": "Approximate queue time:",
+        "ID_MAPSELECTION_ROTATION_DESCRIPTION": "The Tubes to this destination are currently undergoing maintenance, and have been temporarily closed to Raiders.",
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE_ALT2": "Destination unavailable",
+        "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION": "Destinations available to your party",
+        "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION_ALT1": "Destinations unlocked by your party",
+        "ID_MAPSELECTION_SELECTED_DESTINATION": "Selected destination",
+        "ID_MAPSELECTION_SELECTED": "Selected",
+        "ID_MAPSELECTION_BUTTON_SELECT_DESTINATION": "Select destination",
+        "ID_MAPSELECTION_TITLE_DESTINATIONS": "Destinations",
+        "ID_MAPSELECTION_TITLE_DESTINATIONS_ALT1": "Available Destinations",
+        "ID_MAPSELECTION_BUTTON_NEXT": "Next",
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING": "Selection locked",
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT1": "Destination locked",
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT2": "Locked from making changes",
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT3": "Locked from changing",
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT4": "Changes locked"
+      },
+      "KeysToMetaData": {
+        "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION": {
+          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)"
+        },
+        "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION_ALT1": {
+          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)"
+        }
+      }
+    }
+  }
+]

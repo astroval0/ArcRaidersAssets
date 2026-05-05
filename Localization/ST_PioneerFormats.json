@@ -1,0 +1,22 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PioneerFormats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PioneerFormats",
+    "StringTable": {
+      "TableNamespace": "ST_PioneerFormats",
+      "KeysToEntries": {
+        "ID_FORMATS_TIMES": "×{0}",
+        "ID_FORMATS_RATIO_SECOND_HALF": "/{0}",
+        "ID_FORMATS_DISTANCE_METER": "{0}m",
+        "ID_FORMATS_NUMBER_SIGN_POSITIVE": "+",
+        "ID_FORMATS_NUMBER_SIGN_NEGATIVE": "-",
+        "ID_FORMATS_TIMES_ITEM": "×{0} {1}",
+        "ID_FORMATS_NUMBER_THOUSANDS": "{0}k"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

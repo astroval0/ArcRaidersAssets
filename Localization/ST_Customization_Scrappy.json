@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Customization_Scrappy",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Customization_Scrappy",
+    "StringTable": {
+      "TableNamespace": "ST_Customization_Scrappy",
+      "KeysToEntries": {
+        "ID_CUSTOMIZATION_SCRAPPY_BOMBERHELMET": "Bomber Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_DIVERHELMET": "Diver Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_PILOTHELMET": "Pilot Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_BUCKET": "Bucket",
+        "ID_CUSTOMIZATION_SCRAPPY_FEZ": "Fez",
+        "ID_CUSTOMIZATION_SCRAPPY_GOLDEN": "Golden",
+        "ID_CUSTOMIZATION_SCRAPPY_FENCERGLASSES": "Fencer Glasses",
+        "ID_CUSTOMIZATION_SCRAPPY_ASTRONAUTHELMET": "Astronaut Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_BOONIEHAT": "Beekeeper's Veil",
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_BUFFROCK": "Buff Rock",
+        "ID_CUSTOMIZATION_SCRAPPY_WELSUMMER": "Welsummer",
+        "ID_CUSTOMIZATION_SCRAPPY_COWBOY": "Cowboy Hat",
+        "ID_CUSTOMIZATION_SCRAPPY_JANITOR": "Janitor Cap",
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_AYAMCEMANI": "Ayam Cemani",
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_AUSTRAWHITE": "Austra White",
+        "ID_CUSTOMIZATION_SCRAPPY_BEANIE": "Beanie",
+        "ID_CUSTOMIZATION_SCRAPPY_BATTER": "Batting Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_NURSESHAT": "Surgeon Hat",
+        "ID_CUSTOMIZATION_SCRAPPY_HELIXHELMET": "Brigade Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_RIOTHELMET": "Vanguard Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_SPECKLED": "Speckled",
+        "ID_CUSTOMIZATION_SCRAPPY_ARCHUNTER": "Wasp Hunter Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_PIRATEHAT": "Pirate Hat",
+        "ID_CUSTOMIZATION_SCRAPPY_RAINHAT": "Rainy Day Hat",
+        "ID_CUSTOMIZATION_SCRAPPY_TURBAN": "Turban"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

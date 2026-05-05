@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_ChamberStations",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_ChamberStations",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_ChamberStations",
+      "KeysToEntries": {
+        "ID_ITEMDESC_ELECFABRICATOR": "Refine your materials into more advanced electrical components, enabling you to craft higher tier items.",
+        "ID_ITEMDESC_EXPLOSIVEBENCH": "Craft your grenades and mines here. Very carefully.",
+        "ID_ITEMDESC_LABSTATION": "Refine chemicals needed to craft higher tier items.",
+        "ID_ITEMDESC_MECHFABRICATOR": "Refine your materials into more advanced mechanical components, enabling you to craft higher tier items.",
+        "ID_ITEMDESC_RECYCLESTATION": "Breaks things down, allowing you to repurpose the materials to suit your needs.",
+        "ID_ITEMDESC_REPAIRSTATION": "Don’t go topside without first making sure your gear is in top shape.",
+        "ID_ITEMDESC_UTILITYBENCH": "Utility items are the bread and butter of any well-rounded Raider kit. Lures, grenades, barricades—craft them all here.",
+        "ID_ITEMDESC_WEAPUPGRADEBENCH": "Add that extra oomph to your weapons by upgrading them here.",
+        "ID_ITEMDESC_ARMORASSEMBLER": "The Gear Bench lets you craft Shields and Augments — provided you have the right resources.",
+        "ID_ITEMDESC_AMMOMAKER": "Why buy ammo when you can make it yourself?",
+        "ID_ITEMDESC_ASSEMBLYSTATION": "Crucial companion for any Raider finding themselves in frequent need of custom parts.",
+        "ID_ITEMDESC_MEDSTATION": "The Medical Lab is where you can create stimulants to give you that extra boost out in the wilds.",
+        "ID_ITEMDESC_MODTABLE": "The mod table is where you can create your own weapon mods."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

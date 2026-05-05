@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Armors",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Armors",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Armors",
+      "KeysToEntries": {
+        "ID_ITEMDESC_ARMOR_LIGHTBODY": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
+        "ID_ITEMDESC_ARMOR_MEDIUMBODY": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
+        "ID_ITEMDESC_ARMOR_HEAVYBODY": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

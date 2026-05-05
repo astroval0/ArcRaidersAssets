@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Deployables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Deployables",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Deployables",
+      "KeysToEntries": {
+        "ID_ITEMDESC_DEPLOYABLEBARRICADE": "A deployable cover that can block incoming damage until it breaks.",
+        "ID_ITEMDESC_ZIPLINE": "A deployable zipline that allows you to quickly move between two locations.",
+        "ID_ITEMDESC_REMOTEFLARETRAP": "A deployable device that, when manually triggered, launches a Raider Distress Flare.",
+        "ID_ITEMDESC_EXPLOSIVEJUMPMINE": "A proximity-triggered mine that pops up and explodes, dealing damage to anything within its radius.",
+        "ID_ITEMDESC_JOLTMINE": "A proximity-triggered mine that pops up and stuns anything within its radius.",
+        "ID_ITEMDESC_DOORBLOCKER": "A locking mechanism that can be placed on large metal doors to limit access.",
+        "ID_ITEMDESC_LASERTRAP_DOTGRENADE": "A laser trip wire that detonates a Blaze Grenade.",
+        "ID_ITEMDESC_LASERTRAP_SMOKEGRENADE": "A laser trip wire that detonates a Smoke Grenade.",
+        "ID_ITEMDESC_LASERTRAP_STAMINADOT": "A laser trip wire that detonates a Gas Grenade.",
+        "ID_ITEMDESC_LASERTRAP_THROWABLEDECOY": "A laser trip wire that detonates a Lure Grenade.",
+        "ID_ITEMDESC_TIMEDMINE_EXPLOSIVE": "A mine that deals damage to anything within its radius once the timer runs out.",
+        "ID_ITEMDESC_JUMPMINE_STAMINADOT": "A proximity-triggered mine that pops up and deploys a gas cloud that rapidly drains stamina.",
+        "ID_ITEMDESC_JUMPMINE_IMPULSE": "A proximity-triggered mine that pops up and knocks back anything within its radius.",
+        "ID_ITEMDESC_DEPLOYABLESOUNDTRAP": "A deployable proximity sensor that sounds an alarm when enemy Raiders are detected.",
+        "ST_ITEMDESC_LAUNCHPAD": "A deployable pad that propels any Raider who steps on it.",
+        "ID_ITEMDESC_REMOTETRAP_FIREWORKBOX": "A remotely triggered arrangement of dazzling fireworks, sure to put on a show.",
+        "ID_ITEMDESC_EMITTERTRAP_TESLACOIL": "A deployable device that periodically electrifies the area around itself and briefly stuns anything caught within it.",
+        "ID_ITEMDESC_DEPLOYABLEWHITEFLAG": "A deployable white flag.",
+        "ID_ITEMDESC_DEPLOYABLERAIDERONASTICK": "A deployable Raider helmet on a stick. Surprisingly convincing from afar."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

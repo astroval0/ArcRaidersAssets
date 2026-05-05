@@ -1,17 +1,14 @@
-### [ This is no longer maintained by me ]
- - see contributors
-
-for all future efforts forked from this please credit me somewhere!
-
-This repository serves as a collection of assets from inside the game ARC Raiders.
+### [ This is no longer maintained by Astroval ]
+ - Main contributors
+	- Silarious
+	- Teralix
+	
+Objects folder is all Astroval's work, for all uses of those assets please credit Astroval.
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
 
-I'm adding more soon! feel free to make suggestions via an 'Issue' on the repo
-
 The goal is to have easy accessible assets for anyone to use.
 
-This will not hold unreleased assets, for obvious reasons.
 
 **step 1, get NinjaRipper! I use version 2.12 you can pay 5$ for on their patreon.**
 
@@ -34,5 +31,4 @@ This will not hold unreleased assets, for obvious reasons.
 hopefully some day someone cracks the AES encryption and all this asset extraction comes with no risk and much easier/better, but until then this is the best way :P
 
 ![Arc Raiders Queen](queen.png)
-
 

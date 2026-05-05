@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Customization_Hair",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Customization_Hair",
+    "StringTable": {
+      "TableNamespace": "ST_Customization_Hair",
+      "KeysToEntries": {
+        "ID_CUSTOMIZATION_HAIR_BUZZCUT": "Buzzcut",
+        "ID_CUSTOMIZATION_HAIR_BALD": "Bald",
+        "ID_CUSTOMIZATION_HAIR_AFROFADE": "Afro Fade",
+        "ID_CUSTOMIZATION_HAIR_BOBSLICK": "Slick Short",
+        "ID_CUSTOMIZATION_HAIR_BACKSLICKMESSY": "Slickback Messy",
+        "ID_CUSTOMIZATION_HAIR_AFROLONG": "Long Afro",
+        "ID_CUSTOMIZATION_HAIR_FRENCHBRAIDS": "French Braids",
+        "ID_CUSTOMIZATION_HAIR_PONYTAILCURLY": "Curly Ponytail",
+        "ID_CUSTOMIZATION_HAIR_DREADSIDECUT": "Sidecut Dreads",
+        "ID_CUSTOMIZATION_HAIR_MULLET": "Mullet",
+        "ID_CUSTOMIZATION_HAIR_RECEDE": "Receding",
+        "ID_CUSTOMIZATION_HAIR_MOHAWK": "Mohawk",
+        "ID_CUSTOMIZATION_HAIR_SHORTWAVY": "Medium Wavy",
+        "ID_CUSTOMIZATION_HAIR_MIDDLEFADE": "Middle Fade",
+        "ID_CUSTOMIZATION_HAIR_BOWLCUT": "Bowl Cut",
+        "ID_CUSTOMIZATION_HAIR_BRAIDEDBUN": "Braided Bun",
+        "ID_CUSTOMIZATION_HAIR_CURLYSHORT": "Short Curly",
+        "ID_CUSTOMIZATION_HAIRCOLOR_BLUEMOHAWK": "Blue Mohawk",
+        "ID_CUSTOMIZATION_HAIRCOLOR_TWOTONEMULLET": "Two Tone Mullet",
+        "ID_CUSTOMIZATION_TWOTONEMIDDLEFADE": "Two Tone Middle Fade",
+        "ID_CUSTOMIZATION_HAIR_BOWLCUTMESSY": "Messy Bowl Cut",
+        "ID_CUSTOMIZATION_HAIR_MULLETCURLY": "Curly Mullet",
+        "ID_CUSTOMIZATION_HAIR_SHOULDERLENGTHWAVY": "Shoulder Length Wavy",
+        "ID_CUSTOMIZATION_HAIR_CURTAINFADE": "Curtain Fade",
+        "ID_CUSTOMIZATION_HAIR_WISPYSHORT": "Wispy Short",
+        "ID_CUSTOMIZATION_HAIR_LOWBUN": "Low Bun",
+        "ID_CUSTOMIZATION_HAIR_MESSYBUN": "Messy Bun",
+        "ID_CUSTOMIZATION_HAIR_LOOSEBUN": "Loose Bun"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

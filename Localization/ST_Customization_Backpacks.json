@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Customization_Backpacks",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Customization_Backpacks",
+    "StringTable": {
+      "TableNamespace": "ST_Customization_Backpacks",
+      "KeysToEntries": {
+        "ID_CUSTOMIZATION_BACKPACK_URN": "Memorialist",
+        "ID_CUSTOMIZATION_BACKPACK_STANDARD": "Origin",
+        "ID_CUSTOMIZATION_BACKPACK_ARCPACK": "Salvager",
+        "ID_CUSTOMIZATION_BACKPACK_TREASURECHEST": "Urchin Harvester",
+        "ID_CUSTOMIZATION_BACKPACK_SURVIVALBAG": "Pathfinder",
+        "ID_CUSTOMIZATION_BACKPACK_UTILITYCASE": "Engineer",
+        "ID_CUSTOMIZATION_BACKPACK_BARREL": "Fuel Jockey",
+        "ID_CUSTOMIZATION_BACKPACK_HARDCASE": "Courier",
+        "ID_CUSTOMIZATION_BACKPACK_HIKING": "Hiker",
+        "ID_CUSTOMIZATION_BACKPACK_TRUNK": "Envoy",
+        "ID_CUSTOMIZATION_BACKPACK_CLUTCH": "Traveler",
+        "ID_CUSTOMIZATION_BACKPACK_ROLLUP": "Radio Mountaineer",
+        "ID_CUSTOMIZATION_BACKPACK_TVOLTPACK": "Electrician",
+        "ID_CUSTOMIZATION_BACKPACK_SCOUTPACK": "Archeologist",
+        "ID_CUSTOMIZATION_BACKPACK_SEASACK": "Sailor",
+        "ID_CUSTOMIZATION_BACKPACK_FARMBASKET": "Agriculturalist",
+        "ID_CUSTOMIZATION_BACKPACK_FIRSTRESPONDER": "First Responder",
+        "ID_CUSTOMIZATION_BACKPACK_STORAGEBOX": "Cratebearer",
+        "ID_CUSTOMIZATION_BACKPACK_CARRYON": "Passenger",
+        "ID_CUSTOMIZATION_BACKPACK_TOOLSCABINET": "Craftsman",
+        "ID_CUSTOMIZATION_BACKPACK_SERVERSLAMBAG": "Server Slammer",
+        "ID_CUSTOMIZATION_BACKPACK_HATCHLING": "Hatchling",
+        "ID_CUSTOMIZATION_BACKPACK_EXPEDITIONTRUNK": "Expedition Trunk",
+        "ID_CUSTOMIZATION_BACKPACK_TECHBAG": "Bruiser",
+        "ID_CUSTOMIZATION_BACKPACK_VESSEL": "Reliquary",
+        "ID_CUSTOMIZATION_BACKPACK_OXYGENTANK": "Diver",
+        "ID_CUSTOMIZATION_BACKPACK_WATERTANK": "Hydrologist",
+        "ID_CUSTOMIZATION_BACKPACK_CARTOGRAPHER": "Cartographer",
+        "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAG": "Paramedic",
+        "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAGOPTION2": "Physician",
+        "ID_CUSTOMIZATION_BACKPACK_ADVENTURER": "Adventurer",
+        "ID_CUSTOMIZATION_BACKPACK_TENNISBAG": "Athlete"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

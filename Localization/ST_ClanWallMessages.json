@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClanWallMessages",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClanWallMessages",
+    "StringTable": {
+      "TableNamespace": "ST_ClanWallMessages",
+      "KeysToEntries": {
+        "ID_CLAN_WALL_MESSAGE_JOIN": "{0} joined",
+        "ID_CLAN_WALL_MESSAGE_LEAVE": "{0} left",
+        "ID_CLAN_WALL_MESSAGE_ROLE_CHANGED": "{0} role changed to {1}",
+        "ID_CLAN_WALL_REQUEST_PARTY_UP": "Party request",
+        "ID_CLAN_WALL_MAP_SELECT_TITLE": "Select map",
+        "ID_CLAN_WALL_MESSAGE_PARTY_UP": "[{0}] {1} requested",
+        "ID_CLAN_WALL_PARTY_UP_EXPIRED": "Expired",
+        "ID_CLAN_WALL_PARTY_UP_ANY_MAP": "Any map",
+        "ID_CLAN_WALL_PARTY_UP_CREATED": "Party request created",
+        "ID_CLAN_WALL_PARTY_UP_FAILED": "Failed to create party request"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

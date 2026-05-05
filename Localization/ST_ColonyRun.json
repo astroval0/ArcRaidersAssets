@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ColonyRun",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ColonyRun",
+    "StringTable": {
+      "TableNamespace": "ST_ColonyRun",
+      "KeysToEntries": {
+        "ID_COLONY_RUN_NOTIF_TITLE": "Deploy with a Free Loadout?",
+        "ID_COLONY_RUN_NOTIF_TEXT": "Do you want to deploy with a Free Loadout?\r\nYou will be given a random set of basic, second-hand gear. A free loadout has fewer inventory slots, and no Safe Pocket. The items in your custom loadout will be moved back to your stash.",
+        "ID_COLONY_RUN_TIMER_TEXT": "Next Free Loadout run will be available in less than {0} minutes",
+        "ID_COLONY_RUN_PRACTICE_RANGE": "Free Loadout is not available in the Backyard",
+        "ID_COLONY_RUN_TIMER_TEXT_SINGULAR": "Next Free Loadout will be available in less than one minute",
+        "ID_COLONY_RUN_UNKNOWN_REQUIREMENT": "Locked, Unknown Requirement.",
+        "ID_COLONYRUN_STASH_FULL_WARNING": "Free Loadout is not available while your Stash is full.",
+        "ID_COLONYRUN_STASH_OVERFLOWING_WARNING": "Free Loadout is not available while your Stash is overflowing.",
+        "ID_COLONY_RUN_STASH_OVERFLOW": "Not enough space in your Stash to deploy with a Free Loadout. Manage your inventory to free up some space."
+      },
+      "KeysToMetaData": {
+        "ID_COLONYRUN_STASH_OVERFLOWING_WARNING": {
+          "Note": ""
+        },
+        "ID_COLONY_RUN_NOTIF_TEXT": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

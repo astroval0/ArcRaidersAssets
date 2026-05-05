@@ -1,0 +1,105 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ServerSlam",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ServerSlam",
+    "StringTable": {
+      "TableNamespace": "ST_ServerSlam",
+      "KeysToEntries": {
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_SOON": "Soon",
+        "ID_SERVERSLAM_LOCKED_STATE_GENERIC_DESCRIPTION_ROW1": "This feature is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_DATE_DESCRIPTION_ROW2": "ARC Raiders releases on October 30.",
+        "ID_SERVERSLAM_LOCKED_STATE_BADGE_REQUIRES_FULL_GAME": "Requires full game",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_LOCKEDSTATION": "Station locked",
+        "ID_SERVERSLAM_LOCKED_STATE_STATION_DESCRIPTION": "This station is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_ITEM_DESCRIPTION": "This item is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVEL": "Station upgrade locked",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVEL_ALT2": "Station level up",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_STATIONLEVEL": "Station upgrades are part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRAINSCRAPPY": "Train Scrappy",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRAINSCRAPPY_ALT2": "Train Scrappy",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_TRAINSCRAPPY": "Scrappy training is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPANDSTASH": "Additional stash upgrades locked",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPANDSTASH_ALT2": "Expand stash",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_EXPANDSTASH": "Additional stash upgrades are part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRIALS": "Trials",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRIALS_ALT2": "Raider Trials",
+        "ID_SERVERSLAM_LOCKED_STATE_CUSTOM_DESCRIPTION_TRIALS": "Trials are competitive scenarios where Raiders test their skills for rank and leaderboard rewards.",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_TRIALS": "Trials is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_STORE": "Store is part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STORE": "Store",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_BATTLEPASS": "Additional pages in the deck are part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_BATTLEPASS": "Raider Decks",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_BATTLEPASS_ALT2": "Deck pages locked",
+        "ID_SERVERSLAM_MAP_UNKNOWN_DESTINATION": "Unknown destination",
+        "ID_SERVERSLAM_MAP_DESCRIPTION_UNKNOWN_DESTINATION": "The Tubes leading to this location are heavily trapped, but disarming is already being planned. No one knows what awaits there, though the cantinas around Toledo are abuzz with rumors and speculation.",
+        "ID_SERVERSLAM_WELCOME_01": "From 17 - 19 October we welcome you to push our servers to the limit as we prepare for launch on 30 October.\r\nBy participating in the Server Slam, you will unlock an exclusive Backpack cosmetic reward, available when you purchase the full game at launch. Just make sure you confirm your email address in Embark ID to get it. \r\nThe Server Slam is a focused experience. We welcome you to put our servers to the test on one map, and elements such as Progression, Quests, and Crafting will be limited. \r\nFor more info and troubleshooting, please head over to our Discord. We hope to see you on 30 October to experience the full scope of ARC Raiders at launch!",
+        "ID_SERVERSLAM_WISHLIST_NOW": "Wishlist now",
+        "ID_SERVERSLAM_WELCOME_02": "By participating in the Server Slam, you will unlock an exclusive Backpack cosmetic reward, available when you purchase the full game at launch. Just make sure you confirm you confirm your email address in Embark ID to get it.",
+        "ID_SERVERSLAM_WELCOME_04": "The ARC Raiders development team",
+        "ID_SERVERSLAM_WELCOME_03": "Thank you,",
+        "ID_SERVERSLAM_ENTER_GAME": "Enter Game",
+        "ID_SERVERSLAM_UPSELL_01": "Pre-order the Deluxe Edition",
+        "ID_SERVERSLAM_UPSELL_01_ALT": "Pre-purchase the Deluxe Edition",
+        "ID_SERVERSLAM_UPSELL_02": "And receive the Astro Bundle bonus at launch",
+        "ID_SERVERSLAM_PREORDER_NOW": "Pre-order now",
+        "ID_SERVERSLAM_PREPURCHASE_NOW": "Pre-purchase now",
+        "ID_SERVERSLAM_CONTINUE_TO_SPERANZA": "Continue to Speranza",
+        "ID_SERVERSLAM_ACCEPTING": "By accepting you agree to the Server Slam Terms of Service.",
+        "ID_SERVERSLAM_TERMS_OF_SERVICE": "Server Slam Terms of Service",
+        "ID_SERVERSLAM_WELCOME_TITLE": "Welcome to the ARC Raiders *Server Slam*",
+        "ID_SERVERSLAM_WELCOME_01_V2": "From **17 - 19 October** we welcome you to put our servers to the test in a limited gameplay experience.\r\nBy participating in the Server Slam, you will unlock an **exclusive Backpack cosmetic** reward, available when you purchase the full game at launch. Just make sure you confirm your email address in Embark ID to get it. \r\nFor more info and troubleshooting, please head over to our Discord. We hope to see you on **30 October** to experience the full scope of ARC Raiders at launch!",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_PROJECTS": "Projects",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS_EXPEDITION": "Projects let you turn resources into rewards. The Expedition Project is the first available: completing this project will reset your progress while granting unique benefits and unlocks.",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECT_EXPEDITION_ALT2": "Projects and the Expedition are part of the full ARC Raiders experience.",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS": "Projects let you turn resources into rewards.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPEDITION": "Expedition",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_EXPEDITION": "The Expedition Project lets you reset your progress while granting unique benefits and unlocks.",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVELUP": "Station level up",
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STASHEXPANSION": "Stash Expansion",
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_CODEX": "The Codex is your archive of discoveries from Speranza and beyond.",
+        "ID_SERVERSLAM_BUTTON_PREORDER_CANTINA": "Pre-order",
+        "ID_SERVERSLAM_TEMP_BAN_TOOLTIP": "This will only be in effect for the duration of the Server Slam.",
+        "ID_SERVERSLAM_ENDED": "Thank you for playing!\r\n\r\nThe Server Slam playtest is now over.\r\n\r\nPlease check out [our store page](ARCRaiders) to pre-order ARC Raiders, and we'll see you Topside on October 30th.\r\n\r\nIn the meantime, check out [Season 8 on THE FINALS](TheFinals), the world's first Dynamism Shooter!",
+        "ID_SERVERSLAM_ENDED_ALT1": "Server Slam is now over.\r\n\r\nThank you for playing, Raider.\r\n\r\nPlease check out [our store page](ARCRaiders) to pre-order ARC Raiders, and we'll see you Topside on October 30th.\r\n\r\nUntil then: check out our free-to-play, multiplayer FPS, [THE FINALS](TheFinals)!\r\nCAN YOU REACH THE FINALS?"
+      },
+      "KeysToMetaData": {
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_PROJECTS": {
+          "Note": "Title for Projects"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS_EXPEDITION": {
+          "Note": "Description for Project/Expedition, more about the feature"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECT_EXPEDITION_ALT2": {
+          "Note": "Description for Project/Expedition. More generic"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS": {
+          "Note": "Description for projects"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPEDITION": {
+          "Note": "Title for Expedition"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_EXPEDITION": {
+          "Note": "Description for expeditions"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVELUP": {
+          "Note": "Title for Station level up tooltip"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRAINSCRAPPY": {
+          "Note": "Title for Train Scrappy tooltip"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STASHEXPANSION": {
+          "Note": "Title for Stash expansion tooltip"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_CODEX": {
+          "Note": "Description for Codex screen"
+        },
+        "ID_SERVERSLAM_BUTTON_PREORDER_CANTINA": {
+          "Note": "CTA button on Cantina"
+        }
+      }
+    }
+  }
+]

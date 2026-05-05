@@ -1,0 +1,36 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_GameMode",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_GameMode",
+    "StringTable": {
+      "TableNamespace": "ST_GameMode",
+      "KeysToEntries": {
+        "ID_GAMEMODE_NAME_FIRINGRANGE": "Firing Range",
+        "ID_GAMEMODE_NAME_OUTPOST": "Outpost Defense",
+        "ID_GAMEMODE_NAME_SIEGE": "Siege",
+        "ID_GAMEMODE_NAME_STORM": "Storm",
+        "ID_GAMEMODE_NAME_TRAINING": "Training",
+        "ID_GAMEMODE_NAME_UNRANKED": "Unranked",
+        "ID_GAMEMODE_SCREEN_NAME": "Map Room",
+        "ID_GAMEMODE_SEVERITY_ELITE": "Elite",
+        "ID_GAMEMODE_SEVERITY_NORMAL": "Basic",
+        "ID_GAMEMODE_DIFFICULTY_BRUTAL": "Brutal",
+        "ID_GAMEMODE_DIFFICULTY_HARD": "Hard",
+        "ID_GAMEMODE_DIFFICULTY_MEDIUM": "Medium",
+        "ID_GAMEMODE_DIFFICULTY_EASY": "Easy",
+        "ID_GAMEMODE_DIFFICULTY_TRIVIAL": "Trivial",
+        "ID_GAMEMODE_MAIN_OBJECTIVE": "Main Objective",
+        "ID_GAMEMODE_PLAYER_INIT_FAILURE": "Failure during player initialization.",
+        "ID_GAMEMODE_EXITREASON_SURRENDER": "Surrender",
+        "ID_GAMEMODE_EXITREASON_PRACTICE_DONE": "Practice done",
+        "ID_GAMEMODE_EXTRACTION_POINT_SHUTDOWN_IMMINENT": "Return point shutting down soon",
+        "ID_GAMEMODE_EXTRACTION_POINT_CLOSING_IN_FORMAT": "{0} closes in {1}",
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_TEMPLATE": "Returning automatically in {0}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

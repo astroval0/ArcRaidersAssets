@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_RaiderVoice",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_RaiderVoice",
+    "StringTable": {
+      "TableNamespace": "ST_RaiderVoice",
+      "KeysToEntries": {
+        "ID_RAIDERVOICE_VOICE01": "1",
+        "ID_RAIDERVOICE_VOICE02": "2",
+        "ID_RAIDERVOICE_VOICE03": "3",
+        "ID_RAIDERVOICE_VOICE04": "4",
+        "ID_RAIDERVOICE_VOICE05": "5",
+        "ID_RAIDERVOICE_VOICE06": "6",
+        "ID_RAIDERVOICE_VOICE07": "7",
+        "ID_RAIDERVOICE_VOICE08": "8",
+        "ID_RAIDERVOICE_VOICE09": "9",
+        "ID_RAIDERVOICE_VOICE10": "10"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

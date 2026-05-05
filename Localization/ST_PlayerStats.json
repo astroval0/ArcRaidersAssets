@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PlayerStats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PlayerStats",
+    "StringTable": {
+      "TableNamespace": "ST_PlayerStats",
+      "KeysToEntries": {
+        "ID_PLAYERSTATS_SQUADMEMBER": "Squadmate",
+        "ID_PLAYERSTATS_SELF": "Self",
+        "ID_PLAYERSTATS_ENEMY": "Enemy",
+        "ID_PLAYERSTATS_CAREER": "Career",
+        "ID_PLAYERSTATS_CHARACTERS": "Characters",
+        "ID_PLAYERSTATS_OVERVIEW": "Overview",
+        "ID_PLAYERSTATS_ROUNDS_RETURNED_SAFELY": "Returned Safely",
+        "ID_PLAYERSTATS_ROUNDS_KNOCKED_OUT": "Knocked Out"
+      },
+      "KeysToMetaData": {
+        "ID_PLAYERSTATS_SQUADMEMBER": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

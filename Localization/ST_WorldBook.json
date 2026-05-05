@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_WorldBook",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_WorldBook",
+    "StringTable": {
+      "TableNamespace": "ST_WorldBook",
+      "KeysToEntries": {
+        "ID_WORLDBOOK_ENTRY_COUNT": "Entries: {0}",
+        "ID_WORLDBOOK_VIEW_DISCOVERIES": "View Discoveries",
+        "ID_ENTRY_TAB_TITLE": "Entry",
+        "ID_RELATED_ENTRIES_TAB_TITLE": "Related Entries",
+        "ID_WORLDBOOK_GO_TO_ENTRY": "Go to entry"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

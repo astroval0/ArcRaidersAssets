@@ -1,0 +1,53 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ManifestUpdate",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ManifestUpdate",
+    "StringTable": {
+      "TableNamespace": "ST_ManifestUpdate",
+      "KeysToEntries": {
+        "ID_MANIFEST_UPDATE_MESSAGE": "A game update is available. Get it now?",
+        "ID_MANIFEST_UPDATE_TITLE": "Game update required",
+        "ID_MANIFEST_UPDATE_MESSAGE_ALT2": "There is a new required update available for your game. Restart your game to download the required update.",
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TITLE": "Game update available",
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_MESSAGE": "There is a new update available for your game. Restart your game to download the latest update.",
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_RESTART": "Restart game",
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_LATER": "Later",
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_CLOSE": "Close",
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_TOOLTIP": "A new game update is available. Restart your game to proceed.",
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TOOLTIP": "Someone in your party is on an older version of the game. They need to restart their game for you to proceed."
+      },
+      "KeysToMetaData": {
+        "ID_MANIFEST_UPDATE_TITLE": {
+          "Note": "Title for modal to inform about manifest update that requires restart"
+        },
+        "ID_MANIFEST_UPDATE_MESSAGE_ALT2": {
+          "Note": "Description for modal to inform about manifest update that requires restart"
+        },
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TITLE": {
+          "Note": "Title for modal to inform about client update that requires restart to start working. But you can still play without"
+        },
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_MESSAGE": {
+          "Note": "Description for modal to inform about client update that requires restart"
+        },
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_RESTART": {
+          "Note": "Button for players to restart"
+        },
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_LATER": {
+          "Note": "Button for players to restart later"
+        },
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_CLOSE": {
+          "Note": "Button for players to close the modal (This one is important on console where we cant prompt players to restart)"
+        },
+        "ID_MANIFEST_UPDATE_GAME_UPDATE_TOOLTIP": {
+          "Note": "Tooltip to inform players about Play button being disabled due to missing update."
+        },
+        "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TOOLTIP": {
+          "Note": "Tooltip to inform players about Play button being disabled due to mismatched update within party"
+        }
+      }
+    }
+  }
+]

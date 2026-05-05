@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_QualityTiers_Firearms",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_QualityTiers_Firearms",
+    "StringTable": {
+      "TableNamespace": "ST_QualityTiers_Firearms",
+      "KeysToEntries": {
+        "ID_QUALITYTIER_FIREARM_T0": "Quality Tier: Fragile",
+        "ID_QUALITYTIER_FIREARM_T1": "Quality Tier: Basic",
+        "ID_QUALITYTIER_FIREARM_T2": "Quality Tier: Sturdy",
+        "ID_QUALITYTIER_FIREARM_T3": "Quality Tier: Unyielding",
+        "ID_QUALITYTIER_FIREARM_T4": "Quality Tier: Superior"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

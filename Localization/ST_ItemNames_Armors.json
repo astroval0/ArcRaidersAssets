@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Armors",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Armors",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Armors",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_ARMORS_HEAVY_SHIELD": "Heavy Shield",
+        "ID_ITEMNAMES_ARMORS_LIGHT_SHIELD": "Light Shield",
+        "ID_ITEMNAMES_ARMORS_MEDIUM_SHIELD": "Medium Shield",
+        "ID_ITEMNAMES_ARMORS_SHRAPNEL_BARRIER": "Shrapnel Barrier",
+        "ID_ITEMNAMES_ARMORS_CUSHION_MOD": "Cushion Mod",
+        "ID_ITEMNAMES_ARMORS_VITA_PUMP": "Vita Pump",
+        "ID_ITEMNAMES_ARMORS_HYDRATION_PACK": "Hydration Pack"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_ARMORS_VITA_PUMP": {
+          "Note": "mod for shied"
+        },
+        "ID_ITEMNAMES_ARMORS_HYDRATION_PACK": {
+          "Note": "mod for shield"
+        }
+      }
+    }
+  }
+]

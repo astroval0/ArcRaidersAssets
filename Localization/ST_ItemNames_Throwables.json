@@ -1,0 +1,41 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Throwables",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Throwables",
+    "StringTable": {
+      "TableNamespace": "ST_ITEMNAMES_THROWABLES",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_THROWABLES_JUMP_MINE": "Explosive Mine",
+        "ID_ITEMNAMES_THROWABLES_BLAZE_GRENADE": "Blaze Grenade",
+        "ID_ITEMNAMES_THROWABLES_LIGHT_IMPACT_GRENADE": "Light Impact Grenade",
+        "ID_ITEMNAMES_THROWABLES_WOLFPACK": "Wolfpack",
+        "ID_ITEMNAMES_THROWABLES_SMOKE_GRENADE": "Smoke Grenade",
+        "ID_ITEMNAMES_THROWABLES_GAS_GRENADE": "Gas Grenade",
+        "ID_ITEMNAMES_THROWABLES_TAGGING_GRENADE": "Tagging Grenade",
+        "ID_ITEMNAMES_THROWABLES_LURE_GRENADE": "Lure Grenade",
+        "ID_ITEMNAMES_THROWABLES_VOLCANIC_ROCK": "Volcanic Rock",
+        "ID_ITEMNAMES_THROWABLES_JOLT_MINE": "Jolt Mine",
+        "ID_ITEMNAMES_THROWABLES_SNAP_BLAST_GRENADE": "Snap Blast Grenade",
+        "ID_ITEMNAMES_THROWABLES_HEAVY_FUZE_GRENADE": "Heavy Fuze Grenade",
+        "ID_ITEMNAMES_THROWABLES_TRIGGER_NADE": "Trigger 'Nade",
+        "ID_ITEMNAMES_THROWABLES_SHOWSTOPPER": "Showstopper",
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_BLUE": "Blue Light Stick",
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_RED": "Red Light Stick",
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_YELLOW": "Yellow Light Stick",
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_GREEN": "Green Light Stick",
+        "ID_ITEMNAMES_THROWABLES_HOMINGMISSILEGRENADE": "Seeker Grenade",
+        "ID_ITEMNAMES_THROWABLES_TRAILBLAZER": "Trailblazer",
+        "ID_ITEMNAMES_THROWABLES_SMOKE_GRENADE_SMALL": "Li'l Smoke Grenade",
+        "ID_ITEMNAMES_THROWABLES_SHRAPNEL_GRENADE": "Shrapnel Grenade",
+        "ID_ITEMNAMES_THROWABLES_SNOWBALL": "Snowball",
+        "ID_ITEMNAMES_THROWABLES_SNOWBALL_ROCK": "Dubious Snowball",
+        "ID_ITEMNAMES_THROWABLES_LURE_FIRECRACKER": "Firecracker",
+        "ID_ITEMNAMES_THROWABLES_CRASHPAD": "Crash Mat"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

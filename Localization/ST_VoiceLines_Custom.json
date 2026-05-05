@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_VoiceLines_Custom",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_VoiceLines_Custom",
+    "StringTable": {
+      "TableNamespace": "ST_VoiceLines_Custom",
+      "KeysToEntries": {
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0010": "Someone's here!",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0020": "Told you someone was prying the door.",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0030": "You weren't exactly quiet yourself.",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040": "Jackpot, look, bandages!",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0050": "No time to waste, let's head back to Speranza.",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0050_ALT1": "No time to waste, let's head back to Toledo.",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT1": "Jackpot, look!",
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT2": "This should come in handy."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

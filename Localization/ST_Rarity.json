@@ -1,0 +1,20 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Rarity",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Rarity",
+    "StringTable": {
+      "TableNamespace": "ST_Rarity",
+      "KeysToEntries": {
+        "RARITY_COMMON": "Common",
+        "RARITY_EPIC": "Epic",
+        "RARITY_LEGENDARY": "Legendary",
+        "RARITY_RARE": "Rare",
+        "RARITY_UNCOMMON": "Uncommon"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

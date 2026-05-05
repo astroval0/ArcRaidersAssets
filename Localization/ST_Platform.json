@@ -1,0 +1,17 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Platform",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Platform",
+    "StringTable": {
+      "TableNamespace": "ST_Platform",
+      "KeysToEntries": {
+        "ID_PLATFORM_XBOX_GAMERTAG": "gamertag",
+        "ID_PLATFORM_PLAYSTATION_ONLINE_ID": "online ID"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

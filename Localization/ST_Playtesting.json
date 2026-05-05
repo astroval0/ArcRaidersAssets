@@ -1,0 +1,18 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Playtesting",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Playtesting",
+    "StringTable": {
+      "TableNamespace": "ST_Playtesting",
+      "KeysToEntries": {
+        "ID_PLAYTESTING_SHOW_PLAYTEST_NOTES": "Show Playtest Notes",
+        "ID_PLAYTESTING_TAKE_PLAYTEST_SURVEY": "Take Playtest Survey",
+        "ID_PLAYTESTING_PLAYTEST_FEEDBACK_CTA": "Playtest Feedback Survey - Please reflect on your experience during this playtest!"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

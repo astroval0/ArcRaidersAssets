@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_QuestItems",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_QuestItems",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_QuestItems",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_QUESTITEM_ESPRESSOPARTS": "Espresso Machine Parts",
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVECOMPASS": "First Wave Compass",
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVERATIONS": "First Wave Rations",
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVECAMCORDER": "First Wave Tape",
+        "ID_ITEMNAMES_QUESTITEM_LIDARSCANNER": "LiDAR Scanner",
+        "ID_ITEMNAMES_QUESTITEM_SEEDPACKET": "Experimental Seed Sample",
+        "ID_ITEMNAMES_QUESTITEM_AIVASPATCH": "Major Aiva's Patch",
+        "ID_ITEMNAMES_QUESTITEM_ESRANALYZER": "ESR Analyzer",
+        "ID_ITEMNAMES_QUESTITEM_AIVASMEMENTOS": "Major Aiva's Mementos",
+        "ID_ITEMNAMES_QUESTITEM_CELESTEJOURNAL": "Celeste's Journal",
+        "ID_ITEMNAMES_QUESTITEM_MEDICALRECORDS": "Elaborate Medical Records",
+        "ID_ITEMNAMES_QUESTITEM_LIBRARYBOOK": "Library Book",
+        "ID_ITEMNAMES_QUESTITEM_NEWPLANT": "Possibly Toxic Plant",
+        "ID_ITEMNAMES_QUESTITEM_ICECREAMCONTAINER": "Ice Cream Container",
+        "ID_ITEMNAMES_QUESTITEM_RAIDERFLAG": "Raider Flag",
+        "ID_ITEMNAMES_QUESTITEMS_CALIBRATION_DEVICE": "Calibration Device",
+        "ID_ITEMNAMES_QUESTITEMS_QUEST_ITEM_USED_FOR_DELIVER_OBJECTIVE": "Quest item used for Deliver Objective",
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CARDS": "Playing Cards",
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CARDS_USED_AS_DELIVER_OBJECTIVE_IN_QUEST": "Playing Cards used as Deliver objective in Quest",
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CHIPS": "Plastic Coins",
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CHIPS_USED_IN_DELIVER_OBJECTIVE": "Plastic Coins used in Deliver Objective",
+        "ID_ITEMNAMES_QUESTITEMS_RARE_BOOKS": "Old World Books",
+        "ID_ITEMNAMES_QUESTITEMS_TERMINAL_KEY": "Flushing Terminal Key",
+        "ID_ITEMNAMES_QUESTITEMS_NUTRIENT_METER": "Nutrient Meter",
+        "ID_ITEMNAMES_QUESTITEMS_MOISTURE_METER": "Moisture Meter",
+        "ID_ITEMNAMES_QUESTITEMS_QUEST_VIDEOTAPE": "Stack of Movie Tapes",
+        "ID_ITEMNAMES_QUESTITEMS_OLD_REPORT": "Old Report",
+        "ID_ITEMNAMES_QUESTITEMS_SCOUT_PATROL_NOTE": "Scout Patrol Note",
+        "ID_ITEMNAMES_QUESTITEMS_DODGER_S_NOTE": "Dodger's Note",
+        "ID_ITEMNAMES_QUESTITEMS_SEED_VAULT_BOX_KEY": "Seed Vault Box Key",
+        "ID_ITEMNAMES_QUESTITEMS_OFFICIAL_SHUTDOWN_DOCUMENTATION": "Official Shutdown Documentation",
+        "ID_ITEMNAMES_QUESTITEMS_SECRET_MEETING_INFO": "Secret Meeting Info",
+        "ID_ITEMNAMES_QUESTITEMS_PRECISION_GIMBAL": "Precision Gimbal",
+        "ID_ITEMNAMES_QUESTITEMS_OLD_MARKET_CARD": "Old Market Card",
+        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD": "Marano Market Business Card",
+        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD_ALT1": "Scribbled-On Business Card"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

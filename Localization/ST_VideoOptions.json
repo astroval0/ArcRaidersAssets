@@ -1,0 +1,47 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_VideoOptions",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_VideoOptions",
+    "StringTable": {
+      "TableNamespace": "ST_VideoOptions",
+      "KeysToEntries": {
+        "OVERALL_QUALITY": "Overall Quality Level",
+        "VIEWDISTANCE": "View distance",
+        "ANTIALIASING": "Anti Aliasing",
+        "SHADOW": "Shadow",
+        "POSTPROCESS": "Postprocess",
+        "TEXTURE": "Texture",
+        "EFFECTS": "Effects",
+        "FOLIAGE": "Foliage",
+        "SHADING": "Shading",
+        "DIRECTX12": "DirectX 12",
+        "RESTART_REQUIRED": "Change requires restart",
+        "VSYNC": "Vertical Sync",
+        "RAYTRACE_GI": "Ray Traced Global Illumination",
+        "NVREFLEX": "NVIDIA Reflex Low Latency",
+        "NVREFLEX_DISABLED": "OFF",
+        "NVREFLEX_ENABLED": "ON",
+        "NVREFLEX_ENABLED_BOOST": "ON + Boost",
+        "RESOLUTION_SCALE": "Resolution Scale",
+        "RESOLUTION": "Resolution",
+        "WINDOWMODE": "Window Mode",
+        "WINDOWMODE_FULLSCREEN": "Fullscreen",
+        "WINDOWMODE_WINDOWED": "Windowed",
+        "WINDOWMODE_WINDOWED_FULLSCREEN": "Windowed Fullscreen",
+        "MOTIONBLUR": "Motion Blur",
+        "QUALITY_OFF": "Off",
+        "QUALITY_LOW": "Low",
+        "QUALITY_MEDIUM": "Medium",
+        "QUALITY_HIGH": "High",
+        "QUALITY_EPIC": "Epic",
+        "QUALITY_CUSTOM": "Custom",
+        "DLSS": "NVIDIA DLSS",
+        "FIELDOFVIEW": "Field Of View"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemCelebrationScreen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemCelebrationScreen",
+    "StringTable": {
+      "TableNamespace": "ST_ItemCelebrationScreen",
+      "KeysToEntries": {
+        "ID_ITEM_CELEBRATION_BUTTON_CLAIMREWARD": "Claim Reward",
+        "ID_ITEM_CELEBRATION_NEXT": "Next",
+        "ID_ITEM_CELEBRATION_SKIP": "Skip",
+        "ID_CELEBRATIONS_UNLOCKED_MESSAGE": "Unlocked",
+        "ID_CELEBRATIONS_UNLOCKED_TRIALS": "Trials",
+        "ID_CELEBRATIONS_UNLOCKED_EXPEDITION": "Expedition",
+        "ID_CELEBRATIONS_UNLOCKED_PROJECTS": "Projects",
+        "ID_CELEBRATIONS_UNLOCKED_CODEX": "Codex",
+        "ID_CELEBRATIONS_UNLOCKED_SKILLTREE": "Skill Tree",
+        "ID_CELEBRATIONS_UNLOCKED_QUESTS": "Quests",
+        "ID_CELEBRATIONS_UNLOCKED_WORKSHOP": "Workshop",
+        "ID_CELEBRATION_UNLOCKED_CODEX": "CODEX UNLOCKED",
+        "ID_CELEBRATION_BUTTON_GOTO_CODEX": "GO TO CODEX",
+        "ID_CELEBRATION_UNLOCKED_SKILLTREE": "SKILL TREE UNLOCKED",
+        "ID_CELEBRATION_BUTTON_GOTO_SKILLTREE": "GO TO SKILL TREE",
+        "ID_CELEBRATION_UNLOCKED_TRIALS": "TRIALS UNLOCKED",
+        "ID_CELEBRATION_BUTTON_GOTO_TRIALS": "GO TO TRIALS",
+        "ID_CELEBRATION_UNLOCKED_EXPEDITIONS": "EXPEDITIONS UNLOCKED",
+        "ID_CELEBRATION_BUTTON_GOTO_EXPEDITION": "GO TO EXPEDITION",
+        "ID_CELEBRATION_BUTTON_OPEN": "OPEN"
+      },
+      "KeysToMetaData": {
+        "ID_CELEBRATIONS_UNLOCKED_MESSAGE": {
+          "Note": "Celebration for when something is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_TRIALS": {
+          "Note": "Celebration for when trials is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_EXPEDITION": {
+          "Note": "Celebration for when expedition is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_PROJECTS": {
+          "Note": "Celebration for when projects is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_CODEX": {
+          "Note": "Celebration for when codex is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_SKILLTREE": {
+          "Note": "Celebration for when skill tree is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_QUESTS": {
+          "Note": "Celebration for when quests is unlocking"
+        },
+        "ID_CELEBRATIONS_UNLOCKED_WORKSHOP": {
+          "Note": "Celebration for when workshop is unlocking"
+        },
+        "ID_CELEBRATION_UNLOCKED_CODEX": {
+          "Note": "Title for Codex unlock celebration"
+        },
+        "ID_CELEBRATION_BUTTON_GOTO_CODEX": {
+          "Note": "Enter Codex screen"
+        },
+        "ID_CELEBRATION_UNLOCKED_SKILLTREE": {
+          "Note": "Title for Skilltree unlock celebration"
+        },
+        "ID_CELEBRATION_BUTTON_GOTO_SKILLTREE": {
+          "Note": "Enter Skilltree screen"
+        },
+        "ID_CELEBRATION_UNLOCKED_TRIALS": {
+          "Note": "Title for Trials unlock celebration"
+        },
+        "ID_CELEBRATION_BUTTON_GOTO_TRIALS": {
+          "Note": "Enter Trials screen"
+        },
+        "ID_CELEBRATION_UNLOCKED_EXPEDITIONS": {
+          "Note": "Title for Expeditions unlock celebration"
+        },
+        "ID_CELEBRATION_BUTTON_GOTO_EXPEDITION": {
+          "Note": "Enter Expedition screen"
+        },
+        "ID_CELEBRATION_BUTTON_OPEN": {
+          "Note": "Enter that screen"
+        }
+      }
+    }
+  }
+]

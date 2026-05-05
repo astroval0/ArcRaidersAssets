@@ -1,0 +1,24 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Time",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Time",
+    "StringTable": {
+      "TableNamespace": "ST_Time",
+      "KeysToEntries": {
+        "FORMAT_MINUTES": "{0} minutes",
+        "FORMAT_SECONDS": "{0} seconds",
+        "FORMAT_REMAINING": "{0} remaining",
+        "FORMAT_DAYS": "{0} {0}|plural(one=day,other=days)",
+        "ID_FORMAT_TIME_HOUR_MINUTES_SECONDS": "{0}:{1}:{2}",
+        "ID_FORMAT_TIME_MINUTES_SECONDS": "{0}:{1}",
+        "ID_FORMAT_TIME_HOUR_MINUTES": "{0}:{1}",
+        "ID_FORMAT_TIME_FROM_TO": "{0} - {1}",
+        "ID_TIME_DEV_TIME": "Dev Time: {0}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

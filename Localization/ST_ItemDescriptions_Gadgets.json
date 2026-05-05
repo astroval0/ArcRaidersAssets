@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Gadgets",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Gadgets",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Gadgets",
+      "KeysToEntries": {
+        "ID_ITEMDESC_SNAPHOOK": "A gadget that allows the user to scale structures and cover large distances.",
+        "ID_ITEMDESC_COMMONBINOCULARS": "A basic pair of binoculars with two levels of magnification.",
+        "ID_ITEMDESC_ARCFRIENDIFIER": "A gadget that allows the user to conceal themselves from ARC.",
+        "ID_ITEMDESC_FLUTE": "A playable recorder used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_FLAMESPRAY": "A classic makeshift weapon, sure to leave scorch marks.",
+        "ID_ITEMDESC_BANJO": "A playable banjo used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_COWBELL": "A playable cowbell used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_ACCORDION": "A playable accordion used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_HARMONICA": "A playable harmonica used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_PIANO": "A playable piano used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_SHAKER": "A rhythmic instrument used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_SLIDEGUITAR": "A playable slide guitar used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_TAMBOURINE": "A playable tambourine drum used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_UDU": "A playable udu instrument used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_BONGO": "A playable bongo drum used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_ACOUSTICGUITAR": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
+        "ID_ITEMDESC_METALDETECTOR": "These detectors seem to be able to locate foreign objects buried in the sands around Riven Tides, though their exact way of functioning is unknown.",
+        "ID_ITEMDESC_POWEREDDESCENDER": "Reduces fall speed when used in the air, but has a wind-up time before reaching full force. Shuts down once out of power.",
+        "ID_ITEMDESC_METALDETECTOR_ALT": "Found around Riven Tides, these detectors seem able to locate foreign objects buried in the sands along the shore, though their exact way of functioning is unknown."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_HUD",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_HUD",
+    "StringTable": {
+      "TableNamespace": "ST_HUD",
+      "KeysToEntries": {
+        "ID_HUD_PLAYABLE_AREA_ENTER_1": "You're back within range!",
+        "ID_HUD_PLAYABLE_AREA_ENTER_2": "You're on course; keep going!",
+        "ID_HUD_PLAYABLE_AREA_ENTER_3": "You're on course!",
+        "ID_HUD_PLAYABLE_AREA_ENTER_4": "You're going the right way!",
+        "ID_HUD_PLAYABLE_AREA_ENTER_5": "Keep going!",
+        "ID_HUD_PLAYABLE_AREA_EXIT_1": "Turn back!",
+        "ID_HUD_PLAYABLE_AREA_EXIT_2": "You're going the wrong way!",
+        "ID_HUD_PLAYABLE_AREA_EXIT_3": "You're out of range!",
+        "ID_HUD_PLAYABLE_AREA_EXIT_4": "You're out of range; turn back!",
+        "ID_HUD_PLAYABLE_AREA_EXIT_5": "You're out of range; turn back now!",
+        "ID_HUD_INFINITY": "∞",
+        "ID_HUD_RELOAD": "Reload",
+        "ID_HUD_SPECTATING": "Spectating",
+        "ID_HUD_SPECTATOR_SWITCH_PLAYER": "Switch Player",
+        "ID_HUD_BROKEN_WEAPON": "Broken Weapon",
+        "ID_HUD_OUT_OF_AMMO": "Out of Ammo",
+        "ID_HUD_OVERENCUMBERED": "Over-encumbered",
+        "ID_HUD_BROKEN_ARMOR": "Broken Shield",
+        "ID_HUD_BROKEN_ITEM": "Broken Item",
+        "ID_HUD_GENERIC_EMPTY_SLOT": "Empty Slot"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

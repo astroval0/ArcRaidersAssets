@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Salvage",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Salvage",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Salvage",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_SALVAGE_ARC_RAID_TOKEN": "ARC Raid Token",
+        "ID_ITEMNAMES_SALVAGE_CANDLE_HOLDER": "Candle Holder",
+        "ID_ITEMNAMES_SALVAGE_CHEMICALS": "Chemicals",
+        "ID_ITEMNAMES_SALVAGE_OUTSKIRTS_BUNKER_KEY": "Hidden Bunker Key",
+        "ID_ITEMNAMES_SALVAGE_BULLY_PART": "Bully Part",
+        "ID_ITEMNAMES_SALVAGE_DAMAGED_MEERKAT_DRIVER": "Damaged Meerkat Driver",
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS": "Heavy Gun Parts",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRIVER": "Meerkat Driver",
+        "ID_ITEMNAMES_SALVAGE_TOMATO": "Tomato",
+        "ID_ITEMNAMES_SALVAGE_TOMATO_SEEDS": "Tomato Seeds",
+        "ID_ITEMNAMES_SALVAGE_ARC_SAMPLE_CONTAINER": "Arc Sample Container",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRONE_PART": "Meerkat Drone Part",
+        "ID_ITEMNAMES_SALVAGE_COMMAND_RECIEVER": "Command Reciever",
+        "ID_ITEMNAMES_SALVAGE_EQUALIZER_BLUEPRINT": "Equalizer Blueprint",
+        "ID_ITEMNAMES_SALVAGE_BROKEN_RIOT_SHEILD": "Ruined Riot Shield",
+        "ID_ITEMNAMES_RUBBER_BANDS": "Rubber Bands",
+        "ID_ITEMNAMES_SALVAGE_EXODUS_MODULES": "Exodus Modules",
+        "ID_ITEMNAMES_SALVAGE_MAGNETIC_ACCELERATOR": "Magnetic Accelerator",
+        "ID_ITEMNAMES_SALVAGE_DURABLE_CLOTH": "Durable Cloth",
+        "ID_ITEMNAMES_SALVAGE_EXPLOSIVE_COMPOUND": "Explosive Compound",
+        "ID_ITEMNAMES_SALVAGE_COMPLEX_GUN_PARTS": "Complex Gun Parts",
+        "ID_ITEMNAMES_SALVAGE_ADVANCED_ARC_POWERCELL": "Advanced ARC Powercell",
+        "ID_ITEMNAMES_SALVAGE_ASSORTED_SEEDS": "Assorted Seeds",
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT1": "Reinforced Chamber",
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT2": "Large Gun Parts"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_SALVAGE_OUTSKIRTS_BUNKER_KEY": {
+          "Note": "A makeshift key that lets you open the Outskirts Bunker on Spaceport."
+        }
+      }
+    }
+  }
+]

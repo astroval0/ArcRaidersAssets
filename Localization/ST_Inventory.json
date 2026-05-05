@@ -1,0 +1,289 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Inventory",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Inventory",
+    "StringTable": {
+      "TableNamespace": "ST_Inventory",
+      "KeysToEntries": {
+        "ID_INVENTORY_SORTING_CATEGORY": "Category",
+        "ID_INVENTORY_SORTING_UNSORTED": "Unsorted",
+        "ID_INVENTORY_SORTING_RARITY": "Rarity",
+        "ID_INVENTORY_SORTING_NAME": "Name",
+        "ID_INVENTORY_SORTING_VALUE": "Value",
+        "ID_INVENTORY_LOADOUT_HEADER": "Loadout",
+        "ID_INVENTORY_LOADOUT_VALUE_HEADER": "Loadout Value",
+        "ID_INVENTORY_STASH_HEADER": "Stash",
+        "ID_INVENTORY_SORTING_HEADER": "Sort by",
+        "ID_INVENTORY_FORMAT_DRAG_AMOUNT": "{0}",
+        "ID_INVENTORY_FORMAT_SORTING": "Sort: {0}",
+        "ID_INVENTORY_FORMAT_SELL_BUTTON": "Sell (+{0})",
+        "ID_INVENTORY_FORMAT_ITEM_FOUND_IN_THEME_AREAS": "{0} areas",
+        "ID_INVENTORY_STASH_FULL": "Not enough space in your Stash. Manage your inventory to free up some space.",
+        "ID_INVENTORY_ITEM_FOUND_IN_AREAS_HEADER": "Can be found in",
+        "ID_INVENTORY_UNEQUIP_MOD_WARNING_STASH_FULL": "Stash is full! Clear up space if you want to unequip mods.",
+        "ID_INVENTORY_ITEM_TOOLTIP_MODS_EQUIPPED_TITLE": "Mods Equipped",
+        "ID_INVENTORY_ITEM_TOOLTIP_AMMOCOUNT_EXPLANATION": "{0}/{1}",
+        "ID_INVENTORY_ITEM_TOOLTIP_MODS_EXPLANATION": "{0}/{1}",
+        "ID_INVENTORY_ITEM_TOOLTIP_TRACKING_EXPLANATION": "Tracked for blueprint",
+        "ID_INVENTORY_WEIGHT_TEXT_FORMAT": "{0} kg",
+        "ID_INVENTORY_INSPECT_ITEM_BUTTON_TITLE": "Inspect",
+        "ID_INVENTORY_SELL_PARTIAL_BUTTON": "Sell Partial Amount",
+        "ID_INVENTORY_REPAIR_BUTTON": "Repair",
+        "ID_INVENTORY_GRADUAL_ITEM_REVEAL_TEXT": "Searching...",
+        "ID_INVENTORY_ITEM_TOOLTIP_DURABILITY_TITLE": "Durability",
+        "ID_INVENTORY_ITEM_TOOLTIP_AMMO_TYPE_TITLE": "Ammo Type",
+        "ID_INVENTORY_ITEM_TOOLTIP_MAGAZINE_SIZE_TITLE": "Magazine Size",
+        "ID_INVENTORY_ITEM_TOOLTIP_QUALITY_TIER_TITLE": "Quality Tier",
+        "ID_INVENTORY_STATS_HEADER": "Stats",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_WEAPONS": "Compatible with: {0}",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_ARMOR": "Compatible with: {0}",
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_WEAPONS": "Compatible with: {0}",
+        "ID_INVENTORY_FILTER_ALL": "All",
+        "ID_INVENTORY_FILTER_GADGETS": "Gadgets",
+        "ID_INVENTORY_FILTER_WEAPONS": "Weapons",
+        "ID_INVENTORY_FILTER_ARMOR": "Shields",
+        "ID_INVENTORY_FILTER_MODIFICATIONS": "Weapon Mods",
+        "ID_INVENTORY_FILTER_UTILITIES": "Utilities",
+        "ID_INVENTORY_FILTER_AMMUNITION": "Ammunition",
+        "ID_INVENTORY_FILTER_CRAFTING": "Crafting",
+        "ID_INVENTORY_FILTER_MISC": "Misc",
+        "ID_INVENTORY_FILTER_UPGRADABLE_WEAPONS": "Weapon Upgrades",
+        "ID_INVENTORY_FILTER_UPGRADABLE_ARMOR": "Shield Upgrades",
+        "ID_INVENTORY_COMPATIBILITY_CRAFTING_MATERIAL_WITH_RECIPES": "Used to craft: {0}",
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_EQUIPPED_WEAPONS": "Compatible with equipped weapons: {0}",
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_BACKPACK_WEAPONS": "Compatible with weapons in your loadout: {0}",
+        "ID_INVENTORY_COMPATIBILITY_AMMO_INCOMPATIBLE_WITH_WEAPONS": "Not compatible with your weapons",
+        "ID_INVENTORY_STASH_EXPAND": "Expand Stash Size",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_EQUIPPED_ARMOR": "Compatible with equipped shield: {0}",
+        "ID_INVENTORY_COMPATIBILITY_MOD_INCOMPATIBLE_WITH_WEAPONS": "Not compatible with your weapons",
+        "ID_INVENTORY_COMPATIBILITY_MOD_INCOMPATIBLE_WITH_ARMORS": "Not compatible with your shield items",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_EQUIPPED_WEAPONS": "Compatible with equipped weapons: {0}",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_BACKPACK_WEAPONS": "Compatible with weapons in your loadout: {0}",
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_BACKPACK_ARMORS": "Compatible with shield in your loadout: {0}",
+        "ID_INVENTORY_ITEM_COUNT_LOADOUT": "In Loadout:",
+        "ID_INVENTORY_ITEM_COUNT_STASH": "In Stash:",
+        "ID_INVENTORY_STASH_FULLY_UPGRADED": "Stash is fully upgraded. Manage your inventory to free up some space.",
+        "ID_INVENTORY_UPGRADE_BUTTON": "Upgrade",
+        "ID_INVENTORY_GO_TO_WORKSHOP": "Go To Workshop",
+        "ID_INVENTORY_UPGRADE_NO_WEAPON_BENCH": "You don't have a Gunsmith station! Install a Gunsmith station in your Workshop to upgrade your weapons.",
+        "ID_INVENTORY_UPGRADE_NO_ARMOR_BENCH": "You don't have an Gear Bench! Install one in your Workshop to upgrade your shields.",
+        "ID_INVENTORY_SORTING_QUALITY": "Quality",
+        "ID_INVENTORY_TOOLTIP_SEARCHING": "Searching",
+        "ID_INVENTORY_DROP_ITEM": "Drop Item",
+        "ID_INVENTORY_QUICK_MOVE": "Quick Move",
+        "ID_INVENTORY_CONTEXTUAL_MENU": "Actions",
+        "ID_INVENTORY_SPLIT_STACK": "Split Stack",
+        "ID_INVENTORY_RESET_SCREEN": "Reset Screen",
+        "ID_INVENTORY_UNLOAD_BACKPACK": "Unload Backpack",
+        "ID_INVENTORY_MERGE_STACKS": "Merge Stacks",
+        "ID_INVENTORY_EQUIPPED_MODS": "Equipped Mods",
+        "ID_INVENTORY_AVAILABLE_MODS": "Available Mods",
+        "ID_INVENTORY_QUALITY_MODIFIERS": "Quality Modifiers",
+        "ID_INVENTORY_APPLIED_MOD_EFFECTS": "Applied Mod Effects",
+        "ID_INVENTORY_NEXT_LEVEL": "Next Level",
+        "ID_INVENTORY_MAX_CAPACITY": "Max Capacity",
+        "ID_INVENTORY_MAX_CAPACITY_DESC": "Your Stash has reached max capacity and no further upgrades are available.",
+        "ID_INVENTORY_FILTER_AUGMENTATIONS": "Augments",
+        "ID_INVENTORY_RECYCLE_BUTTON": "Recycle",
+        "ID_INVENTORY_LOADOUT_HEADER_WITH_TITLE": "Loadout - {0}",
+        "ID_INVENTORY_LOADOUT_STANDARD": "Standard",
+        "ID_INVENTORY_ITEM_TOOLTIP_QUEST_TRACKING_EXPLANATION": "Tracked for quest",
+        "ID_INVENTORY_STASH_OVERFLOWING_EXPAND": "You have more items than fit in your Stash. Free up space or expand your Stash size.",
+        "ID_INVENTORY_STASH_FULL_EXPAND": "Your Stash is full. Free up space or expand your Stash size.",
+        "ID_INVENTORY_STASH_OVERFLOWING_MAKESPACE": "You have more items than fit in your Stash. Sell or use items to free up space.",
+        "ID_INVENTORY_STASH_FULL_MAKESPACE": "Your Stash is full. Sell or use items to free up space.",
+        "ID_INVENTORY_STASH_FULL_WARNING_TITLE": "Stash Full",
+        "ID_INVENTORY_STASH_OVERFLOWING_WARNING_TITLE": "Stash Overflowing",
+        "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_MANAGESTASH": "Manage Stash",
+        "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_CLOSE": "Close",
+        "ID_INVENTORY_STASH_FULL_WARNING": "Your Stash is full. Free up space to Deploy and use other functionalities.",
+        "ID_INVENTORY_STASH_EXPANSION_LEVEL": "Stash Expansion Level {0}",
+        "ID_INVENTORY_STASH_EXPANSION_DESCRIPTION": "Upgrade your Stash to gain inventory slots",
+        "ID_INVENTORY_STASH_EXPANSION_CURRENTLEVEL": "Current: level {0}",
+        "ID_INVENTORY_STASH_EXPANSION_SLOTSGAINED": "Gain {0} stash slots",
+        "ID_INVENTORY_STASH_EXPANSION_PURCHASEBUTTON": "Purchase Expansion",
+        "ID_INVENTORY_FILTER_KEYS": "Keys",
+        "ID_INVENTORY_FILTER_QUICKUSE": "Quick Use",
+        "ID_INVENTORY_FILTER_WEAPONMODS": "Weapon Mods",
+        "ID_INVENTORY_FILTER_CRAFTINGMATERIALS": "Crafting Materials",
+        "ID_INVENTORY_FILTER_MISCELLANEOUS": "Miscellanous",
+        "ID_INVENTORY_FILTER_TRINKETS": "Trinkets",
+        "ID_INVENTORY_QUICK_MOVE_HALF": "Move Half",
+        "ID_INVENTORY_RECYCLE_HEADER": "Recycles Into",
+        "ID_INVENTORY_LEARN_RECIPE_BUTTON": "Learn and consume",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE": "Learn Blueprint",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY": "You'll spend the following resources to learn this blueprint:",
+        "ID_INVENTORY_ITEM_TOOLTIP_RECIPE_KNOWN": "Blueprint already learned",
+        "ID_INVENTORY_MISSING_RECIPE": "Missing blueprint for item",
+        "ID_INVENTORY_DROP_HALF": "Drop Half",
+        "ID_INVENTORY_CONTEXTUAL_MENU_MULTIPLE_ITEMS": "{0} items selected",
+        "ID_INVENTORY_MAX_LOADOUT_WEIGHT": "Max Loadout Weight",
+        "ID_INVENTORY_MULTI_SELECT": "Multi Select",
+        "ID_INVENTORY_QUICKACTION_CALLOUT_BULKSELECT": "Select multiple",
+        "ID_INVENTORY_MOREACTIONS_CALLOUT_ALT": "Actions",
+        "ID_INVENTORY_BUTTON_REPAIR_ALL": "Repair all",
+        "ID_INVENTORY_MESSAGE_FULL_DURABILITY": "Full durability",
+        "ID_INVENTORY_MESSAGE_FULL_DURABILITY_ALT2": "Durability full",
+        "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED": "Repair all equipped",
+        "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED_ALT2": "Repair all equipped items",
+        "ID_INVENTORY_SORT_CATEGORY_RECENCY": "Recency",
+        "ID_INVENTORY_ITEM_TOOLTIP_CONDITION": "Condition",
+        "ID_INVENTORY_ITEM_TOOLTIP_CONTENTS": "Contents",
+        "ID_INVENTORY_ITEM_TOOLTIP_CONTENT": "Content",
+        "ID_INVENTORY_ITEM_TOOLTIP_CHARGE": "Charge",
+        "ID_INVENTORY_MODAL_TITLE_MISSING_GEAR": "Missing gear",
+        "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR": "You are missing some gear in your loadout. Do you want to go with a Free Loadout instead?",
+        "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR_ALT2": "You are missing some gear. You can go for a Free Loadout if you need it.",
+        "ID_INVENTORY_MODAL_TITLE_REASONS": "Reasons",
+        "ID_INVENTORY_STASHBUTTONS_CLEAR_LOADOUT": "Clear loadout",
+        "ID_INVENTORY_STASHBUTTONS_EXPAND": "Expand",
+        "ID_INVENTORY_STASHBUTTONS_EXPAND_ALT": "Expand Stash",
+        "ID_INVENTORY_RECYCLE_TITLE_SINGLE": "Recycle {0}",
+        "ID_INVENTORY_RECYCLE_TITLE_MULTIPLE": "Recycle {0} items",
+        "ID_INVENTORY_RECYCLE_INFO": "You have selected {0} {0}|plural(one=item,other=items) to recycle. These are the resources you will get back:",
+        "ID_INVENTORY_UNLOADWEAPON": "Unload ammo from weapon",
+        "ID_INVENTORY_UNLOADWEAPON_ALT": "Unload weapon",
+        "ID_INVENTORY_MODAL_BUTTON_FREE_LOADOUT": "Free loadout",
+        "ID_INVENTORY_MODAL_BUTTON_DEPLOY_ANYWAYS": "Deploy anyways",
+        "ID_INVENTORY_MODAL_BUTTON_CANCEL": "Cancel",
+        "ID_INVENTORY_ITEM_TOOLTIP_TRACKING_EXPLANATION_ALT2": "Tracked resource",
+        "ID_INVENTORY_ITEM_TOOLTIP_UPGRADE_MODIFIER_TITLE": "Upgrade Modifiers",
+        "ID_INVENTORY_ITEM_TOOLTIP_MODIFIER_TITLE": "Modifiers",
+        "ID_INVENTORY_SALVAGE_HEADER": "Salvages Into",
+        "ID_INVENTORY_AUGMENT_EFFECT_TITLE": "Augment Effect",
+        "ID_INVENTORY_AUGMENT_EFFECT_NO_EFFECT": "No active effect"
+      },
+      "KeysToMetaData": {
+        "ID_INVENTORY_STASH_OVERFLOWING_EXPAND": {
+          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further)\""
+        },
+        "ID_INVENTORY_STASH_FULL_EXPAND": {
+          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further) - Alternative\""
+        },
+        "ID_INVENTORY_STASH_OVERFLOWING_MAKESPACE": {
+          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side.\""
+        },
+        "ID_INVENTORY_STASH_FULL_MAKESPACE": {
+          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side. - Alternative\""
+        },
+        "ID_INVENTORY_STASH_FULL_WARNING_TITLE": {
+          "Note": "Header of a warning popup"
+        },
+        "ID_INVENTORY_STASH_OVERFLOWING_WARNING_TITLE": {
+          "Note": "Header of a warning popup - Alternative"
+        },
+        "ID_INVENTORY_STASH_FULL_WARNING": {
+          "Note": "Body text of a warning popup"
+        },
+        "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_CLOSE": {
+          "Note": "Button of warning popup"
+        },
+        "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_MANAGESTASH": {
+          "Note": "Button of warning popup"
+        },
+        "ID_INVENTORY_STASH_EXPANSION_LEVEL": {
+          "Note": "Header for stash expansion popup, indicates how many times a player has already expanded their stash"
+        },
+        "ID_INVENTORY_STASH_EXPANSION_DESCRIPTION": {
+          "Note": "Body text for stash expansion popup"
+        },
+        "ID_INVENTORY_STASH_EXPANSION_CURRENTLEVEL": {
+          "Note": "Info to be displayed on tooltip or in description to indicate the current level of Stash Expansion"
+        },
+        "ID_INVENTORY_STASH_EXPANSION_SLOTSGAINED": {
+          "Note": "Other informative text to explain the Stash Expansion"
+        },
+        "ID_INVENTORY_STASH_EXPANSION_PURCHASEBUTTON": {
+          "Note": "CTA"
+        },
+        "ID_INVENTORY_FORMAT_SELL_BUTTON": {
+          "Note": ""
+        },
+        "ID_INVENTORY_SELL_PARTIAL_BUTTON": {
+          "Note": ""
+        },
+        "ID_INVENTORY_QUICKACTION_CALLOUT_BULKSELECT": {
+          "Note": "Button callout in the bottom bar. Button icon is shown in line"
+        },
+        "ID_INVENTORY_MOREACTIONS_CALLOUT_ALT": {
+          "Note": "Alternative to the \"More actions\" callout shown on tooltips when hovering items"
+        },
+        "ID_INVENTORY_BUTTON_REPAIR_ALL": {
+          "Note": "Title and button to repair all items"
+        },
+        "ID_INVENTORY_MESSAGE_FULL_DURABILITY": {
+          "Note": "Durability maxed out"
+        },
+        "ID_INVENTORY_MESSAGE_FULL_DURABILITY_ALT2": {
+          "Note": "Durability maxed out"
+        },
+        "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED": {
+          "Note": "Title to repair everything equipped"
+        },
+        "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED_ALT2": {
+          "Note": "Title to repair everything equipped"
+        },
+        "ID_INVENTORY_SORT_CATEGORY_RECENCY": {
+          "Note": "Sorting name for when things are sorted based on recency"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_CONDITION": {
+          "Note": "Alternative for durability of Items"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_CONTENTS": {
+          "Note": "Alternative for durability of Items"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_CONTENT": {
+          "Note": "Alternative for durability of Items"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_CHARGE": {
+          "Note": "Alternative for durability of Items"
+        },
+        "ID_INVENTORY_MODAL_TITLE_MISSING_GEAR": {
+          "Note": "Title for modal that warns about missing gear"
+        },
+        "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR": {
+          "Note": "Description in modal that warns about missing gear and reminds about free loadout"
+        },
+        "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR_ALT2": {
+          "Note": "Description in modal that warns about missing gear and reminds about free loadout"
+        },
+        "ID_INVENTORY_MODAL_TITLE_REASONS": {
+          "Note": "Title in modal that lists reasons for why your loadout isn't complete"
+        },
+        "ID_INVENTORY_STASHBUTTONS_CLEAR_LOADOUT": {
+          "Note": "Option button to move all loadout items to stash."
+        },
+        "ID_INVENTORY_STASHBUTTONS_EXPAND": {
+          "Note": "Option button to expand stash."
+        },
+        "ID_INVENTORY_STASHBUTTONS_EXPAND_ALT": {
+          "Note": "Option button to expand stash."
+        },
+        "ID_INVENTORY_UNLOADWEAPON": {
+          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack"
+        },
+        "ID_INVENTORY_UNLOADWEAPON_ALT": {
+          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack"
+        },
+        "ID_INVENTORY_MODAL_BUTTON_FREE_LOADOUT": {
+          "Note": "Button label to go to Free loadout"
+        },
+        "ID_INVENTORY_MODAL_BUTTON_DEPLOY_ANYWAYS": {
+          "Note": "Button label to deploy anyways"
+        },
+        "ID_INVENTORY_MODAL_BUTTON_CANCEL": {
+          "Note": "Button label for cancel"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_UPGRADE_MODIFIER_TITLE": {
+          "Note": "Header for stats that relates to the Weapon Upgrade level"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_MODIFIER_TITLE": {
+          "Note": "Header for stats that relates to how the shield affects your character when equipped"
+        }
+      }
+    }
+  }
+]

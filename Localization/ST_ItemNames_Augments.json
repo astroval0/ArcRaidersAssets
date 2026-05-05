@@ -1,0 +1,64 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Augments",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Augments",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Augments",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_AUGMENTS_COMBAT_AUGMENT": "Combat Augment",
+        "ID_ITEMNAMES_AUGMENTS_DEFENSIVE_AUGMENT": "Defensive Augment",
+        "ID_ITEMNAMES_AUGMENTS_MEDIC_AUGMENT": "Medic Augment",
+        "ID_ITEMNAMES_AUGMENTS_MOBILITY_AUGMENT": "Mobility Augment",
+        "ID_ITEMNAMES_AUGMENTS_ROOKIE_AUGMENT": "Rookie Augment",
+        "ID_ITEMNAMES_AUGMENTS_TRANSPORT_AUGMENT": "Transport Augment",
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK1": "Raider Augment I",
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK2": "Raider Augment II",
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK3": "Raider Augment III",
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK4": "Raider Augment IV",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_FREELOADOUT": "Combat Mk. 1 (Free)",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_T1": "Combat Mk. 1",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_T2": "Combat Mk. 2",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_T3_AGGRESSIVE": "Combat Mk. 3 (Aggressive)",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_T3_FLANKING": "Combat Mk. 3 (Flanking)",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_FREELOADOUT": "Looting Mk. 1 (Free)",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_T1": "Looting Mk. 1",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_T2": "Looting Mk. 2",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_T3_CAUTIOUS": "Looting Mk. 3 (Cautious)",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_T3_DBNO": "Looting Mk. 3 (Survivor)",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_FREELOADOUT": "Tactical Mk. 1 (Free)",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T1": "Tactical Mk. 1",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T2": "Tactical Mk. 2",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T3_DEFENSIVE": "Tactical Mk. 3 (Defensive)",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T3_HEALING": "Tactical Mk. 3 (Healing)",
+        "ID_ITEMNAMES_AUGMENT_RUINED": "Ruined Augment",
+        "ID_ITEMNAMES_AUGMENT_RUINED_T1": "Ruined Mk. 1 Augment",
+        "ID_ITEMNAMES_AUGMENT_RUINED_T2": "Ruined Mk. 2 Augment",
+        "ID_ITEMNAMES_AUGMENT_RUINED_T3": "Ruined Mk. 3 Augment",
+        "ID_ITEMNAMES_AUGMENT_FREELOADOUT": "Free Loadout Augment",
+        "ID_ITEMNAMES_AUGMENT_COMBAT_T3_RELOADER": "Combat Mk. 3 (Reloader)",
+        "ID_ITEMNAMES_AUGMENT_LOOTING_T3_CUSTODIAN": "Looting Mk. 3 (Safekeeper)",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T3_REVIVAL": "Tactical Mk. 3 (Revival)",
+        "ID_ITEMNAMES_AUGMENT_T4_CUSTIODIAN": "Raider Mk. 4 (Safekeeper)",
+        "ID_ITEMNAMES_AUGMENT_T4_REVIVAL": "Raider Mk. 4 (Revival)",
+        "ID_ITEMNAMES_AUGMENT_UTILITY_T3_SMOKE": "Tactical Mk. 3 (Smoke)"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK1": {
+          "Note": ""
+        },
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK2": {
+          "Note": ""
+        },
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK3": {
+          "Note": ""
+        },
+        "ID_ITEMNAMES_AUGMENTS_RAIDER_MK4": {
+          "Note": ""
+        }
+      }
+    }
+  }
+]

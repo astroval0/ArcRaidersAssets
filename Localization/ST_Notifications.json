@@ -1,0 +1,51 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Notifications",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Notifications",
+    "StringTable": {
+      "TableNamespace": "ST_Notifications",
+      "KeysToEntries": {
+        "ID_NOTIF_BUTTON_PROCEED": "Proceed",
+        "ID_NOTIF_BUTTON_OK": "Okay",
+        "ID_NOTIF_ERROR_TITLE": "Error",
+        "ID_NOTIF_BUTTON_CONFIRM": "Confirm",
+        "ID_NOTIF_BUTTON_CANCEL": "Cancel",
+        "ID_NOTIF_BUTTON_CONFIRM_QUIT": "Yes, quit",
+        "ID_NOTIF_BUTTON_CANCEL_QUIT": "No, keep playing",
+        "ID_NOTIF_CONTENT_UPDATE_TITLE": "New content available",
+        "ID_NOTIF_CONTENT_UPDATE_DESC": "New content is available, would you like to download it?",
+        "ID_NOTIF_CONTENT_YES": "Yes",
+        "ID_NOTIF_CONTENT_NO": "No",
+        "ID_NOTIF_BUTTON_PREVIOUS": "Previous",
+        "ID_NOTIF_BUTTON_NEXT": "Next",
+        "ID_NOTIF_USER_AGREEMENT_TITLE": "User Agreement",
+        "ID_NOTIF_BUTTON_ACCEPT": "Accept",
+        "ID_NOTIF_BUTTON_DECLINE": "Decline",
+        "ID_NOTIF_BUTTON_CLEAR": "Clear",
+        "ID_NOTIF_BUTTON_SKIP_ALL": "Skip All",
+        "ID_NOTIF_BUTTON_CLOSE": "Close",
+        "ID_NOTIF_FULL_STASH_HEADER": "Full Stash",
+        "ID_NOTIF_FULL_STASH_MESSAGE": "Free up space or expand your Stash size to be able to claim rewards or collect your crafting.",
+        "ID_NOTIF_QUIT_TITLE": "Do you want to exit?",
+        "ID_NOTIF_QUIT_BODY": "Are you sure you want to quit and return to desktop?",
+        "ID_NOTIF_SELL_CONFIRM": "Confirm & Sell",
+        "ID_NOTIF_LVL_NEW_LEVEL": "Reached Level {0}",
+        "ID_NOTIF_CUSTOMER_SUPPORT": "Customer Support",
+        "ID_NOTIFICATIONS_QUIT_GAME": "QUIT GAME",
+        "ID_NOTIFICATIONS_REWARDS": "Rewards",
+        "ID_NOTIFICATIONS_LEVEL_UP_DESCRIPTION": "Rewards received:",
+        "ID_NOTIFICATIONS_THANKS": "Thanks!",
+        "ID_NOTIFICATIONS_LOADING": "Loading...",
+        "ID_NOTIFICATIONS_FORCE_PURCHASE": "Force Purchase",
+        "ID_NOTIF_SELL_INFO": "You have selected {0} {0}|plural(one=item,other=items) to sell. This action cannot be undone. Please confirm to continue.",
+        "ID_NOTIF_SELL_TITLE_SINGLE": "Sell {0}",
+        "ID_NOTIF_SELL_TITLE_MULTIPLE": "Sell {0} items",
+        "ID_NOTIF_SELL_TOTAL_VALUE": "Total Value"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

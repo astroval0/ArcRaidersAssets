@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ErrorMessages",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ErrorMessages",
+    "StringTable": {
+      "TableNamespace": "ST_ErrorMessages",
+      "KeysToEntries": {
+        "ID_ERROR_ONLINE_QUEST_SYNC_FAILED": "Unable to sync player quests!",
+        "ID_ERROR_ONLINE_QUEST_ACCEPT_FAILED": "Unable to accept player quest!",
+        "ID_ERROR_ONLINE_QUEST_COMPLETE_FAILED": "Unable to complete player quest!",
+        "ID_ERROR_UNKNOWN": "Unknown error",
+        "ID_ERROR_NOTIFICATION_TITLE": "Error",
+        "ID_ERROR_NOTIFICATION_OKAY": "Okay",
+        "ID_ERROR_NOTIFICATION_QUIT_GAME": "Exit game",
+        "ID_ERROR_NOTIFICATION_RETRY": "Retry",
+        "ID_ERROR_ONLINE_INVENTORY_COMMIT_OPERATION": "Something went wrong saving your recent inventory changes. The inventory has been reverted back to its previous state.",
+        "ID_ERROR_NETWORK_FAILURE": "Network connection has failed",
+        "ID_ERROR_BACKEND_FAILURE": "Communication with backend services failed",
+        "ID_ERROR_RECONNECT_NO_LONGER_AVAILABLE": "Reconnect is no longer available, as your session has ended.",
+        "ID_ERROR_ANTICHEAT_VIOLATION_TITLE": "Cheating Activity Detected",
+        "ID_ERROR_ONLINE_INVENTORY_VALIDATION_FAILED": "The inventory is partially corrupted! The game is still playable, but some inventory actions may be unavailable.",
+        "ID_ERROR_ONLINE_INVENTORY_MUTATION_FAILED": "Something went wrong, and your inventory changes were not saved.",
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_TEMPORARY": "Your account has been temporarily suspended for behavior that violates our code of conduct.\r\nYour access will be restored: {0}.",
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_PERMANENT": "Your account has been permanently suspended for behavior that violates our code of conduct.\r\nDue to the severity of your violation, access to your account will not be restored.",
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_UNKNOWN": "Your account has been suspended for behavior that violates our code of conduct.",
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_TITLE": "Account suspended",
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_NO_VALID_PLATFORM": "You need to enable crossplay to matchmake together with your party.",
+        "ID_ERROR_MATCHMAKING_FAILED": "Matchmaking Failed",
+        "ID_ERROR_ONLINE_CONNECTION_ERROR": "ONLINE CONNECTION ERROR",
+        "ID_ERRORMESSAGES_ACCOUNT_BLOCKED": "ACCOUNT BLOCKED",
+        "ID_ERRROR_ACCOUNT_BLOCKED_DESC": "Your account has been blocked due to activity violating our Terms of Service. Contact customer support for more information.",
+        "ID_ERRORMESSAGES_NETWORK_TIMEOUT": "NETWORK TIMEOUT",
+        "ID_ERROR_UPDATE_REQUIRED": "Update required",
+        "ID_ERROR_ACCOUNT_SHARED_BLOCKED_DESC": "Your access has been suspended because the account that shares this game with you is currently restricted."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClansCreate",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClansCreate",
+    "StringTable": {
+      "TableNamespace": "ST_ClansCreate",
+      "KeysToEntries": {
+        "ID_CLAN_CREATE": "Create",
+        "ID_CLAN_CREATE_CLAN": "Create a Clan",
+        "ID_CLAN_CREATE_NAME_CHARS_AMOUNT": "2 - 16 characters",
+        "ID_CLAN_CREATE_NAME_INVALID": "Clan name invalid",
+        "ID_CLAN_CREATE_NAME_REQUIREMENTS": "Must start with a letter or number.\r\nMax 4 numbers in a row.\r\nOnly Latin letters, numbers, spaces, and special characters allowed.\r\nSpecial characters are (-), (.), (_), ( ), max 1 in a row.",
+        "ID_CLAN_CREATE_NAME_SIZE_LIMITS": "Characters must be more than 1 and less than 16",
+        "ID_CLAN_CREATE_NAME_TAKEN": "Clan name already taken",
+        "ID_CLAN_CREATE_TAG_CHARS_AMOUNT": "2 - 5 characters",
+        "ID_CLAN_CREATE_TAG_INVALID": "Clan tag invalid",
+        "ID_CLAN_CREATE_TAG_REQUIREMENTS": "Only Latin letters and numbers.\r\nMax 4 numbers in a row.",
+        "ID_CLAN_CREATE_TAG_SIZE_LIMITS": "Characters must be more than 1 and less than 6",
+        "ID_CLAN_CREATE_TAG_TAKEN": "Clan tag already taken",
+        "ID_CLAN_CREATE_STEP": "Step {0} / {1}",
+        "ID_CLAN_QUICK_CREATE": "Quick create",
+        "ID_CLAN_CREATE_TAB_IDENTITY": "Set Clan identity",
+        "ID_CLAN_CREATE_TAB_PREFERENCES": "Set Clan preferences",
+        "ID_CLAN_CREATE_TAB_BRANDING": "Set Clan branding",
+        "ID_CLAN_CUSTOMIZATION_LOGO": "Logo",
+        "ID_CLAN_CUSTOMIZATION_BORDER": "Border",
+        "ID_CLAN_CUSTOMIZATION_BACKGROUND": "Background",
+        "ID_CLAN_CARD_CREST": "Badge",
+        "ID_CLAN_LANGUAGE_REGION": "Language & Region",
+        "ID_CLAN_PLAYSTYLE": "Playstyle",
+        "ID_CLAN_NAME": "Clan name",
+        "ID_CLAN_TAG": "Clan tag",
+        "ID_CLAN_CREATE_CONTINUE": "Next step {0} / {1}",
+        "ID_CLAN_CONFIRM_CHANGES": "Confirm changes",
+        "ID_CLAN_CREATE_RATIO_BETWEEN_NUMBERS": "{0} / {1}",
+        "ID_CLAN_TAG_SOLO": "Tag"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

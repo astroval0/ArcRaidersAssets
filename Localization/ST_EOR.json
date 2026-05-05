@@ -1,0 +1,338 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_EOR",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_EOR",
+    "StringTable": {
+      "TableNamespace": "ST_EOR",
+      "KeysToEntries": {
+        "REWARDS": "Rewards",
+        "TOTALSESSIONSCORE": "Total session score",
+        "PLACEMENTHEADER": "Placement",
+        "SESSIONENDS": "Session ends in",
+        "SCORE": "Score",
+        "KILLS": "Kills",
+        "DAMAGEDEALT": "Damage dealt",
+        "REVIVES": "Revives",
+        "NEXT_SCREEN": "Skip",
+        "VICTORY": "Returning To Speranza",
+        "DEFEAT": "Knocked out",
+        "VICTORY_INFO": "You made it back to Speranza!",
+        "DEFEAT_INFO": "You didn't make it back home this time, Raider!",
+        "RETURN_TO_LOBBY": "Return to Speranza",
+        "NEW_REWARD": "New Reward",
+        "ASSISTS": "Assists",
+        "REWARD_CURRENCY": "Currency",
+        "REWARD_SKIN": "Skin",
+        "REWARD_CHARACTER": "Character",
+        "SUMMARY_LOOT": "You returned with:",
+        "ID_EOR_XP_COUNT": "{0} XP",
+        "ID_EOR_ROUND_TOTAL": "Round Total",
+        "ID_EOR_MENU_JOURNEY": "Journey",
+        "ID_EOR_MENU_FINDINGS": "Findings",
+        "ID_EOR_MENU_CHARACTER": "Character",
+        "QUOTE01": "\"Thought I hit the jackpot. Turns out, I was the jackpot.\" - Unlucky Dan",
+        "ID_EOR_DEATHQUOTE_SOUVENIR": "\"They clearly liked you and wanted a souvenir.\"",
+        "ID_EOR_DEATHQUOTE_OPTIMISM": "Your optimism in the face of empty pockets is your true superpower.",
+        "ID_EOR_DEATHQUOTE_PRACTICEROUND": "It’s fine. That was just a practice round.",
+        "ID_EOR_DEATHQUOTE_SMOOTHRAIDS": "“Smooth raids do not make skilled Raiders. But they do involve considerably fewer bullet holes.” - Celeste",
+        "ID_EOR_DEATHQUOTE_COMEBACK": "The universe is just setting you up for an epic comeback.",
+        "ID_EOR_DEATHQUOTE_STILLTOCOME": "Your moment to shine is still to come.",
+        "ID_EOR_DEATHQUOTE_LUCKYSOCKS": "Maybe you forgot your lucky socks in the wash?",
+        "ID_EOR_DEATHQUOTE_RESILIENCE": "Resilience pays off. Don’t let anyone tell you otherwise.",
+        "ID_EOR_DEATHQUOTE_STATISTICALLY": "“Statistically, street sweepers have a much lower chance of being shot in the face.” - Unemployed Former Raiders Association",
+        "ID_EOR_DEATHQUOTE_CANTSMELLYOU": "“ARC can’t smell you when you stand still. But they can still see you and shoot you, so...” - Old Man Ulysses",
+        "ID_EOR_MENU_BATTLEPASS": "Raider Deck",
+        "ID_EOR_BPP": "Cred",
+        "ID_EOR_MENU_QUESTS": "Quests",
+        "ID_EOR_LEVEL": "Level {0}",
+        "ID_EOR_QUEST_VISIT_QUESTGIVER": "Visit {0}",
+        "EVENT_ELIMINATED_ARC": "ARC destroyed",
+        "EVENT_ELIMINATED_OTHER": "Knocked out",
+        "EVENT_FOUND_QUESTITEM": "Quest item found",
+        "EVENT_PATCHED_SELF": "Recharged",
+        "EVENT_DAMAGE_DEALT": "Dealt Damage",
+        "EVENT_DAMAGE_RECEIVED": "Received Damage",
+        "EVENT_HEALED_OTHER": "Healed",
+        "EVENT_HEALED_BY_OTHER": "Got healed by",
+        "EVENT_FOUND_LOOT": "Loot found",
+        "EVENT_TOTALHEALTH": "Health",
+        "EVENT_TOTALARMOR": "Shield",
+        "EVENT_DBNO_OTHER": "Downed",
+        "EVENT_DBNO_SELF": "Got downed",
+        "EVENT_PARTSHIT": "Hits",
+        "EVENT_PARTSDESTROYED": "Parts Destroyed",
+        "EVENT_DAMAGE_SELF": "Took Damage",
+        "EVENT_HEALED_SELF": "Healed",
+        "EVENT_ELIMINATED_BY_OTHER": "Got knocked out by",
+        "EVENT_EXTRACTION_REQUESTED": "Return requested",
+        "EVENT_EXTRACTION_SUCCESSFUL": "Returned home safely",
+        "EVENT_ELIMINATED_SELF": "Knocked out",
+        "EVENT_DBNO_BY_OTHER": "Got downed by",
+        "EVENT_TOTAL_RECEIVED": "Total Damage Received",
+        "EVENT_TOTAL_DEALT": "Total Damage Dealt",
+        "EVENT_DEPLOY": "Arrived on surface",
+        "FILTER_DAMAGE_DEALT_ARC": "Dealt damage to ARC",
+        "FILTER_DAMAGE_RECEIVED_ARC": "Received damage from ARC",
+        "FILTER_DAMAGE_DEALT_RAIDER": "Dealt damage to raiders",
+        "FILTER_DAMAGE_RECEIVED_RAIDER": "Received damage from raiders",
+        "ID_EOR_DEALT_DAMAGE_TO": "Dealt damage to",
+        "FILTER_SHOW": "Show Filter",
+        "FILTER_HIDE": "Hide Filter",
+        "FILTER_RESET": "Reset Filter",
+        "ID_EOR_YOURSELF": "Yourself",
+        "ID_EOR_MISSING_CATEGORY": "Missing Category",
+        "ID_EOR_WIN": "Win",
+        "ID_EOR_SKILL_POINTS_INCREASE": "SKILL POINTS +{0}",
+        "ID_EOR_FRIEND_REQUEST_MESSAGE": "A friend request will be sent to {0}",
+        "ID_EOR_RAIDERS_IN_PROXIMITY": "Raiders Nearby",
+        "ID_EOR_EVENT": "Event",
+        "ID_EOR_PROXIMITY": "Proximity",
+        "ID_EOR_FILTERS": "Filters",
+        "ID_EOR_TIME_ON_SURFACE": "TIME ON SURFACE",
+        "ID_EOR_MAP_VIEW": "Change Map View",
+        "ID_EOR_DAMAGE_FORMAT": "{0} damage",
+        "EVENT_REVIVED_BY_OTHER": "Revived by",
+        "EVENT_REVIVED": "Revived",
+        "ID_EOR_QUEST_PROGRESS": "{0}/{1}",
+        "EVENT_AIDED_SELF": "Aided",
+        "EVENT_AIDED_OTHER": "Aided",
+        "EVENT_AIDED_BY_OTHER": "Aid Received",
+        "ID_EOR_HEALTH_FORMAT": "{0} health",
+        "ID_EOR_ARMOR_FORMAT": "{0} charge",
+        "EVENT_TOTAL_DAMAGE": "Total Damage",
+        "EVENT_DAMAGE_MITIGATED": "Damage Deflected",
+        "EVENT_DAMAGE_TO_HEALTH": "Damage to Health",
+        "ID_EOR_UNKNOWN_ARC": "Unknown ARC",
+        "EVENT_TOTAL_HEALED": "Total Healed",
+        "EVENT_TOTAL_ARMOR_REPAIRED": "Total Shield Recharged",
+        "CLUSTER_FLAG_MORE_FORMAT": "+{0} More",
+        "CLUSTER_FLAG_TIMESTAMP_SEPARATOR": "-",
+        "SQUAD_LEAVE": "Leave Squad",
+        "SQUAD_STAY": "Stay in Squad",
+        "ID_EOR_NAVIGATE": "Navigate",
+        "ID_EOR_NAVIGATE_SHOW": "Show Event",
+        "ID_EOR_NAVIGATE_ZOOM_CLUSTER": "Zoom to Events",
+        "EVENT_ELEVATOR_REQUESTED": "Elevator requested",
+        "EVENT_METRO_REQUESTED": "Metro requested",
+        "CONTINUE_TO_EOR": "Continue to End Of Round",
+        "EVENT_ARMOR_REPAIRED": "Shield Recharged",
+        "ID_EOR_DEATHQUOTE_SIXOUTOFTEN": "“Out of my current clients, seven out of ten of them are still around. Oh. Make that six out of ten.” - Velvet Veracity, Raider Guru",
+        "ID_EOR_DEATHQUOTE_VILLAINARC": "This would be the perfect start to your villain arc.",
+        "ID_EOR_DEATHQUOTE_INSTYLE": "At least you went out in style.",
+        "ID_EOR_DEATHQUOTE_DUSTOFF": "Dust yourself off, patch together a new gun, and get back out there.",
+        "ID_EOR_DEATHQUOTE_LANCESPECIALTY": "Fixing up Raiders like you is Lance’s speciality.",
+        "ID_EOR_DEATHQUOTE_SHORTCAREER": "“If I gave up every time I got shot, I would have had a very short career.” - Veteran Raider",
+        "ID_EOR_DEATHQUOTE_ROLLAGAIN": "“Sometimes the dice roll in your favor, and sometimes they don’t. Not much you can do besides roll them again.” - Bilguun",
+        "ID_EOR_DEATHQUOTE_LAUNDRY": "“If you have a child, don’t let them become a Raider. It is way too much laundry.” - Someone’s Mom",
+        "ID_EOR_DEATHQUOTE_GOODFORBUSINESS": "“Lots of Raider infighting going on. If nothing else, I guess it’s good for business.” - Tian Wen",
+        "ID_EOR_DEATHQUOTE_PATIENTZERO": "\"I don't see the problem with eating surface plants, it's probably safe.\" - Timothy, patient zero for a new disease",
+        "ID_EOR_DEATHQUOTE_BREATHE": "“Breathe. Let your body settle into a slower rhythm.” - Meditation Tape",
+        "ID_EOR_DEATHQUOTE_ONEARM": "“We experimented with using ARC parts as full plate armor. Took one magnetic explosive for us to realize that was a mistake.” - Olaf One-Arm (formerly just Olaf)",
+        "ID_EOR_DEATHQUOTE_NEXTTIME": "You’ll get them next time.",
+        "ID_EOR_DEATHQUOTE_UNDERDOG": "The underdog always wins in the end. Keep going.",
+        "ID_EOR_DEATHQUOTE_DONTGIVEUP": "Doesn’t matter if you’re beaten down, bruised, or bloodied. Raiders don’t give up.",
+        "ID_EOR_DEATHQUOTE_LEARNINGEXPERIENCE": "Every failure is a learning experience.",
+        "ID_EOR_DEATHQUOTE_SAFEPOCKET": "And that’s why you have a Safe Pocket. Backup loot.",
+        "ID_EOR_DEATHQUOTE_STICKWITHIT": "“I can’t tell you how many times I came crawling back home with empty pockets. The trick is to stick with it.” - Veteran Raider",
+        "ID_EOR_XP_RATIO": "{0}/{1} XP",
+        "ID_EOR_OVERLAY_INTERACTIONS": "Player Interactions",
+        "ID_EOR_OVERLAY_NO_INTERACTIONS_FOUND": "No Interactions Found",
+        "ID_EOR_VOIP": "VOIP",
+        "ID_EOR_IN_SQUAD": "In Squad",
+        "PLAYERINTERACTION_AIDED_BY_OTHER": "Aided you",
+        "PLAYERINTERACTION_AIDED_OTHER": "You aided",
+        "PLAYERINTERACTION_DAMAGE_DEALT": "You damaged",
+        "PLAYERINTERACTION_DAMAGE_RECEIVED": "Damaged you",
+        "PLAYERINTERACTION_DBNO_BY_OTHER": "Downed you",
+        "PLAYERINTERACTION_DBNO_OTHER": "You downed",
+        "PLAYERINTERACTION_ELIMINATED_BY_OTHER": "Knocked you out",
+        "PLAYERINTERACTION_ELIMINATED_OTHER": "You knocked out",
+        "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL": "Returned safely together",
+        "PLAYERINTERACTION_HEALED_BY_OTHER": "Healed you",
+        "PLAYERINTERACTION_HEALED_OTHER": "You healed",
+        "PLAYERINTERACTION_REVIVED": "You revived",
+        "PLAYERINTERACTION_REVIVED_BY_OTHER": "Revived you",
+        "PLAYERINTERACTION_ARMOR_REPAIRED_BY_OTHER": "Recharged your Shield",
+        "PLAYERINTERACTION_ARMOR_REPAIRED_OTHER": "Shield recharged by you",
+        "PLAYERINTERACTION_IN_SQUAD": "In your squad",
+        "PLAYERINTERACTION_IN_SQUAD_ALT2": "Squad member",
+        "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL_ALT2": "Returned safely with you",
+        "PLAYERINTERACTION_CLOSE_BY": "Nearby",
+        "PLAYERINTERACTION_VOICECHAT_INPROXIMITY": "Spoke nearby",
+        "EVENT_ARMOR_REPAIRED_BY_OTHER": "Repaired your Shield",
+        "EVENT_ARMOR_REPAIRED_OTHER": "Repaired Shield of",
+        "EVENT_SPAWNED_IN_SQUAD": "Deployed together",
+        "ID_EOR_XP_EXTRACTION_BONUS": "Safe Return Bonus",
+        "ID_EOR_XP_BONUS_ITEM_FORMAT": "Bonus Item: {0}",
+        "ID_EOR_CRED_XP_BONUS": "Cred from Experience",
+        "ID_EOR_GENERIC_XP_BONUS": "{0} from Experience",
+        "ID_EOR_CHALLENGES_SUMMARY": "Feats Completed ({0})",
+        "ID_EOR_EVENT_SURRENDER": "Surrendered",
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE": "Environmental",
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT": "Environmental Hazard",
+        "ID_EOR_EVENT_FRIENDLY_DAMAGE": "Friendly Damage",
+        "ID_EOR_REWARDS": "Rewards",
+        "ID_EOR_UNLOAD_AND_CONTINUE_BUTTON": "Unload and continue",
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT2": "Environmental Damage",
+        "ID_EOR_MENU_CHALLENGES": "Feats",
+        "ID_EOR_MENU_MASTERY": "Trials",
+        "ID_EOR_MENU_CHARACTER_ALT1": "Raider",
+        "ID_EOR_EVENT_DAMAGETYPE_QUEENMINE": "Mine",
+        "ID_EOR_EVENT_DAMAGETYPE_QUEENMINE_ALT1": "Queen Mine",
+        "ID_EOR_EVENT_DAMAGETYPE_TOXICSWAMP": "Toxic Gases",
+        "ID_EOR_EVENT_DAMAGETYPE_BARONHUSK": "Baron Husk",
+        "ID_EOR_MENU_LIVEEVENT": "Live Event",
+        "ID_EOR_EVENT_DAMAGETYPE_FALLING": "Falling",
+        "ID_EOR_EVENT_DAMAGETYPE_FALLING_ALT": "Fall damage",
+        "ID_EOR_EVENT_DAMAGETYPE_LIGHTNING": "Lightning",
+        "ID_EOR_EVENT_DAMAGETYPE_TOXIC_SWAMP": "Toxic Swamp",
+        "ID_EOR_EVENT_DAMAGETYPE_MINES": "Mines",
+        "ID_EOR_EVENT_DAMAGETYPE_COLD": "Frostbite",
+        "ID_EOR_EVENT_DAMAGETYPE_COLD_ALT1": "Cold",
+        "ID_EOR_EVENT_DAMAGETYPE_COLD_ALT2": "Frost",
+        "ID_EOR_CRED_XP_BASED_BONUS": "XP bonus",
+        "ID_EOR_CRED_ROUND_TOTAL": "Round Total",
+        "ID_EOR_CRED_WALLET": "Your Creds",
+        "ID_EOR_CRED_PARTIAL_CREDS_NOTICE": "You’ve received partial Creds because you’ve reached the Cred limit during the round.",
+        "ID_EOR_CRED_NO_CREDS_NOTICE": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers.",
+        "ID_EOR_MERITS_TOTAL": "Total Merits",
+        "ID_EOR_ROUND_HEADER_EVENTPROGRESSION": "Event Progression",
+        "ID_EOR_ROUND_HEADER_WINTEREVENT": "Flickering Flames",
+        "ID_EOR_XP_EXPEDITION_BONUS": "Active buffs (Expedition)",
+        "ID_EOR_OPTOUT_SQUAD": "Leave Squad",
+        "ID_EOR_OPTIN_SQUAD": "Stay with Squad"
+      },
+      "KeysToMetaData": {
+        "PLAYERINTERACTION_AIDED_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you. The player revived and healed you"
+        },
+        "PLAYERINTERACTION_AIDED_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you. You revived and healed the player"
+        },
+        "PLAYERINTERACTION_DAMAGE_DEALT": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_DAMAGE_RECEIVED": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_DBNO_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_DBNO_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_ELIMINATED_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_ELIMINATED_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL": {
+          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together"
+        },
+        "PLAYERINTERACTION_HEALED_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_HEALED_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_REVIVED": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_REVIVED_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_ARMOR_REPAIRED_BY_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_ARMOR_REPAIRED_OTHER": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_IN_SQUAD": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_IN_SQUAD_ALT2": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL_ALT2": {
+          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together"
+        },
+        "PLAYERINTERACTION_CLOSE_BY": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "PLAYERINTERACTION_VOICECHAT_INPROXIMITY": {
+          "Note": "For a list called player interactions, to explain who this player is to you."
+        },
+        "EVENT_ARMOR_REPAIRED_BY_OTHER": {
+          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below"
+        },
+        "EVENT_ARMOR_REPAIRED_OTHER": {
+          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below"
+        },
+        "EVENT_SPAWNED_IN_SQUAD": {
+          "Note": "For an event card in the EoR Journey screen, the squad members will be listed below"
+        },
+        "ID_EOR_EVENT_SURRENDER": {
+          "Note": "Title Description of Surrendered event, if player leaves by surrender."
+        },
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE": {
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment\""
+        },
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT": {
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Hazard\""
+        },
+        "ID_EOR_EVENT_FRIENDLY_DAMAGE": {
+          "Note": "Friendly Damage could be the cause by mines"
+        },
+        "ID_EOR_REWARDS": {
+          "Note": "Title"
+        },
+        "ID_EOR_UNLOAD_AND_CONTINUE_BUTTON": {
+          "Note": "Button in EOR for unloading backpack and continue to the progression beats"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_FALLING": {
+          "Note": "Players can receive damage from falling"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_FALLING_ALT": {
+          "Note": "Players can receive damage from falling"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_LIGHTNING": {
+          "Note": "Players can receive damage from lightning"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_TOXIC_SWAMP": {
+          "Note": "Players can receive damage from the toxic swamp"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_MINES": {
+          "Note": "Players can receive damage from mines"
+        },
+        "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT2": {
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Damage\""
+        },
+        "ID_EOR_CRED_XP_BASED_BONUS": {
+          "Note": "Explanatory text showing that you get Creds through XP also"
+        },
+        "ID_EOR_CRED_ROUND_TOTAL": {
+          "Note": "Label for the actual amount of creds you've earned in a round, accounting for the cred cap if reached"
+        },
+        "ID_EOR_CRED_WALLET": {
+          "Note": "Label above the numbers that show the current state of your Cred"
+        },
+        "ID_EOR_CRED_PARTIAL_CREDS_NOTICE": {
+          "Note": "Explanatory text for why you haven't received the full extent of Creds you might have earned in a round"
+        },
+        "ID_EOR_CRED_NO_CREDS_NOTICE": {
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+        },
+        "ID_EOR_ROUND_HEADER_EVENTPROGRESSION": {
+          "Note": "Header for EoR step"
+        },
+        "ID_EOR_ROUND_HEADER_WINTEREVENT": {
+          "Note": "Subheader for EoR step"
+        }
+      }
+    }
+  }
+]

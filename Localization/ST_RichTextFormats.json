@@ -1,0 +1,45 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_RichTextFormats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_RichTextFormats",
+    "StringTable": {
+      "TableNamespace": "ST_RichTextFormats",
+      "KeysToEntries": {
+        "ID_RICHTEXTFORMAT_CURRENCY_PREFIX_TEMPLATE": "<img id=\"Currency32Inverted\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_INVITE_TO_PARTY": "<img id=\"Social_Invite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_MUTE": "<img id=\"Social_Mute\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_UNMUTE": "<img id=\"Social_Unmute\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_JOIN_VOIP": "<img id=\"Social_Unmute\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_LEAVE_VOIP": "<img id=\"Social_Mute\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_ACCEPT_PARTY_INVITE": "<img id=\"Social_AcceptInvite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_DECLINE_PARTY_INVITE": "<img id=\"Social_DeclineInvite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SEND_FRIEND_REQUEST": "<img id=\"Social_SendFriendRequest\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_CANCEL_FRIEND_REQUEST": "<img id=\"Social_DeclineInvite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_REMOVE_FRIEND": "<img id=\"Social_Remove\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_ACCEPT_FRIEND_INVITE": "<img id=\"Social_AcceptInvite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_DECLINE_FRIEND_INVITE": "<img id=\"Social_DeclineInvite\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_LEAVE_PARTY": "<img id=\"Social_LeaveParty\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_BLOCK_PLAYER": "<img id=\"Social_Block\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_REPORT_PLAYER": "<img id=\"Social_Report\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_KICK_FROM_PARTY": "<img id=\"Social_Kick\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_PLAYSTATION": "<img id=\"Social_ShowPlatformProfilePlaystation\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_CHANGE_NAME": "<img id=\"Social_ChangeName\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_COPY_NAME": "<img id=\"Social_CopyName\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_XBOX": "<img id=\"Social_ShowPlatformProfileXbox\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_STEAM": "<img id=\"Social_ShowPlatformProfileSteam\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_FALLBACK": "<img id=\"Social_ShowPlatformProfileFallback\"/> {0}",
+        "ID_RICHTEXTFORMAT_CLAN_REMOVEROLE": "<img id=\"Clan_Remove_Role\"/> {0}",
+        "ID_RICHTEXTFORMAT_CLAN_ASSIGNROLE": "<img id=\"Clan_Assign_Role\"/> {0}",
+        "ID_RICHTEXTFORMAT_CLAN_REMOVEMEBER": "<img id=\"Clan_Remove_Member\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_DISCRIMINATOR": "<img id=\"Social_ShowDiscriminator\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_HIDE_DISCRIMINATOR": "<img id=\"Social_HideDiscriminator\"/> {0}",
+        "ID_RICHTEXTFORMAT_LIVEEVENT_POINTS": "<img id=\"LiveEvent_Points\"/> {0}",
+        "ID_RICHTEXTFORMAT_SOCIAL_JOIN_OPEN_PARTY": "<img id=\"Social_JoinOpenParty\"/> {0}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

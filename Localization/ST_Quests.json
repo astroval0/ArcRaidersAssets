@@ -1,0 +1,64 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Quests",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Quests",
+    "StringTable": {
+      "TableNamespace": "ST_Quests",
+      "KeysToEntries": {
+        "ID_QUESTS_OBJECTIVES": "Objectives",
+        "ID_QUESTS_GRANTED_ITEMS": "Granted Items",
+        "ID_QUESTS_REWARDS": "Rewards",
+        "ID_QUESTS": "Quests",
+        "ID_QUESTS_NO_QUESTS": "You don't have any available quests.",
+        "ID_QUESTS_NO_NEW_QUESTS": "You don't have any new quests.",
+        "ID_QUESTS_NEW_QUESTS": "New Quests",
+        "ID_QUESTS_CLAIMABLE": "Claimable",
+        "ID_QUESTS_NO_TRACKED_QUESTS": "You don't have any quests at the moment.",
+        "ID_QUESTS_TO_QUESTS": "To Quests",
+        "ID_QUESTS_IN_ONE_MISSION": "In One Round",
+        "ID_QUESTS_IN_PROGRESS": "In Progress",
+        "ID_QUESTS_NEW_QUEST": "New Quest",
+        "ID_QUESTS_GO_TO_CLAIM": "Go To Claim",
+        "ID_QUESTS_COMPLETE": "Complete",
+        "ID_QUESTS_BACK_TO_QUESTS": "Back to Quests",
+        "ID_QUESTS_TO_CLAIM": "To Claim",
+        "ID_QUESTS_CLAIM": "Claim",
+        "ID_QUESTS_ACCEPT": "Accept",
+        "ID_QUESTS_COMPLETED": "Completed",
+        "ID_QUESTS_DAILY": "Daily Quest",
+        "ID_QUESTS_WEEKLY": "Weekly Quest",
+        "ID_QUESTS_MILESTONE": "Milestone Quest",
+        "ID_QUESTS_BACK_TO_TRADES": "Back to Trades",
+        "ID_QUESTS_LABEL_OPTIONAL_OBJECTIVE": "Optional",
+        "ID_QUESTS_GO_TO_QUEST": "Go to Quest",
+        "ID_QUESTS_GO_TO_TRADER": "Go to Trader",
+        "ID_QUESTS_NEXT_QUEST": "Next Quest",
+        "ID_QUESTS_MORE_QUESTS": "{0} more",
+        "ID_QUESTS_OPTIONAL": "Optional",
+        "ID_QUESTS_OPTIONAL_ALT": "(Optional)",
+        "ID_QUESTS_OPTIONAL_AND_QUEST": "(Optional) {0}",
+        "ID_QUESTS_OPTIONAL_ABBREVIATION": "OPT"
+      },
+      "KeysToMetaData": {
+        "ID_QUESTS_MORE_QUESTS": {
+          "Note": "Lets the player know there are more quests avaialble/active than the 3 shown on the widget in the Cantina"
+        },
+        "ID_QUESTS_OPTIONAL": {
+          "Note": "String used to describe a optional quest objective"
+        },
+        "ID_QUESTS_OPTIONAL_ALT": {
+          "Note": "String used to describe a optional quest objective"
+        },
+        "ID_QUESTS_OPTIONAL_AND_QUEST": {
+          "Note": "String used to describe a optional quest objective, next to a quest objective"
+        },
+        "ID_QUESTS_OPTIONAL_ABBREVIATION": {
+          "Note": "Abbreviation used to describe a optional quest objective"
+        }
+      }
+    }
+  }
+]

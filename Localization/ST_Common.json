@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Common",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Common",
+    "StringTable": {
+      "TableNamespace": "ST_Common",
+      "KeysToEntries": {
+        "ID_COMMON_CANCEL": "Cancel",
+        "ID_COMMON_WARNING": "Warning",
+        "ID_COMMON_UNKNOWN": "Unknown",
+        "ID_COMMON_DONE": "Done",
+        "ID_COMMON_UNKNOWN_SHORT": "???",
+        "ID_COMMON_QUESTIONMARK": "?",
+        "ID_COMMON_N_A": "N/A",
+        "ID_COMMON_OK": "OK",
+        "ID_COMMON_NEWLINE": "\\n",
+        "ID_COMMON_COLON_TEMPLATE": "{0}:",
+        "ID_COMMON_CONTINUE": "Continue",
+        "ID_COMMON_CUSTOMER_SERVICE": "Customer Support",
+        "ID_COMMON_APPLY": "Apply",
+        "ID_COMMON_BACK": "Back",
+        "ID_COMMON_PATH_SEPARATOR": "/",
+        "ID_COMMON_PLUS_SIGN": "+",
+        "ID_COMMON_SKIP": "Skip",
+        "ID_COMMON_SUPPORT": "Support",
+        "ID_COMMON_ARROW_RIGHT": "→",
+        "ID_COMMON_YES": "Yes",
+        "ID_COMMON_NO": "No",
+        "ID_COMMON_DEPRECATED_DATA": "Deprecated Data"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

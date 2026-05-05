@@ -1,0 +1,23 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Trades",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Trades",
+    "StringTable": {
+      "TableNamespace": "ST_Trades",
+      "KeysToEntries": {
+        "ID_TRADES_TITLE_LIMITED_OFFERS": "Limited offers",
+        "ID_TRADES_TITLE_ALWAYS_AVAILABLE": "Permanent offers",
+        "ID_TRADES_MESSAGE_LIMITED_STOCK": "Limited supply",
+        "ID_TRADES_MESSAGE_AVAILABLE_STOCK": "Limited supply: {0} left",
+        "ID_TRADES_MESSAGE_EMPTY_STOCK": "None left",
+        "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT2": "All gone",
+        "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT3": "Supply depleted",
+        "ID_TRADES_TITLE_TIMER_INFO": "Restocks in:"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

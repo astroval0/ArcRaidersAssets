@@ -1,0 +1,38 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Customization_RaiderToolSkins",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Customization_RaiderToolSkins",
+    "StringTable": {
+      "TableNamespace": "ST_Customization_RaiderToolSkins",
+      "KeysToEntries": {
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICK": "Hockey Stick",
+        "ID_RAIDERTOOLCOSMETIC_CLIMBINGAXE": "Climbing Axe",
+        "ID_RAIDERTOOLCOSMETIC_RITUALSTAFF": "Ritual Staff",
+        "ID_RAIDERTOOLCOSMETIC_BOATHOOK": "Boat Hook",
+        "ID_RAIDERTOOLCOSMETIC_SLEDGEHAMMER": "Sledgehammer",
+        "ID_RAIDERTOOLCOSMETIC_HIKINGSTICK": "Hiking Stick",
+        "ID_RAIDERTOOLCOSMETIC_SHOVEL": "Shovel",
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICKAXE": "Frostcleaver",
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICKAXEOPTION2": "Icebreaker",
+        "ID_RAIDERTOOLCOSMETIC_SHARKTOOTHCLUB": "Sharktooth Club",
+        "ID_RAIDERTOOLCOSMETIC_RESCUESHOVEL": "Rescue Shovel",
+        "ID_RAIDERTOOLCOSMETIC_SPACEWRENCH": "Space Wrench",
+        "ID_RAIDERTOOLCOSMETIC_PIPEWRENCH": "Pipe Wrench",
+        "ID_RAIDERTOOLCOSMETIC_RAIDERTOOL_ITEMCATEGORY": "Raider Tool",
+        "ID_RAIDERTOOLCOSMETIC_SNOWRESCUETOOL": "Snowy Mountain Pick",
+        "ID_RAIDERTOOLCOSMETIC_GILDEDPICKAXE": "Gilded Pickaxe",
+        "ID_RAIDERTOOLCOSMETIC_SPYGLASSSTAFF": "Spyglass Staff",
+        "ID_RAIDERTOOLCOSMETIC_THRUSTERHAMMER": "Thruster Hammer",
+        "ID_RAIDERTOOLCOSMETIC_WHALER": "Whaler"
+      },
+      "KeysToMetaData": {
+        "ID_RAIDERTOOLCOSMETIC_RAIDERTOOL_ITEMCATEGORY": {
+          "Note": "Category for the right panel on the raider tool customization page"
+        }
+      }
+    }
+  }
+]

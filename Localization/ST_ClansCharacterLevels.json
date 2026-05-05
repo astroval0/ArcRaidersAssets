@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClansCharacterLevels",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClansCharacterLevels",
+    "StringTable": {
+      "TableNamespace": "ST_ClansCharacterLevels",
+      "KeysToEntries": {
+        "ID_CLAN_CHARACTER_LEVELS_ANY": "Any",
+        "ID_CLAN_CHARACTER_LEVELS_10": "0 - 10",
+        "ID_CLAN_CHARACTER_LEVELS_20": "10 - 20",
+        "ID_CLAN_CHARACTER_LEVELS_30": "20 - 30"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

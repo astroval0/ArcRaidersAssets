@@ -1,0 +1,42 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Snackbar",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Snackbar",
+    "StringTable": {
+      "TableNamespace": "ST_Snackbar",
+      "KeysToEntries": {
+        "ID_SNACKBAR_ITEM_CRAFTED": "Crafted",
+        "ID_SNACKBAR_TRACKED_RECIPE": "Tracked Blueprint",
+        "ID_SNACKBAR_TRACKED_QUEST": "Quest Entry",
+        "ID_SNACKBAR_ITEM_PURCHASED": "Purchased",
+        "ID_SNACKBAR_ITEM_SOLD": "Sold",
+        "ID_SNACKBAR_RESOURCE_ADDED": "Resource added",
+        "ID_SNACKBAR_ADDED_TITLE": "Added",
+        "ID_SNACKBAR_DESCRIPTION_MULTIPLE": "Multiple Resources",
+        "ID_SNACKBAR_CODEX_TITLE": "Codex",
+        "ID_SNACKBAR_CODEX_MULTIPLE_ENTRIES": "{0} Unlocked Codex Entries",
+        "ID_SNACKBAR_BLUEPRINT_REQUIRES_BENCH_LEVEL": "Requires {0}",
+        "ID_SNACKBAR_BLUEPRINT_MISSING_BENCH": "{0} not installed",
+        "ID_SNACKBAR_UPGRADED": "Upgraded",
+        "ID_SNACKBAR_WEAPON_UPGRADED": "Weapon Upgraded"
+      },
+      "KeysToMetaData": {
+        "ID_SNACKBAR_ADDED_TITLE": {
+          "Note": "Used in snackbar to confirm that items have been added"
+        },
+        "ID_SNACKBAR_DESCRIPTION_MULTIPLE": {
+          "Note": "Used in snackbar to confirm that multiple items have been added"
+        },
+        "ID_SNACKBAR_UPGRADED": {
+          "Note": "Mentioned as feedback after a action has been made"
+        },
+        "ID_SNACKBAR_WEAPON_UPGRADED": {
+          "Note": "Mentioned as feedback after a action has been made"
+        }
+      }
+    }
+  }
+]

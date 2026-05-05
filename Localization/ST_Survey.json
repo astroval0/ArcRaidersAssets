@@ -1,0 +1,19 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Survey",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Survey",
+    "StringTable": {
+      "TableNamespace": "ST_Survey",
+      "KeysToEntries": {
+        "ID_SURVEY_SUBMIT_YOUR_ANSWER": "Submit your Answer",
+        "ID_SURVEY_THANK_YOU_FOR_PARTICIPATING": "Thank you for participating!",
+        "ID_SURVEY_OTHER": "Other",
+        "ID_SURVEY_ROUND_FEEDBACK_BUTTON": "Round feedback"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

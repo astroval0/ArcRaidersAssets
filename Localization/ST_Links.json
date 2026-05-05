@@ -1,0 +1,30 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Links",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Links",
+    "StringTable": {
+      "TableNamespace": "ST_Links",
+      "KeysToEntries": {
+        "ID_LINKS_TERMS_OF_SERVICE": "https://m.nexon.com/terms/825",
+        "ID_LINKS_BETA_TERMS_OF_SERVICE": "https://www.embark-studios.com/tt1tos",
+        "ID_LINKS_SUPPORT": "https://id.embark.games/arc-raiders/support",
+        "ID_LINKS_DISCORD": "https://www.discord.gg/arcraiders",
+        "ID_LINKS_EMBARK_ID_LINK_USER_FRIENDLY": "link.embark.games",
+        "ID_LINKS_EMBARK_ID": "https://id.embark.games",
+        "ID_LINKS_EMBARK_ID_LINK": "https://link.embark.games",
+        "ID_LINKS_EMBARK_ID_LINK_PREFILLED": "https://link.embark.games?code={0}",
+        "ID_LINKS_PRIVACY_POLICY": "https://m.nexon.com/terms/831",
+        "ID_LINKS_REPORT_BUG": "https://forms.gle/4ttWMYYq1gPrAtSo9",
+        "ID_LINKS_INVITE_FRIENDS": "https://id.embark.games/id/arc-raiders/playtest-with-friends",
+        "ID_LINKS_MANAGE_YOUR_EMBARK_ID": "Manage your Embark ID",
+        "ID_LINKS_GO_TO_PORTAL": "Go to Portal",
+        "ID_LINKS_VOIP_TROUBLESHOOT": "https://id.embark.games/arc-raiders/support/faq/156-troubleshooting-voice-chat---pc",
+        "ID_LINKS_VOIP_TROUBLESHOOT_CONSOLE": "https://id.embark.games/arc-raiders/support/faq/176-troubleshooting-voice-chat---console"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

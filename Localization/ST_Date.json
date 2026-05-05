@@ -1,0 +1,44 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Date",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Date",
+    "StringTable": {
+      "TableNamespace": "ST_Date",
+      "KeysToEntries": {
+        "ID_DATE_JANUARY": "January",
+        "ID_DATE_FEBRUARY": "February",
+        "ID_DATE_MARCH": "March",
+        "ID_DATE_APRIL": "April",
+        "ID_DATE_MAY": "May",
+        "ID_DATE_JUNE": "June",
+        "ID_DATE_JULY": "July",
+        "ID_DATE_AUGUST": "August",
+        "ID_DATE_SEPTEMBER": "September",
+        "ID_DATE_OCTOBER": "October",
+        "ID_DATE_NOVEMBER": "November",
+        "ID_DATE_DECEMBER": "December",
+        "ID_DATE_JANUARY_SHORT": "Jan",
+        "ID_DATE_FEBRUARY_SHORT": "Feb",
+        "ID_DATE_MARCH_SHORT": "Mar",
+        "ID_DATE_APRIL_SHORT": "Apr",
+        "ID_DATE_MAY_SHORT": "May",
+        "ID_DATE_JUNE_SHORT": "Jun",
+        "ID_DATE_JULY_SHORT": "Jul",
+        "ID_DATE_AUGUST_SHORT": "Aug",
+        "ID_DATE_SEPTEMBER_SHORT": "Sep",
+        "ID_DATE_OCTOBER_SHORT": "Oct",
+        "ID_DATE_NOVEMBER_SHORT": "Nov",
+        "ID_DATE_DECEMBER_SHORT": "Dec",
+        "ID_DATE_DAY": "Day",
+        "ID_DATE_MONTH": "Month",
+        "ID_DATE_YEAR": "Year",
+        "ID_DATE_YEAR_TEMPLATE": "{0}",
+        "ID_DATE_DAY_TEMPLATE": "{0}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

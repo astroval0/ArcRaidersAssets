@@ -1,0 +1,43 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_RaiderDen",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_RaiderDen",
+    "StringTable": {
+      "TableNamespace": "ST_RaiderDen",
+      "KeysToEntries": {
+        "ID_RAIDERDEN_FURNITURE_INSTALLING": "Refurnishing...",
+        "ID_RAIDERDEN_FURNITURE_INSTALLED": "Refurnished",
+        "ID_RAIDERDEN_FURNITURE_BED": "Bed",
+        "ID_RAIDERDEN_FURNITURE_STASH": "Stash",
+        "ID_RAIDERDEN_FURNITURE_WARDROBE": "Wardrobe",
+        "ID_RAIDERDEN_FURNITURE_WEAPONDISPLAY": "Weapon Display",
+        "ID_RAIDERDEN_FURNITURE_SHELVES": "Shelves",
+        "ID_RAIDERDEN_BUTTON_APPEARANCE": "Appearance",
+        "ID_RAIDERDEN_BUTTON_APPEARANCE_ALT2": "Change appearance",
+        "ID_RAIDERDEN_BUTTON_APPEARANCE_ALT3": "Raider Appearance",
+        "ID_RAIDERDEN_MESSAGE_RAIDERDEN_UPGRADE": "Will improve the appearance of your Raider Den.",
+        "ID_RAIDERDEN_MESSAGE_RAIDERDEN_UPGRADE_ALT2": "Upgrade your stash to gain stash space, allowing you to collect and store more items. This may also improve the appearance your Raider Den."
+      },
+      "KeysToMetaData": {
+        "ID_RAIDERDEN_BUTTON_APPEARANCE": {
+          "Note": "Name of button in the Raider Den where the player can change their appearance"
+        },
+        "ID_RAIDERDEN_BUTTON_APPEARANCE_ALT2": {
+          "Note": "Name of button in the Raider Den where the player can change their appearance, alternative"
+        },
+        "ID_RAIDERDEN_BUTTON_APPEARANCE_ALT3": {
+          "Note": "Button to open the screen where you customize your raider"
+        },
+        "ID_RAIDERDEN_MESSAGE_RAIDERDEN_UPGRADE": {
+          "Note": "Message on the stash expansion modal to clarify that your raider den will visually update when you stash upgrade"
+        },
+        "ID_RAIDERDEN_MESSAGE_RAIDERDEN_UPGRADE_ALT2": {
+          "Note": "Message on the stash expansion modal to tell you that your raider den will update. Though it doesn't update every level, thus \"may\""
+        }
+      }
+    }
+  }
+]

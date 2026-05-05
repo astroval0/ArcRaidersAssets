@@ -1,0 +1,31 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_CardinalDirections",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_CardinalDirections",
+    "StringTable": {
+      "TableNamespace": "ST_CardinalDirections",
+      "KeysToEntries": {
+        "ID_NORTHWEST_SHORT": "NW",
+        "ID_NORTHEAST_SHORT": "NE",
+        "ID_SOUTH_SHORT": "S",
+        "ID_SOUTHEAST_SHORT": "SE",
+        "ID_SOUTHWEST_SHORT": "SW",
+        "ID_WEST_SHORT": "W",
+        "ID_NORTH": "north",
+        "ID_NORTHWEST": "northwest",
+        "ID_EAST": "east",
+        "ID_SOUTHEAST": "southeast",
+        "ID_SOUTH": "south",
+        "ID_SOUTHWEST": "southwest",
+        "ID_WEST": "west",
+        "ID_NORTHEAST": "northeast",
+        "ID_EAST_SHORT": "E",
+        "ID_NORTH_SHORT": "N"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_VOIP",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_VOIP",
+    "StringTable": {
+      "TableNamespace": "ST_VOIP",
+      "KeysToEntries": {
+        "ID_VOIP_GLOBAL": "All Raiders",
+        "ID_VOIP_SQUAD_ONLY": "Squad Only",
+        "ID_VOIP_TOGGLE_VOICE": "Ping Heard By:",
+        "ID_VOIP_RAIDERS_IN_PROXIMITY": "In Proximity",
+        "ID_VOIP_RAIDERS_IN_PROXIMITY_DESCRIPTION": "Interactions with players",
+        "ID_VOIP_SEE_MORE": "See More",
+        "ID_VOIP_STATUS_SPEAKING": "Speaking",
+        "ID_VOIP_INTERACTION": "Voice in Squad",
+        "ID_VOIP_STATUS_MUTED": "Muted",
+        "ID_VOIP_MODERATION_OPTION": "Enable Voice Moderation",
+        "ID_VOIP_MODERATION_OPTION_DESC": "Voice Moderation is an online safety tool for the purpose of preventing harmful behavior. \r\n \r\n**Recording Consent**\r\n \r\nOnce you’ve consented, moderation runs whenever Voice Chat or Proximity Chat is on.\r\n \r\nSelect \"No\" to withdraw your consent, disable Voice & Proximity Chat and stop any moderation.\r\n \r\n**You must enable Voice Moderation in order to use Voice Chat.**",
+        "ID_VOIP_OPTION_DESC": "Voice Chat is a tool for speaking with other raiders in Speranza, and Topside, if you have a microphone, or to simply listen in if you don't have one.\r\n \r\n**You must enable Voice Moderation in order to use Voice Chat.**",
+        "ID_VOIP_MODERATION_NOTIFICATION": "Consent To Voice Recording?",
+        "ID_VOIP_MODERATION_NOTIFICATION_BODY": "We are implementing a new Voice Moderation system with the goal of providing a safe and a fun environment for all Raiders.\r\n \r\nOur system may create recordings of snippets of your Voice Chat and Proximity Chat conversations if it detects potentially harmful behavior. We therefore need your consent if you want to enable Voice Chat or Proximity Chat. Recordings will be temporarily stored until reviewed and not used outside of moderation purpose.\r\n \r\n**Recording Consent**\r\n \r\nWhen Voice Chat is enabled in ARC RAIDERS, your voice activity may be captured and processed by Embark Studios for the purpose of preventing harmful behavior and significant violations of our Code of Conduct in our [Terms of Service and End User License Agreement](https://id.embark.games/arc-raiders/support/faq/126-terms-of-service-and-end-user-license-agreement).\r\n \r\nIf our systems identify potentially harmful activity, a snippet of your conversation may be recorded and temporarily stored for review and validation by our community team.\r\n \r\nIf you do not consent to the processing of your data for this purpose, you can always continue to play ARC RAIDERS with Voice Chat, and Proximity Chat, disabled. You can withdraw your consent at any time in the settings.\r\n \r\nLearn more about Voice Moderation in ARC RAIDERS in our [FAQ](https://id.embark.games/arc-raiders/support/faq/130-voice-chat-moderation) and see our [Privacy Policy.](https://id.embark.games/arc-raiders/support/faq/128-privacy-policy)",
+        "ID_VOIP_MODERATION_NOTIFICATION_CONFIRM": "Yes",
+        "ID_VOIP_MODERATION_NOTIFICATION_CANCEL": "No",
+        "ID_VOIP_MODERATION_SANCTION_TEMP": "You have been banned from speaking on voice chat for {0} {0}|plural(one=hour, few=hours, many=hours, other=hours).",
+        "ID_VOIP_MODERATION_SANCTION_PERMANENT": "You have been permanently banned from speaking on voice chat.",
+        "ID_VOIP_ERROR_DEFAULT": "We are currently having issues with voice chat, and are working on resolving them. Please try again later.",
+        "ID_VOIP_ERROR_DEFAULT_SHORT": "Voice chat issues. Try again later",
+        "ID_VOIP_ERROR_INPUT": "Something went wrong while trying to capture your microphone. Please follow the troubleshooting guide or contact support if the issue persists.",
+        "ID_VOIP_ERROR_INPUT_SHORT": "Failed to detect microphone",
+        "ID_VOIP_ERROR_OUTPUT": "Something went wrong while trying to use your output device. Please follow the troubleshooting guide or contact support if the issue persists.",
+        "ID_VOIP_ERROR_OUTPUT_SHORT": "Failed to detect output device",
+        "ID_VOIP_TROUBLESHOOT_OPTION": "Troubleshoot",
+        "ID_VOIP_TROUBLESHOOT_ACTION": "Help",
+        "ID_VOIP_ERROR_TITLE": "Voice Chat Error",
+        "ID_VOIP_MIC_TEST_OPTION": "Microphone Test",
+        "ID_VOIP_MIC_TEST_CANCEL": "Stop Test",
+        "ID_VOIP_MIC_TEST_DESCRIPTION": "We'll play your voice back to you. \r\n\r\nIf the indicator bar fills up, your microphone works correctly.\r\n\r\nYou can't communicate with other Raiders while doing the test.",
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION": "Enable Noise Suppression",
+        "ID_VOIP_NOISE_SUPPRESSION_DESCRIPTION": "Noise Suppression should be enabled when playing in environments with significant background noise.",
+        "ID_VOIP_TROUBLESHOOT_TROUBLESHOOT_AUDIO": "Troubleshoot audio",
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_TITLE": "ARC Raiders would like to access your microphone",
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_BODY": "To use your microphone in ARC Raiders, please enable **\"Let desktop apps access your microphone\"** in your Windows Settings and confirm ARC Raiders is listed.",
+        "ID_VOIP_DISABLE": "Disable Voice Chat",
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_CTA": "Open Windows Settings",
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_VERIFYING": "Verifying Access...",
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_DESCRIPTION": "Reduces any background noise from your mic. Can put extra strain on lower-end systems.",
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_DESCRIPTION_ALT1": "Reduces any background noise from your mic.",
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_TITLE": "Noise Suppression",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY": "To use your microphone in ARC Raiders, press **PS button** to open control center and then **\"Switch Voice Chats\"**.",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA": "Open System UI",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_ALT": "To use your microphone in ARC Raiders, please press the PS button and **\"Switch Voice Chats\"**, then confirm **\"Game Voice Chat\"** is active.",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT": "Microphone in use by system-based voice chat",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT_ALT": "Microphone in use by PlayStation system-based voice chat",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT_ALT2": "Microphone in use by system chat",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_OPEN_CONTROL_CENTER": "Open control center",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_CONTROL_CENTER": "control center",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_CONTROL_CENTER": "To use your microphone in ARC Raiders, open **control center** and press **\"Switch Voice Chats\"**.",
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_PS_BUTTON": "To use your microphone in ARC Raiders, press **PS button** and then **\"Switch Voice Chats\"**."
+      },
+      "KeysToMetaData": {
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_TITLE": {
+          "Note": "Title for the modal where the player gets prompted to enable access to their mic (when we detect that their system settings don't allow our game to access)"
+        },
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_BODY": {
+          "Note": "  \t\"Let desktop apps access your microphone\" is the name of the settings in Windows, so when this is translated it needs to be written as the name of the Windows settings screen in the translated language. Furthermore, the string is using Rich Text."
+        },
+        "ID_VOIP_DISABLE": {
+          "Note": "Secondary button allowing players to disable Voice Chat (thus don't need mic access)"
+        },
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_CTA": {
+          "Note": "Primary button bringing players to Windows System Settings to enable access to their mic in the game"
+        },
+        "ID_VOIP_WINDOWS_MIC_PRIVACY_VERIFYING": {
+          "Note": "Loading state on CTA button when the Windows Settings have been open outside the game."
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT": {
+          "Note": "system-based voice chat -- PS terminology under \"Voice Chat\""
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT_ALT": {
+          "Note": "PlayStation system-based voice chat -- PS terminology under \"Voice Chat\""
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_OPEN_CONTROL_CENTER": {
+          "Note": "control center -- PS terminology"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_CONTROL_CENTER": {
+          "Note": "control center -- PS terminology"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_CONTROL_CENTER": {
+          "Note": "control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY": {
+          "Note": "PS button -- PS terminology control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_PS_BUTTON": {
+          "Note": "PS button -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+        }
+      }
+    }
+  }
+]

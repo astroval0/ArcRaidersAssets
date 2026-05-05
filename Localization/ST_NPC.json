@@ -1,0 +1,33 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_NPC",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_NPC",
+    "StringTable": {
+      "TableNamespace": "ST_NPC",
+      "KeysToEntries": {
+        "ID_JUANITO_LOCATION": "Placeholder Location",
+        "ID_JUANITO_NAME": "Juanito",
+        "ID_JUANITO_DESCRIPTION": "Placeholder Description",
+        "NO_TRADES": "This trader has no trades at the moment.",
+        "ID_SHANI_DESCRIPTION": "Shani fights an uphill battle to keep Speranza safe. She could use a hand, but don't look at her sideways.",
+        "ID_SHANI_NAME": "Shani",
+        "ID_SHANI_LOCATION": "Security",
+        "ID_APOLLO_NAME": "Apollo",
+        "ID_APOLLO_LOCATION": "Grenades & Gadgets",
+        "ID_LANCE_NAME": "Lance",
+        "ID_LANCE_LOCATION": "Clinic",
+        "ID_CELESTE_DESCRIPTION": "A survivor of the First Wave, Celeste now tries to keep Speranza running smoothly. It's an entirely different challenge.",
+        "ID_CELESTE_NAME": "Celeste",
+        "ID_APOLLO_DESCRIPTION": "When he's not dealing in explosives, Apollo is an avid flute player, so pray he won't blow his fingers off.",
+        "ID_LANCE_DESCRIPTION": "Need health items? The only thing Lance can't cure is the common cold.",
+        "ID_TIANWEN_DESCRIPTION": "Some call Tian Wen the \"gun nut\", but that's just half the truth. She also has a supernatural knack for tech and construction.",
+        "ID_TIANWEN_NAME": "Tian Wen",
+        "ID_TIANWEN_LOCATION": "Gun Shop"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

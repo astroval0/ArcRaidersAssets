@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Chat_RichTextFormats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Chat_RichTextFormats",
+    "StringTable": {
+      "TableNamespace": "ST_Chat_RichTextFormats",
+      "KeysToEntries": {
+        "ID_RICHTEXTFORMAT_CHAT_PARTY": "<img id=\"Chat_Party\"/><color key=\"SecondaryMid\">[{0}]</> <color key=\"Primary\">{1}</>",
+        "ID_RICHTEXTFORMAT_CHAT_CLAN": "<img id=\"Chat_Clan\"/><color key=\"PioneerBrand4\">[{0}]</> <color key=\"Primary\">{1}</>",
+        "ID_RICHTEXTFORMAT_CHAT_FAILED_TO_SEND": "<color key=\"Negative\">{0} - {1}</>",
+        "ID_RICHTEXTFORMAT_CHAT_CHANNEL_CLAN": "<img id=\"Chat_Clan\"/><color key=\"PioneerBrand4\">[{0}]</>",
+        "ID_RICHTEXTFORMAT_CHAT_CHANNEL_PARTY": "<img id=\"Chat_Party\"/><color key=\"SecondaryMid\">[{0}]</>",
+        "ID_RICHTEXTFORMAT_CHAT_DESTINATION_PING": "<img id=\"Chat_Party\"/><color key=\"SecondaryMid\">[{0}] {1}: {2}</>"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

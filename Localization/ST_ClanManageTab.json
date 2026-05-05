@@ -1,0 +1,25 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ClanManageTab",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ClanManageTab",
+    "StringTable": {
+      "TableNamespace": "ST_ClanManageTab",
+      "KeysToEntries": {
+        "ID_CLAN_MANAGE_ROLES_CLEAR_ROLE": "Click to clear",
+        "ID_CLAN_MANAGE_ROLES_CHANGE_ROLE": "Click to change",
+        "ID_CLAN_MANAGE_ROLES_LEAVE_EMPTY": "Leave role empty",
+        "ID_CLAN_MANAGE_ROLES_MEMBER_SELECTION_DESCRIPTION": "Select a Clan member to fill this role",
+        "ID_CLAN_MANAGE_KICK_TITLE": "Kick member from Clan",
+        "ID_CLAN_MANAGE_KICK_DESCRIPTION": "Are you sure you want to kick {0} from the Clan?",
+        "ID_CLAN_MANAGE_ROLES_REMOVE_FROM_ROLE": "Remove from role",
+        "ID_CLAN_MANAGE_ROLES_ASSIGN_ON_ROLE": "Assign on role",
+        "ID_CLAN_MANAGE_ROLES_REMOVE_MEMBER": "Remove member",
+        "ID_CLAN_ROLES_ASSIGN": "Assign"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

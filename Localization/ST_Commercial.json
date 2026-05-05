@@ -1,0 +1,27 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Commercial",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Commercial",
+    "StringTable": {
+      "TableNamespace": "ST_Commercial",
+      "KeysToEntries": {
+        "ID_COMMERCIAL_INVITE_A_FRIEND": "Invite a friend",
+        "ID_COMMERCIAL_JOIN_DISCORD": "Join Discord",
+        "ID_COMMERCIAL_JOIN_THE_ALPHA": "Join the Alpha",
+        "ID_COMMERCIAL_JOIN_THE_BETA": "Join the Beta",
+        "ID_COMMERCIAL_TAKE_THE_SURVEY": "Take the survey",
+        "ID_COMMERCIAL_WISHLIST_NOW": "Wishlist now",
+        "ID_COMMERCIAL_PATCH_NOTES": "Patch Notes",
+        "ID_COMMERCIAL_EXTERNAL_LINK": "External Link",
+        "ID_COMMERCIAL_SCAN_WITH_MOBILE": "Scan with mobile device",
+        "ID_COMMERCIAL_OPEN_IN_BROWSER": "Open in browser",
+        "ID_COMMERCIAL_OR": "Or",
+        "ID_COMMERCIAL_INVITE_A_FRIEND_DESCRIPTION": "ARC Raiders is more fun with friends. Go to the Embark portal to invite two friends."
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

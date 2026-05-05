@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ArmorStats",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ArmorStats",
+    "StringTable": {
+      "TableNamespace": "ST_ArmorStats",
+      "KeysToEntries": {
+        "ID_ARMORSTATS_STAMINA_REGEN": "Stamina Regen",
+        "ID_ARMORSTATS_SPRINT_SPEED": "Sprint Speed",
+        "ID_ARMORSTATS_PLATE_MITIGATION": "Plate Mitigation",
+        "ID_ARMORSTATS_PLATE_HEALTH": "Plate Health",
+        "ID_ARMORSTATS_MAX_STAMINA": "Max Stamina",
+        "ID_ARMORSTATS_RUN_SPEED": "Run Speed"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

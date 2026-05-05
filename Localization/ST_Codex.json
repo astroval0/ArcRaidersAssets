@@ -1,0 +1,159 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Codex",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Codex",
+    "StringTable": {
+      "TableNamespace": "ST_Codex",
+      "KeysToEntries": {
+        "ID_CODEX_TITLE": "Codex",
+        "ID_CODEX_WORLDBOOK_TITLE": "World Book",
+        "ID_CODEX_RECORDS_TITLE": "Records",
+        "ID_CODEX_PLAYERSTATS_TITLE": "Player Stats",
+        "ID_CODEX_PLAYERSTATS_PINNED_STATS_TITLE": "Pinned Stats",
+        "ID_CODEX_PLAYERSTATS_ROUND_HISTORY_TITLE": "Round History",
+        "ID_CODEX_PLAYERSTATS_FILTER_ALL": "All",
+        "ID_CODEX_PLAYERSTATS_FILTER_COMBAT": "Combat",
+        "ID_CODEX_PLAYERSTATS_FILTER_PROGRESSION_AND_ECONOMY": "Progression & Economy",
+        "ID_CODEX_PLAYERSTATS_FILTER_EXPLORATION_AND_QUEST": "Exploration & Quests",
+        "ID_CODEX_PLAYERSTATS_FILTER_SOCIAL": "Social",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DESTROYED": "Number of {0} Destroyed",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DAMAGED": "Damage Dealt To {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_MOST_DESTROYED": "Most Destroyed ARC Enemy",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_TYPE_ENGAGED": "Times Engaged With {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DAMAGE_RECEIVED": "Damage Received From {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_NEMESIS": "ARC Most Often Downed By",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_DESTROY_ENGAGE_RATIO": "ARC You Have The Worst Destroy/Engage Ratio With",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_HUNTER": "ARC Parts Collected From {0} Returned With",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_TOTAL": "Total ARC Parts Destroyed",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_INDIVIDUAL": "{0} Parts Destroyed",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_SPECIFIC": "{0} Destroyed",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_TOTAL": "Total ARC Parts Disabled",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_INDIVIDUAL": "{0} Parts Disabled",
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_SPECIFIC": "{0} Disabled",
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_ARC_SURFING": "Time Traveled On Top Of Enemies",
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_CLOAKED": "Time Spent Cloaked From Enemies",
+        "ID_CODEX_PLAYERSTATS_STATS_PING_ARC": "Times ARC Pinged",
+        "ID_CODEX_PLAYERSTATS_STATS_PING_ARC_DANGER": "Times ARC Pinged With Danger Ping",
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_ESCAPED": "Times Escaped from {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_DAMAGE_DEALT": "Damage Dealt With {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_USED_TOTAL": "Items Used",
+        "ID_CODEX_PLAYERSTATS_STATS_CONSUMABLES_USED_TOTAL": "Consumables Used",
+        "ID_CODEX_PLAYERSTATS_STATS_CONSUMABLES_USED_SPECIFIC": "Times Used {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_DEPLOYABLES_USED_TOTAL": "Deployables Used",
+        "ID_CODEX_PLAYERSTATS_STATS_DEPLOYABLES_USED_SPECIFIC": "Times Used {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_THROWABLES_USED_TOTAL": "Throwable Used",
+        "ID_CODEX_PLAYERSTATS_STATS_THROWABLES_USED_SPECIFIC": "Times Used {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_GADGETS_USED_TOTAL": "Gadgets Used",
+        "ID_CODEX_PLAYERSTATS_STATS_GADGETS_USED_SPECIFIC": "Times Used {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_DAMAGE_DEALT": "Total Damage Dealt With Items",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_DAMAGE_DEALT_SPECIFIC": "Damage Dealt With {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_DOWNED": "Players Downed",
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_KNOCKOUTS": "Players Knocked Out",
+        "ID_CODEX_PLAYERSTATS_STATS_REVIVE_SQUAD": "Times Revived A Squadmate",
+        "ID_CODEX_PLAYERSTATS_STATS_REVIVE_STRANGER": "Times Revived A Stranger",
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_SELF": "Health Gained From Healing Self",
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_SQUAD": "Health Gained From Being Healed By A Squadmate",
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_STRANGER": "Health Gained From Being Healed By A Stranger",
+        "ID_CODEX_PLAYERSTATS_STATS_PLAYER_ENCOUNTERS": "Players Encountered",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_EQUIPPED": "Weapon Most Equipped In Loadout",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_FAVORITE_TYPE": "Favorite Weapon Type",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_USED": "Most Used Weapon",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_SHOTS_FIRED": "Shots Fired",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_EFFECTIVE": "Most Effective Gun",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_MOST_USED_OTHERS": "Item Most Used On Other Players",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_FAVORITE_FOOD": "Favorite Food",
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_LONGEST_KILLSHOT": "Farthest Takedown Shot Distance",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_MOBILITY_DISTANCE": "Distance Traveled With {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_BARRICADE_DAMAGE": "Damage Blocked With Barricade",
+        "ID_CODEX_PLAYERSTATS_STATS_TRAPS_SPRUNG": "Traps Sprung",
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_HATTRICK": "Times Downed An Entire Squad While Playing Solo",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_PLAYER_PICKUP": "Times A Dropped Item Was Picked Up By Another Player",
+        "ID_CODEX_PLAYERSTATS_STATS_QUESTS_COMPLETED": "Quests Completed",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_ACTIVITY_COMPLETED": "{0} Completed",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_AREAS_DISCOVERED": "Areas Discovered",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_NOTES_FOUND": "Notes Found",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_DISTANCE_TRAVELED": "Distance Traveled",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_HEIGHT_CLIMBED": "Record Meters Climbed In A Single Round",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_LONGEST_FALL": "Longest Fall Survived",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_SLIDE_TOTAL": "Total Length Slid",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_CONTAINERS_LOOTED": "Containers Looted",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_CONTAINERS_FAVORITE": "Favorite Container Type",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_FAVORITE": "Favorite Map",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_EXTRACTION_FAVORITE": "Most Used Return Point",
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_PRIO_AREA_FAVORITE": "Most Visited High-Value Loot Area",
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_TOPSIDE": "Total Time Spent Topside",
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_IN_GAME": "Total Game Time",
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_BENCHES": "Workshop Stations Constructed",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_CRAFTED": "Times Crafted {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_REPAIRED": "Times Repaired {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_SOLD": "Times Sold {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_EXRACTED_VALUE": "Total Value of Items Returned Safely With",
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_ITEM_FAVORITE": "Most Crafted Item",
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_BENCH_FAVORITE": "Most Used Bench",
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_SCRAPPY_VALUE": "Value Of Materials Received From Scrappy",
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_PROFITABLE": "Total Profit From Most Sold Item",
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_RATE": "Daily Return Rate",
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_ITEM_VALUE": "Daily Average Value Of Items Returned With",
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_INVESTMENT_RETURN": "Daily Gear/Loot Value Ratio",
+        "ID_CODEX_PLAYERSTATS_STATS_CURRENCY_EARNED_TOTAL": "Total Coins Earned",
+        "ID_CODEX_PLAYERSTATS_STATS_LOOT_VALUE_LOST_KNOCKOUT": "Highest Loot Value Lost Upon Knockout",
+        "ID_CODEX_PLAYERSTATS_STATS_TRADERS_FAVORITE": "Most Used Trader",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_FAVORITE_FRIEND": "Squadmate Played With The Most",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_THANKED": "Number Of Times Thanked",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_STRANGER_EXTRACTIONS": "Strangers Returned Safely With",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_INDIVIDUAL": "Times Used {0}",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_FAVORITE": "Most Used Emote",
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_DANCING_TIME": "Time Spent Dancing",
+        "ID_CODEX_PLAYERSTATS_STATS_PING_INDIVIDUAL": "Times Used {0} Ping",
+        "ID_CODEX_PLAYERSTATS_STATS_PING_FAVORITE": "Most Used Ping",
+        "ID_CODEX_NOTIFICATION_ENTRY_UNLOCKED": "World Book entry unlocked",
+        "ID_CODEX_NOTIFICATION_ENTRY_UNLOCKED_ALT1": "Codex entry unlocked",
+        "ID_CODEX_NOTIFICATION_ENTRY_UPDATED": "World Book entry updated",
+        "ID_CODEX_NOTIFICATION_ENTRY_UPDATED_ALT1": "Codex entry updated",
+        "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UNLOCKED": "{0} entry unlocked",
+        "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UPDATED": "{0} entry updated",
+        "ID_CODEX_PLAYERSTATS_STATS_TOTAL_DAMAGE": "Total Damage",
+        "ID_CODEX_PLAYERSTATS_STATS_RAIDERS_REVIVED": "Raiders Revived",
+        "ID_CODEX_GO_TO_CODEX": "Go to Codex",
+        "ID_CODEX_BACK_TO_CATEGORIES_ALT": "Back to World Book",
+        "ID_CODEX_BACK_TO_CATEGORIES": "Back to categories",
+        "ID_CODEX_PLAYERSTATS_STATS_EXPEDITIONS_COMPLETED": "Expeditions Completed"
+      },
+      "KeysToMetaData": {
+        "ID_CODEX_PLAYERSTATS_TITLE": {
+          "Note": "Stast passavily stored by the game"
+        },
+        "ID_CODEX_PLAYERSTATS_PINNED_STATS_TITLE": {
+          "Note": "Stats chosen by the player"
+        },
+        "ID_CODEX_PLAYERSTATS_ROUND_HISTORY_TITLE": {
+          "Note": "History played rounds"
+        },
+        "ID_CODEX_PLAYERSTATS_FILTER_ALL": {
+          "Note": "Category filter"
+        },
+        "ID_CODEX_PLAYERSTATS_FILTER_COMBAT": {
+          "Note": "Category filter"
+        },
+        "ID_CODEX_PLAYERSTATS_FILTER_PROGRESSION_AND_ECONOMY": {
+          "Note": "Category filter"
+        },
+        "ID_CODEX_PLAYERSTATS_FILTER_EXPLORATION_AND_QUEST": {
+          "Note": "Category filter"
+        },
+        "ID_CODEX_PLAYERSTATS_FILTER_SOCIAL": {
+          "Note": "Category filter"
+        },
+        "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UNLOCKED": {
+          "Note": "Lable for specifally Unlocking a category entry"
+        },
+        "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UPDATED": {
+          "Note": "Lable for specifally Updating a category entry"
+        }
+      }
+    }
+  }
+]

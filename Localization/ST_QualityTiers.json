@@ -1,0 +1,26 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_QualityTiers",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_QualityTiers",
+    "StringTable": {
+      "TableNamespace": "ST_QualityTiers",
+      "KeysToEntries": {
+        "ID_QUALITYTIER_T0": "Fragile",
+        "ID_QUALITYTIER_T1": "Basic",
+        "ID_QUALITYTIER_T2": "Sturdy",
+        "ID_QUALITYTIER_T3": "Unyielding",
+        "ID_QUALITYTIER_T4": "Superior",
+        "ID_QUALITYTIER_SUFFIX_01": "I",
+        "ID_QUALITYTIER_SUFFIX_02": "II",
+        "ID_QUALITYTIER_SUFFIX_03": "III",
+        "ID_QUALITYTIER_SUFFIX_04": "IV",
+        "ID_QUALITYTIER_SUFFIX_05": "V",
+        "ID_QUALITYTIER_FORMAT_NAME_WITH_TIER": "{0} {1}"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]

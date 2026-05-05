@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Augments_Effects",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Augments_Effects",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Augments_Effects",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_AUGMENTEFFECT_HEALTHREGEN1": "Health Regen",
+        "ID_ITEMNAMES_AUGMENTEFFECT_HEALTHREGEN2": "Health Regen++",
+        "ID_ITEMNAMES_AUGMENTEFFECT_QUICKDRAW": "Quickdraw",
+        "ID_ITEMNAMES_AUGMENTEFFECT_EMERGENCYSMOKE": "Emergency Smoke",
+        "ID_ITEMNAMES_AUGMENTEFFECT_ANTITICKFIELD": "Anti-Tick Field",
+        "ID_ITEMNAMES_AUGMENTEFFECT_MOBILEREPAIR": "Running Repair",
+        "ID_ITEMNAMES_AUGMENTEFFECT_REVIVALTOPUP": "Cloud of Renewal",
+        "ID_ITEMNAMES_AUGMENTEFFECT_EMERGENCYADDS": "Emergency Adrenaline",
+        "ID_ITEMNAMES_AUGMENTEFFECT_FULLBODYTOURNIQUET": "Emergency Tourniquet",
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDSHIELDRECHARGER": "Integrated Shield Recharger",
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDBINOCULARS": "Integrated Binoculars",
+        "ID_ITEMNAMES_AUGMENTEFFECT_AUTOLOADER": "Auto-Loader",
+        "ID_ITEMNAMES_AUGMENTEFFECT_XLSAFEPOCKET": "Unrestricted Safe Pocket",
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDDEFIB": "Integrated Defibrillator"
+      },
+      "KeysToMetaData": {}
+    }
+  }
+]
