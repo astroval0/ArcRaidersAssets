@@ -1,9 +1,9 @@
-### [ This is no longer maintained by Astroval ]
+### [ This is no longer maintained by AstroVal0 ]
  - Main contributors
 	- Silarious
 	- Teralix
 	
-Objects folder is all Astroval's work, for all uses of those assets please credit Astroval.
+Objects folder is all AstroVal0's work, for all uses of those assets please credit AstroVal0.
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
 
