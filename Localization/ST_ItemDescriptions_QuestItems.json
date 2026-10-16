@@ -47,9 +47,150 @@
         "ID_ITEMDESCRIPTIONS_QUESTITEMS_ITEM_USED_IN_QUEST": "Item used in quest",
         "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_IN_QUEST": "Used in quest",
         "ID_ITEMDESC_QUESTITEM_PRECISIONGIMBAL": "A particularly mesmerizing part, supposedly crucial to the construction of Exodus spaceships.",
-        "ID_ITEMDESC_QUESTITEM_MERCHANTBUSINESSCARD": "The scribbled writing on this business card almost obscures the logo of Marano's market."
+        "ID_ITEMDESC_QUESTITEM_MERCHANTBUSINESSCARD": "The scribbled writing on this business card almost obscures the logo of Marano's market.",
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_NOMADTECHITEM": "An odd find. Celeste would be very interested in this.",
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_COLLECTOR_CIRCUITRY": "A bundle of ARC circuitry, unfamiliar in both layout and design.",
+        "ID_ITEMDESC_QUESTITEM_CLEANDREAM_BLUEPRINT": "Detailed plans for assembling a functional purification system.",
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_ITEMS_USED_DURING_THE_QUEST_ENCRYPTIC_PRECIOUS_CARGO": "Items used during the Quest Encryptic/Precious Cargo",
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_BROKEN_COMPASS": "A broken compass, its needle fixed stubbornly in one direction. An odd choice of gift."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_QUESTITEM_ESPRESSOPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_FIRSTWAVECAMCORDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_FIRSTWAVECOMPASS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_FIRSTWAVERATIONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_SEEDPACKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_AIVASPATCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_ESRANALYZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_AIVASMEMENTOS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_CELESTESJOURNAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_ICECREAMCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_LIBRARYBOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_MEDICALRECORDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_NEWPLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_RAIDERFLAG": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_LIDARSCANNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_RARE_BOOKS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_QUEST_ITEM_FOR_SEWAGE_HUMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_MOISTURE_METER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_NUTRIENT_METER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_MOISTURE_PROBE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_EC_METER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_EC_METER_UNEXPECTED_INITIATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_MOISTURE_PROBE_UNEXPECTED_INITIATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_MOVIE_NIGHT_VHS_TAPES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_IN_QUEST_STABLE_HOUSING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_DUSTY_FILM_REEL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_QUEST_ITEM_USED_FOR_QUEST_DUST_ON_THE_WIRE": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_QUEST_ITEM_NEEDED_FOR_OUTSTANDING_BALANCE_PART_1": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_IN_QUEST_LAST_REPORT": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_AS_DELIVERY_ITEM_IN_QUEST_LAST_REPORT": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_AS_DELIVER_ITEM_IN_OFF_THE_RECORD": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_DODGERSNOTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_SCOUTPATROLNOTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_SECRETMEETINGNOTES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_OFFICIALSHUTDOWNDOCUMENTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_SEEDVAULTBOXKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_ITEM_USED_IN_QUEST": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_USED_IN_QUEST": {
+          "Status": "new"
+        },
+        "ID_ITEMDESC_QUESTITEM_PRECISIONGIMBAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_MERCHANTBUSINESSCARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_QUESTITEM_CLEANDREAM_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_NOMADTECHITEM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_COLLECTOR_CIRCUITRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_BROKEN_COMPASS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_QUESTITEMS_ITEMS_USED_DURING_THE_QUEST_ENCRYPTIC_PRECIOUS_CARGO": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

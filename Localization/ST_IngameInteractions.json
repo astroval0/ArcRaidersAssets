@@ -95,11 +95,330 @@
         "ID_INTERACTION_BREACH_FIRST_WAVE_CACHE": "Breach First Wave Cache",
         "ID_INGAMEINTERACTIONS_PRINT_CODE": "Print Code",
         "ID_INTERACTION_DIG": "Dig",
-        "ID_INTERACTION_WAVE": "Wave"
+        "ID_INTERACTION_WAVE": "Wave",
+        "ID_INGAMEINTERACTIONS_SQUEEZE": "Squeeze",
+        "ID_INTERACTION_REQUEST_MULTIPROBE": "Request Ballistic Gondola",
+        "ID_INTERACTION_REQUEST_MULTIPROBE_BLOCKED": "Transceiver in use",
+        "ID_INTERACTION_REQUEST_MULTIPROBE_ALT": "Request Gondola",
+        "ID_INGAMEINTERACTIONS_MOVE_OUT": "Move Out",
+        "ID_INTERACTION_PICKUP_NO_SPACE": "Pickup (No Space)",
+        "ID_INTERACTION_PICKUP_LOADOUT_FULL": "Pickup (Loadout Full)",
+        "ID_INTERACTION_EXIT_MULTIPROBE": "Exit Ballistic Gondola",
+        "ID_INTERACTION_EXIT_MULTIPROBE_ALT": "Exit Gondola",
+        "ID_INGAMEINTERACTIONS_LOCK_IN_PLACE": "Lock In Place",
+        "ID_INGAMEINTERACTIONS_BREACH_POWER_CORE": "Breach Power Core",
+        "ID_INGAMEINTERACTIONS_TETHERLAUNCHER_PRIMARY_ONE": "Launch Tether Anchor",
+        "ID_INGAMEINTERACTIONS_TETHERLAUNCHER_PRIMARY_TWO": "Designate Tether Target",
+        "ID_INTERACTION_DISRUPT": "Disrupt"
       },
       "KeysToMetaData": {
         "ID_INGAMEINTERACTIONS_PRESS_TO_TOGGLE_ZOOM_STRENGTH": {
-          "Note": "Hint for Zooming while using binoculars"
+          "Note": "Hint for Zooming while using binoculars",
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREACH": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_EXTRACT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CALL_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_ENGAGE_BRAKES": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CALL_METRO": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_KNOCK_OUT_AND_LOOT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_LOOT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_REVIVE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_SEARCH": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREAK_OPEN": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CARRY": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_DROP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_OPEN": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREACH_AND_SEARCH": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CLIMB": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_USE_ZIPLINE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_PICKUP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_CANNOT_PICKUP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_EQUIP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_ACTIVATE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_STABILIZE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_READ": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_FIGHT_OFF": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREACH_AND_SEARCH_RAIDER_CACHE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_SEARCH_RAIDER_CACHE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_HEAL_SELF": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_HEAL_OTHER": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_THROW": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_HOLD_TO_THROW": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_USE_ON_SELF": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_USE_ON_OTHER": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_REPAIR_OWN_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PLACE_FAR_ANCHOR": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_HOLD_TO_DEPLOY": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_DEPLOY": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PLANT": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_DISTRACT": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_DETONATE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_ZOOM": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_HEAL_OTHERS": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_SEARCH_PROBE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_BREACH_SEARCH_PROBE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_DELIVER": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_REQUEST_SUPPLY_DROP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_MOVABLEPLATFORM_CALL_DOWN": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_MOVABLEPLATFORM_MOVE_DOWN": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_MOVABLEPLATFORM_MOVE_UP": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST_AGAVE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_COLLECT_FERTILIZER": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_COLLECT_MOSS": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST_TORCH_GINGER": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREAK_OFF_RESIN": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST_MUSHROOMS": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREAK": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_COLLECT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_EXTRACT_ONBOARDING": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_INSERT_FUELCELL": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_KNOCK_OUT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_RETRIEVE_DATA": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_START_DOWNLOAD": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_PLAY": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_DISARM": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_USE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_INSERT": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PLACE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_ENTER_CODE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_AIM": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_ESTABLISH_CONNECTION": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST_GREAT_MULLEIN": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_REPAIR_OTHER_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_REPAIR_SQUADMATE_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PLACE_THERMAL_ROCK": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_COLLECT_THERMAL_ROCK": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PLACE_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_UNLOCK_OTHERSIDE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_HARVEST_CANDLEBERRIES": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_USE_BINOCULAR": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_USE_SNAPHOOK": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTION_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_BREACH_FIRST_WAVE_CACHE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_PRINT_CODE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_DIG": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_WAVE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_SQUEEZE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_REQUEST_MULTIPROBE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_INTERACTION_REQUEST_MULTIPROBE_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_REQUEST_MULTIPROBE_ALT": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_MOVE_OUT": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_PICKUP_NO_SPACE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_PICKUP_LOADOUT_FULL": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_EXIT_MULTIPROBE": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_EXIT_MULTIPROBE_ALT": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_LOCK_IN_PLACE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_BREACH_POWER_CORE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_TETHERLAUNCHER_PRIMARY_ONE": {
+          "Status": "approved"
+        },
+        "ID_INGAMEINTERACTIONS_TETHERLAUNCHER_PRIMARY_TWO": {
+          "Status": "approved"
+        },
+        "ID_INTERACTION_DISRUPT": {
+          "Status": "approved"
         }
       }
     }

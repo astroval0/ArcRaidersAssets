@@ -2,7 +2,7 @@
   {
     "Type": "StringTable",
     "Name": "ST_ItemNames_FirearmMods",
-    "Flags": "RF_Public | RF_Standalone | RF_WasLoaded | RF_LoadCompleted",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
     "Class": "UScriptClass'StringTable'",
     "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_FirearmMods",
     "StringTable": {
@@ -47,9 +47,142 @@
         "ID_ITEMNAMES_FIREARMMODS_HORIZONTAL_GRIP": "Horizontal Grip",
         "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_I": "Vertical Grip I",
         "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_II": "Vertical Grip II",
-        "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_III": "Vertical Grip III"
+        "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_III": "Vertical Grip III",
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_I": "Extended Barrel I",
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_II": "Extended Barrel II",
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_III": "Extended Barrel III"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_HEAVY_MAG_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_HEAVY_MAG_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_HEAVY_MAG_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_LIGHT_MAG_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_LIGHT_MAG_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_LIGHT_MAG_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_MEDIUM_MAG_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_MEDIUM_MAG_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_MEDIUM_MAG_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_SHOTGUN_MAG_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_SHOTGUN_MAG_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_SHOTGUN_MAG_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_MUZZLE_BRAKE_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_MUZZLE_BRAKE_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_MUZZLE_BRAKE_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_COMPENSATOR_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_COMPENSATOR_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_COMPENSATOR_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SILENCER_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SILENCER_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SILENCER_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SHOTGUN_CHOKE_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SHOTGUN_CHOKE_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SHOTGUN_CHOKE_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_SHOTGUN_SILENCER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_KINETIC_CONVERTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_LIGHTWEIGHT_STOCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_PADDED_STOCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_STABLE_STOCK_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_STABLE_STOCK_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_STABLE_STOCK_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_ANVIL_SPLITTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_ANGLED_GRIP_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_ANGLED_GRIP_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_ANGLED_GRIP_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_HORIZONTAL_GRIP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_VERTICAL_GRIP_III": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_I": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_II": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREARMMODS_EXTENDED_BARREL_III": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

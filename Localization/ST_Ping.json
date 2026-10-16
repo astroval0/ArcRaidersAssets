@@ -15,7 +15,7 @@
         "ID_PING_PLAYER": "Raider",
         "ID_PING_SCAVENGABLE_ENEMY_PART": "Scavengeable {0} Part",
         "ID_PING_LOCATION": "Location",
-        "ID_PING_EXTRACTION_POINT": "Extraction Point",
+        "ID_PING_EXTRACTION_POINT": "Return Point",
         "ID_PING_REMOVE": "Remove",
         "ID_PING_ACCEPT": "Accept",
         "ID_PING_REJECT": "Reject",
@@ -34,7 +34,84 @@
         "ID_PING_LAST_SEEN": "{0} spotted",
         "ID_PING_DEAD_PLAYER": "Knocked out Raider"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_PING_NEED_HEALING": {
+          "Status": "approved"
+        },
+        "ID_PING_WILL_HEAL": {
+          "Status": "approved"
+        },
+        "ID_PING_ATTACK_TARGET": {
+          "Status": "approved"
+        },
+        "ID_PING_NEED_AMMO": {
+          "Status": "approved"
+        },
+        "ID_PING_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_PING_SCAVENGABLE_ENEMY_PART": {
+          "Status": "approved"
+        },
+        "ID_PING_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_PING_EXTRACTION_POINT": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_PING_REMOVE": {
+          "Status": "approved"
+        },
+        "ID_PING_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_PING_REJECT": {
+          "Status": "approved"
+        },
+        "ID_PING_DIRECTION": {
+          "Status": "approved"
+        },
+        "ID_PING_ATTACK": {
+          "Status": "approved"
+        },
+        "ID_PING_DISTANCE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_PING_WATCHING": {
+          "Status": "approved"
+        },
+        "ID_PING_WARNING": {
+          "Status": "approved"
+        },
+        "ID_PING_SOMEONES_BEEN_HERE": {
+          "Status": "approved"
+        },
+        "ID_PING_REGROUP": {
+          "Status": "approved"
+        },
+        "ID_PING_LOOTING": {
+          "Status": "approved"
+        },
+        "ID_PING_AUDIO_HEARD": {
+          "Status": "approved"
+        },
+        "ID_PING_AVOID": {
+          "Status": "approved"
+        },
+        "ID_PING_DIBS": {
+          "Status": "approved"
+        },
+        "ID_PING_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_PING_LAST_SEEN": {
+          "Status": "approved"
+        },
+        "ID_PING_DEAD_PLAYER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

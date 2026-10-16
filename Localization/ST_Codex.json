@@ -120,38 +120,361 @@
         "ID_CODEX_GO_TO_CODEX": "Go to Codex",
         "ID_CODEX_BACK_TO_CATEGORIES_ALT": "Back to World Book",
         "ID_CODEX_BACK_TO_CATEGORIES": "Back to categories",
-        "ID_CODEX_PLAYERSTATS_STATS_EXPEDITIONS_COMPLETED": "Expeditions Completed"
+        "ID_CODEX_PLAYERSTATS_STATS_EXPEDITIONS_COMPLETED": "Expeditions Completed",
+        "ID_CODEX_COLLECTIONS_TITLE": "Collections"
       },
       "KeysToMetaData": {
         "ID_CODEX_PLAYERSTATS_TITLE": {
-          "Note": "Stast passavily stored by the game"
+          "Note": "Stast passavily stored by the game",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_PINNED_STATS_TITLE": {
-          "Note": "Stats chosen by the player"
+          "Note": "Stats chosen by the player",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_ROUND_HISTORY_TITLE": {
-          "Note": "History played rounds"
+          "Note": "History played rounds",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_FILTER_ALL": {
-          "Note": "Category filter"
+          "Note": "Category filter",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_FILTER_COMBAT": {
-          "Note": "Category filter"
+          "Note": "Category filter",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_FILTER_PROGRESSION_AND_ECONOMY": {
-          "Note": "Category filter"
+          "Note": "Category filter",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_FILTER_EXPLORATION_AND_QUEST": {
-          "Note": "Category filter"
+          "Note": "Category filter",
+          "Status": "approved"
         },
         "ID_CODEX_PLAYERSTATS_FILTER_SOCIAL": {
-          "Note": "Category filter"
+          "Note": "Category filter",
+          "Status": "approved"
         },
         "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UNLOCKED": {
-          "Note": "Lable for specifally Unlocking a category entry"
+          "Note": "Lable for specifally Unlocking a category entry",
+          "Status": "approved"
         },
         "ID_CODEX_NOTIFICATION_CATEGORY_ENTRY_UPDATED": {
-          "Note": "Lable for specifally Updating a category entry"
+          "Note": "Lable for specifally Updating a category entry",
+          "Status": "approved"
+        },
+        "ID_CODEX_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_WORLDBOOK_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DESTROYED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DAMAGED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_MOST_DESTROYED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_TYPE_ENGAGED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_DAMAGE_RECEIVED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_NEMESIS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_DESTROY_ENGAGE_RATIO": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_HUNTER": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_INDIVIDUAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DESTROYED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_INDIVIDUAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ARC_PARTS_DISABLED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_ARC_SURFING": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_CLOAKED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PING_ARC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PING_ARC_DANGER": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ENEMIES_ESCAPED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_DAMAGE_DEALT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_USED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CONSUMABLES_USED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CONSUMABLES_USED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_DEPLOYABLES_USED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_DEPLOYABLES_USED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_THROWABLES_USED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_THROWABLES_USED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_GADGETS_USED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_GADGETS_USED_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_DAMAGE_DEALT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_DAMAGE_DEALT_SPECIFIC": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_DOWNED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_KNOCKOUTS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_REVIVE_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_REVIVE_STRANGER": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_SELF": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_HEALING_STRANGER": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PLAYER_ENCOUNTERS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_EQUIPPED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_FAVORITE_TYPE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_USED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_SHOTS_FIRED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_MOST_EFFECTIVE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_MOST_USED_OTHERS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_FAVORITE_FOOD": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WEAPONS_LONGEST_KILLSHOT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_MOBILITY_DISTANCE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_BARRICADE_DAMAGE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TRAPS_SPRUNG": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PVP_HATTRICK": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_PLAYER_PICKUP": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_QUESTS_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_ACTIVITY_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_AREAS_DISCOVERED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_NOTES_FOUND": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_DISTANCE_TRAVELED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_HEIGHT_CLIMBED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_LONGEST_FALL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_SLIDE_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_CONTAINERS_LOOTED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_CONTAINERS_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_EXTRACTION_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_WORLD_MAP_PRIO_AREA_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_TOPSIDE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TIME_IN_GAME": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_BENCHES": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_CRAFTED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_REPAIRED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_SOLD": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_EXRACTED_VALUE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_ITEM_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_BENCH_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CRAFTING_SCRAPPY_VALUE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_ITEMS_PROFITABLE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_RATE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_ITEM_VALUE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_DAILY_EXTRACTION_INVESTMENT_RETURN": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_CURRENCY_EARNED_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_LOOT_VALUE_LOST_KNOCKOUT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TRADERS_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_FAVORITE_FRIEND": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_THANKED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_STRANGER_EXTRACTIONS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_INDIVIDUAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_SOCIAL_EMOTES_DANCING_TIME": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PING_INDIVIDUAL": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_PING_FAVORITE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_NOTIFICATION_ENTRY_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_NOTIFICATION_ENTRY_UNLOCKED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CODEX_NOTIFICATION_ENTRY_UPDATED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_NOTIFICATION_ENTRY_UPDATED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_TOTAL_DAMAGE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_RAIDERS_REVIVED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_GO_TO_CODEX": {
+          "Status": "approved"
+        },
+        "ID_CODEX_BACK_TO_CATEGORIES_ALT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_BACK_TO_CATEGORIES": {
+          "Status": "approved"
+        },
+        "ID_CODEX_PLAYERSTATS_STATS_EXPEDITIONS_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_CODEX_COLLECTIONS_TITLE": {
+          "Status": "approved"
         }
       }
     }

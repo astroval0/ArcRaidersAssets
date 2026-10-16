@@ -47,9 +47,131 @@
         "ID_XPSCOREACTIONS_KILL_ASSIST_RAIDER": "Knocked out Raider (assist)",
         "ID_XPSCORE_EXTRACT_LASTRAIDER": "Last Raider standing",
         "ID_XPSCORE_EXTRACT_LASTRAIDER_ALT1": "Returned as last Raider standing",
-        "ID_XPSCORE_DOWNED_RAIDER": "Downed Raider"
+        "ID_XPSCORE_DOWNED_RAIDER": "Downed Raider",
+        "ID_XPSCOREACTIONS_QUEST_OBJECTIVE": "Quest Objective"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_XPSCORE_BARON_SLAYER": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_QUEEN_SLAYER": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_SCRAP_ASSIST": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_ELITE_SCRAP_ASSIT": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_BARON_ASSIST": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_QUEEN_ASSIST": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_ACTIVATE_OUTPOST": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_ACTIVATE_RADAR": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_STUN_MINION": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_STUN_BOSS": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_HEAL_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_REVIVE_SQUAD_MATE": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_HEAL_OTHER_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_REVIVE_OTHER_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_MELEE_KILL": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_DOUBLE_KILL": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_TRIPLE_KILL": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_QUADRUPLE_KILL": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_LEGENDARY_CRAFTER": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_FIRST_CRAFT": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_SQUAD_SAVIOR": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_KILL": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_KILL_ASSIST": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_VICTORY": {
+          "Status": "new"
+        },
+        "ID_XPSCORE_DEFEAT": {
+          "Status": "new"
+        },
+        "ID_XPSCOREACTIONS_ROUNDS_PLAYED": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_NUMBER_OF_ROUNDS_PLAYED": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_TIME_ON_SURFACE": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_SCAVENGE": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_EXTRACT": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_EXPLORE": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_DAMAGE_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_DAMAGE_ARC": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_KILL_ARC": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_KILL_ASSIST_ARC": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_KILL_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_XPSCOREACTIONS_KILL_ASSIST_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_EXTRACT_LASTRAIDER": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_EXTRACT_LASTRAIDER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_XPSCORE_DOWNED_RAIDER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

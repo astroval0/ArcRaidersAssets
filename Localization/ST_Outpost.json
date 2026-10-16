@@ -1,0 +1,727 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Outpost",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Outpost",
+    "StringTable": {
+      "TableNamespace": "ST_Outpost",
+      "KeysToEntries": {
+        "ID_OUTPOST_TAB": "Outpost",
+        "ID_OUTPOST_ROOM_BASE": "Base Room",
+        "ID_OUTPOST_SLOT_INDEX": "Slot {0}",
+        "ID_OUTPOST_MODULE_A": "Signature Room",
+        "ID_OUTPOST_MODULE_B": "Panoramic Room",
+        "ID_OUTPOST_MODULE_C": "Timeless Room",
+        "ID_OUTPOST_MODULE_D": "Alpine Room",
+        "ID_OUTPOST_MODULE_E": "Chalet Room",
+        "ID_OUTPOST_MODULE_F": "Studious Room",
+        "ID_OUTPOST_MODULE_G": "Canopied Room",
+        "ID_OUTPOST_FREE_CAM": "Free Cam Mode",
+        "ID_OUTPOST_CHANGE_VIEW": "Change View",
+        "ID_OUTPOST_FURNITURE_COLLECTION_HEADER": "Designs",
+        "ID_OUTPOST_DISMANTLE_NOTIF_TITLE": "Dismantle",
+        "ID_OUTPOST_DISMANTLE_NOTIF_BODY": "Dismantle and receive these items in return:",
+        "ID_OUTPOST_FURNITURE_LEARNED_NOTIFICATION_HEADER": "Design learned",
+        "ID_OUTPOST_LEVEL_FORMAT": "Level {0}",
+        "ID_OUTPOST_EXPAND_TITLE": "Expand Outpost",
+        "ID_OUTPOST_MODULES": "Rooms",
+        "ID_OUTPOST_INSTALL_MODULE": "Install",
+        "ID_OUTPOST_CATALOGUE_BUTTON": "Catalogue",
+        "ID_OUTPOST_CATALOGUE_TAB_FURNITURE": "Furniture",
+        "ID_OUTPOST_CATALOGUE_TAB_STATIONS": "Stations",
+        "ID_OUTPOST_CATALOGUE_EMPTY": "Nothing available to buy here yet.",
+        "ID_OUTPOST_CATALOGUE_ERROR_NO_FREE_SLOT": "No free space in your Outpost",
+        "ID_OUTPOST_CATALOGUE_ERROR_PROCESSING": "Purchase in progress",
+        "ID_OUTPOST_CATALOGUE_ERROR_PURCHASE_FAILED": "Purchase failed",
+        "ID_OUTPOST_CATALOGUE_INSTALL_ITEM": "Install item",
+        "ID_OUTPOST_CATALOGUE_CONFIRM_BUILD": "Confirm & Build",
+        "ID_OUTPOST_COMPLETE_RESEARCH": "Research objective not completed",
+        "ID_OUTPOST_HOLD_LABEL": "On hold",
+        "ID_OUTPOST_CATALOGUE_ERROR_NO_SLOT_IN_VIEW": "No free or compatible slot available",
+        "ID_OUTPOST_ROOMS_INSTALLED": "Outpost Rooms Installed",
+        "ID_OUTPOST_CONTEXT_MENU_INSPECT": "Inspect",
+        "ID_OUTPOST_CONTEXT_MENU_MOVE": "Move",
+        "ID_OUTPOST_CONTEXT_MENU_SALVAGE": "Salvage",
+        "ID_OUTPOST_CONTEXT_MENU_BUTTON": "Options",
+        "ID_OUTPOST_STORAGE_BUTTON": "Put in storage",
+        "ID_OUTPOST_STORAGE_HEADER_FORMAT": "Storage ({0}/{1})",
+        "ID_OUTPOST_REQUIREMENT": "Requires Outpost",
+        "ID_OUTPOST_REQUIRES_LEVEL_FORMAT": "Requires Outpost level {0}",
+        "ID_OUTPOST_MODULE_A_ALT1": "Room A",
+        "ID_OUTPOST_MODULE_B_ALT1": "Room B",
+        "ID_OUTPOST_MODULE_C_ALT1": "Room C",
+        "ID_OUTPOST_MODULE_D_ALT1": "Room D",
+        "ID_OUTPOST_MODULE_E_ALT1": "Room E",
+        "ID_OUTPOST_MODULE_F_ALT1": "Room F",
+        "ID_OUTPOST_MODULE_G_ALT1": "Room G",
+        "ID_OUTPOST_MODULE_H": "Ingenious Room",
+        "ID_OUTPOST_MODULE_H_ALT1": "Room H",
+        "ID_OUTPOST_CHANGE_SLOT": "Change Slot",
+        "ID_OUTPOST_EXPANSION_UPGRADE_FORMAT": "Can upgrade {0} to level {1}",
+        "ID_OUTPOST_EXPANSION_UPGRADE_ROOM": "New Outpost room",
+        "ID_OUTPOST_EXPAND_TITLE_ALT": "Outpost Expansion",
+        "ID_OUTPOST_EXPANSION_SELECTED_ROOM": "Selected: {0}",
+        "ID_OUTPOST_FEATURE_TITLE": "Outpost",
+        "ID_OUTPOST_PROJECT_TITLE": "Outpost Project",
+        "ID_OUTPOST_PROJECT_UNLOCK": "Unlocks at Level {0}",
+        "ID_OUTPOST_FEATURE_DESCRIPTION_LONG": "A first, experimental step at establishing a Topside presence, your Outpost is a home you may truly make your own. Connected to Speranza by unseen trails, you'll be able to decorate and expand your space, unbound by your neighbors' aesthetic sensibilities or inconsistent bed times. You'll also be able to conduct experimental research too dangerous for the delicate structural integrity of an underground settlement.",
+        "ID_OUTPOST_FEATURE_DESCRIPTION_SHORT": "Your outpost is a place to decorate and make your own, as well as to conduct experimental research too dangerous for Speranza.",
+        "ID_OUTPOST_PROJECT_DESCRIPTION": "With the Nomads' help, we've identified scattered locations across the Rust Belt that have so far escaped ARC's detection. Daring Raiders may take a first, tentative step towards carving out a small piece of Topside for ourselves.",
+        "ID_OUTPOST_PROJECT_COMPLETE": "Outpost Project Complete",
+        "ID_OUTPOST_BUTTON_VISIT_OUTPOST": "Visit Your Outpost",
+        "ID_OUTPOST_OUTPOST_LEVEL_VARIABLE": "Outpost Level {0}",
+        "ID_OUTPOST_BASE_ROOM": "Base Room",
+        "ID_OUTPOST_ROOM_VARIABLE": "Room {0}",
+        "ID_OUTPOST_EXPANSION_VARIABLE": "Expansion {0}",
+        "ID_OUTPOST_BUTTON_EXPAND_OUTPOST": "Expand Outpost",
+        "ID_OUTPOST_MENU_ROOM_SELECTION": "Room Selection",
+        "ID_OUTPOST_WARNING_ROOMS_CANT_MOVE": "Once installed, rooms cannot be moved or swapped.",
+        "ID_OUTPOST_LEVEL_VARIABLE": "Level {0}",
+        "ID_OUTPOST_TOOLTIP_RESEARCH_STATION_UPGRADE": "Can upgrade Research Station to Level {0}",
+        "ID_OUTPOST_TOOLTIP_WEAPON_BENCH_UPGRADE": "Can upgrade Gunsmith to Level {0}",
+        "ID_OUTPOST_BUTTON_NEW_ROOM": "New room",
+        "ID_OUTPOST_TOOLTIP_INCLUDES_VARIABLE_SLOTS": "Includes {0} slots",
+        "ID_OUTPOST_TOOLTIP_SELECTED_ROOM_VARIABLE": "Selected: {0}",
+        "ID_OUTPOST_BUTTON_BUILD": "Build",
+        "ID_OUTPOST_MENU_CATALOGUE": "Catalogue",
+        "ID_OUTPOST_MENU_FURNITURE": "Furniture",
+        "ID_OUTPOST_MENU_STATIONS": "Stations",
+        "ID_OUTPOST_MENU_FURNITURE_BLUEPRINTS": "Designs",
+        "ID_OUTPOST_TOOLTIP_COMPATIBLE_FURNITURE_BLUEPRINTS": "Compatible Designs",
+        "ID_OUTPOST_TOOLTIP_NOT_COMPATIBLE_WITH_SLOT": "Not compatible with selected slot",
+        "ID_OUTPOST_MENU_SUBSLOT": "Slot",
+        "ID_OUTPOST_MENU_SLOTS": "Slots",
+        "ID_OUTPOST_MENU_SUBSLOTS": "Slots",
+        "ID_OUTPOST_MENU_SUBSLOT_ALT1": "Spot",
+        "ID_OUTPOST_MENU_SUBSLOTS_ALT1": "Spots",
+        "ID_OUTPOST_BUTTON_INSTALL_ITEM": "Install item",
+        "ID_OUTPOST_BUTTON_INSTALL_FURNITURE": "Install furniture",
+        "ID_OUTPOST_BUTTON_INSTALL": "Install",
+        "ID_OUTPOST_BUTTON_INSTALL_ALT1": "Build",
+        "ID_OUTPOST_BUTTON_PLACE": "Place",
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE": "Outpost Storage",
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT1": "Storage",
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT2": "On Hand",
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT3": "Furniture Storage",
+        "ID_OUTPOST_TOOLTIP_SUBSLOT_PLUS_ITEMS": "+{0} item(s)",
+        "ID_OUTPOST_MENU_DECORATIONS": "Decorations",
+        "ID_OUTPOST_MENU_SUBHEADER_IN_INVENTORY": "In your inventory",
+        "ID_OUTPOST_MENU_SUBHEADER_IN_INVENTORY_WARNING": "Placing an item in your Outpost will remove it from your Inventory",
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_SMALL": "Small",
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_MEDIUM": "Medium",
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_LARGE": "Large",
+        "ID_OUTPOST_BUTTON_REMOVE": "Remove",
+        "ID_OUTPOST_BUTTON_CLEAR": "Clear",
+        "ID_OUTPOST_BUTTON_PLACE_STASH": "Placed in your Stash",
+        "ID_OUTPOST_BUTTON_MOVE": "Move",
+        "ID_OUTPOST_BUTTON_STORE": "Set Aside",
+        "ID_OUTPOST_BUTTON_STORE_ALT1": "Store",
+        "ID_OUTPOST_BUTTON_DECORATE": "Decorate",
+        "ID_OUTPOST_BUTTON_MANAGE": "Manage",
+        "ID_OUTPOST_BUTTON_VISIT": "Visit",
+        "ID_OUTPOST_BUTTON_SALVAGE": "Salvage",
+        "ID_OUTPOST_BUTTON_SWAP": "Swap",
+        "ID_OUTPOST_BUTTON_CLEAR_ALT1": "Clear All Attached Items",
+        "ID_OUTPOST_MENU_DECORATION_SLOTS_VARIABLE": "Attached Slots: {0}",
+        "ID_OUTPOST_MENU_DECORATION_SLOTS": "Attached slots",
+        "ID_OUTPOST_BUTTON_INSPECT_ALT1": "Take a look",
+        "ID_OUTPOST_BUTTON_INSPECT_ALT2": "View",
+        "ID_OUTPOST_WARNING_NO_FREE_SLOT": "No free slot available",
+        "ID_OUTPOST_WARNING_NO_COMPATIBLE_SLOT": "No compatible slot available",
+        "ID_OUTPOST_MODAL_SALVAGE_VARIABLE_SINGULAR": "You have selected {0} item to salvage. These are the resources you will get back:",
+        "ID_OUTPOST_MODAL_SALVAGE_VARIABLE_PLURAL": "You have selected {0} item(s) to salvage. These are the resources you will get back:",
+        "ID_OUTPOST_WARNING_ATTACHED_SENT_TO_STORAGE": "Items in attached slots will be sent to your Outpost Storage.",
+        "ID_OUTPOST_WARNING_ATTACHED_SENT_TO_STORAGE_ALT1": "Items attached to this furniture will be sent to your Outpost Storage.",
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED": "You have too many items stored. The items attached to this Furniture could not be sent there.",
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT1": "Your Storage is full. Items attached to this Furniture could not be stored away.",
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT2": "Your Outpost Storage is full.",
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT3": "To complete this action, please free up space in your Outpost Storage, or remove attached items manually.",
+        "ID_OUTPOST_PROMPT_SALVAGE_SUBSLOT": "Do you also want to salvage sub-slots items?",
+        "ID_OUTPOST_PROMPT_SALVAGE_SUBSLOT_ALT1": "Do you also want to salvage the attached items?",
+        "ID_OUTPOST_BUTTON_SALVAGE_ALL": "Salvage all",
+        "ID_OUTPOST_HINT_NAV_CHANGE_VIEW": "Change View",
+        "ID_OUTPOST_HINT_NAV_CHANGE_CAMERA": "Change Camera",
+        "ID_OUTPOST_HINT_NAV_CHANGE_SLOT": "Change Slot",
+        "ID_OUTPOST_HINT_NAV_FREE_NAVIGATION": "Free Nav",
+        "ID_OUTPOST_HINT_NAV_FREE_NAVIGATION_ALT1": "Free Navigation",
+        "ID_OUTPOST_MODALE_HEADER_FEATURE_UNLOCKED": "New feature unlocked: Outpost",
+        "ID_OUTPOST_ACTION_MENU_HINT": "More Actions",
+        "ID_OUTPOST_ACTION_MENU_HINT_ALT1": "Actions",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_DESCRIPTION": "Your Outpost comes with a Base Room, which can be decorated with Furniture and Stations.",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_EXPANSION": "Your Outpost can be expanded with additional Rooms.",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW": "Use Change View to view a different part of your room.",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT1": "Change Camera to select a different anchor point for your new room.",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT2": "Change view to navigate your Outpost",
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT3": "Change camera to navigate your Outpost",
+        "ID_OUTPOST_ONBOARDING_ROOM_FURNISHING": "Interact with an empty slot or open your Catalogue to start populating your Outpost to your taste",
+        "ID_OUTPOST_ONBOARDING_ROOM_SLOTS_COMPATIBILITY": "Furniture and Stations need to be placed in their designated slots.",
+        "ID_OUTPOST_ONBOARDING_DRAG_AND_DROP": "You can drag and drop Furniture between compatible Slots.",
+        "ID_OUTPOST_ONBOARDING_MOVE": "You can move Furniture between compatible Slots.",
+        "ID_OUTPOST_ONBOARDING_SWAP": "You can swap Furniture between compatible Slots.",
+        "ID_OUTPOST_ONBOARDING_ATTACHED_SLOTS": "Some pieces of Furniture come with Attached Slots, allowing you to place smaller decorations or additional pieces of furniture.",
+        "ID_OUTPOST_ONBOARDING_ACTIONS_MENU": "Additional actions are available in the More Actions menu.",
+        "ID_OUTPOST_ONBOARDING_ACTIONS_MENU_ALT1": "Additional actions are available in the Actions menu.",
+        "ID_OUTPOST_ONBOARDING_STORAGE": "Up to {0} Furniture or Station items can be placed in your Outpost Storage.",
+        "ID_OUTPOST_MENU_SUBSLOT_ATTACHED": "Attached slot",
+        "ID_OUTPOST_MENU_SUBSLOTS_ATTACHED": "Attached slots",
+        "ID_OUTPOST_STORAGE_FOCUS_BUTTON": "Storage",
+        "ID_OUTPOST_SWAP_HINT_STORAGE_FULL": "Storage is full",
+        "ID_OUTPOST_SWAP_HINT_DISPLACE_FORMAT": "{0} will be put in storage",
+        "ID_OUTPOST_CHANGE_TAB": "Change Tab"
+      },
+      "KeysToMetaData": {
+        "ID_OUTPOST_FEATURE_TITLE": {
+          "Note": "The Outpost is a new feature: players will have a building outside of Speranza, a place they can make their own. They will be able to craft and place furniture and the feauture also comes with Metagame progression, for example a new Workshop Station. Max. char. limit: 16",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FEATURE_DESCRIPTION_LONG": {
+          "Note": "Lenghty description for Outpost feature ",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FEATURE_DESCRIPTION_SHORT": {
+          "Note": "Shorter description for Outpost feature Max. char. limit: 155",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROJECT_DESCRIPTION": {
+          "Note": "Outpost PROJECT description",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_VISIT_OUTPOST": {
+          "Note": "Button",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BASE_ROOM": {
+          "Note": "Refers to the new building modules a player can build to make their Outpost bigger.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_EXPAND_OUTPOST": {
+          "Note": "The base outpost consist of 1 module, but player can add more modules by expanding their outpost. Expansion requires resources and includes Metagame progression as well (eg : the expansion is a package that includes a new room they can select and the ability to Upgrade their new workshop station).",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_INCLUDES_VARIABLE_SLOTS": {
+          "Note": "Slots refers to where the player will be able to place Furniture & Stations in their Outpost.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_BUILD": {
+          "Note": "Main action to build the selected module, confirming the Expansion.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_CATALOGUE": {
+          "Note": "This is the \"crafting\" menu from where the player can select furniture to craft/stations to install in their Outpost.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_FURNITURE_BLUEPRINTS": {
+          "Note": "Designs are the equivalent of Blueprints for Furniture: player can craft & Install Furniture if they find Designs and learn them, just like with Blueprints.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOT": {
+          "Note": "This is a defined area in the outpost where a placer can place a piece of furniture or a workshop station",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOT_ALT1": {
+          "Note": "Alternative name for \"sub-slots\".",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_INSTALL": {
+          "Note": "Action button",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_INSTALL_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_PLACE": {
+          "Note": "Verb, Action menu- Button to confirme placement of item",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE": {
+          "Note": "This is a storage space widget with limited amount of slots, that can hold furniture/stations while players rearrange their Outpost. ",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT1": {
+          "Note": "Alternative name for the storage space widget.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT2": {
+          "Note": "Alternative name for the storage space widget.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_OUTPOST_STORAGE_ALT3": {
+          "Note": "Alternative name for the storage space widget.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_SUBSLOT_PLUS_ITEMS": {
+          "Note": "Information shown in the storage space if an item stored has populated sub-slots",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_DECORATIONS": {
+          "Note": "Opens a panel that shows a filtered view of everything in a player's stash that can be placed as decoration within sub-slots. Used as a header and as a button",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBHEADER_IN_INVENTORY": {
+          "Note": "sub-header",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_SMALL": {
+          "Note": "refers to the different slot sizes",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_REMOVE": {
+          "Note": "Action to remove a selected Decoration",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_CLEAR": {
+          "Note": "Alternative name for action to remove a selected Decoration",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_MOVE": {
+          "Note": "Verb, Action Menu: when interacting with Furniture/Station in Outpost",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_STORE": {
+          "Note": "The action of putting an item in the storage/on hand",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_STORE_ALT1": {
+          "Note": "Verb: put in storage",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_DECORATE": {
+          "Note": "Action menu: will open the Subslot menu to place Decoration on items that allow it",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_MANAGE": {
+          "Note": "Alternative, just in case",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_VISIT": {
+          "Note": "Action menu: on a Workshop Station, will send the player to the station's Crafting screen",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_SALVAGE": {
+          "Note": "Action menu: dismantling a piece of Furniture will give the player back only a fraction of the resource cost, hence \"Salvage\"",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_SWAP": {
+          "Note": "Action menu",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_DECORATION_SLOTS_VARIABLE": {
+          "Note": "Shown on a Furniture Item tooltip, so player know how many decoration slots would be available on selected item before purchasing it",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_DECORATION_SLOTS": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_INSPECT_ALT1": {
+          "Note": "A more friendly and less clinic version of \"inspect\" : zooms in the furniture",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_INSPECT_ALT2": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_SENT_TO_STORAGE": {
+          "Note": "In case a player dismantle a furniture that contains sub-slots (eg: a Table that has 3 chairs attached to it). Needs to convey that \"installed items will be sent to storage\"",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_SENT_TO_STORAGE_ALT1": {
+          "Note": "Alternative that doesn't use the word \"sub-slots\" but refer to items occupying these slots as being \"attached\" to the main furniture",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROMPT_SALVAGE_SUBSLOT_ALT1": {
+          "Note": "Alternative that doesn't use the word sub-slot",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HINT_NAV_CHANGE_VIEW": {
+          "Note": "Bottom bar hint that allows player to navigate between different camera angles within the outpost",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HINT_NAV_CHANGE_CAMERA": {
+          "Note": "alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HINT_NAV_FREE_NAVIGATION": {
+          "Note": "Mode that allows the player to float and navigate freely around their Outpost, with no UI layer.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODALE_HEADER_FEATURE_UNLOCKED": {
+          "Note": "Used in popups or other places",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ACTION_MENU_HINT": {
+          "Note": "Bottom bar hint",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ACTION_MENU_HINT_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_DESCRIPTION": {
+          "Note": "screen/expansion: Something about the outpost consisting of different rooms to be decorated, and the Outpost coming with 1 base room. When players are on the Outpost tab for the first time, after finishing the Project. Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_EXPANSION": {
+          "Note": "screen/expansion: Something about Outpost expansion: why would the player want to expand, When the players enters the Outpost tab for the second time Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW": {
+          "Note": "screen/expansion: Highlights the \"Change View\" hint in the bottom bar to see the Outpost from a different angle, when player expand their Outpost. Not sure \"select\" should be in this sentence Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT1": {
+          "Note": "alternative, depending on how we name the action hint. Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT2": {
+          "Note": "room/furnishing: HIghlight the relevant bottom bar hint inside the Outpost room. Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_OUTPOST_CHANGE_VIEW_ALT3": {
+          "Note": "Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_ROOM_FURNISHING": {
+          "Note": "room/furnishing Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_ROOM_SLOTS_COMPATIBILITY": {
+          "Note": "room/furnishing: Something about some slots being compatible only with Furniture and other only with Workshop stations Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_DRAG_AND_DROP": {
+          "Note": "room/furnishing: Something about being able to move furniture and stations around by drag and dropping them between compatible slots (mouse & keyboard version) Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_MOVE": {
+          "Note": "room/furnishing: The same as above, except for gamepad -With gamepad, players can press A on a focused piece of furniture or station and move the joystick to the destination slot Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_SWAP": {
+          "Note": "room/furnishing: Same as above, except with no mention of \"drag and drop\" or gamepad - Maybe a neutral disclaimer that players can always move and swap furniture and even salvage them Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_ATTACHED_SLOTS": {
+          "Note": "room/furnishing: Something about being able to attached decoration or smaller pieces of furniture to some furnitures Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_ACTIONS_MENU": {
+          "Note": "room/furnishing: HIghlights the \"Actions\" hint in the bottom bar when player has furniture or station in focus, which opens the Action Menu. Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_ACTIONS_MENU_ALT1": {
+          "Note": "alternative",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ONBOARDING_STORAGE": {
+          "Note": "room/furnishing: Description of the \"storage/on hand\" interaction, when the Action Menu is open. Player can store up to {0} pieces of furniture or stations there Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_CLEAR_ALT1": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_OUTPOST_BUTTON_INSTALL_FURNITURE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_INSTALL_ITEM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_NEW_ROOM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_PLACE_STASH": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_BUTTON_SALVAGE_ALL": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPANSION_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HINT_NAV_CHANGE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HINT_NAV_FREE_NAVIGATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_LEVEL_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_FURNITURE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_ROOM_SELECTION": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SLOTS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_STATIONS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBHEADER_IN_INVENTORY_WARNING": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOT_ATTACHED": {
+          "Note": "Some furniture will have sub-slots: for example, installing a table will reveal 4 sub-slots to place chairs. Or slots where players can place trinkets or decoration on top of a furniture.",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOTS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOTS_ATTACHED": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MENU_SUBSLOTS": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODAL_SALVAGE_VARIABLE_SINGULAR": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODAL_SALVAGE_VARIABLE_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_OUTPOST_LEVEL_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROJECT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROJECT_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROJECT_COMPLETE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_PROMPT_SALVAGE_SUBSLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ROOM_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_COMPATIBLE_FURNITURE_BLUEPRINTS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_MEDIUM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_FURNITURE_SIZE_LARGE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_NOT_COMPATIBLE_WITH_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_SELECTED_ROOM_VARIABLE": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_RESEARCH_STATION_UPGRADE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TOOLTIP_WEAPON_BENCH_UPGRADE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT3": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ROOMS_CANT_MOVE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_NO_FREE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_NO_COMPATIBLE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_WARNING_ATTACHED_TOO_MANY_STORED_ALT2": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_SWAP_HINT_STORAGE_FULL": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_SWAP_HINT_DISPLACE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_STORAGE_FOCUS_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_TAB": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_SLOT_INDEX": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ROOM_BASE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_C": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_D": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_E": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_F": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_G": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FREE_CAM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CHANGE_VIEW": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_COLLECTION_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_DISMANTLE_NOTIF_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_DISMANTLE_NOTIF_BODY": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_LEARNED_NOTIFICATION_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_LEVEL_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPAND_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULES": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_INSTALL_MODULE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_TAB_FURNITURE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_TAB_STATIONS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_EMPTY": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_ERROR_NO_FREE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_ERROR_PROCESSING": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_ERROR_PURCHASE_FAILED": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_INSTALL_ITEM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_CONFIRM_BUILD": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_COMPLETE_RESEARCH": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_HOLD_LABEL": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CATALOGUE_ERROR_NO_SLOT_IN_VIEW": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_ROOMS_INSTALLED": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CONTEXT_MENU_INSPECT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CONTEXT_MENU_MOVE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CONTEXT_MENU_SALVAGE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CONTEXT_MENU_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_STORAGE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_STORAGE_HEADER_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_REQUIRES_LEVEL_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_A_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_B_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_C_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_D_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_E_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_F_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_G_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_H": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_MODULE_H_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_CHANGE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPANSION_UPGRADE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPANSION_UPGRADE_ROOM": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPAND_TITLE_ALT": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_EXPANSION_SELECTED_ROOM": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

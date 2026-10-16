@@ -47,9 +47,142 @@
         "ID_ITEMDESC_UNDERBARREL_FOLDABLEGRIP_01": "Moderately reduces both vertical recoil and horizontal recoil.",
         "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_01": "Slightly reduces vertical recoil.",
         "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_02": "Moderately reduces vertical recoil.",
-        "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_03": "Significantly reduces vertical recoil."
+        "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_03": "Significantly reduces vertical recoil.",
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_01": "Slightly increases bullet velocity & distance until damage falloff.",
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_02": "Moderately increases bullet velocity & distance until damage falloff.",
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_03": "Significantly increases bullet velocity & distance until damage falloff."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_MAGAZINEHEAVY_EXTENDED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINEHEAVY_EXTENDED_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINEHEAVY_EXTENDED_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINELIGHT_EXTENDED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINELIGHT_EXTENDED_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINELIGHT_EXTENDED_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINEMEDIUM_EXTENDED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINEMEDIUM_EXTENDED_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINEMEDIUM_EXTENDED_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINESHOTGUN_EXTENDED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINESHOTGUN_EXTENDED_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGAZINESHOTGUN_EXTENDED_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_BARRELEXTENDER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_BRAKE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_BRAKE_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_BRAKE_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_COMPENSATOR_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_COMPENSATOR_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_COMPENSATOR_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_SILENCER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_SILENCER_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_SILENCER_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNMUZZLE_CHOKE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNMUZZLE_CHOKE_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNMUZZLE_CHOKE_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNMUZZLE_SILENCER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_ACTIVESTABILIZER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_LIGHTWEIGHT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_PADDED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_STABLE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_STABLE_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STOCK_STABLE_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TECH_PROJECTILESPLITTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_ANGLEDGRIP_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_ANGLEDGRIP_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_ANGLEDGRIP_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_FOLDABLEGRIP_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNDERBARREL_VERTICALGRIP_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLE_EXTENDEDBARREL_03": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

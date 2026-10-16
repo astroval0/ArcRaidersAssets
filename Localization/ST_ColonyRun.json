@@ -20,10 +20,33 @@
       },
       "KeysToMetaData": {
         "ID_COLONYRUN_STASH_OVERFLOWING_WARNING": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_COLONY_RUN_NOTIF_TEXT": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_NOTIF_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_TIMER_TEXT": {
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_PRACTICE_RANGE": {
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_TIMER_TEXT_SINGULAR": {
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_UNKNOWN_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_COLONYRUN_STASH_FULL_WARNING": {
+          "Status": "approved"
+        },
+        "ID_COLONY_RUN_STASH_OVERFLOW": {
+          "Status": "approved"
         }
       }
     }

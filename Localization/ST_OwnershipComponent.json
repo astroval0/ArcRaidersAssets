@@ -13,7 +13,20 @@
         "ID_OWNERSHIP_COMPONENT_OWNED_BY_TEMPLATE": "Owned by {0}",
         "ID_OWNERSHIP_COMPONENT_UNKNOWN_OWNER": "Unknown owner"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_OWNERSHIP_COMPONENT_NOT_OWNED": {
+          "Status": "approved"
+        },
+        "ID_OWNERSHIP_COMPONENT_UNKNOWN_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_OWNERSHIP_COMPONENT_OWNED_BY_TEMPLATE": {
+          "Status": "approved"
+        },
+        "ID_OWNERSHIP_COMPONENT_UNKNOWN_OWNER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

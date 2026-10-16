@@ -26,9 +26,80 @@
         "ID_ITEMDESC_ACOUSTICGUITAR": "A playable acoustic guitar used to attract ARC's attention, and impress other Raiders.",
         "ID_ITEMDESC_METALDETECTOR": "These detectors seem to be able to locate foreign objects buried in the sands around Riven Tides, though their exact way of functioning is unknown.",
         "ID_ITEMDESC_POWEREDDESCENDER": "Reduces fall speed when used in the air, but has a wind-up time before reaching full force. Shuts down once out of power.",
-        "ID_ITEMDESC_METALDETECTOR_ALT": "Found around Riven Tides, these detectors seem able to locate foreign objects buried in the sands along the shore, though their exact way of functioning is unknown."
+        "ID_ITEMDESC_METALDETECTOR_ALT": "Found around Riven Tides, these detectors seem able to locate foreign objects buried in the sands along the shore, though their exact way of functioning is unknown.",
+        "ID_ITEMDESC_PLR": "§PLR desc",
+        "ID_ITEMDESC_GRAPPLEHOOK": "A simple gadget that anchors to most surfaces, allowing users to navigate hard-to-reach places.",
+        "ID_ITEMDESC_METALDETECTOR_02": "Useful for finding foreign objects hidden in the snow. As an added bonus, it works just as well on sand.",
+        "ID_ITEMDESC_TETHERGUN": "A two-shot tether launcher that anchors a line to whatever it hits, linking both points together."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_SNAPHOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_COMMONBINOCULARS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARCFRIENDIFIER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FLUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FLAMESPRAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BANJO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_COWBELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ACCORDION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HARMONICA": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PIANO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHAKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SLIDEGUITAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TAMBOURINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UDU": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BONGO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ACOUSTICGUITAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_METALDETECTOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_POWEREDDESCENDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_METALDETECTOR_ALT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_GRAPPLEHOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_METALDETECTOR_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TETHERGUN": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -39,9 +39,130 @@
         "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAG": "Paramedic",
         "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAGOPTION2": "Physician",
         "ID_CUSTOMIZATION_BACKPACK_ADVENTURER": "Adventurer",
-        "ID_CUSTOMIZATION_BACKPACK_TENNISBAG": "Athlete"
+        "ID_CUSTOMIZATION_BACKPACK_TENNISBAG": "Athlete",
+        "ID_CUSTOMIZATION_BACKPACK_SOLDIER": "Soldier",
+        "ID_CUSTOMIZATION_BACKPACK_OCCULT": "Cultist",
+        "ID_CUSTOMIZATION_BACKPACK_TRASHPILEBAG": "Trashpile Bag",
+        "ID_CUSTOMIZATION_BACKPACK_FIELDPHONE": "Field Telephone",
+        "ID_CUSTOMIZATION_BACKPACK_IRONSTOVE": "Hearthkeeper",
+        "ID_CUSTOMIZATION_BACKPACK_STEAMWRIGHT": "Steamwright"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CUSTOMIZATION_BACKPACK_URN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_STANDARD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_ARCPACK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TREASURECHEST": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_SURVIVALBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_UTILITYCASE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_BARREL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_HARDCASE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_HIKING": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TRUNK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_CLUTCH": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_ROLLUP": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TVOLTPACK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_SCOUTPACK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_SEASACK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_FARMBASKET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_FIRSTRESPONDER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_STORAGEBOX": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_CARRYON": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TOOLSCABINET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_SERVERSLAMBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_HATCHLING": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_EXPEDITIONTRUNK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TECHBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_VESSEL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_OXYGENTANK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_WATERTANK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_CARTOGRAPHER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_DUFFLEBAGOPTION2": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_ADVENTURER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TENNISBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_SOLDIER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_OCCULT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_TRASHPILEBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_FIELDPHONE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_STEAMWRIGHT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_BACKPACK_IRONSTOVE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -28,9 +28,85 @@
         "ID_GAMEMODE_EXITREASON_PRACTICE_DONE": "Practice done",
         "ID_GAMEMODE_EXTRACTION_POINT_SHUTDOWN_IMMINENT": "Return point shutting down soon",
         "ID_GAMEMODE_EXTRACTION_POINT_CLOSING_IN_FORMAT": "{0} closes in {1}",
-        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_TEMPLATE": "Returning automatically in {0}"
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_TEMPLATE": "Returning automatically in {0}",
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_SKYBUCKET": "Ballistic Gondola departing in {0}",
+        "ID_GAMEMODE_EXTRACTION_POINT_SHUTDOWN_IMMINENT_SKYBUCKET": "Transceiver shutting down soon",
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_SKYBUCKET_ALT1": "Gondola departing in {0}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_GAMEMODE_NAME_FIRINGRANGE": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_NAME_OUTPOST": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_NAME_SIEGE": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_NAME_STORM": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_NAME_TRAINING": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_NAME_UNRANKED": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_SCREEN_NAME": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_SEVERITY_ELITE": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_SEVERITY_NORMAL": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_DIFFICULTY_BRUTAL": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_DIFFICULTY_HARD": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_DIFFICULTY_MEDIUM": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_DIFFICULTY_EASY": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_DIFFICULTY_TRIVIAL": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_MAIN_OBJECTIVE": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_PLAYER_INIT_FAILURE": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXITREASON_SURRENDER": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXITREASON_PRACTICE_DONE": {
+          "Status": "new"
+        },
+        "ID_GAMEMODE_EXTRACTION_POINT_SHUTDOWN_IMMINENT": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXTRACTION_POINT_CLOSING_IN_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_TEMPLATE": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_SKYBUCKET": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXTRACTION_POINT_SHUTDOWN_IMMINENT_SKYBUCKET": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_EXTRACTION_AUTOMATIC_IN_SKYBUCKET_ALT1": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -41,7 +41,104 @@
         "DLSS": "NVIDIA DLSS",
         "FIELDOFVIEW": "Field Of View"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "OVERALL_QUALITY": {
+          "Status": "approved"
+        },
+        "VIEWDISTANCE": {
+          "Status": "approved"
+        },
+        "ANTIALIASING": {
+          "Status": "approved"
+        },
+        "SHADOW": {
+          "Status": "approved"
+        },
+        "POSTPROCESS": {
+          "Status": "approved"
+        },
+        "TEXTURE": {
+          "Status": "approved"
+        },
+        "EFFECTS": {
+          "Status": "approved"
+        },
+        "FOLIAGE": {
+          "Status": "approved"
+        },
+        "SHADING": {
+          "Status": "approved"
+        },
+        "DIRECTX12": {
+          "Status": "approved"
+        },
+        "RESTART_REQUIRED": {
+          "Status": "approved"
+        },
+        "VSYNC": {
+          "Status": "approved"
+        },
+        "RAYTRACE_GI": {
+          "Status": "approved"
+        },
+        "NVREFLEX": {
+          "Status": "approved"
+        },
+        "NVREFLEX_DISABLED": {
+          "Status": "approved"
+        },
+        "NVREFLEX_ENABLED": {
+          "Status": "approved"
+        },
+        "NVREFLEX_ENABLED_BOOST": {
+          "Status": "approved"
+        },
+        "RESOLUTION_SCALE": {
+          "Status": "approved"
+        },
+        "RESOLUTION": {
+          "Status": "approved"
+        },
+        "WINDOWMODE": {
+          "Status": "approved"
+        },
+        "WINDOWMODE_FULLSCREEN": {
+          "Status": "approved"
+        },
+        "WINDOWMODE_WINDOWED": {
+          "Status": "approved"
+        },
+        "WINDOWMODE_WINDOWED_FULLSCREEN": {
+          "Status": "approved"
+        },
+        "MOTIONBLUR": {
+          "Status": "approved"
+        },
+        "QUALITY_OFF": {
+          "Status": "approved"
+        },
+        "QUALITY_LOW": {
+          "Status": "approved"
+        },
+        "QUALITY_MEDIUM": {
+          "Status": "approved"
+        },
+        "QUALITY_HIGH": {
+          "Status": "approved"
+        },
+        "QUALITY_EPIC": {
+          "Status": "approved"
+        },
+        "QUALITY_CUSTOM": {
+          "Status": "approved"
+        },
+        "DLSS": {
+          "Status": "approved"
+        },
+        "FIELDOFVIEW": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

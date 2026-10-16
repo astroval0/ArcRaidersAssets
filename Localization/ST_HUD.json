@@ -27,9 +27,74 @@
         "ID_HUD_OVERENCUMBERED": "Over-encumbered",
         "ID_HUD_BROKEN_ARMOR": "Broken Shield",
         "ID_HUD_BROKEN_ITEM": "Broken Item",
-        "ID_HUD_GENERIC_EMPTY_SLOT": "Empty Slot"
+        "ID_HUD_GENERIC_EMPTY_SLOT": "Empty Slot",
+        "ID_HUD_OVERENCUMBERED_2": "Super Over-encumbered"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_HUD_PLAYABLE_AREA_ENTER_1": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_ENTER_2": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_ENTER_3": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_ENTER_4": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_ENTER_5": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_EXIT_1": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_EXIT_2": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_EXIT_3": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_EXIT_4": {
+          "Status": "approved"
+        },
+        "ID_HUD_PLAYABLE_AREA_EXIT_5": {
+          "Status": "approved"
+        },
+        "ID_HUD_INFINITY": {
+          "Status": "new"
+        },
+        "ID_HUD_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_HUD_SPECTATING": {
+          "Status": "approved"
+        },
+        "ID_HUD_SPECTATOR_SWITCH_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_HUD_BROKEN_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_HUD_OUT_OF_AMMO": {
+          "Status": "approved"
+        },
+        "ID_HUD_OVERENCUMBERED": {
+          "Status": "approved"
+        },
+        "ID_HUD_BROKEN_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_HUD_BROKEN_ITEM": {
+          "Status": "approved"
+        },
+        "ID_HUD_GENERIC_EMPTY_SLOT": {
+          "Status": "approved"
+        },
+        "ID_HUD_OVERENCUMBERED_2": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

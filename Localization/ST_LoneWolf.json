@@ -29,49 +29,73 @@
       },
       "KeysToMetaData": {
         "ID_LONE_WOLF_TITLE": {
-          "Note": "Feature title"
+          "Note": "Feature title",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_ONBOARDING_DESCRIPTION": {
-          "Note": "Onboarding mesage"
+          "Note": "Onboarding mesage",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_TOOLTIP_DESCRIPTION": {
-          "Note": "Tooltip"
+          "Note": "Tooltip",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_DISABLED_TOOLTIP_PARTY": {
-          "Note": "Disabled tooltip, party"
+          "Note": "Disabled tooltip, party",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_DISABLED_TOOLTIP_FILL_SQUAD": {
-          "Note": "Disabled tooltip, fill squad"
+          "Note": "Disabled tooltip, fill squad",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_DISABLED_TOOLTIP_COMBO": {
-          "Note": "Disabled tooltip, combo"
+          "Note": "Disabled tooltip, combo",
+          "Status": "approved"
         },
         "ID_LONE_WOLF_UNLOCKED_OVERLAY_TITLE_ALT": {
-          "Note": "Unlock overlay"
+          "Note": "Unlock overlay",
+          "Status": "approved"
         },
         "ID_END_OF_ROUND_LONE_WOLF_BONUS_ALT": {
-          "Note": "EoR bonus"
+          "Note": "EoR bonus",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_LONE_WOLF": {
-          "Note": "Lone wolf mode"
+          "Note": "Lone wolf mode",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_LONE_WOLF_ALT": {
-          "Note": "Alt"
+          "Note": "Alt",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_SOLO": {
-          "Note": "Solo"
+          "Note": "Solo",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_SOLO_ALT": {
-          "Note": "Alt"
+          "Note": "Alt",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_SQUAD": {
-          "Note": "Squad"
+          "Note": "Squad",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_SQUAD_ALT": {
-          "Note": "Alt"
+          "Note": "Alt",
+          "Status": "approved"
         },
         "ID_MATCHMAKING_EXPLAINER_DUO_ALT": {
-          "Note": "Duos"
+          "Note": "Duos",
+          "Status": "approved"
+        },
+        "ID_LONE_WOLF_TITLE_ALT": {
+          "Status": "approved"
+        },
+        "ID_LONE_WOLF_UNLOCKED_OVERLAY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_END_OF_ROUND_LONE_WOLF_BONUS": {
+          "Status": "approved"
         }
       }
     }

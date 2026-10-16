@@ -71,9 +71,614 @@
         "ID_SKILL_TITLE_MOREFIELDCRAFTRECIPES": "Traveling Tinkerer",
         "ID_SKILL_TITLE_BONUSFIELDCRAFTFIND": "One Raider's Scraps",
         "ID_SKILL_TITLE_CROUCHEDSTAMINAREGEN": "Revitalizing Squat",
-        "ID_SKILL_TITLE_INROUNDCRAFTING": "In-Round Crafting"
+        "ID_SKILL_TITLE_INROUNDCRAFTING": "In-Round Crafting",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT": "Add Skill Point",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT_HOLD": "Add Skill Point (Hold)",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT_HOLD_ALT": "(Hold) Add Skill Point",
+        "ID_SKILL_TITLE_CARRYABLEVAULTING": "Vault 'n' Carry",
+        "ID_SKILL_TITLE_ENCUMBEREDSPRINT": "Mule's Gallop",
+        "ID_SKILL_TITLE_REDUCEDFALLRECOVERY": "Right Back At It",
+        "ID_SKILL_TITLE_WEAPONBASH": "Weapon Bash",
+        "ID_SKILL_TITLE_JUGGERNAUT": "Bull Rush",
+        "ID_SKILL_TITLE_SCRAMBLEDURATION": "Sure-Footed Scrambler",
+        "ID_SKILL_TITLE_FALLGRABHEIGHT": "Calloused Fingers",
+        "ID_SKILL_TITLE_INCREASEDSPRINTBOOST": "Swift Start",
+        "ID_SKILL_TITLE_NATURALADRENALINE": "Natural Adrenaline",
+        "ID_SKILL_TITLE_WALLCLIMB": "Wall Run",
+        "ID_SKILL_TITLE_FLOWSTATE": "In The Flow",
+        "ID_SKILL_TITLE_NINJAROLL": "Quick Roll",
+        "ID_SKILL_TITLE_OVERENCUMBEREDMOVESPEED": "Speedy Mule",
+        "ID_SKILL_TITLE_EXPERTSCAVENGING": "Road Warrior",
+        "ID_SKILL_TITLE_SUPERFIELDCRAFTING": "Nomadic Crafting",
+        "ID_SKILL_TITLE_FIELDREPAIR": "Field Repair",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT": "Add Point",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT_HOLD": "Add Point (Hold)",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT_HOLD_ALT": "(Hold) Add Point",
+        "ID_CHARACTER_SKILL_TREE_LABEL_SKILL_POINT_COUNT": "Skill Point: {0}",
+        "ID_CHARACTER_SKILL_TREE_LABEL_SKILL_POINTS_COUNT": "Skill Points: {0}",
+        "ID_SKILL_TITLE_SPRINTEXTENSION": "Sprinting On Fumes",
+        "ID_SKILL_TITLE_EXPERTSCAVENGING_ALT": "Attuned to Ammo",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SPEND_POINT": "Spend Point",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ASSIGN_POINT": "Assign Point",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_READ_MORE": "Read More",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_READ_ABOUT": "Read About",
+        "ID_CHARACTER_SKILL_TREE_NOTIFICATION_AVAILABLE_TO_UNLOCK": "Skill Available to Unlock",
+        "ID_CHARACTER_SKILL_TREE_NOTIFICATION_UNLOCKABLE": "Unlockable Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ABOUT_SKILLS": "About Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_AVAILABLE SKILLS": "Available Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PREVIEW_SKILLS": "Preview Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PICK_SKILL": "Pick Skill",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILL": "Select Skill",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_CHOOSE_SKILL": "Choose Skill",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PICK_SKILLS": "Pick Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILLS": "Select Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_CHOOSE_SKILLS": "Choose Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECTED_SKILLS": "Selected Skills",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SKILL_DETAILS": "Skill Details",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NOT_ENOUGH_POINTS": "Not Enough Points",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NODE_NOT_REACHED": "Node not Reached",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT": "Requires 1 Skill Point",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT1": "Requires 1 Point",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT2": "Requires Points: {0}",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT3": "Requires Points: 1",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NODE_NOT_REACHED_ALT1": "Requires Node Reached",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_2_OF_3": "Select 2 of 3 skills",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_1_OF_2": "Select 1 of 2 skills",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_1_OF_3": "Select 1 of 3 skills",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_ALT2": "Select {0} of {1} skills",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION": "Select one skill.",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_WARNING": "Only {0} of these {1} skills can be unlocked",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_UNLOCK_SKILL": "Unlock Skill",
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_UNLOCKED": "Skill Unlocked",
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_APPLIED": "Skill Applied",
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_NOT_AVAILABLE": "Skill not Available",
+        "ID_CHARACTER_SKILL_TREE_STATUS_ALREADY_SELECTED": "{0} of {1} skills already selected",
+        "ID_CHARACTER_SKILL_TREE_WARNING_NOT_AVAILABLE_TO_SELECT": "Not available to select",
+        "ID_CHARACTER_SKILL_TREE_WARNING_NOT_AVAILABLE_TO_UNLOCK": "Not available to unlock",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_ALT1": "Skill Selection",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_SINGULAR": "Skill selected",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_PLURAL": "Skills selected",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_APPLIED_PLURAL": "Skills applied",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_APPLIED_SINGULAR": "Skill applied",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_UNLOCKED_PLURAL": "Skills unlocked",
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_UNLOCKED_SINGULAR": "Skill unlocked",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING_GO_TO_SETTINGS": "Key binding required. Head to the Settings screen to set an input for this action.",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING_AVAILABLE_IN_SETTING": "Key binding available in Settings",
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING": "Key binding required",
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILLS_ALT1": "Select a skill: {0} of {1}",
+        "ID_CHARACTER_SKILL_TREE_RESET_SKILL_TREE_DISABLED_SKILL": "Reset the skil tree to regain access to a disabled skill.",
+        "ID_CHARACTER_SKILL_TREE_DISABLED_SKILL": "Disabled skill",
+        "ID_CHARACTER_SKILL_TREE_DISABLED": "Disabled",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE": "Controller Updates",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT1": "Controller Changes",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT2": "Updated Controls",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT3": "Controller Default Remapping",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_MESSAGE_DESCRIPTION": "Controller defaults settings have been changed to give players greater customization, support new skills and adapt for future functionality.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_EXTENDED": "Controller defaults have been changed to give players greater customization, support new skills and adapt for future functionality. Be sure to check your controls before heading topside.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_COMPLETE": "Controller defaults settings have been changed to give players greater customization, support new skills and adapt for future functionality.\r\n\r\nThe following controls have been affected by these changes:\r\n - Flashlight\r\n - Shoulder Swap\r\n - Raider Tools\r\n - Emotes\r\n - Active Skills\r\n\r\nCheck out the new default controls before heading topside.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_TITLE": "The following controls have been affected by these changes:",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_TITLE_ALT1": "Affected controls:",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_LIST": "- Flashlight\u2028 - Shoulder Swap - Raider Tools \u2028- Emotes\u2028 - Active Skills",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_FLASHLIGHT": "Flashlight",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_SHOULDER_SWAP": "Shoulder Swap",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_RAIDER_TOOLS": "Raider Tools",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_EMOTES": "Emotes",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_ACTIVE_SKILLS": "Active Skills",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_LIST_ALT1": "The following controls have been affected by these changes: Flashlight, Shoulder Swap, Raider Tools, Emotes, and Skills.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK": "Check out the new default controls before heading top-side.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK_ALT1": "Make sure to check out the new default cotroller settings before heading top-side.",
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK_ALT2": "Make sure to check out the new default control settings before heading top-side.",
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_WARNING_ALT2": "{0} of {1} skills available to unlock"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_SKILL_CATEGORY_CONDITIONING": {
+          "Status": "approved"
+        },
+        "ID_SKILL_CATEGORY_MOBILITY": {
+          "Status": "approved"
+        },
+        "ID_SKILL_CATEGORY_SURVIVAL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_NOTIF_ACQUIRE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_NOTIF_ACQUIRE_BODY": {
+          "Status": "approved"
+        },
+        "ID_SKILL_NOTIF_ACQUIRE_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_SKILL_NOTIF_ACQUIRE_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_POINTS_AVAILBLE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_FALLHEIGHT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_ARMORSPEEDPENALITY": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_AITARGETACQUISITION": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_BREACHSPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CHARGEDMELEE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CLIMBSPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CRITICALHEALTHREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CRITICALSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CROUCHSPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DAMAGESTAMINABOOST": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DBNOBLEEDTIME": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DODGEROLLDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DODGEROLLSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_EXHAUSTEDSTATE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_GADGETRECHARGE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_LOOTINGNOISE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_LOOTREVEALSPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MAXGADGETPOWER": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MAXSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MELEESTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MOVEMENTNOISE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_RECOVERYROLL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_STAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_TRAVERSALSTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_ENCUMBEREDSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_DRONEMELEEDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_EXPLOSIONEFFECT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_FALLDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_HEALINGSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_WALKINGSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREE_DRONEONEHITMELEEKILL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_RECOVERYROLLWINDOW": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DBNOMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_WALLLEAPDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DISABLEEXHAUSTEDVAULTS": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DODGEROLLSPRINTBOOST": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_STAMINAFREEVAULT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_BREACHVOLUME": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_AIVISIBILITYWHENCROUCHED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_REDUCEDAIACCURACY": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DOUBLELOOTREVEAL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_BREACHGIFT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_DBNODAMAGEREDUCTION": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CRITICALHPMOVEMENTNOISE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_ARMORBREAKFREEDODGEROLL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MINEDISARM": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_LEVELTWOBREACH": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_VAULTSPRING": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_SLIDINGFRICTION": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_REDUCEDWEAPONENCUMBRANCE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MAXCARRYWEIGHT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_MOREFIELDCRAFTRECIPES": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_BONUSFIELDCRAFTFIND": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CROUCHEDSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_INROUNDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT_HOLD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_SKILL_POINT_HOLD_ALT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT_HOLD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ADD_POINT_HOLD_ALT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_LABEL_SKILL_POINT_COUNT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_LABEL_SKILL_POINTS_COUNT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SPEND_POINT": {
+          "Note": "Instead of Add Point for the input label when acquiring a level in a skill",
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ASSIGN_POINT": {
+          "Note": "Instead of Add Point for the input label when acquiring a level in a skill",
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING_GO_TO_SETTINGS": {
+          "Note": "If we cannot get the input label to work in the tooltip, we need a message telling players to look up the input bound found in settings",
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING_AVAILABLE_IN_SETTING": {
+          "Note": "If we cannot get the input label to work in the tooltip, we need a message telling players to look up the input bound found in settings",
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_KEY_BINDING": {
+          "Note": "If we cannot get the input label to work in the tooltip, we need a message telling players to look up the input bound found in settings",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE": {
+          "Note": "Title of Modal that communicates what the message is about max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT1": {
+          "Note": "Alternative title of Modal that communicates what the message is about max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT2": {
+          "Note": "Alternative title of Modal that communicates what the message is about max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_TITLE_ALT3": {
+          "Note": "Alternative title of Modal that communicates what the message is about max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_MESSAGE_DESCRIPTION": {
+          "Note": "Body of the message in the Modal, it should communicate that 1. default controls have been change 2. benefits from the change max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_EXTENDED": {
+          "Note": "Body of the message in the Modal, it should communicate that 1. default controls have been change 2. benefits from the change max. char. limit: 200",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_COMPLETE": {
+          "Note": "Body of the message in the Modal, it should communicate that 1. default controls have been change 2. benefits from the change max. char. limit: 200",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_TITLE": {
+          "Note": "Part of the body message, should be the title of the afffected controls/inputs list. max. char. limit: 80",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_TITLE_ALT1": {
+          "Note": "Part of the body message, should be the title of the afffected controls/inputs list. max. char. limit: 80",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_LIST": {
+          "Note": "List of the affected controls/inputs max. char. limit: 80",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_FLASHLIGHT": {
+          "Note": "max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_SHOULDER_SWAP": {
+          "Note": "max. char. limit: 21",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_RAIDER_TOOLS": {
+          "Note": "max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_EMOTES": {
+          "Note": "max. char. limit: 23",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_ACTIVE_SKILLS": {
+          "Note": "max. char. limit: 24",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_AFFTECTED_INPUTS_LIST_ALT1": {
+          "Note": "List of the affected controls/inputs max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK": {
+          "Note": "Call to check the settings for the changed controls max. char. limit: 80",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK_ALT1": {
+          "Note": "Call to check the settings for the changed controls  max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ST_CHARACTER_SKILLS_TREE_MESSAGE_DESCRIPTION_CALL_TO_CHECK_ALT2": {
+          "Note": "Call to check the settings for the changed controls max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_DISABLED_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_DISABLED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_SINGULAR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_SELECTION_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_APPLIED_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_APPLIED_SINGULAR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_UNLOCKED_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_HEADER_SKILL_UNLOCKED_SINGULAR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_READ_MORE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_READ_ABOUT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_ABOUT_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_AVAILABLE SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PREVIEW_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PICK_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_CHOOSE_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_PICK_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_CHOOSE_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECTED_SKILLS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SKILL_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_UNLOCK_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_INPUT_LABEL_SELECT_SKILLS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_NOTIFICATION_AVAILABLE_TO_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_NOTIFICATION_UNLOCKABLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NOT_ENOUGH_POINTS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NODE_NOT_REACHED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_SKILL_POINT_ALT3": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_REQUIREMENT_NODE_NOT_REACHED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_RESET_SKILL_TREE_DISABLED_SKILL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_STATUS_ALREADY_SELECTED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_WARNING_NOT_AVAILABLE_TO_SELECT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_NOT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_APPLIED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_STATUS_SKILL_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_WARNING_NOT_AVAILABLE_TO_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_2_OF_3": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_1_OF_2": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_SELECT_1_OF_3": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_WARNING": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_SKILL_TREE_SELECTION_GATE_WARNING_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_CARRYABLEVAULTING": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_ENCUMBEREDSPRINT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_REDUCEDFALLRECOVERY": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_WEAPONBASH": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_JUGGERNAUT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_SCRAMBLEDURATION": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_FALLGRABHEIGHT": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_INCREASEDSPRINTBOOST": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_NATURALADRENALINE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_WALLCLIMB": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_FLOWSTATE": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_NINJAROLL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_OVERENCUMBEREDMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_EXPERTSCAVENGING": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_SUPERFIELDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_FIELDREPAIR": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_SPRINTEXTENSION": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TITLE_EXPERTSCAVENGING_ALT": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

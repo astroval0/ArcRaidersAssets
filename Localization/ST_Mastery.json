@@ -132,175 +132,424 @@
       },
       "KeysToMetaData": {
         "ID_MASTERY_RANK_1": {
-          "Note": "Level 1"
+          "Note": "Level 1",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_2": {
-          "Note": "Level 2"
+          "Note": "Level 2",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_3": {
-          "Note": "Level 3"
+          "Note": "Level 3",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_4": {
-          "Note": "Level 4"
+          "Note": "Level 4",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_5": {
-          "Note": "Level 5"
+          "Note": "Level 5",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_6": {
-          "Note": "Level 6"
+          "Note": "Level 6",
+          "Status": "approved"
         },
         "ID_MASTERY_NONE_ACTIVE": {
-          "Note": "Error messages for when certain Trials screens are inactive"
+          "Note": "Error messages for when certain Trials screens are inactive",
+          "Status": "approved"
         },
         "ID_MASTERY_NONE_AVAILABLE": {
-          "Note": "Error messages for when certain Trials screens are inactive"
+          "Note": "Error messages for when certain Trials screens are inactive",
+          "Status": "approved"
         },
         "ID_MASTERY_NO_PROGRESS": {
-          "Note": "Error messages for when certain Trials screens are inactive"
+          "Note": "Error messages for when certain Trials screens are inactive",
+          "Status": "approved"
         },
         "ID_MASTERY_MILESTONE": {
-          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. To be used in eg notification in-game, EoR"
+          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. To be used in eg notification in-game, EoR",
+          "Status": "approved"
         },
         "ID_MASTERY_STAGE": {
-          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. Alternative. To be used in eg notification in-game, EoR"
+          "Note": "Something to name the tiers that players reaches per each objective. Also rewards items. Mainly something to refer to. Alternative. To be used in eg notification in-game, EoR",
+          "Status": "approved"
         },
         "ID_MASTERY_REFRESH_TIMER": {
-          "Note": "Message for timer for objective or season refresh"
+          "Note": "Message for timer for objective or season refresh",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UP": {
-          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_TITLE_RANK_DOWN": {
-          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_TITLE_RANK_UNCHANGED": {
-          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)"
+          "Note": "Title for rank change celebration at the end of the week (if we do week or other period)",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_PLACEMENT": {
-          "Note": "Message for placement for the seasonal celebration"
+          "Note": "Message for placement for the seasonal celebration",
+          "Status": "approved"
         },
         "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN": {
-          "Note": "Message for cooldown inbetween new objectives"
+          "Note": "Message for cooldown inbetween new objectives",
+          "Status": "approved"
         },
         "ID_MASTERY_OBJECTIVES_MESSAGE_COOLDOWN_ALT2": {
-          "Note": "Message for cooldown inbetween new objectives"
+          "Note": "Message for cooldown inbetween new objectives",
+          "Status": "approved"
         },
         "ID_MASTERY_LEADERBOARDS_MESSAGE_NOFRIENDS": {
-          "Note": "Message shown on leaderboard in case you dont have any friends"
+          "Note": "Message shown on leaderboard in case you dont have any friends",
+          "Status": "approved"
         },
         "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION": {
-          "Note": "Tooltip when hovering milestone rewards on an objective you haven't reached"
+          "Note": "Tooltip when hovering milestone rewards on an objective you haven't reached",
+          "Status": "approved"
         },
         "ID_MASTERY_MILESTONE_REWARDS_TOOLTIP_DESCRIPTION_REWARDED": {
-          "Note": "Tooltip when hovering milestone rewards on an objective that you have been rewarded"
+          "Note": "Tooltip when hovering milestone rewards on an objective that you have been rewarded",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_RANK_DESCRIPTION_PLACEMENT": {
-          "Note": "Message with added context shown on the rank change celebration"
+          "Note": "Message with added context shown on the rank change celebration",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_RANK_DOWN_DESCRIPTION": {
-          "Note": "Message about being demoted at end of the period"
+          "Note": "Message about being demoted at end of the period",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_RANK_DOWN_INACTIVITY_DESCRIPTION": {
-          "Note": "Message for demotion inactivity during Trials"
+          "Note": "Message for demotion inactivity during Trials",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_RANK": {
-          "Note": "Body text written out when the season has ended and what your final rank was."
+          "Note": "Body text written out when the season has ended and what your final rank was.",
+          "Status": "approved"
         },
         "ID_MASTERY_CELEBRATIONS_SEASONAL_MESSAGE_FINAL_REWARDS": {
-          "Note": "Body text written out on celebration when final rewards are revealed"
+          "Note": "Body text written out on celebration when final rewards are revealed",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_LABEL_NEXT_SEASON_START": {
-          "Note": "Text above timer to show when the next season starts"
+          "Note": "Text above timer to show when the next season starts",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_WEEKS": {
-          "Note": "Timer string"
+          "Note": "Timer string",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_MONTHS": {
-          "Note": "Timer string"
+          "Note": "Timer string",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_DAYS": {
-          "Note": "Timer string"
+          "Note": "Timer string",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_HOURS": {
-          "Note": "Timer string"
+          "Note": "Timer string",
+          "Status": "approved"
         },
         "ID_MASTERY_TIMER_MINUTES": {
-          "Note": "Timer string"
+          "Note": "Timer string",
+          "Status": "approved"
         },
         "ID_MASTERY_TAB_OBJECTIVES": {
-          "Note": "Tab in \"Trials\""
+          "Note": "Tab in \"Trials\"",
+          "Status": "approved"
         },
         "ID_MASTERY_CALCULATING_RANK": {
-          "Note": "Used in between update windows of weekly raids when we dont know"
+          "Note": "Used in between update windows of weekly raids when we dont know",
+          "Status": "approved"
         },
         "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER": {
-          "Note": "Sub header for highest ranks"
+          "Note": "Sub header for highest ranks",
+          "Status": "approved"
         },
         "ID_MASTERY_RANKS_TOP_RANKS_SUBHEADER_ALT": {
-          "Note": "Sub header for highest ranks"
+          "Note": "Sub header for highest ranks",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_TOOLTIP": {
-          "Note": "Mastery reward crate tooltip"
+          "Note": "Mastery reward crate tooltip",
+          "Status": "approved"
         },
         "ID_MASTERY_PERCENTILE_TITLE": {
-          "Note": "Rank rating"
+          "Note": "Rank rating",
+          "Status": "approved"
         },
         "ID_MASTERY_RANKS_SUBTITLE_ALT_2": {
-          "Note": "Rank screen description"
+          "Note": "Rank screen description",
+          "Status": "approved"
         },
         "ID_MASTERY_RANK_NO_RANK": {
-          "Note": "When the user has no rank "
+          "Note": "When the user has no rank ",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_OVERLAY": {
-          "Note": "Info box"
+          "Note": "Info box",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_TOOLTIP_EXPLAINER": {
-          "Note": "Reward tooltip"
+          "Note": "Reward tooltip",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_TOOLTIP_CLAIMED": {
-          "Note": "Reward tooltip when you ahve reviced something"
+          "Note": "Reward tooltip when you ahve reviced something",
+          "Status": "approved"
         },
         "ID_MASTERY_LEADERBOARDS_3X_PROMOTION": {
-          "Note": "Promotion title 3x "
+          "Note": "Promotion title 3x ",
+          "Status": "approved"
         },
         "ID_MASTERY_LEADERBOARDS_3X_PROMOTION_UPFOR": {
-          "Note": "\"Player card\" promotion"
+          "Note": "\"Player card\" promotion",
+          "Status": "approved"
         },
         "ID_MASTERY_END_OF_SEASON_COOL_DOWN": {
-          "Note": "Cooldown text for objectives "
+          "Note": "Cooldown text for objectives ",
+          "Status": "approved"
         },
         "ID_MASTERY_END_OF_SEASON_TITLE": {
-          "Note": "EoS title"
+          "Note": "EoS title",
+          "Status": "approved"
         },
         "ID_MASTERY_END_OF_SEASON_RANK_SUBTITLE": {
-          "Note": "Subtitle in EoS"
+          "Note": "Subtitle in EoS",
+          "Status": "approved"
         },
         "ID_MASTERY_BETWEEN_SEASON_RANK_SUBTITLE": {
-          "Note": "Subtitle for Between seasons"
+          "Note": "Subtitle for Between seasons",
+          "Status": "approved"
         },
         "ID_MASTERY_BETWEEN_SEASON_REWARD_SUBTITLE": {
-          "Note": "Between seasons reward text"
+          "Note": "Between seasons reward text",
+          "Status": "approved"
         },
         "ID_MASTERY_NEW_SEASON_TITLE": {
-          "Note": "New season title"
+          "Note": "New season title",
+          "Status": "approved"
         },
         "ID_MASTERY_NEW_SEASON_SUBTITLE": {
-          "Note": "New season, new rank"
+          "Note": "New season, new rank",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_TRIALS_TITLE": {
-          "Note": "Title for Trials in About section"
+          "Note": "Title for Trials in About section",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_OBJECTIVES_TITLE": {
-          "Note": "Title for Objectives and Milestones in About section"
+          "Note": "Title for Objectives and Milestones in About section",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_LEADERBOARDS_TITLE": {
-          "Note": "Title for Leaderboards in About section"
+          "Note": "Title for Leaderboards in About section",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_SEASONS_TITLE": {
-          "Note": "Title for Seasons in About section"
+          "Note": "Title for Seasons in About section",
+          "Status": "approved"
         },
         "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_4": {
-          "Note": "Description of ranks when new seasons start"
+          "Note": "Description of ranks when new seasons start",
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_DESCRIPTION_PLACEMENT": {
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_DESCRIPTION_DEMOTION": {
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_DESCRIPTION_PROMOTION": {
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_DESCRIPTION_UNCHANGED": {
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_HEADER_NEW_RANK": {
+          "Status": "approved"
+        },
+        "ID_EVENT_RANK_HEADER_END_OF_WEEK": {
+          "Status": "approved"
+        },
+        "ID_EVENT_END_SEASON_HEADER": {
+          "Status": "approved"
+        },
+        "ID_EVENT_END_SEASON_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_ACTIVE_NOW": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_ACTIVE_FOR": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_ACTIVE_IN": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIFICATION_MILESTONE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIFICATION_HIGHSCORE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_POINTS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_POINTS_ALT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FEATURE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NO_VALUE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CELEBRATIONS_TITLE_RANK_NEW": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FEATUREDESCRIPTION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FEATUREDESCRIPTION_BODY": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CELEBRATIONS_LABEL_OLD_RANK": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CELEBRATIONS_RANK_UP_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_SEASON_LABEL_RANK_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MESSAGE_SEASON_IS_OVER": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_SEASON_MESSAGE_UNLOCKED_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_MULTIPLIER_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_AVAILABILITY_ALL_MAPS": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_AVAILABILITY_LIMITED": {
+          "Status": "approved"
+        },
+        "ID_OBJECTIVE_MULTIPLIER_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FEATUREDESCRIPTION_BODY_ALT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CURRENT_RANK_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_NO_RANK_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MILESTONE_REWARD_1": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_SEASON_END_TIMER": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CELEBRATIONS_GO_TO_MASTERY": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MILESTONE_REWARD_2": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MILESTONE_REWARD_3": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_TOP_N_RANK_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_REWARD_RANK_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_REWARD_RANK_REWARDED": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_1": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_TRIALS_DESCRIPTION_1": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_TRIALS_DESCRIPTION_2": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_1": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_2": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_3": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_OBJECTIVES_DESCRIPTION_4": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_1": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_2": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_LEADERBOARDS_DESCRIPTION_3": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_2": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ABOUT_SEASONS_DESCRIPTION_3": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_BETWEEN_SEASON_DID_NOT_PARTICIPATE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_POINTS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_ENABLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_DISABLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_INACTIVE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_NOT_PURCHASED": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_REDEEM": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_ALT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAK_LOST": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_STREAKS_ACTIVE_INFO": {
+          "Status": "approved"
         }
       }
     }

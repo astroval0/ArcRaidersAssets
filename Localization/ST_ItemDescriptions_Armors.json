@@ -10,9 +10,23 @@
       "KeysToEntries": {
         "ID_ITEMDESC_ARMOR_LIGHTBODY": "A lightweight shield that blocks a small portion of incoming damage without impacting mobility.",
         "ID_ITEMDESC_ARMOR_MEDIUMBODY": "A standard shield that blocks a medium portion of incoming damage at a moderate cost to mobility.",
-        "ID_ITEMDESC_ARMOR_HEAVYBODY": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility."
+        "ID_ITEMDESC_ARMOR_HEAVYBODY": "A heavy shield that blocks a large portion of incoming damage, but carries a significant cost to mobility.",
+        "ID_ITEMDESC_ARMOR_DATA_PAYLOAD": "Placeholder Text Description"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ARMOR_LIGHTBODY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMOR_MEDIUMBODY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMOR_HEAVYBODY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMOR_DATA_PAYLOAD": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

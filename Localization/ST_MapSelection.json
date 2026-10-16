@@ -42,7 +42,7 @@
         "ID_MAPSELECTION_PRACTICERANGE_ERRORSQUAD": "Not available while in a squad",
         "ID_MAPSELECTION_PRACTICERANGE_ERRORFILLSQUAD": "Not available while Fill Squad is enabled",
         "ID_MAPSELECTION_DIFFICULTY": "Difficulty",
-        "ID_MAPSELECTION_FROZENTRAIL_TITLE": "Frozen Trail",
+        "ID_MAPSELECTION_FROZENTRAIL_TITLE": "Pendola Pass",
         "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE": "Currently unavailable",
         "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE_ALT1": "Map unavailable",
         "ID_MAPSELECTION_ROTATION_AVAILABLEIN": "Available in:",
@@ -64,14 +64,279 @@
         "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT1": "Destination locked",
         "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT2": "Locked from making changes",
         "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT3": "Locked from changing",
-        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT4": "Changes locked"
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT4": "Changes locked",
+        "ID_MAPSELECTION_REGION_HIDDEN": "Hidden",
+        "ID_MAPSELECTION_FROZENTRAIL_TITLE_ALT1": "Frozen Trail",
+        "ID_MAPSELECTION_LOCATION_LIST": "Location List",
+        "ID_MAPSELECTION_PVE_MATCHMAKING": "PvE Matchmaking",
+        "ID_MAPSELECTION_MATCHMAKING_BETA": "Beta",
+        "ID_MAPSELECTION_TIMELIMITED_BETA": "Time-Limited Beta",
+        "ID_MAPSELECTION_TIMELIMITED_TIMELIMITED": "Time-Limited",
+        "ID_MAPSELECTION_PVPVE_DESCRIPTION": "Allows you to deal damage to both ARC enemies and encountered Raiders.",
+        "ID_MAPSELECTION_PVE_DESCRIPTION": "Allows you to deal damage to ARC enemies, but restricts damage to encountered Raiders.",
+        "ID_MAPSELECTION_DESTINATION_LIST": "Destination list",
+        "ID_MAPSELECTION_DESTINATION_LIST_ALT1": "Destinations",
+        "ID_MAPSELECTION_DESTINATION_LIST_ALT2": "All destinations",
+        "ID_MAPSELECTION_MAP_LIST": "Map list",
+        "ID_MAPSELECTION_MAP_LIST_ALT1": "Maps",
+        "ID_MAPSELECTION_MAP_LIST_ALT2": "All Maps",
+        "ID_MAPSELECTION_PVPVE_TITLE": "PvPvE",
+        "ID_MAPSELECTION_PVPVE_REGULAR_TITLE": "PvPvE (Regular)",
+        "ID_MAPSELECTION_PVE": "PvE",
+        "ID_MAPSELECTION_PVE_BETA": "PvE (Beta)",
+        "ID_MAPSELECTION_PVE_ONLY_BETA": "PvE Only (Beta)",
+        "ID_MAPSELECTION_PVE_ONLY": "PvE Only"
       },
       "KeysToMetaData": {
         "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION": {
-          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)"
+          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)",
+          "Status": "approved"
         },
         "ID_MAPSELECTION_PARTYLEADER_ACCESS_AVAILABLE_DESTINATION_ALT1": {
-          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)"
+          "Note": "Keep short, signal that these are destinations available to your party (thus not necessarily the destinations you usually see (it will always show more, never less). If possible we can give context to why (we show highest access of maps within the party, but this is not a must have)",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SPACEPORT_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SPACEPORT_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SPACEPORT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DAM_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DAM_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DAM_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DAM_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SPACEPORT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DAM_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SPACEPORT_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BURIEDCITY_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BURIEDCITY_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BURIEDCITY_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BURIEDCITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BURIEDCITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_THEBLUEGATE_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_THEBLUEGATE_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_THEBLUEGATE_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_THEBLUEGATE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_SQUADWARNING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_SQUADWARNING": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BREADCRUMB_GEARUP": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BREADCRUMB_PREPARELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BREADCRUMB_CONFIRMLOADOUT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BUTTON_NEXTSTEP": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_ERRORSQUAD": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PRACTICERANGE_ERRORFILLSQUAD": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DIFFICULTY": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_FROZENTRAIL_TITLE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_AVAILABLEIN_QUEUETIME_ALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_ROTATION_MAPUNAVAILABLE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTED_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTED": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BUTTON_SELECT_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_TITLE_DESTINATIONS": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_TITLE_DESTINATIONS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_BUTTON_NEXT": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT3": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_SELECTION_LOCKED_MATCHMAKING_ALT4": {
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_REGION_HIDDEN": {
+          "Note": "When a player has streamer settings on (= Matchmaking Privacy), the Region Tag (corresponding to ID_REGION tags) in the top bar of the map screen should contain a placeholder string",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE_MATCHMAKING": {
+          "Note": "Label for toogle that allows player to play PvE Only Matchmaking Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_MATCHMAKING_BETA": {
+          "Note": "Describing a limited test Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_TIMELIMITED_BETA": {
+          "Note": "Describing a limited test Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_TIMELIMITED_TIMELIMITED": {
+          "Note": "Describing a limited test Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVPVE_DESCRIPTION": {
+          "Note": "Description of what PvPvE matchmaking means Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE_DESCRIPTION": {
+          "Note": "Description of what PvE Only matchmaking means Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DESTINATION_LIST": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DESTINATION_LIST_ALT1": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_DESTINATION_LIST_ALT2": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_MAP_LIST": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_MAP_LIST_ALT1": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_MAP_LIST_ALT2": {
+          "Note": "Label for button that shows all locations Max. char. limit: 30",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVPVE_TITLE": {
+          "Note": "Label for toogle that allows player to play PvPvE Matchmaking Max. char. limit: 10",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVPVE_REGULAR_TITLE": {
+          "Note": "Label for toogle that allows player to play PvPvE Matchmaking Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE": {
+          "Note": "Label for toogle that allows player to play PvE Matchmaking Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE_BETA": {
+          "Note": "Label for toogle that allows player to play PvE Matchmaking Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE_ONLY_BETA": {
+          "Note": "Label for toogle that allows player to play PvE Only Matchmaking Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_MAPSELECTION_PVE_ONLY": {
+          "Note": "Label for toogle that allows player to play PvE Matchmaking Max. char. limit: 20",
+          "Status": "approved"
         }
       }
     }

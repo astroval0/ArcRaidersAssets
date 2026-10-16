@@ -8,7 +8,7 @@
     "StringTable": {
       "TableNamespace": "ST_CHARACTERCUSTOMIZATIONOPTIONS",
       "KeysToEntries": {
-        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY": "Grey",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY": "Gray",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_COLOR": "Color",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_BARREL": "Barrel",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_HARDCASE": "Hardcase",
@@ -83,12 +83,12 @@
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_CAPE": "Cape",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_MASK": "Mask",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_ORANGE_BLUE": "Orange Blue",
-        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_YELLOW": "Grey Yellow",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_YELLOW": "Gray Yellow",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACK_WHITE": "Black White",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_AIR_SUPPLY": "Air Supply",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_KNIFE": "Knife",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_RED_BLACK": "Red Black",
-        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_WHITE": "Grey White",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_WHITE": "Gray White",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_TAN": "Green Tan",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORT": "Short",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_LONG": "Long",
@@ -255,68 +255,895 @@
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKSILVER": "Black Silver",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREENGOLD": "Green Gold",
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_BEIGEBLACK": "Beige Black",
-        "ID_CHARACTERCUSTOMIZATIONOPTIONS_EMISSIVE_TOGGLE_TITLE": "Emissive"
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_EMISSIVE_TOGGLE_TITLE": "Emissive",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURQUOISE": "Turquoise",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PETROL": "Petrol",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CHARCOAL": "Charcoal",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MAGENTA": "Magenta",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NAVY": "Navy",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CORAL": "Coral",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_INDIGO": "Indigo",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREENCAMO": "Green Camo",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GRAYCAMO": "Gray Camo",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKCAMO": "Black Camo",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKCYAN": "Black Cyan",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GOLD": "Gold",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SILVER": "Silver",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BRASS": "Brass",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STEEL": "Steel",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RUST": "Rust",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STRIPED": "Striped",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CHECKERED": "Checkered",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPOTTED": "Spotted",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TIEDYED": "Tie Dyed",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SEQUINED": "Sequined",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PATCHWORK": "Patchwork",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DIRTY": "Dirty",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DAMAGED": "Damaged",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FADED": "Faded",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GLITCHED": "Glitched",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TECHSIDE": "Tech Side",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DENIM": "Denim",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUEDENIM": "Blue Denim",
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CYANPINK": "Cyan Pink"
       },
       "KeysToMetaData": {
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_SCOUT": {
-          "Note": "A type of backpack"
+          "Note": "A type of backpack",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_ACCESSORY": {
-          "Note": "Any object that can be added to a skin"
+          "Note": "Any object that can be added to a skin",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_ACCESSORIES": {
-          "Note": "Any objects that can be added to a skin"
+          "Note": "Any objects that can be added to a skin",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_GLASSES": {
-          "Note": "Eyewear that can be added to a skin"
+          "Note": "Eyewear that can be added to a skin",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_HAIRSTYLE": {
-          "Note": "The way in which the character's  hair is styled"
+          "Note": "The way in which the character's  hair is styled",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_HAIRCUT": {
-          "Note": "The way in which a character's hair is cut"
+          "Note": "The way in which a character's hair is cut",
+          "Status": "approved"
         },
         "ID_REWARD_OUTFIT_TOOLTIP": {
-          "Note": "Tooltip text when hovering an outfit you don't already have."
+          "Note": "Tooltip text when hovering an outfit you don't already have.",
+          "Status": "approved"
         },
         "ID_REWARD_OUTFIT_VARIANT_TOOLTIP": {
-          "Note": "Tooltip text when hovering on an outfit variant you don't already have (i.e. you have the base outfit and some variants, but not all)"
+          "Note": "Tooltip text when hovering on an outfit variant you don't already have (i.e. you have the base outfit and some variants, but not all)",
+          "Status": "approved"
         },
         "ID_REWARD_OUTFIT_COLOR_TOOLTIP": {
-          "Note": "Tooltip text when hovering on an outfit color you don't already have (i.e. you have the base outfit and some variants, but not all)"
+          "Note": "Tooltip text when hovering on an outfit color you don't already have (i.e. you have the base outfit and some variants, but not all)",
+          "Status": "approved"
         },
         "ID_REWARD_OUTFIT_VARIANT_CATEGORY": {
-          "Note": "Name of a cosmetic category"
+          "Note": "Name of a cosmetic category",
+          "Status": "approved"
         },
         "ID_REWARD_OUTFIT_COLOR_CATEGORY": {
-          "Note": "Name of a cosmetic category"
+          "Note": "Name of a cosmetic category",
+          "Status": "approved"
         },
         "ID_REWARD_BACKPACK_VARIANT_CATEGORY": {
-          "Note": "Name of a cosmetic category"
+          "Note": "Name of a cosmetic category",
+          "Status": "approved"
         },
         "ID_REWARD_BACKPACK_COLOR_CATEGORY": {
-          "Note": "Name of a cosmetic category"
+          "Note": "Name of a cosmetic category",
+          "Status": "approved"
         },
         "ID_REWARD_BACKPACK_TOOLTIP": {
-          "Note": "Tooltip text when hovering an backpack you don't already have."
+          "Note": "Tooltip text when hovering an backpack you don't already have.",
+          "Status": "approved"
         },
         "ID_REWARD_BACKPACK_VARIANT_TOOLTIP": {
-          "Note": "Tooltip text when hovering on an backpack variant you don't have (i.e. you have the base backpack and some variants, but not all)"
+          "Note": "Tooltip text when hovering on an backpack variant you don't have (i.e. you have the base backpack and some variants, but not all)",
+          "Status": "approved"
         },
         "ID_REWARD_BACKPACK_COLOR_TOOLTIP": {
-          "Note": "Tooltip text when hovering on an backpack color you don't have (i.e. you have the base backpack and some variants, but not all)"
+          "Note": "Tooltip text when hovering on an backpack color you don't have (i.e. you have the base backpack and some variants, but not all)",
+          "Status": "approved"
         },
         "ID_REWARD_HAIR_COLOR_CATEGORY": {
-          "Note": "Name of a cosmetic category"
+          "Note": "Name of a cosmetic category",
+          "Status": "approved"
         },
         "ID_REWARD_HAIR_TOOLTIP": {
-          "Note": "Tooltip text when hovering a hair style you don't already have."
+          "Note": "Tooltip text when hovering a hair style you don't already have.",
+          "Status": "approved"
         },
         "ID_REWARD_HAIR_COLOR_TOOLTIP": {
-          "Note": "Tooltip text when hovering on an hair style you don't already have (i.e. you have the base hair style and some variants, but not all)"
+          "Note": "Tooltip text when hovering on an hair style you don't already have (i.e. you have the base hair style and some variants, but not all)",
+          "Status": "approved"
         },
         "ID_CHARACTERCUSTOMIZATIONOPTIONS_EMISSIVE_TOGGLE_TITLE": {
-          "Note": "Adds an \"Emissive\" toggle to allow turning on and off of emissives on cosmetics"
+          "Note": "Adds an \"Emissive\" toggle to allow turning on and off of emissives on cosmetics",
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_COLOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BARREL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HARDCASE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HIKING_BAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STANDARD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_RED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_YELLOW": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PURPLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DEFAULT_BACKPACK_FRAME": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_01": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_02": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_04": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_05": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_06": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_07": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_08": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_09": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_03": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_10": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PINK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BROWN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLONDE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_AFROFADE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BACKSLICK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BOBCURLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BOBSLICK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BOBSTRAIGHT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BOWLCUT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BUZZCUT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CORNROWS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FRONTBRAIDS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GOTH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_LONGCURLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MEDIUMCOILY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MIDDLEFADE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORTCLEAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORTPIXIE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORTUPSWEPT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SIDESWEPTFRINGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_UNDERCUT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_UPDOCURLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_UPDOLOOSE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PAULDRONS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_AMMO_POUCH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HEADGEAR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ORANGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DARK_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CYAN_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MESHTOGGLE3": {
+          "Status": "new"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MESHTOGGLE2": {
+          "Status": "new"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MESHTOGGLE1": {
+          "Status": "new"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_GREEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_BLACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ORANGE_WHITE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RED_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SONAR_EMITTER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HIP_BAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ONLY_GOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_GOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BEIGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_EIGHT_BALL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_COPPER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CAPE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MASK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ORANGE_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_YELLOW": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACK_WHITE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_AIR_SUPPLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_KNIFE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RED_BLACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREY_WHITE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_TAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_LONG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NOGOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CYAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BROWN_GREEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_YELLOW_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TEAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUE_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HI_TECH_HIKER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_RED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CLIMBING_AXE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ICE_CLEATS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_COMPASS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MR_PINK": {
+          "Status": "new"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ORANGE_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ROCKETEER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHROUD_HORNS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPORT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HELMET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HELMETNOVISOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HELMETTORCH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_UNDERWATERCAMERA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HOODUP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HOODDOWN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HAT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BEEKEEPERMASK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WATERTANK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURBAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURBANDEFAULT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURBANFACECOVER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURBANSCARFONLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WATERSKIN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HEADGEARWITHYARN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HEADGEARWITHOUTYARN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_YARNFACEFABRIC": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_YARNFACERECORDER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPACECHAPSCAPWITHTECH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPACECHAPSONLYTECH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPACECHAPSCAPONLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPACECHAPSCAP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPACECHAPSHANDTECH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HEADSET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHOULDERPAD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HOSE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HELMETINNER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_VEST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_OXYGENTANK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HIPBAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ARMGUARD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CHESTPLATE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CAP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CAPWITHOUTGOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ONLYGOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TANK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FLASK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WELDINGTOOL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ON": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_OFF": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BRAIDEDBUN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FRENCHBRAIDS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CURLYSHORT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MOHAWK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PONYTAILCURLY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DREADSSIDECUT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RECEDE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MULLET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_AFROLONG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BACKSLICKMESSY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ATTACHMENT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BACKPACKATTACHMENT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BODYTYPE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLANKETROLL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BODYA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BODYB": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NONE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHORTWAVY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_11": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_12": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_13": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_14": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_15": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BASIC": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_FACE_COVER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_TECH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUE_YELLOW": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BOMBER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_YELLOW_GRAY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ONLY_TOP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_TEAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DRAFTY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_BLACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_OPEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MESH_TOGGLE_4": {
+          "Status": "new"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_WHITE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_OUTER_HELMET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_VISOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MACRAME": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACK_GREEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PICKET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUE_WHITE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NO_CAP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TECHBAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SCARF": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TREASURECHEST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_URN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_UTILITY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GLOVES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SHOES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BELT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RADIO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CLOTHING_ITEM": {
+          "Status": "approved"
+        },
+        "ID_REWARD_ITEM_VARIANT": {
+          "Status": "approved"
+        },
+        "ID_REWARD_ITEM_COLOR_VARIANT": {
+          "Status": "approved"
+        },
+        "ID_REWARD_ITEM_VARIANT_ALT": {
+          "Status": "approved"
+        },
+        "ID_REWARD_ITEM_COLOR_VARIANT_ALT": {
+          "Status": "approved"
+        },
+        "ID_REWARD_ITEM_TOOLTIP": {
+          "Status": "approved"
+        },
+        "ID_REWARD_GENERIC_ITEM_TOOLTIP": {
+          "Status": "approved"
+        },
+        "ID_REWARD_GENERIC_VARIANT_TOOLTIP": {
+          "Status": "approved"
+        },
+        "ID_COSMETIC_CATEGORY_CHARM": {
+          "Status": "approved"
+        },
+        "ID_REWARD_GENERIC_ITEM_TOOLTIP_ALT": {
+          "Status": "approved"
+        },
+        "ID_REWARD_GENERIC_VARIANT_TOOLTIP_ALT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_16": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_17": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_18": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_19": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_20": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FACE_21": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_JACKET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_LEGPOUCH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STRAPS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_KNEEPADS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BANDOLIER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_HIPFABRIC": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_LEGACCESSORIES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SURGEONDECK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACK_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_ORANGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREEN_REDYELLOW": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_WHITE_BLACKPINK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKSILVER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREENGOLD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BEIGEBLACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TECHSIDE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GLITCHED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_FADED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DAMAGED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DIRTY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PATCHWORK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SEQUINED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TIEDYED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SPOTTED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CHECKERED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STRIPED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_RUST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_STEEL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BRASS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_SILVER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GOLD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKCYAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLACKCAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GRAYCAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_GREENCAMO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_INDIGO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CORAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_NAVY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_MAGENTA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CHARCOAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_PETROL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_TURQUOISE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_BLUEDENIM": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_DENIM": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERCUSTOMIZATIONOPTIONS_CYANPINK": {
+          "Status": "approved"
         }
       }
     }

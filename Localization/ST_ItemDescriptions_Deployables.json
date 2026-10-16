@@ -26,9 +26,68 @@
         "ID_ITEMDESC_REMOTETRAP_FIREWORKBOX": "A remotely triggered arrangement of dazzling fireworks, sure to put on a show.",
         "ID_ITEMDESC_EMITTERTRAP_TESLACOIL": "A deployable device that periodically electrifies the area around itself and briefly stuns anything caught within it.",
         "ID_ITEMDESC_DEPLOYABLEWHITEFLAG": "A deployable white flag.",
-        "ID_ITEMDESC_DEPLOYABLERAIDERONASTICK": "A deployable Raider helmet on a stick. Surprisingly convincing from afar."
+        "ID_ITEMDESC_DEPLOYABLERAIDERONASTICK": "A deployable Raider helmet on a stick. Surprisingly convincing from afar.",
+        "ID_ITEMDESC_TETHERMINE": "§A tether mine"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_DEPLOYABLEBARRICADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ZIPLINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REMOTEFLARETRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPLOSIVEJUMPMINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_JOLTMINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DOORBLOCKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LASERTRAP_DOTGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LASERTRAP_SMOKEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LASERTRAP_STAMINADOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LASERTRAP_THROWABLEDECOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TIMEDMINE_EXPLOSIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_JUMPMINE_STAMINADOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_JUMPMINE_IMPULSE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DEPLOYABLESOUNDTRAP": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_LAUNCHPAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REMOTETRAP_FIREWORKBOX": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EMITTERTRAP_TESLACOIL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DEPLOYABLEWHITEFLAG": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DEPLOYABLERAIDERONASTICK": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -147,141 +147,722 @@
         "ID_INVENTORY_UNLOADWEAPON": "Unload ammo from weapon",
         "ID_INVENTORY_UNLOADWEAPON_ALT": "Unload weapon",
         "ID_INVENTORY_MODAL_BUTTON_FREE_LOADOUT": "Free loadout",
-        "ID_INVENTORY_MODAL_BUTTON_DEPLOY_ANYWAYS": "Deploy anyways",
+        "ID_INVENTORY_MODAL_BUTTON_DEPLOY_ANYWAYS": "Deploy anyway",
         "ID_INVENTORY_MODAL_BUTTON_CANCEL": "Cancel",
         "ID_INVENTORY_ITEM_TOOLTIP_TRACKING_EXPLANATION_ALT2": "Tracked resource",
         "ID_INVENTORY_ITEM_TOOLTIP_UPGRADE_MODIFIER_TITLE": "Upgrade Modifiers",
         "ID_INVENTORY_ITEM_TOOLTIP_MODIFIER_TITLE": "Modifiers",
         "ID_INVENTORY_SALVAGE_HEADER": "Salvages Into",
         "ID_INVENTORY_AUGMENT_EFFECT_TITLE": "Augment Effect",
-        "ID_INVENTORY_AUGMENT_EFFECT_NO_EFFECT": "No active effect"
+        "ID_INVENTORY_AUGMENT_EFFECT_NO_EFFECT": "No active effect",
+        "ID_INVENTORY_MISSING_FURNITUREBLUEPRINT": "Missing design for furniture item",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_STENCIL": "You'll spend the following resources to learn this stencil:",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_STENCIL": "Learn Stencil",
+        "ID_INVENTORY_UPGRADE_REQUIRED_TIER": "Tier {0}",
+        "ID_INVENTORY_UPGRADE_REQUIRED": "Required",
+        "ID_INVENTORY_ASCENSION_MODULE_NAME": "Bettina ascended",
+        "ID_INVENTORY_ASCENSION_CONFIRM_TITLE": "Ascend weapon",
+        "ID_INVENTORY_ASCENSION_CONFIRM_BODY": "Ascension integrates the module's ARC internals straight into the frame. It's a fundamental change to the weapon and cannot be reverted.",
+        "ID_INVENTORY_ASCENSION_CONFIRM_BUTTON": "Ascend",
+        "ID_INVENTORY_ASCENSION_CONFIRM_CANCEL": "Go back",
+        "ID_INVENTORY_ASCENSION_ATTACH_BUTTON": "Ascend",
+        "ID_INVENTORY_ASCENSION_REQUIREMENT": "Weapon at Tier IV",
+        "ID_INVENTORY_ASCENSION_MODULE_INFO": "Slot Ascension Module Mk II. to unlock this weapon's research board. The weapon must be fully upgraded before a module can be installed",
+        "ID_INVENTORY_ASCENSION_UPGRADE_INDEX": "Ascended upgrade {0} of {1}",
+        "ID_INVENTORY_ASCENSION_NODE_NAME": "Ascended",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_TRACK": "Learn Track",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_TRACK": "You'll spend the following resources to learn this track:",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_FURNITURE": "You'll spend the following resources to learn this design:",
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_FURNITURE": "Learn Design",
+        "ID_INVENTORY_ASCENSION_UPGRADE_CHIP": "Ascended upgrade",
+        "ID_INVENTORY_ASCENSION_REQUIRED": "Requires Amplification",
+        "ID_INVENTORY_COMPATIBILITY_STENCIL_WITH_ITEMS": "Compatible with: {0}",
+        "ID_INVENTORY_ASCENSION_PREVIOUS_UPGRADE_REQUIRED": "Requires previous upgrade {0}",
+        "ID_INVENTORY_ASCENSION_REQUIRED_TO_UNLOCK": "Required to unlock Amplification.",
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_TITLE": "Stencil will be removed",
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_BODY": "This upgrade permanently changes the look of the weapon. The stencil currently applied will be removed, and no stencils can be applied to this weapon afterwards.",
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_BUTTON": "Upgrade",
+        "ID_INVENTORY_AMPLIFY_TAB": "Amplify",
+        "ID_INVENTORY_AMPLIFY_WEAPON": "Amplify",
+        "ID_INVENTORY_AMPLIFICATION_MODULE": "Amplification Module",
+        "ID_INVENTORY_AMPLIFICATION_MODULE_MARK": "Amplification Module MK. {0}",
+        "ID_INVENTORY_FEATURE_NAME": "Weapon Amplification",
+        "ID_INVENTORY_AMPLIFIED_WEAPON_NAME": "Amplified {0}",
+        "ID_INVENTORY_NAVBAR_AMPLIFIED_WEAPON_NAME": "Amplified {0}",
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_TITLE": "Amplify weapon",
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_BODY": "Weapon amplifications are permanent - they cannot be reversed.",
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_CONFIRM_BUTTON": "Amplify",
+        "ID_INVENTORY_AMPLIFICATION_RESEARCH_REQUIREMENT": "Requires research: {research_name}",
+        "ID_INVENTORY_AMPLIFICATION_MODAL_EXCLUSIVE_DISCLAIMER": "This is an exclusive amplification that will block out an alternative amplification chain.",
+        "ID_INVENTORY_AMPLIFICATION_STENCIL_REMOVAL_DISCLAIMER": "This particular amplification will permanently change the look of the weapon. No new stencils can be applied to this weapon.",
+        "ID_INVENTORY_AMPLIFICATION_GUNSMITH_GENERAL_REQUIREMENT": "Requires Gunsmith station",
+        "ID_INVENTORY_AMPLIFICATION_GUNSMITH_LEVEL_REQUIREMENT": "Requires Gunsmith station IV",
+        "ID_INVENTORY_AMPLIFICATION_EXCLUSIVITY_DISCLAIMER": "Blocked by an existing amplification.",
+        "ID_INVENTORY_AMPLIFICATION_WORKSHOP_BUTTON": "Go to Workshop",
+        "ID_INVENTORY_AMPLIFICATION_WEAPON_STATION_REDIRECT_BUTTON": "Go to Gunsmith Station",
+        "ID_INVENTORY_AMPLIFICATION_RESEARCH_STATION_REDIRECT_BUTTON": "Go to the Reserach Station",
+        "ID_INVENTORY_AMPLIFICATION_WEAPON_TILE_AMPLIFICATION_SUMMARY": "Amplification summary",
+        "ID_INVENTORY_AMPLIFICATION_MODULE_REQUIREMENT_DISCLAIMER": "Required to unlock Amplification.",
+        "ID_INVENTORY_AMPLIFICATION_TIER_UPGRADE_TOOLTIP": "Upgrades the weapon to Tier {0}.",
+        "ID_INVENTORY_AMPLIFICATION_MODAL_PERMANENT_DISCLAIMER": "Weapon amplifications are permanent - they cannot be reversed.",
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_LABEL": "New Weapon Mechanic",
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_TITLE": "Weapon Amplification",
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_BODY": "Past encounters with ARC have given Speranza a little more insight into how their technology works.\r\nWeapon Amplification is a way to push your favorite weapons beyond their usual limits and make them into something more.\r\nUnlock the Outpost and upgrade your Gunsmith and Research Stations to Level 4 to amplify your weapons.",
+        "ID_INVENTORY_AMPLIFICATION_REQUIRES_OUTPOST_ACCESS": "Weapon Amplification requires access to the Outpost",
+        "ID_INVENTORY_ITEM_TOOLTIP_AMPLIFIED_DURABILITY_TITLE": "Amplified Durability",
+        "ID_INVENTORY_AMPLIFIED_DURABILITY_INFO": "Amplified weapons have a higher maximum durability."
       },
       "KeysToMetaData": {
         "ID_INVENTORY_STASH_OVERFLOWING_EXPAND": {
-          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further)\""
+          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further)\"",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_EXPAND": {
-          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further) - Alternative\""
+          "Note": "\"Short warning next to the player' stash on the inventory screen, letting them know that their stash has entered the soft limit (too many things in their stash), blocking them from making certain actions, and encouraging them to manage their loot to make space. They can spend credits to expand the size of their stash (which moves the soft limit further) - Alternative\"",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_OVERFLOWING_MAKESPACE": {
-          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side.\""
+          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side.\"",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_MAKESPACE": {
-          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side. - Alternative\""
+          "Note": "\"Short warning next to the player' stash letting the player know that they have now entered the HARD limit and they really need to make space in their stash. Not doing so will prevent them from doing basic actions in the game (deploy, craft, etc). This is due to tech limitations on our side. - Alternative\"",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_WARNING_TITLE": {
-          "Note": "Header of a warning popup"
+          "Note": "Header of a warning popup",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_OVERFLOWING_WARNING_TITLE": {
-          "Note": "Header of a warning popup - Alternative"
+          "Note": "Header of a warning popup - Alternative",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_WARNING": {
-          "Note": "Body text of a warning popup"
+          "Note": "Body text of a warning popup",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_CLOSE": {
-          "Note": "Button of warning popup"
+          "Note": "Button of warning popup",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_FULL_WARNING_BUTTON_MANAGESTASH": {
-          "Note": "Button of warning popup"
+          "Note": "Button of warning popup",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_EXPANSION_LEVEL": {
-          "Note": "Header for stash expansion popup, indicates how many times a player has already expanded their stash"
+          "Note": "Header for stash expansion popup, indicates how many times a player has already expanded their stash",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_EXPANSION_DESCRIPTION": {
-          "Note": "Body text for stash expansion popup"
+          "Note": "Body text for stash expansion popup",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_EXPANSION_CURRENTLEVEL": {
-          "Note": "Info to be displayed on tooltip or in description to indicate the current level of Stash Expansion"
+          "Note": "Info to be displayed on tooltip or in description to indicate the current level of Stash Expansion",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_EXPANSION_SLOTSGAINED": {
-          "Note": "Other informative text to explain the Stash Expansion"
+          "Note": "Other informative text to explain the Stash Expansion",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASH_EXPANSION_PURCHASEBUTTON": {
-          "Note": "CTA"
+          "Note": "CTA",
+          "Status": "approved"
         },
         "ID_INVENTORY_FORMAT_SELL_BUTTON": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_INVENTORY_SELL_PARTIAL_BUTTON": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_INVENTORY_QUICKACTION_CALLOUT_BULKSELECT": {
-          "Note": "Button callout in the bottom bar. Button icon is shown in line"
+          "Note": "Button callout in the bottom bar. Button icon is shown in line",
+          "Status": "approved"
         },
         "ID_INVENTORY_MOREACTIONS_CALLOUT_ALT": {
-          "Note": "Alternative to the \"More actions\" callout shown on tooltips when hovering items"
+          "Note": "Alternative to the \"More actions\" callout shown on tooltips when hovering items",
+          "Status": "approved"
         },
         "ID_INVENTORY_BUTTON_REPAIR_ALL": {
-          "Note": "Title and button to repair all items"
+          "Note": "Title and button to repair all items",
+          "Status": "approved"
         },
         "ID_INVENTORY_MESSAGE_FULL_DURABILITY": {
-          "Note": "Durability maxed out"
+          "Note": "Durability maxed out",
+          "Status": "approved"
         },
         "ID_INVENTORY_MESSAGE_FULL_DURABILITY_ALT2": {
-          "Note": "Durability maxed out"
+          "Note": "Durability maxed out",
+          "Status": "approved"
         },
         "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED": {
-          "Note": "Title to repair everything equipped"
+          "Note": "Title to repair everything equipped",
+          "Status": "approved"
         },
         "ID_INVENTORY_BUTTON_REPAIR_ALL_EQUIPPED_ALT2": {
-          "Note": "Title to repair everything equipped"
+          "Note": "Title to repair everything equipped",
+          "Status": "approved"
         },
         "ID_INVENTORY_SORT_CATEGORY_RECENCY": {
-          "Note": "Sorting name for when things are sorted based on recency"
+          "Note": "Sorting name for when things are sorted based on recency",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_CONDITION": {
-          "Note": "Alternative for durability of Items"
+          "Note": "Alternative for durability of Items",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_CONTENTS": {
-          "Note": "Alternative for durability of Items"
+          "Note": "Alternative for durability of Items",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_CONTENT": {
-          "Note": "Alternative for durability of Items"
+          "Note": "Alternative for durability of Items",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_CHARGE": {
-          "Note": "Alternative for durability of Items"
+          "Note": "Alternative for durability of Items",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_TITLE_MISSING_GEAR": {
-          "Note": "Title for modal that warns about missing gear"
+          "Note": "Title for modal that warns about missing gear",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR": {
-          "Note": "Description in modal that warns about missing gear and reminds about free loadout"
+          "Note": "Description in modal that warns about missing gear and reminds about free loadout",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_DESCRIPTION_MISSING_GEAR_ALT2": {
-          "Note": "Description in modal that warns about missing gear and reminds about free loadout"
+          "Note": "Description in modal that warns about missing gear and reminds about free loadout",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_TITLE_REASONS": {
-          "Note": "Title in modal that lists reasons for why your loadout isn't complete"
+          "Note": "Title in modal that lists reasons for why your loadout isn't complete",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASHBUTTONS_CLEAR_LOADOUT": {
-          "Note": "Option button to move all loadout items to stash."
+          "Note": "Option button to move all loadout items to stash.",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASHBUTTONS_EXPAND": {
-          "Note": "Option button to expand stash."
+          "Note": "Option button to expand stash.",
+          "Status": "approved"
         },
         "ID_INVENTORY_STASHBUTTONS_EXPAND_ALT": {
-          "Note": "Option button to expand stash."
+          "Note": "Option button to expand stash.",
+          "Status": "approved"
         },
         "ID_INVENTORY_UNLOADWEAPON": {
-          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack"
+          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack",
+          "Status": "approved"
         },
         "ID_INVENTORY_UNLOADWEAPON_ALT": {
-          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack"
+          "Note": "Context menu item for removing ammo from weapon and putting in the bagpack",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_BUTTON_FREE_LOADOUT": {
-          "Note": "Button label to go to Free loadout"
+          "Note": "Button label to go to Free loadout",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_BUTTON_DEPLOY_ANYWAYS": {
-          "Note": "Button label to deploy anyways"
+          "Note": "Button label to deploy anyways",
+          "Status": "approved"
         },
         "ID_INVENTORY_MODAL_BUTTON_CANCEL": {
-          "Note": "Button label for cancel"
+          "Note": "Button label for cancel",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_UPGRADE_MODIFIER_TITLE": {
-          "Note": "Header for stats that relates to the Weapon Upgrade level"
+          "Note": "Header for stats that relates to the Weapon Upgrade level",
+          "Status": "approved"
         },
         "ID_INVENTORY_ITEM_TOOLTIP_MODIFIER_TITLE": {
-          "Note": "Header for stats that relates to how the shield affects your character when equipped"
+          "Note": "Header for stats that relates to how the shield affects your character when equipped",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_UNSORTED": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_RARITY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_NAME": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_VALUE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LOADOUT_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LOADOUT_VALUE_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_STASH_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FORMAT_DRAG_AMOUNT": {
+          "Status": "new"
+        },
+        "ID_INVENTORY_FORMAT_SORTING": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FORMAT_ITEM_FOUND_IN_THEME_AREAS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_STASH_FULL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_FOUND_IN_AREAS_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UNEQUIP_MOD_WARNING_STASH_FULL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_MODS_EQUIPPED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_AMMOCOUNT_EXPLANATION": {
+          "Status": "new"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_MODS_EXPLANATION": {
+          "Status": "new"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_TRACKING_EXPLANATION": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_WEIGHT_TEXT_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_INSPECT_ITEM_BUTTON_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_REPAIR_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_GRADUAL_ITEM_REVEAL_TEXT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_DURABILITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_AMMO_TYPE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_MAGAZINE_SIZE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_QUALITY_TIER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_STATS_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_ALL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_GADGETS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_MODIFICATIONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_UTILITIES": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_AMMUNITION": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_CRAFTING": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_MISC": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_UPGRADABLE_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_UPGRADABLE_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_CRAFTING_MATERIAL_WITH_RECIPES": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_EQUIPPED_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_AMMO_WITH_BACKPACK_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_AMMO_INCOMPATIBLE_WITH_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_STASH_EXPAND": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_EQUIPPED_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_INCOMPATIBLE_WITH_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_INCOMPATIBLE_WITH_ARMORS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_EQUIPPED_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_BACKPACK_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_MOD_WITH_BACKPACK_ARMORS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_COUNT_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_COUNT_STASH": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_STASH_FULLY_UPGRADED": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UPGRADE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_GO_TO_WORKSHOP": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UPGRADE_NO_WEAPON_BENCH": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UPGRADE_NO_ARMOR_BENCH": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SORTING_QUALITY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_TOOLTIP_SEARCHING": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_DROP_ITEM": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_QUICK_MOVE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_CONTEXTUAL_MENU": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SPLIT_STACK": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RESET_SCREEN": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UNLOAD_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MERGE_STACKS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_EQUIPPED_MODS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AVAILABLE_MODS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_QUALITY_MODIFIERS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_APPLIED_MOD_EFFECTS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_NEXT_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MAX_CAPACITY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MAX_CAPACITY_DESC": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_AUGMENTATIONS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RECYCLE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LOADOUT_HEADER_WITH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LOADOUT_STANDARD": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_QUEST_TRACKING_EXPLANATION": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_KEYS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_QUICKUSE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_WEAPONMODS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_CRAFTINGMATERIALS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_MISCELLANEOUS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FILTER_TRINKETS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_QUICK_MOVE_HALF": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RECYCLE_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_RECIPE_KNOWN": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MISSING_RECIPE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_DROP_HALF": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_CONTEXTUAL_MENU_MULTIPLE_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MAX_LOADOUT_WEIGHT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MULTI_SELECT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RECYCLE_TITLE_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RECYCLE_TITLE_MULTIPLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_RECYCLE_INFO": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_TRACKING_EXPLANATION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_SALVAGE_HEADER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AUGMENT_EFFECT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AUGMENT_EFFECT_NO_EFFECT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_MISSING_FURNITUREBLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_STENCIL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_STENCIL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UPGRADE_REQUIRED_TIER": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_UPGRADE_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_ATTACH_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_CONFIRM_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_CONFIRM_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_TRACK": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_BODY_FURNITURE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_FURNITURE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFY_TAB": {
+          "Note": "Tab name in the inspect view",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFY_WEAPON": {
+          "Note": "General verb for installing an upgrade to a weapon",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_MODULE": {
+          "Note": "General term to refer to any of the amplification modules the player needs to find",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_MODULE_MARK": {
+          "Note": "Referring to a specific level of an amplification module required for a specific weapon rarity",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_FEATURE_NAME": {
+          "Note": "Feature name",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFIED_WEAPON_NAME": {
+          "Note": "Title of any weapon that has been amplified to any degree (in its info panel); tag contains weapon name",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_NAVBAR_AMPLIFIED_WEAPON_NAME": {
+          "Note": "Title of any weapon that has been amplified to any degree in the Inspect view title in the left part of the top navbar; tag contains weapon name",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_TITLE": {
+          "Note": "Title of the modal where the player confirms they want to irreversibly amplify a weapon",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_BODY": {
+          "Note": "Description text of the modal where the player confirms they want to install an amplification module",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_CONFIRMATION_CONFIRM_BUTTON": {
+          "Note": "Confirmation verb for the amplification confirmation modal",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_RESEARCH_REQUIREMENT": {
+          "Note": "Disclaimer on an amplification node's info panel",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_MODAL_EXCLUSIVE_DISCLAIMER": {
+          "Note": "Disclaimer that when choosing an exclusive path in a fork",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_STENCIL_REMOVAL_DISCLAIMER": {
+          "Note": "Disclaimer when an amplification will force-strip a stencil from a weapon",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_GUNSMITH_GENERAL_REQUIREMENT": {
+          "Note": "Disclaimer on a tier upgrade node's info panel",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_GUNSMITH_LEVEL_REQUIREMENT": {
+          "Note": "Disclaimer on the amplification modules info panel",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_EXCLUSIVITY_DISCLAIMER": {
+          "Note": "Disclaimer text to show on amplifications that are not available because they're part of a blocked branch.",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_WORKSHOP_BUTTON": {
+          "Note": "Shortcut button to go to workshop when necessary in the flow",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_WEAPON_STATION_REDIRECT_BUTTON": {
+          "Note": "Shortcut button to go to the level up tab of the weapon bench when needed",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_RESEARCH_STATION_REDIRECT_BUTTON": {
+          "Note": "Shortcut button to go to the level up tab of the research bench when needed",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_WEAPON_TILE_AMPLIFICATION_SUMMARY": {
+          "Note": "Title of the tooltip on the weapon tile that shows all amplifications applied to that weapon",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_MODULE_REQUIREMENT_DISCLAIMER": {
+          "Note": "Description for the tooltip when the player is hovering an empty amplification module slot",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_TIER_UPGRADE_TOOLTIP": {
+          "Note": "Description text for a tooltip when hovering over the tiers",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_MODAL_PERMANENT_DISCLAIMER": {
+          "Note": "Disclaimer in the confirmation modal for individual weapon amplifications",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_LABEL": {
+          "Note": "Amplification explanatory popup eyebrow label",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_TITLE": {
+          "Note": "Amplification explanatory popup title",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_ONBOARDING_BODY": {
+          "Note": "Amplification explanatory popup body Max. char. limit: 400",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_LEARN_RECIPE_NOTIF_TITLE_TRACK": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_COMPATIBILITY_STENCIL_WITH_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_PREVIOUS_UPGRADE_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_REQUIRED_TO_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_BODY": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ASCENSION_STENCIL_LOSS_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFICATION_REQUIRES_OUTPOST_ACCESS": {
+          "Note": "Short string to show to the player before they get access to amplification (i.e. until they have the outpost, weapon bench IV and research station IV)",
+          "Status": "approved"
+        },
+        "ID_INVENTORY_ITEM_TOOLTIP_AMPLIFIED_DURABILITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INVENTORY_AMPLIFIED_DURABILITY_INFO": {
+          "Status": "approved"
         }
       }
     }

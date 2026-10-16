@@ -41,7 +41,104 @@
         "ID_SESSIONMODIFIERS_POWER_RECHARGE_INCREASE_100_PERCENT": "100% incread power recharge rate",
         "ID_SESSIONMODIFIERS_UNLIMITED_RESPAWNS": "Unlimited respawns"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_SESSIONMODIFIERS_NO_RESPAWNS": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_50_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_MORE_LOOT_ENEMIES": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LESS_LOOT_ENEMIES": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LESS_LOOT_BOXES_25_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_INCREASE_1000_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_MORE_PLAYER_HEALTH_50_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_PLAYER_HEALTH_REGEN": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_PLAYER_DAMAGE_RESISTANCE_50_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_ENEMY_DAMAGE_VULNERABILITY_50_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_PLAYER_DEAL_MORE_DAMAGE": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_ENEMY_DEAL_DAMAGE_100_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_ENEMY_DEAL_LESS_DAMAGE_60_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_FASTER_DBNO_BLEEDOUT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_SLOWER_DBNO_BLEEDOUT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_XP_BOOST_100_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_XP_BOOST_75_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_XP_BOOST_40_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_XP_BOOST_20_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_75_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_40_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_20_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_SCORE_BOOST_10_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_RARE": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_LEGENDARY": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_EPIC": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_RARITY_COMMON": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_200_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_100_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_LOOT_BOOST_20_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_POWER_RECHARGE_INCREASE_100_PERCENT": {
+          "Status": "new"
+        },
+        "ID_SESSIONMODIFIERS_UNLIMITED_RESPAWNS": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

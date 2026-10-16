@@ -13,7 +13,20 @@
         "ID_ITEMDESC_ARMORMOD_HEALOVERTIME_01": "A shield mod that passively heals the user 1 health every 5 seconds.",
         "ID_ITEMDESC_ARMORMOD_STAMINAREGEN_01": "A shield mod that moderately increases the users stamina regeneration rate."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ARMORMOD_EXPLOSIVEDMGRESIST_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORMOD_FALLDMGHEIGHTMODIFIER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORMOD_HEALOVERTIME_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORMOD_STAMINAREGEN_01": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

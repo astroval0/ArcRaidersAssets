@@ -24,22 +24,49 @@
       },
       "KeysToMetaData": {
         "ID_EORJOURNEY_BUTTON_LEAVESQUAD": {
-          "Note": "Leave Squad when exiting End of Round"
+          "Note": "Leave Squad when exiting End of Round",
+          "Status": "approved"
         },
         "ID_EORJOURNEY_BUTTON_STAYINSQUAD": {
-          "Note": "Stay in Squand when exiting End of Round"
+          "Note": "Stay in Squand when exiting End of Round",
+          "Status": "approved"
         },
         "ID_EORJOURNEY_ARC": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_EORJOURNEY_DEAD": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_EORJOURNEY_DBNO": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_EORJOURNEY_LIFT": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_REVIVE": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_HATCH": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_METRO": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_HEAL": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_PATCH": {
+          "Status": "approved"
+        },
+        "ID_EORJOURNEY_LOOT": {
+          "Status": "approved"
         }
       }
     }

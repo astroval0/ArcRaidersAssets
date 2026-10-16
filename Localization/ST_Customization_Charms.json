@@ -99,9 +99,363 @@
         "ID_CUSTOMIZATION_CHARM_FLOPPYDISK": "Floppy Disk",
         "ID_CUSTOMIZATION_CHARM_FLOATER": "Buoy",
         "ID_CUSTOMIZATION_CHARM_GLOWSTICKBUNDLE": "Glowsticks",
-        "ID_CUSTOMIZATION_CHARMS_CONCHSHELL": "Conch Shell"
+        "ID_CUSTOMIZATION_CHARMS_CONCHSHELL": "Conch Shell",
+        "ID_CUSTOMIZATION_CHARM_MOONLANDER": "Moon Lander",
+        "ID_CUSTOMIZATION_CHARM_CANNEDTOMATOES": "Canned Tomatoes",
+        "ID_CUSTOMIZATION_CHARM_VINTAGETOYCAR": "Vintage Toy Car",
+        "LANCEKEYCHAIN": "LanceKeyChain",
+        "ID_CHARACTER_BACKPACKATTACHMENT_ANTLERTALISMAN": "Antler Talisman",
+        "ID_CHARACTER_BACKPACKATTACHMENT_SEXTANT": "Sextant_01_A",
+        "ID_CHARACTER_BACKPACKATTACHMENT_WIRESPOOL": "Wire Spool",
+        "ID_CHARACTER_BACKPACKATTACHMENT_CARAIRFRESHENER": "Car Air Freshener",
+        "ID_CUSTOMIZATION_CHARM_PRESSUREGAUGE": "Pressure Gauge",
+        "ID_CUSTOMIZATION_CHARM_HOTAIRBALLOON": "Hot Air Balloon",
+        "ID_CUSTOMIZATION_CHARM_INSTANTCAMERA": "Instant Film Camera",
+        "ID_CUSTOMIZATION_CHARM_POLAROID_CAMERA": "Polaroid Camera",
+        "ID_CHARACTER_BACKPACKATTACHMENT_ICESCREWS": "Ice Screws",
+        "ID_CHARACTER_BACKPACKATTACHMENT_KILLCOUNTER": "Counter",
+        "ID_CHARACTER_BACKPACKATTACHMENT_HANDHELDLAMP": "Handheld Lamp",
+        "ID_CHARACTER_BACKPACKATTACHMENT_TRAFFICBAND": "Traffic Band",
+        "ID_CUSTOMIZATION_CHARM_COWBELL": "Cowbell",
+        "ID_CUSTOMIZATION_CHARM_GEARBRACELET": "Gear String",
+        "ID_CUSTOMIZATION_CHARM_SHERRIFBADGE": "Sheriff Badge",
+        "ID_CUSTOMIZATION_CHARM_WHISTLEBUNDLE": "Whistle Bundle"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CUSTOMIZATION_CHARM_FISH": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TECH01": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CASETTE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_WATERBOTTLE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SODACAN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ORIGAMI": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_RUBBERDUCK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_LANCEMIXTAPE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_COFFEEPOT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TANK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_WALKIETALKIE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_HARMONICA": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_WINEBOTTLE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TECHGRENADES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_POTTEDPLANT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BANANA": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PLUSHIEBURGER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BOBBLEHEAD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_RECORDER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SALVAGE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_LEMONS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MAGNET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TAPE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ANCHOR": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_POWERROD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CANS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_WEIGHTS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_DEERSKULL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BASEBALL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SMALLBAG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_METALFILE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FIREBALLPART": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ANTISEPTIC": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ALARM": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FLUTE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MASTERY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_JAPANESEGOURD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SCROLL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SPOTTINGSCOPE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TWIGS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SPACETUBE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_DUCTTAPE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_GARDENINGSHEERS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TOYLIZARD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PILOTKEYCHAIN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TRAPCONTROLLER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PAGER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SPACESHUTTLEKEYCHAIN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_COMPUTERMOUSE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MASTERYMEDAL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SCRAPPYENAMELCHARM": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_GOLDENDUCK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CHRISTMASHORN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TOYPLANE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_STAPLER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MEDAL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SNOWGLOBE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_VINTAGEMIC": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FILMREEL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_GOLDENCOIN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PLAYOFFSTICKET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SOCCERFINALSTICKET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MASTERYMEDAL_ROCKETSHIP": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MASTERYMEDAL_SATELLITE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_DEPTHGAUGE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MASTERYMEDAL_DIVINGGOGGLES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_HIGHWAYTORCH": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BRASSTAP": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_RABBITSFOOT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SUNDIAL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FIELDGLASS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ROYALSTEED": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_RECORDPLAYER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_RECORDPLAYEROPTION2": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_TOYROBOT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BONESAW": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_ANEMOMETER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BOLTBUDDIES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_BONDEDBOLTS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARMS_PORTABLEJAMMER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CHICKPENDANT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PORTABLEJAMMER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CHATTERINGTEETH": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MATRYOSHKADOLL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SPACEBLASTER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PINKRABBITFOOT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_POCKETRADAR": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FLOPPYDISK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_FLOATER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_GLOWSTICKBUNDLE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARMS_CONCHSHELL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_MOONLANDER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_CANNEDTOMATOES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_VINTAGETOYCAR": {
+          "Status": "approved"
+        },
+        "LANCEKEYCHAIN": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_ANTLERTALISMAN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_WIRESPOOL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CARAIRFRESHENER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_PRESSUREGAUGE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_INSTANTCAMERA": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_HOTAIRBALLOON": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_POLAROID_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_WHISTLEBUNDLE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_SHERRIFBADGE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_GEARBRACELET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_CHARM_COWBELL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_TRAFFICBAND": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_HANDHELDLAMP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_KILLCOUNTER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_ICESCREWS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

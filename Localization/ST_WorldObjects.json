@@ -148,9 +148,669 @@
         "ID_WORLDOBJECT_LOUDSPEAKER": "Loudspeaker",
         "ID_WORLDOBJECT_DISCOBALL": "Disco Ball",
         "ID_WORLDOBJECT_BEACON": "Beacon",
-        "ID_WORLDOBJECT_SUBMERGEDBEACON": "Submerged Beacon"
+        "ID_WORLDOBJECT_SUBMERGEDBEACON": "Submerged Beacon",
+        "ID_WORLDOBJECTS_MONOLITH_MINE": "ARC Turbine Mine",
+        "ID_WORLDOBJECT_HARVESTERPAYLOUD": "Harvester Payload",
+        "ID_WORLDOBJECT_SECURITY_ANDROID": "Security Android",
+        "ID_WORLDOBJECT_ETCHED_MAP": "Etched Map",
+        "ID_WORLDOBJECT_CHILDHOOD_DRAWINGS": "Childhood Drawings",
+        "ID_WORLDOBJECT_SKYBUCKET_PROTOTYPE": "Ballistic Gondola Prototype",
+        "ID_WORLDOBJECT_SKYBUCKET_PROTOTYPE_ALT1": "Gondola Prototype",
+        "ID_WORLDOBJECT_LOOKOUT_TOWER": "Lookout Tower",
+        "ID_WORLDOBJECT_OLD_HIDEOUT": "Old Hideout",
+        "ID_WORLDOBJECT_OLD_LOOKOUT_TOWER": "Old Lookout Tower",
+        "ID_WORLDOBJECT_RECORDING": "Recording",
+        "ID_WORLDOBJECT_OLD_TAPE": "Old Tape",
+        "ID_WORLDOBJECT_TAPE": "Tape",
+        "ID_WORLDOBJECT_RADIO_TRANSMITTER": "Radio Transmitter",
+        "ID_WORLDOBJECT_RADIO_ANTENNA": "Radio Antenna",
+        "ID_WORLDOBJECT_RADIO_CABLES": "Radio Cables",
+        "ID_WORLDOBJECT_CAIRN": "Cairn",
+        "ID_WORLDOBJECT_NOMAD_CAIRN": "Nomad Cairn",
+        "ID_WORLDOBJECT_NOMAD_FLAGS": "Nomad Flags",
+        "ID_WORLDOBJECT_SUSPICIOUS_CONTRAPTION": "Suspicious Contraption",
+        "ID_WORLDOBJECT_NOMAD_CONTRAPTION": "Nomad Contraption",
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_ALT1": "Emperor Payload",
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_WRECKED_ALT1": "Wrecked Emperor Payload",
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_WRECKED": "Wrecked Harvester Payload",
+        "ID_WORLDOBJECT_POWERCORE": "Power Core",
+        "ID_WORLDOBJECT_CARGOCRATE": "Cargo Crate",
+        "ID_WORLDOBJECT_CARGOCRATE_ALT1": "Precious Cargo Crate",
+        "ID_WORLDOBJECT_MYSTERIOUSSPHERE": "Spherical Contraption",
+        "ID_WORLDOBJECT_NOMADCONTRAPTION": "Nomad Contraption",
+        "ID_WORLDOBJECT_NOMADCONTRAPTION_ALT1": "Nomad Trap",
+        "ID_WORLDOBJECT_SECURITYBOOTH": "Security Booth",
+        "ID_WORLDOBJECT_REINFORCEDBUS": "Reinforced Bus",
+        "ID_WORLDOBJECT_WALLBREACH": "Wall Breach",
+        "ID_WORLDOBJECT_LAUNCHPLATFORM": "Launch Platform",
+        "ID_WORLDOBJECT_MANTIKOR_PACKAGE": "MANTIKOR Package",
+        "ID_WORLDOBJECT_TRAILMARKER": "Trail Marker",
+        "ID_WORLDOBJECT_GONDOLA_PROTOTYPE": "Gondola Prototype",
+        "ID_WORLDOBJECT_GONDOLA_PROTOTYPE_ALT1": "Ballistic Gondola Prototype",
+        "ID_WORLDOBJECT_FRIGATECOURIER": "ARC Reclaimer",
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT1": "ARC Hauler",
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT2": "ARC Scout",
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT3": "ARC Recon",
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT4": "ARC Identifier",
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT5": "ARC Designator",
+        "ID_WORLDOBJECT_NOMADCACHE": "Nomad Cache",
+        "ID_WORLDOBJECT_NOMADBACKPACK": "Nomad Backpack",
+        "ID_WORLDOBJECT_NOMADBASKET": "Nomad Basket",
+        "ID_WORLDOBJECT_NOMADJAR": "Nomad Jar",
+        "ID_WORLDOBJECT_NOMADCONTAINER": "Nomad Container",
+        "ID_WORLDOBJECT_FROZENCONTAINER": "Frozen Container",
+        "ID_WORLDOBJECT_FROZENDOOR": "Frozen Door",
+        "ID_WORLDOBJECTS_TRAIL_MARKER": "Trail Marker",
+        "ID_WORLDOBJECTS_NOMAD_CACHE": "Nomad Cache",
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDWIRE": "Electrified Wire",
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDSURFACE": "Electrified Surface",
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDMACHINERY": "Electrified Machinery",
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDGENERATOR": "Electrified Generator",
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_BURIED": "Buried Harvester Payload",
+        "ID_WORLDOBJECT_COLLECTORPAYLOAD_BURIED": "Buried Emperor Payload"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_WORLDOBJECT_CRASHEDARCPROBE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ARCPROBE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SUPPLYFLARE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_GENERICCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RAIDERFLARE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ROCKETEERHUSK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_WASPHUSK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FUELCELL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SUPPLYCALLSTATION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ZIPLINE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DOOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_METALDETECTOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CARALARM": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ARCCOURIER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_POWERSWITCH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SUPPLYDROP": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BARONHUSK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_QUESTOBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RAIDERCACHE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_WRITTENNOTE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTABLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FUSIONCORE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_GENERATOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_AMMOBOX": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_RAIDERBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_GRENADECONTAINER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_MEDICALBAG": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_WEAPONCASE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_CAR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_BIRD": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_DROID_1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_DROID_2": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_DROID_3": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_DEADDROP": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SEWAGEPIPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BEENEST": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_VISTASPOT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PHARMACISTPIANO": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PHARMACISTPORTRAIT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PHARMACISTPLANT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PHARMACISTTABLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RAIDERMEMORIAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_BURIED_MINE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_PURIFIER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_DROPOFF": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_DOWNLOADCONSOLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_TUBEREQUESTTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_TUBEDELIVERYTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MULTIPOWERSTATION_CARRYABLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MULTIPOWERRACK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MULTIPOWERSTATION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_STRONGROOMDOOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_VACUUMTUBE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_THERMAL_ROCK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_RECHARGE_STATION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DEFORESTERHUSK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DEFORESTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ARMOREDPATROLCAR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MOTIONSENSOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PATROLCAR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SOUNDTRAP_ANDROID": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CONTAINER_FRUITBASKET": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CANDLEBERRYBUSH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_METALCAGE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FLUSHINGTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FILTRATIONSYSTEM": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PURIFICATIONSYSTEM": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MAGNETICDECRYPTOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_SNOWPILE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SHIPPINGNOTES": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RESEARCHNOTES": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SHIPPINGCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COMPUTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BIRDS": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_SERVER_SWITCH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BROKENCALLSTATION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BROKENRETURNPOINT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_LOCKEDCALLSTATION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_LOCKEDRETURNPOINT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SERVERS": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COVERSPOT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BICYCLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SALTBATTERY": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BATTERYPROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SALTBATTERYPROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DUSTYFILMREEL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_INDUSTRIALRECHARGER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ACCESSCARDPRINTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PRINTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PEDANTICANDROID": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_VAULT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DIGITALLOGBOOK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SAFE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BLUEPRINTS_EVERGREEN": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SCATHINGREPORT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FINANCIALREPORT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MANIFESTO_PAGE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MANIFESTO": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CHARGEDBATTERYPROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CHARGEDSALTBATTERY": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CHARGEDSALTBATTERYPROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RETRIEVE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FIRSTWAVERAIDERCACHE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RAIDERSTRUCTURE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SATELLITEDISH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COMMSTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_OBSERVATIONDECK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECLUDEDSHELTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HIGHWAYSHELTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SAFECODE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SAFECODE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_MASTLIFT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PIANO": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FIELDRADIO": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MUSICPLAYER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DODGERSSTASH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DODGERSBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECURITYTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_EMERGENCYSIREN": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_EXTRACTOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECURITYCONSOLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COMPUTERTERMINAL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECRETMEETINGSYMBOL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MYSTERIOUSPAPERBOX": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_PAPERBOX": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BIOSUITE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_COMBAT_SUPPLIES": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BUOY": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HIGHGAINANTENNA": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_LOUDSPEAKER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_DISCOBALL": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_BEACON": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SUBMERGEDBEACON": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_MONOLITH_MINE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTERPAYLOUD": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECURITY_ANDROID": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_ETCHED_MAP": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CHILDHOOD_DRAWINGS": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SKYBUCKET_PROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SKYBUCKET_PROTOTYPE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_LOOKOUT_TOWER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_OLD_HIDEOUT": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_OLD_LOOKOUT_TOWER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RECORDING": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_OLD_TAPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_TAPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RADIO_TRANSMITTER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RADIO_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_RADIO_CABLES": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CAIRN": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMAD_CAIRN": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMAD_FLAGS": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SUSPICIOUS_CONTRAPTION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMAD_CONTRAPTION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_WRECKED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_WRECKED": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_POWERCORE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CARGOCRATE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_CARGOCRATE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MYSTERIOUSSPHERE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADCONTRAPTION": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADCONTRAPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_SECURITYBOOTH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_REINFORCEDBUS": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_WALLBREACH": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_LAUNCHPLATFORM": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_MANTIKOR_PACKAGE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_TRAILMARKER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_GONDOLA_PROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_GONDOLA_PROTOTYPE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT2": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT3": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT4": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FRIGATECOURIER_ALT5": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADCACHE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADBASKET": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADJAR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_NOMADCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FROZENCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_FROZENDOOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_TRAIL_MARKER": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECTS_NOMAD_CACHE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDWIRE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDSURFACE": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDMACHINERY": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COLLECTOR_ELECTRIFIEDGENERATOR": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_HARVESTERPAYLOAD_BURIED": {
+          "Status": "approved"
+        },
+        "ID_WORLDOBJECT_COLLECTORPAYLOAD_BURIED": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

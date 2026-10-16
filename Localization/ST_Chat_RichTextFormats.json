@@ -15,7 +15,26 @@
         "ID_RICHTEXTFORMAT_CHAT_CHANNEL_PARTY": "<img id=\"Chat_Party\"/><color key=\"SecondaryMid\">[{0}]</>",
         "ID_RICHTEXTFORMAT_CHAT_DESTINATION_PING": "<img id=\"Chat_Party\"/><color key=\"SecondaryMid\">[{0}] {1}: {2}</>"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_RICHTEXTFORMAT_CHAT_PARTY": {
+          "Status": "approved"
+        },
+        "ID_RICHTEXTFORMAT_CHAT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_RICHTEXTFORMAT_CHAT_FAILED_TO_SEND": {
+          "Status": "approved"
+        },
+        "ID_RICHTEXTFORMAT_CHAT_CHANNEL_CLAN": {
+          "Status": "approved"
+        },
+        "ID_RICHTEXTFORMAT_CHAT_CHANNEL_PARTY": {
+          "Status": "approved"
+        },
+        "ID_RICHTEXTFORMAT_CHAT_DESTINATION_PING": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

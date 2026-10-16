@@ -26,11 +26,85 @@
         "ID_RAIDERTOOLCOSMETIC_GILDEDPICKAXE": "Gilded Pickaxe",
         "ID_RAIDERTOOLCOSMETIC_SPYGLASSSTAFF": "Spyglass Staff",
         "ID_RAIDERTOOLCOSMETIC_THRUSTERHAMMER": "Thruster Hammer",
-        "ID_RAIDERTOOLCOSMETIC_WHALER": "Whaler"
+        "ID_RAIDERTOOLCOSMETIC_WHALER": "Whaler",
+        "ID_RAIDERTOOLCOSMETIC_BASTIONMACE": "Bastion Mace",
+        "ID_RAIDERTOOLCOSMETIC_ARCTICFOX": "Glacier Smasher",
+        "ID_RAIDERTOOLCOSMETIC_ICECLIMBER": "IceClimber",
+        "ID_RAIDERTOOLCOSMETIC_REAVERTOOL": "ReaverTool",
+        "ID_RAIDERTOOLCOSMETIC_RENEGADE": "Scasso",
+        "ID_RAIDERTOOLCOSMETIC_SCRAPMECHANIC": "Welded Pickaxe"
       },
       "KeysToMetaData": {
         "ID_RAIDERTOOLCOSMETIC_RAIDERTOOL_ITEMCATEGORY": {
-          "Note": "Category for the right panel on the raider tool customization page"
+          "Note": "Category for the right panel on the raider tool customization page",
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICK": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_CLIMBINGAXE": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_RITUALSTAFF": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_BOATHOOK": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SLEDGEHAMMER": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_HIKINGSTICK": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SHOVEL": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICKAXE": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_HOCKEYSTICKAXEOPTION2": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SHARKTOOTHCLUB": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_RESCUESHOVEL": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SPACEWRENCH": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_PIPEWRENCH": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SNOWRESCUETOOL": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_GILDEDPICKAXE": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SPYGLASSSTAFF": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_THRUSTERHAMMER": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_WHALER": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_BASTIONMACE": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_SCRAPMECHANIC": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_ARCTICFOX": {
+          "Status": "approved"
+        },
+        "ID_RAIDERTOOLCOSMETIC_RENEGADE": {
+          "Status": "approved",
+          "Note": "Renamed the Renegade Raider Tool to avoid confusion with the weapon and outfit of the same name"
         }
       }
     }

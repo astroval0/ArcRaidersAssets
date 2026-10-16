@@ -14,14 +14,35 @@
         "ID_ITEMNAMES_ARMORS_SHRAPNEL_BARRIER": "Shrapnel Barrier",
         "ID_ITEMNAMES_ARMORS_CUSHION_MOD": "Cushion Mod",
         "ID_ITEMNAMES_ARMORS_VITA_PUMP": "Vita Pump",
-        "ID_ITEMNAMES_ARMORS_HYDRATION_PACK": "Hydration Pack"
+        "ID_ITEMNAMES_ARMORS_HYDRATION_PACK": "Hydration Pack",
+        "ID_ITEMNAMES_ARMORS_DATA_PAYLOAD": "Data Payload Placeholder"
       },
       "KeysToMetaData": {
         "ID_ITEMNAMES_ARMORS_VITA_PUMP": {
-          "Note": "mod for shied"
+          "Note": "mod for shied",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_ARMORS_HYDRATION_PACK": {
-          "Note": "mod for shield"
+          "Note": "mod for shield",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_HEAVY_SHIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_LIGHT_SHIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_MEDIUM_SHIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_SHRAPNEL_BARRIER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_CUSHION_MOD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMORS_DATA_PAYLOAD": {
+          "Status": "new"
         }
       }
     }

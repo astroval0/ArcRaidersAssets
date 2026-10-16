@@ -23,7 +23,50 @@
         "ID_ITEMNAMES_AUGMENTEFFECT_XLSAFEPOCKET": "Unrestricted Safe Pocket",
         "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDDEFIB": "Integrated Defibrillator"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_AUGMENTEFFECT_HEALTHREGEN1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_HEALTHREGEN2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_QUICKDRAW": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_EMERGENCYSMOKE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_ANTITICKFIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_MOBILEREPAIR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_REVIVALTOPUP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_EMERGENCYADDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_FULLBODYTOURNIQUET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDSHIELDRECHARGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDBINOCULARS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_AUTOLOADER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_XLSAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AUGMENTEFFECT_INTEGRATEDDEFIB": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

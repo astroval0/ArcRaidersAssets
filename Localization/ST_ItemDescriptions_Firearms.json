@@ -53,9 +53,176 @@
         "ID_ITEMDESC_LAUNCHER_ANTIARC_MEDIUM_01_SHORT": "Fires explosive projectiles that only detonate when hitting ARC.",
         "ID_ITEMDESC_SHOTGUN_ENERGY_ADJUSTABLE_01": "An experimental weapon that can either fire a wide short range blast, or be focused to fire a tight medium range beam of heat.",
         "ID_ITEMDESC_SMG_MEDIUM_01": "Fully automatic submachine gun with a larger caliber.",
-        "ID_ITEMDESC_SMG_MEDIUM_01_SHORT": "Strong & nimble, but hard to control without mods."
+        "ID_ITEMDESC_SMG_MEDIUM_01_SHORT": "Strong & nimble, but hard to control without mods.",
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_SINGLESHOT_01": "An improvised grenade launcher whose projectiles only detonate when hitting ARC.",
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_SINGLESHOT_01_SHORT": "Fires explosive projectiles that only detonate when hitting ARC.",
+        "ID_ITEMDESC_HANDCANNON_DOUBLEACTION_SNUBNOSE_01": "Short-barrel revolver with varied fire rate, good handling and damage, but with low accuracy, control and range.",
+        "ID_ITEMDESC_BATTLERIFLE_SEMIAUTO_LIGHT_01": "Semi-automatic rifle with high accuracy, good handling and low initial recoil, but becomes harder to handle with sustained fire.",
+        "ID_ITEMDESC_PISTOL_ENERGY_01": "§Energy_Pistol_Desc",
+        "ID_ITEMDESC_HANDCANNON_DOUBLEACTION_SNUBNOSE_01_SHORT": "Has high damage output and handling, but poor accuracy and range.",
+        "ID_ITEMDESC_BATTLERIFLE_SEMIAUTO_LIGHT_01_SHORT": "Has low initial recoil and dispersion, with good handling and mobility."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ASSAULTRIFLE_BULLPUP_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_PNEUMATIC_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_BREACHACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_LEVERACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HANDCANNON_SINGLEACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_SILENCED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUN_PUMPACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUN_SEMIAUTO_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNIPERRIFLE_BOLTACTION_BULLPUP_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPECIAL_BEAMRIFLE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_BURST_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_HIGHPOWER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNIPERRIFLE_BOLTACTION_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPECIAL_RAILGUN_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_HEAVY_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_ENERGYBURST_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_BULLPUP_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_BURST_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_HEAVY_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_LOWTIER_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSAULTRIFLE_PNEUMATIC_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_BREACHACTION_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_ENERGYBURST_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_LEVERACTION_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HANDCANNON_SINGLEACTION_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LMG_MEDIUM_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_HIGHPOWER_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_SILENCED_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUN_PUMPACTION_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUN_SEMIAUTO_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_LOWTIER_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNIPERRIFLE_BOLTACTION_BULLPUP_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNIPERRIFLE_BOLTACTION_MEDIUM_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPECIAL_RAILGUN_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_MEDIUM_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUN_ENERGY_ADJUSTABLE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMG_MEDIUM_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_SINGLESHOT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LAUNCHER_ANTIARC_SINGLESHOT_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PISTOL_ENERGY_01": {
+          "Status": "new"
+        },
+        "ID_ITEMDESC_HANDCANNON_DOUBLEACTION_SNUBNOSE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_SEMIAUTO_LIGHT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HANDCANNON_DOUBLEACTION_SNUBNOSE_01_SHORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BATTLERIFLE_SEMIAUTO_LIGHT_01_SHORT": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

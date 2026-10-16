@@ -19,7 +19,29 @@
       },
       "KeysToMetaData": {
         "ID_PLAYERSTATS_SQUADMEMBER": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_SELF": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_ENEMY": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_CAREER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_CHARACTERS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_OVERVIEW": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_ROUNDS_RETURNED_SAFELY": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSTATS_ROUNDS_KNOCKED_OUT": {
+          "Status": "approved"
         }
       }
     }

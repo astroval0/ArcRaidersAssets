@@ -9,7 +9,7 @@
       "TableNamespace": "ST_Quests",
       "KeysToEntries": {
         "ID_QUESTS_OBJECTIVES": "Objectives",
-        "ID_QUESTS_GRANTED_ITEMS": "Granted Items",
+        "ID_QUESTS_GRANTED_ITEMS": "Quest Supplies",
         "ID_QUESTS_REWARDS": "Rewards",
         "ID_QUESTS": "Quests",
         "ID_QUESTS_NO_QUESTS": "You don't have any available quests.",
@@ -36,27 +36,154 @@
         "ID_QUESTS_GO_TO_QUEST": "Go to Quest",
         "ID_QUESTS_GO_TO_TRADER": "Go to Trader",
         "ID_QUESTS_NEXT_QUEST": "Next Quest",
-        "ID_QUESTS_MORE_QUESTS": "{0} more",
+        "ID_QUESTS_MORE_QUESTS": "+ {0} more",
         "ID_QUESTS_OPTIONAL": "Optional",
         "ID_QUESTS_OPTIONAL_ALT": "(Optional)",
         "ID_QUESTS_OPTIONAL_AND_QUEST": "(Optional) {0}",
-        "ID_QUESTS_OPTIONAL_ABBREVIATION": "OPT"
+        "ID_QUESTS_OPTIONAL_ABBREVIATION": "OPT",
+        "ID_QUESTS_COMPLETE_N_OF": "Complete {0}",
+        "ID_QUESTS_COMPLETE_EITHER_OR": "Complete either or",
+        "ID_QUESTS_QUEST_SUPPLIES": "Quest supplies",
+        "ID_QUESTS_BONUS_REWARDS": "Bonus rewards",
+        "ID_QUESTS_MORE": "More",
+        "ID_QUESTS_LESS": "Less",
+        "ID_QUESTS_COMPLETE_ALL_OPTIONAL_OBJECTIVES": "Complete all optional objectives",
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP": "One of the Traders may be interested in the item you picked up.",
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP_ALT1": "Quest item picked up",
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP_ALT2": "Quest unlock item picked up",
+        "ID_QUESTS_FRIGATE": "Frigate"
       },
       "KeysToMetaData": {
         "ID_QUESTS_MORE_QUESTS": {
-          "Note": "Lets the player know there are more quests avaialble/active than the 3 shown on the widget in the Cantina"
+          "Note": "Lets the player know there are more quests avaialble/active than the 3 shown on the widget in the Cantina",
+          "Status": "approved"
         },
         "ID_QUESTS_OPTIONAL": {
-          "Note": "String used to describe a optional quest objective"
+          "Note": "String used to describe a optional quest objective",
+          "Status": "approved"
         },
         "ID_QUESTS_OPTIONAL_ALT": {
-          "Note": "String used to describe a optional quest objective"
+          "Note": "String used to describe a optional quest objective",
+          "Status": "approved"
         },
         "ID_QUESTS_OPTIONAL_AND_QUEST": {
-          "Note": "String used to describe a optional quest objective, next to a quest objective"
+          "Note": "String used to describe a optional quest objective, next to a quest objective",
+          "Status": "approved"
         },
         "ID_QUESTS_OPTIONAL_ABBREVIATION": {
-          "Note": "Abbreviation used to describe a optional quest objective"
+          "Note": "Abbreviation used to describe a optional quest objective",
+          "Status": "approved"
+        },
+        "ID_QUESTS_OBJECTIVES": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_GRANTED_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NO_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NO_NEW_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NEW_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_CLAIMABLE": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NO_TRACKED_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_TO_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_IN_ONE_MISSION": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_IN_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NEW_QUEST": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_GO_TO_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_COMPLETE": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_BACK_TO_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_TO_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_DAILY": {
+          "Status": "new"
+        },
+        "ID_QUESTS_WEEKLY": {
+          "Status": "new"
+        },
+        "ID_QUESTS_MILESTONE": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_BACK_TO_TRADES": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_LABEL_OPTIONAL_OBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_GO_TO_QUEST": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_GO_TO_TRADER": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_NEXT_QUEST": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP": {
+          "Note": "This would go to the quest notification upon picking up an item that triggers a hidden quest to reveal itself",
+          "Status": "approved"
+        },
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP_ALT1": {
+          "Note": "Title for quest notification when item was picked up",
+          "Status": "approved"
+        },
+        "ID_QUESTS_ITEM_UNLOCK_TOOLTIP_ALT2": {
+          "Note": "Title for quest notification when item was picked up",
+          "Status": "approved"
+        },
+        "ID_QUESTS_QUEST_SUPPLIES": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_BONUS_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_MORE": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_LESS": {
+          "Status": "approved"
+        },
+        "ID_QUESTS_COMPLETE_ALL_OPTIONAL_OBJECTIVES": {
+          "Status": "approved"
         }
       }
     }

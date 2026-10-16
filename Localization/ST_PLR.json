@@ -1,0 +1,21 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PLR",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PLR",
+    "StringTable": {
+      "TableNamespace": "ST_PLR",
+      "KeysToEntries": {
+        "ID_PLR_FEATURE_NAME": "§PLR",
+        "ID_PLR_TRACK_LEARNED_NOTIF_TITLE": "Track learned"
+      },
+      "KeysToMetaData": {
+        "ID_PLR_TRACK_LEARNED_NOTIF_TITLE": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

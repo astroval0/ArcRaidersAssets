@@ -1,0 +1,154 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_SpecialTrinkets",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_SpecialTrinkets",
+    "StringTable": {
+      "TableNamespace": "ST_SpecialTrinkets",
+      "KeysToEntries": {
+        "ID_TRINKET_ELEPHANTOBELISK": "Elephant Obelisk",
+        "ID_TRINKET_TELLURION": "Tellurion",
+        "ID_TRINKET_EQUATORIALSUNDAL": "Equatorial Sundial",
+        "ID_TRINKET_TRAINMODEL": "Train Model",
+        "ID_TRINKET_FOOTBALLERSHOES": "Colorful Shoes",
+        "ID_TRINKET_FOOTBALLERSHOES_RED": "Colorful Shoes (Red)",
+        "ID_TRINKET_FOOTBALLERSHOES_GREEN": "Colorful Shoes (Green)",
+        "ID_TRINKET_FOOTBALLERSHOES_SILVER": "Colorful Shoes (Rare Silver)",
+        "ID_TRINKET_VINTAGESTEERINGWHEEL": "Vintage Steering Wheel",
+        "ID_TRINKET_FOOTBALLERSHOES_PURPLE": "Colorful Shoes (Purple)",
+        "ID_TRINKET_SEXTANT": "Sextant",
+        "ID_TRINKET_ELEPHANTOBELISK_DESC": "An object of particular nomadic fixation, some believe that these legendary beasts of burden carried the Launch Towers into place.",
+        "ID_TRINKET_EQUATORIALSUNDAL_DESC": "A marvel of ancient ingenuity, those with a penchant for stargazing may find the mesmerizing patterns oddly familiar.",
+        "ID_TRINKET_FOOTBALLERSHOES_DESC": "This specialized footwear is adorned with vibrant ceremonial designs, and designed to anchor the wearer to the ground. It is thought to have belonged to ancient wanderers of great renown.",
+        "ID_TRINKET_SEXTANT_DESC": "Once thought to be a rudimentary spaceship prototype, it is claimed by the Nomads to be a sophisticated method for documenting one’s travels.",
+        "ID_TRINKET_TELLURION_DESC": "A marvel of ancient ingenuity, those with a penchant for stargazing may find the mesmerizing patterns oddly familiar.",
+        "ID_TRINKET_TRAINMODEL_DESC": "Hand-crafted with full underbody detailing, these models offer a surprisingly intricate schematic of pre-Exodus locomotion.",
+        "ID_TRINKET_VINTAGESTEERINGWHEEL_DESC": "A harmonious artifact of three-way symmetry, some Nomads believe this to be an ancient reliquary honoring the lunar, the solar and the terrestrial.",
+        "ID_TRINKET_CORRUPTEDARCPART_01": "Glitched ARC Power Converter",
+        "ID_TRINKET_CORRUPTEDARCPART_DESC": "Corrupted part placeholder description",
+        "ID_TRINKET_CORRUPTEDARCPART_02": "Glitched ARC Transmitter",
+        "ID_TRINKET_CORRUPTEDARCPART_03": "Glitched ARC Phased Array",
+        "ID_TRINKET_CORRUPTEDARCPART_04": "Glitched ARC Light Ring",
+        "ID_TRINKET_CORRUPTEDARCPART_05": "Glitched ARC Circuitry",
+        "ID_TRINKET_CORRUPTEDARCPART_07": "Glitched Wasp Transmitter",
+        "ID_TRINKET_CORRUPTEDARCPART_06": "Glitched Wasp Power Converter",
+        "ID_TRINKET_CORRUPTEDARCPART_08": "Glitched Wasp Phased Array",
+        "ID_TRINKET_CORRUPTEDARCPART_09": "Glitched Wasp Light Ring",
+        "ID_TRINKET_CORRUPTEDARCPART_10": "Glitched Wasp Circuits",
+        "ID_TRINKET_CORRUPTEDARCPART_01_DESC": "A compact, cylindrical part with multiple metallic layers. Its industrial architecture suggests a heavy-duty energy transformation function.",
+        "ID_TRINKET_CORRUPTEDARCPART_02_DESC": "A metallic part with a hollow center, like a socket or port waiting for a plug, with four antenna-like prongs at its corners.",
+        "ID_TRINKET_CORRUPTEDARCPART_03_DESC": "A part composed of hundreds of miniscule repeating metallic cells. It exhibits electrical integration and appears mechanically immobile.",
+        "ID_TRINKET_CORRUPTEDARCPART_04_DESC": "A circular light located on the undercarriage of the glitched Wasp.",
+        "ID_TRINKET_CORRUPTEDARCPART_05_DESC": "A hefty, electro-mechanical part with integrated magnetic circuitry. Perhaps used for data storage or processing."
+      },
+      "KeysToMetaData": {
+        "ID_TRINKET_ELEPHANTOBELISK": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_TELLURION": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_EQUATORIALSUNDAL": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_TRAINMODEL": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES_RED": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES_GREEN": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES_SILVER": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_VINTAGESTEERINGWHEEL": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES_PURPLE": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_SEXTANT": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_ELEPHANTOBELISK_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_EQUATORIALSUNDAL_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_FOOTBALLERSHOES_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_SEXTANT_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_TELLURION_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_TRAINMODEL_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_VINTAGESTEERINGWHEEL_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_01": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_02": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_03": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_04": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_05": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_07": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_06": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_08": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_09": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_10": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_01_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_02_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_03_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_04_DESC": {
+          "Status": "approved"
+        },
+        "ID_TRINKET_CORRUPTEDARCPART_05_DESC": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

@@ -63,26 +63,226 @@
         "ID_MARKER_COMPASS_EXTRACTION_BROKEN": "Broken - {0}",
         "ID_MARKER_COMPASS_EXTRACTION_LOCKED": "Locked - {0}",
         "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT_REQUIRESREPAIR": "Requires Repair",
-        "ID_TOOLTIP_EXTRACTION_REQUIRED_REPAIR_MATERIALS": "Repair Materials"
+        "ID_TOOLTIP_EXTRACTION_REQUIRED_REPAIR_MATERIALS": "Repair Materials",
+        "ID_MARKER_EXTRACTION_MULTIPROBE": "Ballistic Gondola",
+        "ID_MARKER_EXTRACTION_TRANSCEIVER": "Gondola Transceiver",
+        "ID_MARKER_ARC_REPAIR_DROP": "Emperor Payload",
+        "ID_MARKER_ARC_PAYLOAD_DROP": "Redirected Harvester Payload",
+        "ID_MARKER_EXTRACTION_MULTIPROBE_INCOMING": "Ballistic Gondola (Incoming)",
+        "ID_MARKER_EXTRACTION_MULTIPROBE_ALT1": "Gondola",
+        "ID_MARKER_EXTRACTION_MULTIPROBE_INCOMING_ALT1": "Gondola (Incoming)",
+        "ID_MARKER_EXTRACTION_TRANSCEIVER_ALT1": "Gondola Call Station",
+        "ID_MARKER_EXTRACTION_TRANSCEIVER_ALT2": "Gondola Radio",
+        "ID_MAP_NO_SCENARIO_AVAILABLE": "No scenario is available for your current settings"
       },
       "KeysToMetaData": {
         "ID_MARKER_COMPASS_EXTRACTION_BROKEN": {
-          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction."
+          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction.",
+          "Status": "approved"
         },
         "ID_MARKER_COMPASS_EXTRACTION_LOCKED": {
-          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction."
+          "Note": "Label used for compass when highlighting a marker, showning status and name of the extraction.",
+          "Status": "approved"
         },
         "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT": {
-          "Note": "Describes extraction points that need to be repaired before returning."
+          "Note": "Describes extraction points that need to be repaired before returning.",
+          "Status": "approved"
         },
         "ID_TOOLTIP_EXTRACTION_REQUIRED_REPAIR_MATERIALS": {
-          "Note": "Describes materials needed to repair Return Points."
+          "Note": "Describes materials needed to repair Return Points.",
+          "Status": "approved"
         },
         "ID_TOOLTIP_EXTRACTION_OPENS_IN": {
-          "Note": "Describes countdown to when the extraction points open automatically."
+          "Note": "Describes countdown to when the extraction points open automatically.",
+          "Status": "approved"
         },
         "ID_MARKER_EXTRACTION_LOCKED_RETURN_POINT": {
-          "Note": "Describes extraction points that need to wait before they Unlock."
+          "Note": "Describes extraction points that need to wait before they Unlock.",
+          "Status": "approved"
+        },
+        "ID_MARKER_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_MARKER_SQUAD_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_MARKER_MAP_PIN": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_CARGO_DROP": {
+          "Status": "approved"
+        },
+        "ID_MARKER_METRO_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_HATCH": {
+          "Status": "approved"
+        },
+        "ID_MARKER_METRO_STATION": {
+          "Status": "approved"
+        },
+        "ID_MARKER_OTHER_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_MARKER_WAYPOINT_DESC": {
+          "Status": "approved"
+        },
+        "ID_MARKER_WAYPOINT": {
+          "Status": "approved"
+        },
+        "ID_LEGEND_CATEGORY_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_LEGEND_CATEGORY_WORLD": {
+          "Status": "approved"
+        },
+        "ID_LEGEND_CATEGORY_LOOT": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_CIVILIAN": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_ELECTRICAL": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_MECHANICAL": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_NATURE": {
+          "Status": "approved"
+        },
+        "ID_MARKER_LOOT_TECHNOLOGICAL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_LABEL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_LOW": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_MEDIUM": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_HIGH": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_LOW_FLAVOR": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_MEDIUM_FLAVOR": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_HIGH_FLAVOR": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_EXTRACTION_HATCH_REQUIREMENTS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_EXTRACTION_INACTIVE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_EXTRACTION_ACTIVE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_THREAT_UNKNOWN_FLAVOR": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_PROBE": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_COURIER": {
+          "Status": "approved"
+        },
+        "ID_MARKER_SUPPLY_CALL_STATION": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_PROBE_CRASHED": {
+          "Status": "approved"
+        },
+        "ID_MARKER_SUPPLY_DROP": {
+          "Status": "approved"
+        },
+        "ID_MARKER_RAIDER_CACHE": {
+          "Status": "approved"
+        },
+        "ID_MARKER_FIELD_STATION": {
+          "Status": "approved"
+        },
+        "ID_MARKER_FIELD_CRATE": {
+          "Status": "approved"
+        },
+        "ID_MAP_NOT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_MAP_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_MAP_LAYER_SURFACE": {
+          "Status": "approved"
+        },
+        "ID_MAP_LAYER_UNDERGROUND": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ENTRANCE_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_LEGEND_HEADER_LOOTCATEGORY": {
+          "Status": "approved"
+        },
+        "ID_LEGEND_HEADER_LOOTCATEGORIES": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_LOCKED_RETURN_POINT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_BROKEN_RETURN_POINT_REQUIRESREPAIR": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_MULTIPROBE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_MARKER_EXTRACTION_TRANSCEIVER": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_MARKER_EXTRACTION_MULTIPROBE_INCOMING": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_PAYLOAD_DROP": {
+          "Status": "approved"
+        },
+        "ID_MARKER_ARC_REPAIR_DROP": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_MULTIPROBE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_MULTIPROBE_INCOMING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_TRANSCEIVER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MARKER_EXTRACTION_TRANSCEIVER_ALT2": {
+          "Status": "approved"
+        },
+        "ID_MAP_NO_SCENARIO_AVAILABLE": {
+          "Status": "approved"
         }
       }
     }

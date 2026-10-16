@@ -22,9 +22,92 @@
         "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_CATEGORY": "Monthly update",
         "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE": "New in ARC Raiders",
         "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE_ALT1": "Now in ARC Raiders",
-        "ID_ANNOUNCEMENTS_CANTINA_NEWS_WIDGET_SLIDE_TITLE": "New in ARC Raiders"
+        "ID_ANNOUNCEMENTS_CANTINA_NEWS_WIDGET_SLIDE_TITLE": "New in ARC Raiders",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_CENTRAL": "Flash Freeze is forming in the central parts of Pendola Pass",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_NORTH": "Flash Freeze is forming in the northern parts of Pendola Pass",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_SOUTH": "Flash Freeze is forming in the southern parts of Pendola Pass",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_WEST": "Flash Freeze is forming in the western parts of Pendola Pass",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_EAST": "Flash Freeze is forming in the eastern parts of Pendola Pass",
+        "ID_ANNOUNCEMENT_FLASHFREEZE_SHELTER": "A nearby Emergency Shelter is unlocking",
+        "ID_ANNOUNCEMENTS_FRIGATE_SIGHTED": "An ARC Frigate has been sighted",
+        "ID_ANNOUNCEMENTS_FRIGATE_SIGHTED_ALT1": "A Frigate has been sighted"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ANNOUNCEMENT_ANTENNA_EAST": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_ANTENNA_NORTH": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_ANTENNA_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_ANTENNA_WEST": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_ATTENTION_RAIDERS": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_PROXIMITY_DOWNLOAD": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_UNLOCK_GATES_ANNOUNCEMENT": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_HIDDEN_BUNKER_IS_NOW_OPEN": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_THE_BUNKER_WILL_OPEN_IN_90_SECONDS": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_EVENT_MONOLITH1": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_EVENT_MONOLITH2": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_CANTINA_TAKEOVER_SLIDE_TITLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_CANTINA_NEWS_WIDGET_SLIDE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_CENTRAL": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_SOUTH": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_NORTH": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_WEST": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_EAST": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_FLASHFREEZE_SHELTER": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_FRIGATE_SIGHTED": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENTS_FRIGATE_SIGHTED_ALT1": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

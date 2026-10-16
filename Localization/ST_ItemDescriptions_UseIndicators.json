@@ -95,11 +95,278 @@
         "ID_ITEMDESC_USEINDICATORS_POPPART": "Can be deployed to roll forward and explode.",
         "ID_ITEMDESC_USEINDICATORS_TICKPART": "Can be deployed to jump at nearby Raiders.",
         "ID_ITEMDESC_USEINDICATORS_TICKPART_ALTERNATIVE": "Can be thrown to create a diversion.",
-        "ID_ITEMDESC_USEINDICATORS_FIREFLYPART": "A volatile canister that vents fire when shot."
+        "ID_ITEMDESC_USEINDICATORS_FIREFLYPART": "A volatile canister that vents fire when shot.",
+        "ID_ITEMDESC_USEINDICATORS_FIREFLYPART_02": "§ A volatile canister that can be thrown and will vent fire on impact.",
+        "ID_ITEMDESC_ASCENDEDSALVAGE": "Used to craft amplified weapons."
       },
       "KeysToMetaData": {
         "ID_ITEMDESCRIPTIONS_USEINDICATORS_MECHANICAL_COMPONENTS": {
-          "Note": "Mechanical Components"
+          "Note": "Mechanical Components",
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGBROAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGFABRIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGPLASTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGSCRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGRUBBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGBROAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGEXPLOSIVES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGMEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGARMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGARMORMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGGADGETS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BUILDINGCHAMBERSTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SELLINGLOW": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SELLINGMEDIUM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SELLINGHIGH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTEXPLOSIVES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTMEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTARMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTWEAPMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTARMORMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTGADGETS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGCHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGUTILITYARMORMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGADVANCEDWEAPONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDIRECTMEDSRECYCLINGCHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCRECYCLINGCHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGBROADRECYCLINGSCRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLINGARCALLOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGBROADRECYCLINGARCPLASTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGMEDSEXPLOSIVESUTILITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPONSWEAPMODS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGSPECIFICELECTRICALCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROWLOUDNOISE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGMEDSARMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RESTOREHEALTHSLOWLY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROWSMALLFIRE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPONSRECYCLINGSCRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCCRAFTINGCOMPONENTSRECYCLINGALLOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REPAIRARMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINRECYCLEARCCRAFTINGCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCRECYCLINGFABRIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCRECYCLINGSCRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCRECYCLINGPLASTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OBTAINARCRECYCLINGRUBBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROWSINGULARITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RESTOREHEALTHRELUCTANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPMODSRECYCLINGBROAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGWEAPONSEXPLOSIVESREYCLINGCHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGARMORRECYCLINGBROAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGUTILITYEXPLOSIVESREYCLINGSCRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGUTILITYEXPLOSIVESRECYCLINGCHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGMEDSRECYCLINGPLASTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROWNOISE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROW": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_CAN_RELUCTANTLY_BE_CONSUMED_TO_RESTORE_SMALL_AMOUNTS_OF_HEALTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_CAN_BE_THROWN_TO_CALL_IN_ARC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_ULTRA_RARE_DROP_IF_YOU_NOT_GROW_IT_THIS_CAN_BE_SOLD_FOR_GOOD_CASH": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_RARE_SEEDS_FOUND_IN_THE_WORLD_OR_BOUGHT_BY_TRADERS_USED_TO_GROW_THINGS": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_CAN_BE_THROWN_AND_WILL_EXPLODE_IF_SHOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_IF_YOU_NOT_GROW_IT_THIS_CAN_BE_SOLD_FOR_GOOD_CASH": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_USED_TO_CRAFT_A_WIDE_RANGE_OF_ITEMS_CAN_BE_RECYCLED_INTO_CRAFTING_MATERIALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_LETS_YOU_CRAFT_THE_EQUALIZER_AT_YOUR_WEAPON_BENCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_LET_S_YOU_PURCHASE_THE_EQUALIZER_FROM_TIAN_WEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_JUNK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_SNITCH_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_WASP_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_RECIPE_EQUALIZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_EQUALIZER_TRADE_ACCESS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTION_USEINDICATORS_EXPLOSIVE_MIXTURE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGADVANCEDWEAPONSRECYCLING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_COMPLEX_GUN_PARTS_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_ADVANCED_ARC_POWERCELL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_SEEDS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_USEINDICATORS_USED_LOCKED_GATE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_PINGERPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_PINGERPART_ALTERNATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_POPPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_TICKPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_TICKPART_ALTERNATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_USEINDICATORS_FIREFLYPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDEDSALVAGE": {
+          "Status": "approved"
         }
       }
     }

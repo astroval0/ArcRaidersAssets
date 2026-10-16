@@ -1,2 +1,0 @@
-The files in this subdirectory are the meshes from [Entities](../Entities), extracted by astroval0, which have been resized, reoriented upright, converted to STL format, and mesh-repaired using online tools.
-At the moment, only [Leaper_PrintReady](./Leaper_PrintReady) is fully print-ready. Achieving this required modifying the mesh, as the original version was too fragile for successful printing. The same limitation likely applies to the other meshes.

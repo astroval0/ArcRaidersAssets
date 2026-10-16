@@ -25,9 +25,76 @@
         "ID_LANCE_DESCRIPTION": "Need health items? The only thing Lance can't cure is the common cold.",
         "ID_TIANWEN_DESCRIPTION": "Some call Tian Wen the \"gun nut\", but that's just half the truth. She also has a supernatural knack for tech and construction.",
         "ID_TIANWEN_NAME": "Tian Wen",
-        "ID_TIANWEN_LOCATION": "Gun Shop"
+        "ID_TIANWEN_LOCATION": "Gun Shop",
+        "ID_NOMADIC_ENVOYS_NAME_FIRST": "Ermal",
+        "ID_NOMADIC_ENVOYS_NAME": "Nomadic Envoys",
+        "ID_NOMADIC_ENVOYS_NAME_SECOND": "Cassio"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_JUANITO_LOCATION": {
+          "Status": "new"
+        },
+        "ID_JUANITO_NAME": {
+          "Status": "new"
+        },
+        "ID_JUANITO_DESCRIPTION": {
+          "Status": "new"
+        },
+        "NO_TRADES": {
+          "Status": "approved"
+        },
+        "ID_SHANI_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SHANI_NAME": {
+          "Status": "approved"
+        },
+        "ID_SHANI_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_APOLLO_NAME": {
+          "Status": "approved"
+        },
+        "ID_APOLLO_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_LANCE_NAME": {
+          "Status": "approved"
+        },
+        "ID_LANCE_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_CELESTE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CELESTE_NAME": {
+          "Status": "approved"
+        },
+        "ID_APOLLO_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_LANCE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_TIANWEN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_TIANWEN_NAME": {
+          "Status": "approved"
+        },
+        "ID_TIANWEN_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_NOMADIC_ENVOYS_NAME_FIRST": {
+          "Status": "approved"
+        },
+        "ID_NOMADIC_ENVOYS_NAME": {
+          "Status": "approved"
+        },
+        "ID_NOMADIC_ENVOYS_NAME_SECOND": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

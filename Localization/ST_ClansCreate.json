@@ -38,7 +38,95 @@
         "ID_CLAN_CREATE_RATIO_BETWEEN_NUMBERS": "{0} / {1}",
         "ID_CLAN_TAG_SOLO": "Tag"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_CREATE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_NAME_CHARS_AMOUNT": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_NAME_INVALID": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_NAME_REQUIREMENTS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_NAME_SIZE_LIMITS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_NAME_TAKEN": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAG_CHARS_AMOUNT": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAG_INVALID": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAG_REQUIREMENTS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAG_SIZE_LIMITS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAG_TAKEN": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_STEP": {
+          "Status": "approved"
+        },
+        "ID_CLAN_QUICK_CREATE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAB_IDENTITY": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAB_PREFERENCES": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_TAB_BRANDING": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CUSTOMIZATION_LOGO": {
+          "Status": "new"
+        },
+        "ID_CLAN_CUSTOMIZATION_BORDER": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CUSTOMIZATION_BACKGROUND": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CARD_CREST": {
+          "Status": "approved"
+        },
+        "ID_CLAN_LANGUAGE_REGION": {
+          "Status": "approved"
+        },
+        "ID_CLAN_PLAYSTYLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_NAME": {
+          "Status": "approved"
+        },
+        "ID_CLAN_TAG": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_CONTINUE": {
+          "Status": "new"
+        },
+        "ID_CLAN_CONFIRM_CHANGES": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CREATE_RATIO_BETWEEN_NUMBERS": {
+          "Status": "new"
+        },
+        "ID_CLAN_TAG_SOLO": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

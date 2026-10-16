@@ -24,9 +24,93 @@
         "ID_WEAPONMODS_EMPTY_SLOT_FOR_AN_UNDERBARREL_MOD": "Empty slot for an underbarrel mod.",
         "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY_UPGRADING_THE_WEAPON": "Mod slot unlocked by upgrading the weapon.",
         "ID_WEAPONMODS_EMPTY_SLOT_SHIELD_MOD": "Empty slot for a shield mod.",
-        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY": "Mod slot unlocked by upgrading the shield."
+        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY": "Mod slot unlocked by upgrading the shield.",
+        "ID_WEAPONMODS_GRIP": "Grip",
+        "ID_WEAPONMODS_MUZZLE": "Muzzle",
+        "ID_WEAPONMODS_SHOTGUNMUZZLE": "Shotgun Muzzle",
+        "ID_WEAPONMODS_STOCK": "Stock",
+        "ID_WEAPONMODS_LIGHT_MAGAZINE": "Light Magazine",
+        "ID_WEAPONMODS_MEDIUM_MAGAZINE": "Medium Magazine",
+        "ID_WEAPONMODS_HEAVY_MAGAZINE": "Heavy Magazine",
+        "ID_WEAPONMODS_SHOTGUN_MAGAZINE": "Shotgun Magazine"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_WEAPONMODS_MANUAL_TARGETING": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_SMART_TARGETING": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_LOCK_ON_TARGETING": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_AUTOMATIC_TARGETING": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_TECH_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_GRIP_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_STOCK_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_SHOTGUN_MUZZLE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_MUZZLE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_SHOTGUN_MAGAZINE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_MEDIUM_MAGAZINE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_HEAVY_MAGAZINE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_A_LIGHT_MAGAZINE_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_FOR_AN_UNDERBARREL_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY_UPGRADING_THE_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_EMPTY_SLOT_SHIELD_MOD": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_MOD_SLOT_UNLOCKED_BY": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_GRIP": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_MUZZLE": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_SHOTGUNMUZZLE": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_STOCK": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_LIGHT_MAGAZINE": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_MEDIUM_MAGAZINE": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_HEAVY_MAGAZINE": {
+          "Status": "approved"
+        },
+        "ID_WEAPONMODS_SHOTGUN_MAGAZINE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

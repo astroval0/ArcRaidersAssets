@@ -26,7 +26,59 @@
         "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT1": "After being holstered for {0} seconds, non-Energy Ammo firearms are automatically reloaded.",
         "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT2": "After being holstered for {0} seconds, firearms using conventional ammo are automatically reloaded."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_AUGMENTEFFECTS_HEALTHREGEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_HEALTHREGEN2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_EMERGENCYSMOKE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_ANTITICKFIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_QUICKDRAW": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_MOBILEREPAIR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_REVIVALTOPUP": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_EMERGENCYADDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_FULLBODYTOURNIQUET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDSHIELDRECHARGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDBINOCULARS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_XLSAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_INTEGRATEDDEFIB": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_REVIVALTOPUP_BURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTEFFECTS_AUTOLOADER_ALT2": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

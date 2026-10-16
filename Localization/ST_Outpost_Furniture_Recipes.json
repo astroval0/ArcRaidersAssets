@@ -1,0 +1,424 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Outpost_Furniture_Recipes",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Outpost_Furniture_Recipes",
+    "StringTable": {
+      "TableNamespace": "ST_Outpost_Furniture_Recipes",
+      "KeysToEntries": {
+        "ID_OUTPOST_FURNITURE_RECIPE_BARSTOOL_01_A": "Barstool Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_HME_STOOL_01_A": "Diner Stool Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_STOOL_01_A": "Lab Stool Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CHAIR_01_A": "Battered Diner Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CHAIR_03_A": "Polished Diner Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_CHAIR_01": "Battered Bureau Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_CHAIR_02_A": "Sturdy Bureau Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_HOR_CHAIR_01_A": "Hotel Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_ARMCHAIR_01_A": "Study Armchair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CHAIR_02_A": "Sturdy Faculty Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CHAIR_03_A": "Polished Faculty Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CHAIR_01_A": "Battered Lab Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CHAIR_02_A": "Sturdy Lab Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SCT_CHAIR_01_A": "Security Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WRH_CHAIR_01_A": "Warehouse Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WEATHERMONITOR_01_CHAIR": "Weather Station Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CUPBOARDCAFE_01_A": "Diner Cupboard Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_SHELF_03_A": "Diner Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_DRAWER_01_A": "Faculty Dresser Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_DRAWERMEDICAL_01_A": "Clinic Medical Cabinet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_M_02_X100CM_B": "Sturdy Lab Cabinet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_M_02_X200CM_B": "Sturdy Lab Cabinet (Wide) Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_S_01_B": "Small Lab Cabinet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_S_02_A_BLUE": "Blue Lab Cabinet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WRH_DRAWERS_01_A": "Warehouse Dresser Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_BARTABLE_01_A": "Bar Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CAFETERIATABLE_01_A": "Cafeteria Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_TABLE_02_A": "Diner Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_01_A": "Battered Faculty Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_02_A": "Sturdy Faculty Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_03_A": "Polished Faculty Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RST_TABLE_01_A": "Restaurant Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_BIRDCAGEPROJECT_TABLE_01_A": "Battered Aviary Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_BIRDCAGEPROJECT_TABLE_02_A": "Sturdy Aviary Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_BEDTABLE_01_A": "Chambers Nightstand Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_PROJECTWINTER_TABLE_01_A": "Winter Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WEATHERMONITOR_01_TABLE": "Weather Station Table Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CA_LAMPDESK_01_A": "Archive Desk Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CA_LAMPFLOOR_02_A": "Archive Floor Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_LAMP_01_A": "Chambers Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_LAMPCEILING_01_A": "Diner Ceiling Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CONSTRUCTIONLIGHT_01_A": "Work Light Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_LAMPCEILING_01_A": "Bureau Ceiling Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_LAMPDESK_01_A": "Bureau Desk Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CEILINGLAMP_01_A": "Study Ceiling Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CEILINGLIGHT_01_A": "Lab Ceiling Light Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_SOFA_03_A": "Diner Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_01_A": "Battered Bureau Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_02_A": "Sturdy Bureau Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_03_A": "Polished Round Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A": "Study Armchair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A": "Red Study Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SOFA_01_A": "Tufted Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SHELVES_02_A": "Battered Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SHELVES_02_B": "Sturdy Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_01": "Battered Den Bed Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_02": "Sturdy Den Bed Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_03": "Polished Den Bed Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_04": "Ornate Den Bed Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_B": "Sturdy Wardrobe Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_C": "Polished Wardrobe Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_D": "Ornate Wardrobe Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_C": "Polished Weapon Rack Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_A": "Battered Stash Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_B": "Sturdy Stash Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_C": "Polished Stash Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_D": "Ornate Stash Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RES_TVUNIT_01_A": "Study TV Stand Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RSR_CABINET_M_02_X100CM_A": "Battered Lab Cabinet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RSR_CABINET_M_02_X200CM_A": "Battered Lab Cabinet (Wide) Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_WRH_DESK_01_A": "Warehouse Desk Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RES_CLOSET_01_A": "Faculty Closet Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CHANDELIER_01_A": "Chandelier Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_SOUTH_FOREST_BUSH_HOLLY_01_C": "Holly Bush Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_PIANO_01_A": "Study Piano Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS": "Printed Fabric Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS_GEO": "Geometric Fabric Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS_GREEN_GROMETRY": "Green Geometric Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS": "Printed Lab Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS_GEO": "Multicolored Geometric Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS_GREEN_GROMETRY": "Green Geometric Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_RESEARCHCOMPANY_BC": "Solid Green Chair Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_RESEARCHCOMPANY_BC": "Green Lab Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_01": "Battered Den Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_02": "Sturdy Den Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_03": "Polished Den Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_04": "Ornate Den Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_ALPINEWARDROBE_01": "Alpine Wardrobe Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CONSOLECHEST_01_A": "Console Chest Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_FLOORLAMP_02_A": "Floor Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_GLASSCEILINGLAMP_01_A": "Glass Ceiling Lamp Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_03_A": "Polished Study Sofa Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_VENETIANDRESSER_01_A": "Venetian Dresser Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_01": "Draped Debris A Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_02": "Draped Debris B Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_03": "Draped Debris C Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_04": "Draped Debris E Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_05": "Draped Debris F Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_06": "Draped Debris G Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_SHELF_01_A": "Chambers Shelf Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_A": "Battered Weapon Rack Design",
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_B": "Sturdy Weapon Rack Design"
+      },
+      "KeysToMetaData": {
+        "ID_OUTPOST_FURNITURE_RECIPE_BARSTOOL_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_HME_STOOL_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_STOOL_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CHAIR_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_CHAIR_01": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_CHAIR_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_HOR_CHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_ARMCHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CHAIR_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CHAIR_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CHAIR_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SCT_CHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WRH_CHAIR_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WEATHERMONITOR_01_CHAIR": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_CUPBOARDCAFE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_SHELF_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_DRAWER_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_DRAWERMEDICAL_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_M_02_X100CM_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_M_02_X200CM_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_S_01_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CABINET_S_02_A_BLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WRH_DRAWERS_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_BARTABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CAFETERIATABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_TABLE_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_TABLE_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RST_TABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_BIRDCAGEPROJECT_TABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_BIRDCAGEPROJECT_TABLE_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_BEDTABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_PROJECTWINTER_TABLE_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WEATHERMONITOR_01_TABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CA_LAMPDESK_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CA_LAMPFLOOR_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_LAMP_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_LAMPCEILING_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CONSTRUCTIONLIGHT_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_LAMPCEILING_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_LAMPDESK_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_CEILINGLAMP_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RSR_CEILINGLIGHT_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CMR_SOFA_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GVT_SOFA_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SOFA_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SHELVES_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SHELVES_02_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_01": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_02": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_03": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_BED_04": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_C": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WARDROBE_01_D": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_C": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_B": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_C": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_STASH_01_D": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RES_TVUNIT_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RSR_CABINET_M_02_X100CM_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RSR_CABINET_M_02_X200CM_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_WRH_DESK_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SM_RES_CLOSET_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CHANDELIER_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_SOUTH_FOREST_BUSH_HOLLY_01_C": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_PIANO_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS_GEO": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_PATTERNS_GREEN_GROMETRY": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS_GEO": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_PATTERNS_GREEN_GROMETRY": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y150_A_RESEARCHCOMPANY_BC": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_01_Y300_A_RESEARCHCOMPANY_BC": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_01": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_02": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_03": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RAIDERDEN_SHELVES_04": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_ALPINEWARDROBE_01": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CONSOLECHEST_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_FLOORLAMP_02_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_GLASSCEILINGLAMP_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_RES_SOFA_03_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_VENETIANDRESSER_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_01": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_02": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_03": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_04": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_05": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_DEBRISDRAPED_06": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_CHAMBERS_SHELF_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_A": {
+          "Status": "approved"
+        },
+        "ID_OUTPOST_FURNITURE_RECIPE_WEAPONDISPLAY_01_B": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

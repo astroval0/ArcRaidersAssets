@@ -86,7 +86,239 @@
         "ID_BOOTFLOW_COMPLETE_ACCOUNT_CHANGE_EMAIL": "Change email address",
         "ID_BOOTFLOW_PRELOADING_SHADERS": "Preloading Shaders: {0}%"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_BOOTFLOW_SKIP": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SEND": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SEND_AGAIN": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CONTINUE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_EMAIL_INVALID": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_EMAIL_IN_USE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SERVERKICK_GENERICHEADER": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SERVERKICK_SERVERKICK": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PLAYTEST_NOT_ACTIVE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PLAYTEST_NOT_ACTIVE_TRY_AGAIN_AT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_GENERIC_ERROR": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_TIME_REMAINING_UNTIL_RETRY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_IN_LOGIN_QUEUE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_IN_LOGIN_QUEUE_EXPLANATION": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_QUIT_GAME": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LINK_ACCOUNT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LINK_SCAN_CODE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LINK_OR": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LINK_ACCOUNT_PROMPT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LINK_ACCOUNT_REFRESH_CODE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SIGN_IN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SIGN_IN_EXPLANATION": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SIGN_IN_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_SIGN_IN_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_PROMPT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_TOS_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_PP_APPLIES": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_TOS_AND_EULA": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_PP": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_EMAIL": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_INVALID_EMAIL": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_BODY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_CHECK_MAIL": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_SKIP": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_SEND": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_AGREE_AND_CONTINUE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ACCOUNT_CREATED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ACCOUNT_CREATED_BODY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PLATFORM_NAME": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_EMBARK_NAME": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_EMBARK_ID_DISCRIMINATOR_TEMPLATE": {
+          "Status": "new"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_PROMPT_NO_COUNTRY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_PLEASE_COMPLETE_ALL_FIELDS": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_NOT_PERMITTED_TO_CONTINUE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_CREATE_ACCOUNT_COUNTRY_RESTRICTED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LOGIN_FAILED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_RETRY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ERROR_ACCOUNT_CREATION_FAILED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ERROR_LINK_ACCOUNT_FAILED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ERROR_UPDATE_ACCOUNT_FAILED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ERROR_EMAIL_UPDATE_FAILED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_UPDATE_ACCOUNT_TOS_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_UPDATE_ACCOUNT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PLAYTEST_NOT_ACTIVE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LIST_SERVICE_FAILURES": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_LIST_SERVICE_TIMEOUTS": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_RECONNECT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_RECONNECT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ABANDON_ROUND": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPILING_SHADERS": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PHOTOSENSITIVITY_WARNING": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PHOTOSENSITIVITY_WARNING_DESCRIPTION_01": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PHOTOSENSITIVITY_WARNING_DESCRIPTION_02": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_NETWORK_TIMEOUT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_RECONNECT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_TECH_TEST_WELCOME_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_TECH_TEST_WELCOME_BODY": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_ERROR_SYNC_TIMEOUT": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PLAYERS_IN_QUEUE": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_RETRY_EMAIL_VERIFIED": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_CHECK_MAIL_LONG": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_UPDATE_EMAIL": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_COMPLETE_ACCOUNT_CHANGE_EMAIL": {
+          "Status": "approved"
+        },
+        "ID_BOOTFLOW_PRELOADING_SHADERS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -23,7 +23,50 @@
         "ID_CREDITS_CREDITS": "Credits",
         "ST_CREDITS_CONTRACTORS": "Contractors"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CREDITS_ADDITIONAL_THANKS": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_EMBARK_BABIES": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_EMBARK_STUDIOS": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_ARC_RAIDERS": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_ARC_RAIDERS_TEAM": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_EMBARK_TEAM": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_ARC_RAIDERS_DEV_TEAM": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_NEXON_TEAM": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_OUR_FRIENDS_AT_NEXON": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_THANKS_FOR_SUPPORT": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_HONORABLE_MENTION": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_PARTNER_THANKS": {
+          "Status": "approved"
+        },
+        "ID_CREDITS_CREDITS": {
+          "Status": "approved"
+        },
+        "ST_CREDITS_CONTRACTORS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

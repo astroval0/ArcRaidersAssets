@@ -36,7 +36,89 @@
         "ID_ERROR_UPDATE_REQUIRED": "Update required",
         "ID_ERROR_ACCOUNT_SHARED_BLOCKED_DESC": "Your access has been suspended because the account that shares this game with you is currently restricted."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ERROR_ONLINE_QUEST_SYNC_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_QUEST_ACCEPT_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_QUEST_COMPLETE_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_ERROR_NOTIFICATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_NOTIFICATION_OKAY": {
+          "Status": "approved"
+        },
+        "ID_ERROR_NOTIFICATION_QUIT_GAME": {
+          "Status": "approved"
+        },
+        "ID_ERROR_NOTIFICATION_RETRY": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_INVENTORY_COMMIT_OPERATION": {
+          "Status": "approved"
+        },
+        "ID_ERROR_NETWORK_FAILURE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_BACKEND_FAILURE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_RECONNECT_NO_LONGER_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ANTICHEAT_VIOLATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_INVENTORY_VALIDATION_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_INVENTORY_MUTATION_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_TEMPORARY": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_PERMANENT": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_SUSPENDED_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_PREREQUISITE_NO_VALID_PLATFORM": {
+          "Status": "approved"
+        },
+        "ID_ERROR_MATCHMAKING_FAILED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ONLINE_CONNECTION_ERROR": {
+          "Status": "approved"
+        },
+        "ID_ERRORMESSAGES_ACCOUNT_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_ERRROR_ACCOUNT_BLOCKED_DESC": {
+          "Status": "approved"
+        },
+        "ID_ERRORMESSAGES_NETWORK_TIMEOUT": {
+          "Status": "approved"
+        },
+        "ID_ERROR_UPDATE_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_ERROR_ACCOUNT_SHARED_BLOCKED_DESC": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

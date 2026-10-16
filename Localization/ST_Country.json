@@ -255,7 +255,746 @@
         "ID_COUNTRY_CHINA": "China",
         "ID_COUNTRY": "Country"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_COUNTRY_AFGHANISTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ALAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ALBANIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ALGERIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_AMERICAN_SAMOA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ANDORRA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ANGOLA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ANGUILLA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ANTARCTICA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ANTIGUA_AND_BARBUDA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ARGENTINA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ARMENIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ARUBA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_AUSTRALIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_AUSTRIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_AZERBAIJAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BAHAMAS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BAHRAIN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BANGLADESH": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BARBADOS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BELARUS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BELGIUM": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BELIZE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BENIN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BERMUDA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BHUTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BOLIVIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BONAIRE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BOSNIA_AND_HERZEGOVINA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BOTSWANA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BOUVET_ISLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BRAZIL": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BRITISH_INDIAN_OCEAN_TERRITORY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BRITISH_VIRGIN_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BULGARIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BURKINA_FASO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BURUNDI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CAMEROON": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CANADA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CAPE_VERDE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CAYMAN_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CENTRAL_AFRICAN_REPUBLIC": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CHAD": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CHILE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CHRISTMAS_ISLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_COCOS_KEELING_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_COLOMBIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_COMOROS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_COOK_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_COSTA_RICA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CROATIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CURACAO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CYPRUS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CZECHIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_DEMOCRATIC_REPUBLIC_OF_THE_CONGO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_DENMARK": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_DJIBOUTI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_DOMINICA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_DOMINICAN_REPUBLIC": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ECUADOR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_EGYPT": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_EL_SALVADOR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_EQUATORIAL_GUINEA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ERITREA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ESTONIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ETHIOPIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FALKLAND_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FAROE_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FIJI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FINLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FRANCE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FRENCH_GUIANA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FRENCH_POLYNESIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_FRENCH_SOUTHERN_TERRITORIES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GABON": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GAMBIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GEORGIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GERMANY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GHANA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GIBRALTAR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GREECE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GREENLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GRENADA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUADELOUPE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUAM": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUATEMALA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUERNSEY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUINEA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUINEA_BISSAU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_GUYANA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_HAITI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_HEARD_ISLAND_AND_MCDONALD_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_HONDURAS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_HUNGARY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ICELAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_INDIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_IRAQ": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_IRELAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ISLE_OF_MAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ISRAEL": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ITALY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_IVORY_COAST": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_JAMAICA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_JERSEY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_JORDAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KAZAKHSTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KENYA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KIRIBATI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KOSOVO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KUWAIT": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_KYRGYZSTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LATVIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LEBANON": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LESOTHO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LIBERIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LIBYA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LIECHTENSTEIN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LITHUANIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LUXEMBOURG": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MACEDONIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MADAGASCAR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MALAWI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MALDIVES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MALI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MALTA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MARSHALL_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MARTINIQUE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MAURITANIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MAURITIUS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MAYOTTE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MEXICO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MICRONESIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MOLDOVA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MONACO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MONGOLIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MONTENEGRO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MONTSERRAT": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MOROCCO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MOZAMBIQUE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NAMIBIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NAURU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NEPAL": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NETHERLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NEW_CALEDONIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NEW_ZEALAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NICARAGUA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NIGER": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NIGERIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NIUE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NORFOLK_ISLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NORTHERN_MARIANA_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_NORWAY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_OMAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PAKISTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PALAU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PALESTINE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PANAMA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PAPUA_NEW_GUINEA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PARAGUAY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PERU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PITCAIRN_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_POLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PORTUGAL": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PUERTO_RICO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_QATAR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_REPUBLIC_OF_THE_CONGO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_REUNION": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ROMANIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_RWANDA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_BARTHELEMY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_HELENA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_KITTS_AND_NEVIS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_LUCIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_MARTIN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_PIERRE_AND_MIQUELON": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAINT_VINCENT_AND_THE_GRENADINES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAMOA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAN_MARINO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAO_TOME_AND_PRINCIPE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SAUDI_ARABIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SENEGAL": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SERBIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SEYCHELLES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SIERRA_LEONE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SINT_MAARTEN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SLOVAKIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SLOVENIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOLOMON_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOMALIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOUTH_AFRICA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOUTH_GEORGIA_AND_THE_SOUTH_SANDWICH_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOUTH_SUDAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SPAIN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SRI_LANKA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SURINAME": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SVALBARD_AND_JAN_MAYEN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SWAZILAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SWEDEN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SWITZERLAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TAJIKISTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TANZANIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TOGO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TOKELAU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TONGA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TUNISIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TURKEY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TURKMENISTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TURKS_AND_CAICOS_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TUVALU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_US_MINOR_OUTLYING_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_US_VIRGIN_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UGANDA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UNITED_ARAB_EMIRATES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UNITED_KINGDOM": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UNITED_STATES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_URUGUAY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UZBEKISTAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_VANUATU": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_VATICAN_CITY": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_VENEZUELA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_WALLIS_AND_FUTUNA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_WESTERN_SAHARA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_YEMEN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ZAMBIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_ZIMBABWE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_BRUNEI": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CAMBODIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_EAST_TIMOR": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_INDONESIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_LAOS": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MALAYSIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MYANMAR_BURMA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_PHILIPPINES": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SINGAPORE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_VIETNAM": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_SOUTH_KOREA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_JAPAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_THAILAND": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_RUSSIA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_UKRAINE": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TRINIDAD_AND_TOBAGO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_TAIWAN": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_MACAO": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_HONG_KONG": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY_CHINA": {
+          "Status": "approved"
+        },
+        "ID_COUNTRY": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

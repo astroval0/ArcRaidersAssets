@@ -171,41 +171,652 @@
         "ID_ITEMDESCRIPTIONS_BOATMODEL_C_PLACEHOLDER": "A majestic sight in any era, this fierce merchant ship is indifferent to the aerodynamic benefits of fiberglass technology.",
         "ID_ITEMDESCRIPTIONS_BOATMODEL_D_PLACEHOLDER": "Optimized for performance, this marvel of technology sure hopes you weren't planning on packing a particularly elaborate lunch.",
         "ID_ITEMDESCRIPTIONS_BOATMODEL_E_PLACEHOLDER": "With the Mediterranean sun glistening off its hull, this vibrant yacht is the timeless epitome of saltwater splendour.",
-        "ID_ITEMDESC_BOOM_PART": "A throwable ARC part that triggers after a short time, sending an explosive straight down."
+        "ID_ITEMDESC_BOOM_PART": "A throwable ARC part that triggers after a short time, sending an explosive straight down.",
+        "ID_ITEMDESCRIPTIONS_PAINT_DESCRIPTION": "Used to apply stencils to weapons.",
+        "ID_ITEMDESCRIPTIONS_FRIGATEMEMORYMODULE_DESCRIPTION": "Found in the trail of ARC Frigates, the electromagnetic signatures of these nodes turn out to be partially decipherable.",
+        "ID_ITEMDESCRIPTIONS_ARCMEMORYCARD_DESCRIPTION": "A secondary data module found in a range of ARC machines.",
+        "ID_ITEMDESCRIPTIONS_EXODUSBOOK_DESCRIPTION": "Filled with equal parts obscure jargon and complex diagrams.",
+        "ID_ITEMDESCRIPTIONS_RAIDERJOURNAL_DESCRIPTION": "Surprisingly dilligent notetaking, in surprisingly legible handwriting.",
+        "ID_ITEMDESCRIPTIONS_OLDBOOK": "Battered Paperback",
+        "ID_ITEMDESCRIPTIONS_OLDBOOK_DESCRIPTION": "Filled with dog-eared pages and coffee stains, an inquisitive mind may find wisdom nonetheless.",
+        "ID_ITEMDESCRIPTIONS_STEELCABLE_DESCRIPTION": "SteelCable Description",
+        "ID_ITEMDESCRIPTIONS_FRIGATE1_DESCRIPTION": "Can be used to upgrade the Research Station.",
+        "ID_ITEMDESCRIPTIONS_COLLECTOR1_DESCRIPTION": "Can be used to upgrade the Gunsmith.",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMAT3_DESCRIPTION": "FrozenTrailMat3 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMAT2_DESCRIPTION": "FrozenTrailMat2 Description",
+        "ID_ITEMCELEBRATIONSCREEN_FROZENTRAILMAT1_DESCRIPTION": "FrozenTrailMat1 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMECHANICAL4_DESCRIPTION": "FrozenTrailMechanical4 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMECHANICAL3_DESCRIPTION": "FrozenTrailMechanical3 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMECHANICAL2_DESCRIPTION": "FrozenTrailMechanical2 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILMECHANICAL1_DESCRIPTION": "FrozenTrailMechanical1 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILTECH4_DESCRIPTION": "FrozenTrailTech4 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILTECH3_DESCRIPTION": "FrozenTrailTech3 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILTECH2_DESCRIPTION": "FrozenTrailTech2 Description",
+        "ID_ITEMDESCRIPTIONS_FROZENTRAILTECH1_DESCRIPTION": "FrozenTrailTech1 Description",
+        "ID_ITEMDESCRIPTIONS_PLANKS_DESCRIPTION": "Planks Description",
+        "ID_ITEMDESCRIPTIONS_SHEETMETAL_DESCRIPTION": "SheetMetal Description",
+        "ID_ITEMDESCRIPTIONS_COMMONASCENSIONMODULE_DESCRIPTION": "CommonAscensionModule Description",
+        "ID_ITEMDESCRIPTIONS_UNCOMMONASCENSIONMODULE_DESCRIPTION": "UncommonAscensionModule Description",
+        "ID_ITEMDESCRIPTIONS_RAREASCENSIONMODULE_DESCRIPTION": "RareAscensionModule Description",
+        "ID_ITEMDESCRIPTIONS_EPICASCENSIONMODULE_DESCRIPTION": "EpicAscensionModule Description",
+        "ID_ITEMDESCRIPTIONS_LEGENDARYASCENSIONMODULE_DESCRIPTION": "LegendaryAscensionModule Description",
+        "ID_ITEMDESCRIPTIONS_ASCENSIONMATERIAL1_DESCRIPTION": "AscensionMaterial1 Description",
+        "ID_ITEMDESCRIPTIONS_ASCENSIONMATERIAL2_DESCRIPTION": "AscensionMaterial2 Description",
+        "ID_ITEMDESCRIPTIONS_ASCENSIONMATERIAL3_DESCRIPTION": "AscensionMaterial3 Description",
+        "ID_ITEMDESCRIPTIONS_ASCENSIONMATERIAL4_DESCRIPTION": "AscensionMaterial4 Description",
+        "ID_ITEMDESC_WINNERDUCK": "If there was a rubber duck competition, this one would win.",
+        "ID_ITEMDESC_MRIDUCK": "Has technology gone too far?",
+        "ID_ITEMDESC_FROZEN_TRAIL_STATION_KEY": "Unlocks a door in the Almatera Station on Pendola Pass.",
+        "ID_ITEMDESC_FROZEN_TRAIL_VILLAGE_KEY": "Unlocks a door to an apartment in the Old Town on Pendola Pass.",
+        "ID_ITEMDESC_FROZEN_TRAIL_RAILYARD_KEY": "Unlocks a door in the Controlled Receiving Facility on Pendola Pass.",
+        "ID_ITEMDESC_FROZEN_TRAIL_OBSERVATORY_KEY": "Unlocks a door in the Cielo Sereno Observatory main building on Pendola Pass.",
+        "ID_ITEMDESC_BRONZESTATUETTE": "An aged but beautiful bronze statuette. Rumor has it that the Nomad Envoy collects these.",
+        "ID_ITEMDESCRIPTIONS_ASCENSIONFRAGMENTS_DESCRIPTION": "Obtained through recycling and used to repair amplified weapons.",
+        "ID_ITEMDESC_ARCADEDUCK": "For some reason, it feels oddly nostalgic.",
+        "ID_ITEMDESC_FROSTYDUCK": "A dapper little fellow.",
+        "ID_ITEMDESC_FROZENTRAIL_COLLECTORKEY": "Combining three distinct couplers, this conduit seems to fit into the Fallen Emperor at Pendola Pass.",
+        "ID_ITEMDESC_FROZENTRAIL_COLLECTORKEYCOMPONENT_01": "One of three distinct couplers found in ARC machines, said to combine into a singular conduit.",
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK1": "Advanced ARC technology that unlocks common weapon Amplification.",
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK2": "Advanced ARC technology that unlocks uncommon weapon Amplification.",
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK3": "Advanced ARC technology that unlocks rare weapon Amplification.",
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK4": "Advanced ARC technology that unlocks epic weapon Amplification.",
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK5": "Advanced ARC technology that unlocks legendary weapon Amplification.",
+        "ID_ITEMDESC_POTTEDPLANT": "A small but tenacious plant, growing happily in a pot",
+        "ID_ITEMDESCRIPTIONS_STENCILPARTS_DESCRIPTION": "Used to apply Stencils to weapons."
       },
       "KeysToMetaData": {
         "ID_ITEMDESC_MUSIC_ALBUM": {
-          "Note": "Music Album"
+          "Note": "Music Album",
+          "Status": "approved"
         },
         "ID_ITEMDESC_RED_CORAL_JEWELRY": {
-          "Note": "Red Coral Jewelry"
+          "Note": "Red Coral Jewelry",
+          "Status": "approved"
         },
         "ID_ITEMDESC_VERY_COMFORTABLE_PILLOW": {
-          "Note": "Very Comfortable Pillow"
+          "Note": "Very Comfortable Pillow",
+          "Status": "approved"
         },
         "ID_ITEMDESC_SILVER_TEASPOON_SET": {
-          "Note": "Silver Teaspoon Set"
+          "Note": "Silver Teaspoon Set",
+          "Status": "approved"
         },
         "ID_ITEMDESC_DART_BOARD": {
-          "Note": "Dart Board"
+          "Note": "Dart Board",
+          "Status": "approved"
         },
         "ID_ITEMDESC_CAT_BED": {
-          "Note": "Cat Bed"
+          "Note": "Cat Bed",
+          "Status": "approved"
         },
         "ID_ITEMDESC_POSTER_NATURAL_WONDERS": {
-          "Note": "Poster of Natural Wonders"
+          "Note": "Poster of Natural Wonders",
+          "Status": "approved"
         },
         "ID_ITEMDESC_LAUNCHERAMMO": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_ITEMDESC_RAIDER_HATCH_KEY": {
-          "Note": "Raider Hatch Key"
+          "Note": "Raider Hatch Key",
+          "Status": "approved"
         },
         "ID_ITEMDESC_SECURITYCODE_ALT2": {
-          "Note": "This is the same description as ID_ITEMDESC_SECURITYCODE, but with an added paragraph to clarify that it will expire upon leaving the round."
+          "Note": "This is the same description as ID_ITEMDESC_SECURITYCODE, but with an added paragraph to clarify that it will expire upon leaving the round.",
+          "Status": "approved"
         },
         "ID_ITEMDESC_EXPIRED_SECURITYCODE": {
-          "Note": "The security codes for Ancient Fort, Pilgrims Peak, Raiders Refuge and Reinforced Reception will expire and transform into this item upon leaving the round."
+          "Note": "The security codes for Ancient Fort, Pilgrims Peak, Raiders Refuge and Reinforced Reception will expire and transform into this item upon leaving the round.",
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SCRAPMETAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_WIRES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OLDBATTERIES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OLDCIRCUITBOARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEATSINK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPIREDCANDY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CONTAMINATEDWATER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_JUNK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BASICPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REFINEDMATERIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRAFTINGCOMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RUBBERHOSE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LEAKYCANISTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDUSTRIALBATTERY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INDUSTRIALMAGNET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPEAKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TRANSPONDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPRAYCAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SYRINGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DUCTTAPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STEELCABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TUBEBRUSH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_METALFILE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STEELPLATES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ACID": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REFINEDPOLYMER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ALUMINUMPLATES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ADHESIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CLEANWATER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REFINEDRUBBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MECHANICALCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ELECTRICALCOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_INCENDIARYPOWDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPLOSIVEMIXTURE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ANTISEPTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LIGHTGUNPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MEDIUMGUNPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEAVYGUNPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TRADERITEM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RUSTREMOVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_GUNPOWDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMALLMOTOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SURGICALNEEDLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SIMPLEGRENADECASINGS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ADVANCEDGRENADECASING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SENSORS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TORCHGINGERSEEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PLANTSANDSEEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TORCHGINGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUZZLECOMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RAIDERHATCHKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AGAVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_APRICOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LEMON": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MOSS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MUSHROOM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OLIVES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PRICKLYPEAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RESIN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ENERGYAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEAVYAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LIGHTAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MEDIUMAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHOTGUNAMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLUEGATEKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLUEGATEKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLUEGATEKEY3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BURIEDCITYKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BURIEDCITYKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BURIEDCITYKEY3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BURIEDCITYKEY4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FIREBALLBURNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARCPOWERCELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORBATTERIES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPIREDPASTA": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLOATEDTUNACAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPACEPORTKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPACEPORTKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPACEPORTKEY3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SPACEPORTKEY4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMKEY3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMKEY4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AIRFRESHENER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BENTCLOTHESHANGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLOWNFUSES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNOWGLOBES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BURNTOUTCANDLES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_COFFEEPOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DEFLATEDFOOTBALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DOGCOLLAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EMPTYWINEBOTTLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPIREDRESPIRATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FADEDPHOTOGRAPH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FOODWRAPPER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_GARLICPRESS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HUSKLILY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ICECREAMSCOOPER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LANCESMIXTAPE5THEDITION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LIGHTBULB": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_OILSHROOM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PIANOKEYS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PLASTICSPINNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_PLAYINGCARDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REALLYNICEROCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIPPEDSAFETYVEST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RUBBERDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SCARYWOODENDOLL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SCRATCHEDSUNGLASSES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TORNBOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TORNLACETABLECLOTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLUEGATEKEY4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FINE_WRISTWATCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENTATIONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BLUEGATEKEY5": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MAGNET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_MOUNTAINCOMPOUNDKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_UNLOCKS_A_DOOR_IN_MEDICAL_RESEARCH_IN_STELLA_MONTIS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_UNLOCKS_A_DOOR_IN_THE_ARCHIVES_IN_STELLA_MONTIS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SECURITYCODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ACERRAKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMUTILITYKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UNARMED": {
+          "Status": "new"
+        },
+        "ID_ITEMDESC_BUNKER_KEY_IN_STOCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENPARACHUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENFLUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENACCORDION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENBATON": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENRIOTSHIELD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BROKENHANDCUFFS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTION_MOUNTAINCOMPOUNDKEY4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_CANDLEBERRIES": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FLASHYDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ALIENDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TROPICALDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_GENTLEDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FAMILIARDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DOODLYDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DAMKEY5": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIVENTIDES_HOTELKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIVENTIDES_CRANEHOUSEKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIVENTIDES_WAVEBREAKERKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIVENTIDES_WAVEBREAKERKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RIVENTIDES_HOTELKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_BOATMODEL_A_PLACEHOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_BOATMODEL_B_PLACEHOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_BOATMODEL_C_PLACEHOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_BOATMODEL_D_PLACEHOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_BOATMODEL_E_PLACEHOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BOOM_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_WINNERDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MRIDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BRONZESTATUETTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZEN_TRAIL_STATION_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZEN_TRAIL_VILLAGE_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZEN_TRAIL_RAILYARD_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZEN_TRAIL_OBSERVATORY_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_PAINT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_STENCILPARTS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_FRIGATEMEMORYMODULE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_ARCMEMORYCARD_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_EXODUSBOOK_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RAIDERJOURNAL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_OLDBOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_OLDBOOK_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARCADEDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROSTYDUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZENTRAIL_COLLECTORKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FROZENTRAIL_COLLECTORKEYCOMPONENT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMPLIFICATION_MODULE_MK5": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_POTTEDPLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_COLLECTOR1_DESCRIPTION": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_FRIGATE1_DESCRIPTION": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_ASCENSIONFRAGMENTS_DESCRIPTION": {
+          "Status": "approved"
         }
       }
     }

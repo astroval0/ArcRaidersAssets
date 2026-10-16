@@ -31,55 +31,81 @@
       },
       "KeysToMetaData": {
         "ID_CELEBRATIONS_UNLOCKED_MESSAGE": {
-          "Note": "Celebration for when something is unlocking"
+          "Note": "Celebration for when something is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_TRIALS": {
-          "Note": "Celebration for when trials is unlocking"
+          "Note": "Celebration for when trials is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_EXPEDITION": {
-          "Note": "Celebration for when expedition is unlocking"
+          "Note": "Celebration for when expedition is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_PROJECTS": {
-          "Note": "Celebration for when projects is unlocking"
+          "Note": "Celebration for when projects is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_CODEX": {
-          "Note": "Celebration for when codex is unlocking"
+          "Note": "Celebration for when codex is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_SKILLTREE": {
-          "Note": "Celebration for when skill tree is unlocking"
+          "Note": "Celebration for when skill tree is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_QUESTS": {
-          "Note": "Celebration for when quests is unlocking"
+          "Note": "Celebration for when quests is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATIONS_UNLOCKED_WORKSHOP": {
-          "Note": "Celebration for when workshop is unlocking"
+          "Note": "Celebration for when workshop is unlocking",
+          "Status": "approved"
         },
         "ID_CELEBRATION_UNLOCKED_CODEX": {
-          "Note": "Title for Codex unlock celebration"
+          "Note": "Title for Codex unlock celebration",
+          "Status": "approved"
         },
         "ID_CELEBRATION_BUTTON_GOTO_CODEX": {
-          "Note": "Enter Codex screen"
+          "Note": "Enter Codex screen",
+          "Status": "approved"
         },
         "ID_CELEBRATION_UNLOCKED_SKILLTREE": {
-          "Note": "Title for Skilltree unlock celebration"
+          "Note": "Title for Skilltree unlock celebration",
+          "Status": "approved"
         },
         "ID_CELEBRATION_BUTTON_GOTO_SKILLTREE": {
-          "Note": "Enter Skilltree screen"
+          "Note": "Enter Skilltree screen",
+          "Status": "approved"
         },
         "ID_CELEBRATION_UNLOCKED_TRIALS": {
-          "Note": "Title for Trials unlock celebration"
+          "Note": "Title for Trials unlock celebration",
+          "Status": "approved"
         },
         "ID_CELEBRATION_BUTTON_GOTO_TRIALS": {
-          "Note": "Enter Trials screen"
+          "Note": "Enter Trials screen",
+          "Status": "approved"
         },
         "ID_CELEBRATION_UNLOCKED_EXPEDITIONS": {
-          "Note": "Title for Expeditions unlock celebration"
+          "Note": "Title for Expeditions unlock celebration",
+          "Status": "approved"
         },
         "ID_CELEBRATION_BUTTON_GOTO_EXPEDITION": {
-          "Note": "Enter Expedition screen"
+          "Note": "Enter Expedition screen",
+          "Status": "approved"
         },
         "ID_CELEBRATION_BUTTON_OPEN": {
-          "Note": "Enter that screen"
+          "Note": "Enter that screen",
+          "Status": "approved"
+        },
+        "ID_ITEM_CELEBRATION_BUTTON_CLAIMREWARD": {
+          "Status": "approved"
+        },
+        "ID_ITEM_CELEBRATION_NEXT": {
+          "Status": "approved"
+        },
+        "ID_ITEM_CELEBRATION_SKIP": {
+          "Status": "approved"
         }
       }
     }

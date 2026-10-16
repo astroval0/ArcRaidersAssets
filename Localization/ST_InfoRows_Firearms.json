@@ -31,7 +31,74 @@
         "ID_INFOROW_QUIRK_LAUNCHER_ANTIARC_MEDIUM_01": "Projectiles only detonate when hitting ARC.",
         "ID_INFOROW_BOON_LAUNCHER_ANTIARC_MEDIUM_01": "Highly effective vs ARC"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_INFOROW_DMGBONUS_HEAVYAMMO": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_DMGBONUS_LIGHTAMMO": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_DMGBONUS_MEDIUMAMMO": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_DMGBONUS_SPECIAL_SNIPERRIFLE": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_DMGBONUS_SPECIAL_BEAMRIFLE": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_DMGBONUS_SHOTGUNAMMO": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_ASSAULTRIFLE_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_BATTLERIFLE_BREACHACTION_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_LMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_PISTOL_HIGHPOWER_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_PISTOL_SILENCED_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_PISTOL_SILENCED_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_SMG_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_SPECIAL_RAILGUN_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_SMG_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_LMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_ASSAULTRIFLE_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_ASSAULTRIFLE_PNEUMATIC_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_ASSAULTRIFLE_PNEUMATIC_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_BATTLERIFLE_BREACHACTION_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_QUIRK_LAUNCHER_ANTIARC_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_INFOROW_BOON_LAUNCHER_ANTIARC_MEDIUM_01": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

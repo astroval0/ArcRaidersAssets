@@ -39,7 +39,98 @@
         "ID_RICHTEXTFORMAT_LIVEEVENT_POINTS": "<img id=\"LiveEvent_Points\"/> {0}",
         "ID_RICHTEXTFORMAT_SOCIAL_JOIN_OPEN_PARTY": "<img id=\"Social_JoinOpenParty\"/> {0}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_RICHTEXTFORMAT_CURRENCY_PREFIX_TEMPLATE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_INVITE_TO_PARTY": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_MUTE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_UNMUTE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_JOIN_VOIP": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_LEAVE_VOIP": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_ACCEPT_PARTY_INVITE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_DECLINE_PARTY_INVITE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SEND_FRIEND_REQUEST": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_CANCEL_FRIEND_REQUEST": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_REMOVE_FRIEND": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_ACCEPT_FRIEND_INVITE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_DECLINE_FRIEND_INVITE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_LEAVE_PARTY": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_BLOCK_PLAYER": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_REPORT_PLAYER": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_KICK_FROM_PARTY": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_PLAYSTATION": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_CHANGE_NAME": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_COPY_NAME": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_XBOX": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_STEAM": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_PLATFORM_PROFILE_FALLBACK": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_CLAN_REMOVEROLE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_CLAN_ASSIGNROLE": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_CLAN_REMOVEMEBER": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_SHOW_DISCRIMINATOR": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_HIDE_DISCRIMINATOR": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_LIVEEVENT_POINTS": {
+          "Status": "new"
+        },
+        "ID_RICHTEXTFORMAT_SOCIAL_JOIN_OPEN_PARTY": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

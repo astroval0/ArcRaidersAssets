@@ -106,98 +106,412 @@
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS_ALT": "Merit from:",
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_DESCRIPTION": "Return with ship models or earn Experience Points (XP).",
         "ID_COMMUNITY_EVENTS_APRIL_EVENT_NAME": "Miniature Voyages",
-        "ID_COMMUNITY_EVENTS_LAST_RESORT_PROJECT": "The Last Resort"
+        "ID_COMMUNITY_EVENTS_LAST_RESORT_PROJECT": "The Last Resort",
+        "ID_SUBWAYEVENT_MODAL_TITLE": "Your Subway® rewards have arrived!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT1": "Your Subway rewards have arrived!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT2": "Your Subway® rewards are here!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT3": "Your Subway rewards are here!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT4": "Your Subway® rewards have arrived",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT5": "Your Subway rewards have arrived",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT6": "Your Subway® rewards are here",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT7": "Your Subway rewards are here",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT8": "Your rewards have arrived!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT9": "Your rewards have arrived",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT10": "Your rewards are here!",
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT11": "Your rewards are here",
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION": "The rewards you redeemed have been added to your account.",
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_ALT1": "Your redeemed rewards have been added to your account.",
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY": "Enjoy these exclusive items as a thank you for being a valued Subway member. Unlock more rewards with your next purchase.",
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY_ALT1": "Enjoy these exclusive items as a thank you for being a valued Subway member.",
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY_ALT2": "Enjoy these exclusive rewards as a thank you for being a valued Subway member.",
+        "ID_SUBWAYEVENT_MODAL_CONFIRM": "Got it"
       },
       "KeysToMetaData": {
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_TITLE": {
-          "Note": "Header for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+          "Note": "Header for Popup that triggers when the Winter Event starts, to explain to the players what it's about",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_SUBTITLE": {
-          "Note": "Subheader for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+          "Note": "Subheader for Popup that triggers when the Winter Event starts, to explain to the players what it's about",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_LONG": {
-          "Note": "Description for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+          "Note": "Description for Popup that triggers when the Winter Event starts, to explain to the players what it's about",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_DESCRIPTION_GAMEPLAY": {
-          "Note": "Other paragraph of description for Popup that triggers when the Winter Event starts, to explain to the players what it's about"
+          "Note": "Other paragraph of description for Popup that triggers when the Winter Event starts, to explain to the players what it's about",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_CLOSE": {
-          "Note": "Button on Popup"
+          "Note": "Button on Popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_HEADER_PROJECT_REWARDS": {
-          "Note": "Header for displaying the rewards unlocked and unclaimed in the project"
+          "Note": "Header for displaying the rewards unlocked and unclaimed in the project",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_START_BUTTON_GO_TO_PROJECT": {
-          "Note": "Other button on Popup"
+          "Note": "Other button on Popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_TITLE": {
-          "Note": "Header for the Winter Event sunset popup (when the event ends)"
+          "Note": "Header for the Winter Event sunset popup (when the event ends)",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_SUBTITLE": {
-          "Note": "Subheader for the Winter Event sunset popup"
+          "Note": "Subheader for the Winter Event sunset popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_DESCRIPTION": {
-          "Note": "Description for the Winter Event sunset popup"
+          "Note": "Description for the Winter Event sunset popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_BERRIES": {
-          "Note": "Stat 1 shown in the Winter Event sunset popup"
+          "Note": "Stat 1 shown in the Winter Event sunset popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_MERITS": {
-          "Note": "Stat 2 shown in the Winter Event sunset popup"
+          "Note": "Stat 2 shown in the Winter Event sunset popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_STATS_REWARDS": {
-          "Note": "Stat 3 shown in the Winter Event sunset popup"
+          "Note": "Stat 3 shown in the Winter Event sunset popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_POPUP_END_BUTTON_DISMISS": {
-          "Note": "Button on Popup"
+          "Note": "Button on Popup",
+          "Status": "approved"
         },
         "ID_COMMUNITYEVENT_WINTER_TIMER": {
-          "Note": "Timer to the end of the event"
+          "Note": "Timer to the end of the event",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_VIEW_REWARDS": {
-          "Note": "Button hint for showing all rewards gained in the event."
+          "Note": "Button hint for showing all rewards gained in the event.",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_TO_EARN_MERITS": {
-          "Note": "Title for description about how to earn merits"
+          "Note": "Title for description about how to earn merits",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE": {
-          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+          "Note": "Title for the screen/tab, that holds a battlepass like progression",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_1": {
-          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+          "Note": "Title for the screen/tab, that holds a battlepass like progression",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_REWARDS_SCREEN_TITLE_ALT_2": {
-          "Note": "Title for the screen/tab, that holds a battlepass like progression"
+          "Note": "Title for the screen/tab, that holds a battlepass like progression",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN": {
-          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item"
+          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_EARN_ALT": {
-          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item"
+          "Note": "Description of tooltip on the {amount} of merits gained upon returning with the Item",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_TOOLTIP_CLAIMED": {
-          "Note": "Description of tooltip on the a item that already have claimed merits"
+          "Note": "Description of tooltip on the a item that already have claimed merits",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED": {
-          "Note": "Title for EOR element describing the amount of merits gained from multiple items"
+          "Note": "Title for EOR element describing the amount of merits gained from multiple items",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_EOR_ACCUMULATED_ALT": {
-          "Note": "Title for EOR element describing the amount of merits gained from multiple items"
+          "Note": "Title for EOR element describing the amount of merits gained from multiple items",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS": {
-          "Note": "Title for describing items that merit can be gained from"
+          "Note": "Title for describing items that merit can be gained from",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_CONTAINING_MERITS_ALT": {
-          "Note": "Title for describing items that merit can be gained from"
+          "Note": "Title for describing items that merit can be gained from",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_MERITS_ITEM_DESCRIPTION": {
-          "Note": "Description on how to obtain merits"
+          "Note": "Description on how to obtain merits",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_APRIL_EVENT_NAME": {
-          "Note": "Name of the linear progression"
+          "Note": "Name of the linear progression",
+          "Status": "approved"
         },
         "ID_COMMUNITY_EVENTS_LAST_RESORT_PROJECT": {
-          "Note": "Project and event name combined"
+          "Note": "Project and event name combined",
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_TT1_PERSONALDELTA_FORMAT": {
+          "Status": "new"
+        },
+        "ID_COMMUNITYEVENT_WIDGET_HEADER": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_TASKHEADER": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_DISMISS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_PHASEINFOMODAL_VIEWDETAILS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_DONATEBUTTON_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_DONATED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_YOUR_POINTS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_YOUR_RANK": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_TOP_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_NO_EVENT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_REWARDS_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_YOUR_CONTRIBUTION": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MATERIALS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_COMMUNITY_PROGRESSION": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_UNLOCK_NEXT_STAGE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_PHASE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_POINTS_HINT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_1": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_4": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_3": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_2": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_CONTRIBUTORRANK_5": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MERITS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_REWARD_UNLOCK_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITY_EVENTS_REWARDS_RECEIVED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MATERIALS_CONTRIBUTED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MERITS_REWARDED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_GENERIC_EVENT_ENDED_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_GENERIC_EVENT_ENDED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_EXCAVATING_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_COMMUNITY_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_OFFER_AMOUNT_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_OFFER_NONE_IN_STASH": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_DONATIONS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_NEW_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_1": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_2": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_3": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_LOCKED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_TITLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_GENERIC_LONG": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_1_LONG": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_2_LONG": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_SUBTITLE_3_LONG": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_MAP_LOCKED_TITLE_ALT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MAXIMUM_MERITS_REACHED": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MORE_INFO": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITY_EVENTS_ABOUT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_MAXIMUM_MERITS_REACHED_ALT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_30_MIN": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_MINUTES": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_END_OF_COMMUNITY_ETA_1_HOUR": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_WINTER_SUBTITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_WINTER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_WINTER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_WINTER_XPAMOUNT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_WINTER_MERITAMOUNT": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENT_XP_CATEGORIES_HEADER": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITY_EVENT_XP_PVE_ACTIONS": {
+          "Status": "approved"
+        },
+        "ID_COMMUNITYEVENTS_SEASONALEVENTSCURRENCY": {
+          "Status": "new"
+        },
+        "ID_COMMUNITYEVENTS_TICKETS_PUNCHED": {
+          "Status": "new"
+        },
+        "ID_COMMUNITYEVENTS_MERITS_FROM_TICKETS": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE": {
+          "Note": "ARC Raiders and Subway have a collaboration this summer; when buying a Subway sandwhich, you get a special subway rewards in ARC Raiders. Make sure to use the right name to refer to Subway for the target language and region.",
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY": {
+          "Note": "Requested String by Subway",
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY_ALT1": {
+          "Note": "Requested by Subway, but shortened without the MTX part",
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_BYSUBWAY_ALT2": {
+          "Note": "Rewards instead of Items",
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_CONFIRM": {
+          "Note": "Requested String by Subway on the Confirmation CTA",
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT3": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT4": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT5": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT6": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT7": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT8": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT9": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT10": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_TITLE_ALT11": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SUBWAYEVENT_MODAL_DESCRIPTION_ALT1": {
+          "Status": "approved"
         }
       }
     }

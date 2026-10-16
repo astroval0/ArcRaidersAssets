@@ -59,7 +59,7 @@
         "ID_PLAYERSKIN_PAULDROID": "Torpedo",
         "ID_PLAYERSKIN_AGILEASTRONAUT": "Astrolite",
         "ID_PLAYERSKIN_ABYSS": "Abyss",
-        "ID_PLAYERSKIN_JETPILOT": "Jet Pilot",
+        "ID_PLAYERSKIN_JETPILOT": "Aeronaut",
         "ID_PLAYERSKIN_MATADOR": "Matador",
         "ID_PLAYERSKIN_NOVA": "Solare",
         "ID_PLAYERSKIN_EXPEDITIONER": "Expeditioner",
@@ -77,9 +77,320 @@
         "ID_PLAYERSKIN_RACHETTA": "Rachetta",
         "ID_PLAYERSKIN_PIRATE": "Corsaro",
         "ID_PLAYERSKIN_ANGLER": "Castaway",
-        "ID_PLAYERSKIN_SANDVEIL": "Sandveil"
+        "ID_PLAYERSKIN_SANDVEIL": "Sandveil",
+        "ID_PLAYERSKIN_MASKSHIFT": "Sheath",
+        "ID_PLAYERSKIN_WASTELANDREBEL": "Reaver",
+        "ID_PLAYERSKIN_SUBWAYOUTFIT": "Subterranean",
+        "ID_PLAYERSKIN_HORNETHUNTER": "Hornet Hunter",
+        "ID_PLAYERSKIN_DWELLER": "Dweller",
+        "ID_PLAYERSKIN_HORNVEIL": "Saltwalker",
+        "ID_PLAYERSKIN_FLAMETHROWER": "Zenith",
+        "ID_PLAYERSKIN_HOPLOMACHUS": "Triumph",
+        "ID_PLAYERSKIN_SHOCKWARDEN": "Static",
+        "ID_PLAYERSKIN_LOOMER": "Roamer",
+        "ID_PLAYERSKIN_POPSTAR": "Maestro",
+        "ID_PLAYERSKIN_GLITCH": "Anomalia",
+        "ID_PLAYERSKIN_ORVAX": "Scorta",
+        "ID_PLAYERSKIN_TICKHUNTER": "Tick Hunter",
+        "ID_PLAYERSKIN_NIGHTRUNNER": "Azimuth",
+        "ID_PLAYERSKIN_BANSHEE": "Banshee",
+        "ID_PLAYERSKIN_ICEGIANT": "Ice Giant",
+        "ID_PLAYERSKIN_RUINWALKER": "Wreck",
+        "ID_PLAYERSKIN_IRONCLAD": "Carrion",
+        "ID_PLAYERSKIN_RENZO": "Renzo",
+        "ID_PLAYERSKIN_PATCHER": "Anchor",
+        "ID_PLAYERSKIN_BELLS": "Carriga",
+        "ID_PLAYERSKIN_OUTLANDER": "Deadwire",
+        "ID_PLAYERSKIN_BUTTERO": "Dead Eye",
+        "ID_PLAYERSKIN_STATIONMASTER": "Caposta"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_PLAYERSKIN_ENFORCER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RECRUIT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ABANDONEDASTRONAUT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ANTLERSHAMAN": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_COWBOYMISSIONARY": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_DEEPSEADIVER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_FIGHTERPILOT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_JUKEBOX": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_LEMANS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MOUNTAINEER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_COSMONAUT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GWRANGER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_JANITOR": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_CASUALPILOT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GSUIT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GREENHORN": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_VESTOUTFIT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BEEKEEPER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_THEKID": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HYDROSCAV": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SPACECHAPS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RAGS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_WAYFARER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_FENCER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_YARNFACE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_WELDER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_DRAFTY": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_PICKET": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BOMBER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SHROUDHORNS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SHROUD": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RELAXEDASTRONAUT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MACRAME": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HITECHHIKER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ROCKETEER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BATTER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_DASHWOOD": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SCOUT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SCOURGERIDER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MOTORACER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_DRIFTCOAT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_AVIATOR": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_EXPLORER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GOALIE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MOONBALL": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_NURSE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_VALE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HUNTSMAN": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_PAULDROID": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_AGILEASTRONAUT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ABYSS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_JETPILOT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MATADOR": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_NOVA": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_EXPEDITIONER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HELIX": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_NOMADSHROUD": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_STEALTH": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_VULPINE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GRANDRACER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GRANDRACEROPTION2": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BRIGADE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GHILLIE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_VANGUARD": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_WASPHUNTER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RECON": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RACHETTA": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_PIRATE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ANGLER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SANDVEIL": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_MASKSHIFT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_WASTELANDREBEL": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SUBWAYOUTFIT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HORNETHUNTER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_DWELLER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HORNVEIL": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_FLAMETHROWER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_HOPLOMACHUS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_SHOCKWARDEN": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_LOOMER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_POPSTAR": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_GLITCH": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ORVAX": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_TICKHUNTER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_NIGHTRUNNER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_STATIONMASTER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BUTTERO": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BELLS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_BANSHEE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_ICEGIANT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RUINWALKER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_IRONCLAD": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_RENZO": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_PATCHER": {
+          "Status": "approved"
+        },
+        "ID_PLAYERSKIN_OUTLANDER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

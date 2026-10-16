@@ -1,0 +1,40 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_PLROnDevice",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_PLROnDevice",
+    "StringTable": {
+      "TableNamespace": "ST_PLROnDevice",
+      "KeysToEntries": {
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_01": "Instrument 01",
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_ALL": "All",
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_INSTRUMENTS": "Instruments",
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_UNCATEGORIZED": "Uncategorized",
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_02": "Instrument 02",
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_03": "Instrument 03"
+      },
+      "KeysToMetaData": {
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_01": {
+          "Status": "approved"
+        },
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_ALL": {
+          "Status": "approved"
+        },
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_INSTRUMENTS": {
+          "Status": "approved"
+        },
+        "ID_PLR_ON_DEVICE_CATEGORY_NAME_UNCATEGORIZED": {
+          "Status": "approved"
+        },
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_02": {
+          "Status": "approved"
+        },
+        "ID_PLR_ON_DEVICE_TRACK_NAME_INSTRUMENT_03": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

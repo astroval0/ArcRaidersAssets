@@ -97,41 +97,450 @@
         "ID_INPUTACTION_STOW_AWAY_HOLD": "(Hold) Stow Away",
         "ID_INPUTACTION_TOGGLE_AIM": "Aim (Toggle)",
         "ID_INPUTACTION_TOGGLE_PARENTHESIS": "(Toggle) {0}",
-        "ID_INPUTACTION_HOLD_PARENTHESIS": "(Hold) {0}"
+        "ID_INPUTACTION_HOLD_PARENTHESIS": "(Hold) {0}",
+        "ID_INPUTACTION_QUICK_USE_1": "Quick Use Slot 1",
+        "ID_INPUTACTION_QUICK_USE_2": "Quick Use Slot 2",
+        "ID_INPUTACTION_QUICK_USE_3": "Quick Use Slot 3",
+        "ID_INPUTACTION_QUICK_USE_4": "Quick Use Slot 4",
+        "ID_INPUTACTION_QUICK_USE_WHEEL_HOLD": "Quick Use Wheel (Hold)",
+        "ID_INPUTACTION_QUICK_USE_WHEEL_TOGGLE": "Quick Use Wheel (Toggle)",
+        "ID_INPUTACTION_QUICK_USE_WHEEL": "Quick Use Wheel",
+        "ID_INPUTACTION_FIREARM_BASH": "Firearm Bash",
+        "ID_INPUTACTION_WEAPONBASH": "Weapon Bash",
+        "ID_INPUTACTION_WEAPONBASH_ALT1": "Bash",
+        "ID_INPUTACTION_BULLRUSH": "Bull Rush",
+        "ID_INPUTACTION_BULLRUSH_ALT1": "Rush",
+        "ID_INPUTACTION_GRAPPLINGHOOK_THROWHOOK": "Throw Hook",
+        "ID_INPUTACTION_GRAPPLINGHOOK_CLIMB": "Climb",
+        "ID_INPUTACTION_GRAPPLINGHOOK_CLIMBDOWN": "Climb Down",
+        "ID_INPUTACTION_GRAPPLINGHOOK_REELIN": "Reel In",
+        "ID_INPUTACTION_GRAPPLINGHOOK_REMOVEHOOK": "Remove Hook",
+        "ID_INPUTACTION_GRAPPLINGHOOK_CANCEL": "Cancel",
+        "ID_INPUTACTION_ACTIVATE_SKILL": "Activate Skill",
+        "ID_INPUTACTION_SHOULDERSWAP_OR_RAIDERTOOL": "Swap Shoulder (Press) / Melee Weapon (Hold)",
+        "ID_INPUT_UNARMED_PLUS": "Unarmed +",
+        "ID_INPUT_UNARMED_PLUS_ICON": "Unarmed + {0}",
+        "ID_INPUT_WEAPON_EQUIPPED_PLUS": "Weapon Equipped +",
+        "ID_INPUT_WEAPON_EQUIPPED_PLUS_ICON": "Weapon Equipped + {0}",
+        "ID_INPUT_MELEEWEAPON_HOLD": "Melee Weapon (Hold)",
+        "ID_INPUT_SHOULDERSWAP_HOLD": "Shoulder Swap (Hold)",
+        "ID_INPUTACTION_VIEW_CONTROLS": "View Controls",
+        "ID_INPUTACTION_VIEW_SETTINGS": "View Settings",
+        "ID_INPUTACTION_CHANGE": "Change",
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_ADJUSTMENT": "Increase selected camera adjustment",
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_ADJUSTMENT": "Decrease selected camera adjustment",
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_CHANGE_ADJUSTMENT_MODE": "Switch between camera adjustments",
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_CHANGE_ADJUSTMENT_MODE_ALT1": "Switch camera adjustments",
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_SELFIE_MODE_ALT1": "Self-Portrait",
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_SELFIE_MODE": "Selfie Mode",
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_FLASH_MODE": "Flash Mode",
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_FILTER_MODE": "Filter Mode"
       },
       "KeysToMetaData": {
         "ID_INPUTACTION_HOLD": {
-          "Note": "Type of button press"
+          "Note": "Type of button press",
+          "Status": "approved"
         },
         "ID_INPUTACTION_TOGGLE": {
-          "Note": "Type of button press"
+          "Note": "Type of button press",
+          "Status": "approved"
         },
         "ID_INPUTACTION_MOVE": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_DOUBLE_PRESS": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_RIGHT_CLICK": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_DOUBLE_CLICK": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_TAP_AND_PROGRESS": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_PRESS_AND_PROGRESS": {
-          "Note": "Type of button action"
+          "Note": "Type of button action",
+          "Status": "approved"
         },
         "ID_INPUTACTION_STOW_AWAY": {
-          "Note": "Alternative for \"unarmed\" state"
+          "Note": "Alternative for \"unarmed\" state",
+          "Status": "approved"
         },
         "ID_INPUTACTION_AUGMENTSLOT_1": {
-          "Note": "Binding in settings for augment slots 1"
+          "Note": "Binding in settings for augment slots 1",
+          "Status": "approved"
         },
         "ID_INPUTACTION_AUGMENTSLOT_2": {
-          "Note": "Binding in settings for augment slots 2"
+          "Note": "Binding in settings for augment slots 2",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_JUMP": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_FORWARD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_BACKWARD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_LEFT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SENDTELEMETRY": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SMARTSPRINT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_DODGEROLL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_AIM": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_FIRE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ABILITY_GADGET": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CROUCHHOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_LAUNCHER": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_FIREARM": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ACCESSINVENTORY": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MAP": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PING": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_EMOTE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_FLASHLIGHT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLECHATALL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLECHATSQUAD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SPRINTHOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SPRINTTOGGLE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PAN": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ZOOM": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CROUCHTOGGLE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SHOULDERSWAP": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WEAPON1": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WEAPON2": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GADGET": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MELEEWEAPON": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MAPPIN": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WALKTOGGLE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WALKHOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MOVE_LEFT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MOVE_BACKWARD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MOVE_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_JUMP_VAULT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SPRINT_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CROUCH_SLIDE_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_CROUCH": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_DODGE_ROLL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_WALK": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_COMBAT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PRIMARY_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SECONDARY_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_EQUIP_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SWAP_SHOULDER": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CYCLE_EQUIPMENT_UP": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CYCLE_EQUIPMENT_DOWN": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_COMMUNICATION": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PING_WHEEL_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_EMOTE_WHEEL_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PUSH_TO_TALK": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_PUSH_TO_TALK_PROXIMITY": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GENERAL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_FLASHLIGHT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CONTROLS_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GAME_MENU": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_HUD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MOVEMENT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_UNARMED": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ITEM_NEXT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ITEM_PREVIOUS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_GLOBAL_PING": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SHOW_CONTROLS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SWAP_TO_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CROUCH_OR_DODGEROLL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_RELOAD_OR_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_INVENTORY_OR_MAP": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_MAP_LAYER": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_STOW_AWAY_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_AIM": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_TOGGLE_PARENTHESIS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_HOLD_PARENTHESIS": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_1": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_2": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_3": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_4": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_WHEEL_HOLD": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_WHEEL_TOGGLE": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_QUICK_USE_WHEEL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_FIREARM_BASH": {
+          "Status": "approved"
+        },
+        "ID_INPUT_MELEEWEAPON_HOLD": {
+          "Note": "To allow us to bind Melee to a hold (in addition to press that we already have)",
+          "Status": "approved"
+        },
+        "ID_INPUT_SHOULDERSWAP_HOLD": {
+          "Note": "To allow us to bind Shoulder Swap to a hold (in addition to press that we already have)",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_VIEW_CONTROLS": {
+          "Note": "Call To Action button for modal, button leads to settings screen (Controlls) max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_VIEW_SETTINGS": {
+          "Note": "Call To Action button for modal, button leads to settings screen (Controlls) max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_INPUT_UNARMED_PLUS": {
+          "Status": "approved"
+        },
+        "ID_INPUT_UNARMED_PLUS_ICON": {
+          "Status": "approved"
+        },
+        "ID_INPUT_WEAPON_EQUIPPED_PLUS": {
+          "Status": "approved"
+        },
+        "ID_INPUT_WEAPON_EQUIPPED_PLUS_ICON": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CHANGE": {
+          "Note": "Label for hint that switches from toggle Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_ADJUSTMENT": {
+          "Note": "Field that allows player to rebind the key/input used to increase the slider of a selected option within the camera. For example the Increase of Zoom/Apperture/Focus. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_ADJUSTMENT": {
+          "Note": "Field that allows player to rebind the key/input used to decrease the slider of a selected option within the camera. For example the decrease of Zoom/Apperture/Focus. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_CHANGE_ADJUSTMENT_MODE": {
+          "Note": "Field that allows player to rebind the key/input used to change the camera mode, example change from Zoom mode to Apperture. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_DECREASE_CAMERA_CHANGE_ADJUSTMENT_MODE_ALT1": {
+          "Note": "Field that allows player to rebind the key/input used to change the camera mode, example change from Zoom mode to Apperture. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_SELFIE_MODE_ALT1": {
+          "Note": "Field that allows player to rebind the key/input used to turn the camera to Selfie Mode. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_SELFIE_MODE": {
+          "Note": "Field that allows player to rebind the key/input used to turn the camera to Selfie Mode. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_FLASH_MODE": {
+          "Note": "Field that allows player to rebind the key/input used to turn the cameras off and on. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_CAMERA_INCREASE_CAMERA_FILTER_MODE": {
+          "Note": "Field that allows player to rebind the key/input used to turn the cameras filter mode off and on. Max. char. limit: 46",
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WEAPONBASH": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_WEAPONBASH_ALT1": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_BULLRUSH": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_BULLRUSH_ALT1": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_THROWHOOK": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_CLIMB": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_CLIMBDOWN": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_REELIN": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_REMOVEHOOK": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_GRAPPLINGHOOK_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_ACTIVATE_SKILL": {
+          "Status": "approved"
+        },
+        "ID_INPUTACTION_SHOULDERSWAP_OR_RAIDERTOOL": {
+          "Status": "approved"
         }
       }
     }

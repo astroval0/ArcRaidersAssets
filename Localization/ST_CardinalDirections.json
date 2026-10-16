@@ -25,7 +25,56 @@
         "ID_EAST_SHORT": "E",
         "ID_NORTH_SHORT": "N"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_NORTHWEST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_NORTHEAST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_SOUTH_SHORT": {
+          "Status": "approved"
+        },
+        "ID_SOUTHEAST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_SOUTHWEST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_WEST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_NORTH": {
+          "Status": "approved"
+        },
+        "ID_NORTHWEST": {
+          "Status": "approved"
+        },
+        "ID_EAST": {
+          "Status": "approved"
+        },
+        "ID_SOUTHEAST": {
+          "Status": "approved"
+        },
+        "ID_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_SOUTHWEST": {
+          "Status": "approved"
+        },
+        "ID_WEST": {
+          "Status": "approved"
+        },
+        "ID_NORTHEAST": {
+          "Status": "approved"
+        },
+        "ID_EAST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_NORTH_SHORT": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -17,11 +17,75 @@
         "ID_ITEMDESCRIPTIONS_SALVAGE_SEEDS": "Rare seeds found in the world or bought by traders. Used to grow things",
         "ID_ITEMDESCRIPTIONS_SALVAGE_TRACTOR_PART": "Drops from Tractors.",
         ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_DRONE_PART": "Part of a Meerkat Drone",
-        ":ID_ITEMDESCRIPTIONS_SALVAGE_TICK_DRONE_PART": "Seed container for a Tick Drone"
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_TICK_DRONE_PART": "Seed container for a Tick Drone",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_INACTIVE_TRANSMITTER": "A beacon for ARC signals. Use at a Collector Beacon Socket to turn it into an Calibrated Beacon.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_CALIBRATED_TRANSMITTER": "A beacon with a copy of the Emperor's identifier signal. Deploy in an open area to call in Harvester Payloads.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_BROKEN_TRANSMITTER": "This beacon no longer has any power to send a signal.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_CALIBRATED_TRANSMITTER_ALT1": "A beacon with a copy of the Emperor's identifier signal. Deploy in an open area to call in Emperor Payloads.",
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_TURRET_PART": "Can be deployed to target any Raiders nearby.",
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_TARRAGON_PART": "Fragments into exploding clusters when thrown.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_TURRET_PART": "Can be deployed to target any Raiders and ARC nearby.",
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TARRAGON_PART": "Fragments into exploding clusters when thrown."
       },
       "KeysToMetaData": {
         "ID_ITEMDESCRIPTIONS_SALVAGE_A_MAKESHIFT_KEY_THAT_LETS_YOU_OPEN_THE_OUTSKIRTS_BUNKER_ON_SPACEPORT": {
-          "Note": "Outskirts Bunker Key"
+          "Note": "Outskirts Bunker Key",
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TOMATO": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_LETS_YOU_ENTER_AN_ARC_RAID": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_BULLY_PART": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_DAMAGED_MEERKAT": {
+          "Status": "new"
+        },
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_DRIVER": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_SEEDS": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TRACTOR_PART": {
+          "Status": "new"
+        },
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_DRONE_PART": {
+          "Status": "new"
+        },
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_TICK_DRONE_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_INACTIVE_TRANSMITTER": {
+          "Note": "",
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_CALIBRATED_TRANSMITTER": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_BROKEN_TRANSMITTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_CALIBRATED_TRANSMITTER_ALT1": {
+          "Status": "approved"
+        },
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_TURRET_PART": {
+          "Status": "new",
+          "Note": "Incorrect"
+        },
+        ":ID_ITEMDESCRIPTIONS_SALVAGE_TARRAGON_PART": {
+          "Status": "new"
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_MEERKAT_TURRET_PART": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_ITEMDESCRIPTIONS_SALVAGE_TARRAGON_PART": {
+          "Status": "approved"
         }
       }
     }

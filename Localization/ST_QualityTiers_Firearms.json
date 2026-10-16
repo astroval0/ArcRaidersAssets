@@ -14,7 +14,23 @@
         "ID_QUALITYTIER_FIREARM_T3": "Quality Tier: Unyielding",
         "ID_QUALITYTIER_FIREARM_T4": "Quality Tier: Superior"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_QUALITYTIER_FIREARM_T0": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_FIREARM_T1": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_FIREARM_T2": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_FIREARM_T3": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_FIREARM_T4": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

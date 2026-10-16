@@ -32,9 +32,137 @@
         "ID_CUSTOMIZATION_SCRAPPY_ARCHUNTER": "Wasp Hunter Helmet",
         "ID_CUSTOMIZATION_SCRAPPY_PIRATEHAT": "Pirate Hat",
         "ID_CUSTOMIZATION_SCRAPPY_RAINHAT": "Rainy Day Hat",
-        "ID_CUSTOMIZATION_SCRAPPY_TURBAN": "Turban"
+        "ID_CUSTOMIZATION_SCRAPPY_TURBAN": "Turban",
+        "ID_CUSTOMIZATION_SCRAPPY_SATELLITEDISH": "Satellite Dish",
+        "ID_CUSTOMIZATION_SCRAPPY_HORNETHUNTER": "Hornet Hunter",
+        "ID_CUSTOMIZATION_SCRAPPY_AVIATORGLASSES": "Aviator Glasses",
+        "ID_CUSTOMIZATION_SCRAPPY_GLADIATORHELMET": "Gladiator Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_POPSTARHELMET": "Pop Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_RENZOHELMET": "Renzo Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_YETIHELMET": "Ice Giant Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_BANSHEEHELMET": "Banshee Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_WRECKHELMET": "Wreck Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_CARRIONHELMET": "Carrion Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_OUTLANDERHELMET": "Deadwire Helmet",
+        "ID_CUSTOMIZATION_SCRAPPY_DEADEYESTRAW": "Wheat Stalk",
+        "ID_CUSTOMIZATION_SCRAPPY_CONDUCTORHAT": "Conductor Hat"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CUSTOMIZATION_SCRAPPY_BOMBERHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_DIVERHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_PILOTHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BUCKET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_FEZ": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_GOLDEN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_FENCERGLASSES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_ASTRONAUTHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BOONIEHAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_BUFFROCK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_WELSUMMER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_COWBOY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_JANITOR": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_AYAMCEMANI": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_AUSTRAWHITE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BEANIE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BATTER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_NURSESHAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_HELIXHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_RIOTHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BODY_SPECKLED": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_ARCHUNTER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_PIRATEHAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_RAINHAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_TURBAN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_SATELLITEDISH": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_HORNETHUNTER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_AVIATORGLASSES": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_GLADIATORHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_POPSTARHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_DEADEYESTRAW": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_CONDUCTORHAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_OUTLANDERHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_CARRIONHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_WRECKHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_BANSHEEHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_YETIHELMET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_SCRAPPY_RENZOHELMET": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

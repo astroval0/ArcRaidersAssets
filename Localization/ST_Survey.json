@@ -13,7 +13,20 @@
         "ID_SURVEY_OTHER": "Other",
         "ID_SURVEY_ROUND_FEEDBACK_BUTTON": "Round feedback"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_SURVEY_SUBMIT_YOUR_ANSWER": {
+          "Status": "approved"
+        },
+        "ID_SURVEY_THANK_YOU_FOR_PARTICIPATING": {
+          "Status": "approved"
+        },
+        "ID_SURVEY_OTHER": {
+          "Status": "approved"
+        },
+        "ID_SURVEY_ROUND_FEEDBACK_BUTTON": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

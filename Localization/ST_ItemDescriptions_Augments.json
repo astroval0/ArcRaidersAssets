@@ -33,7 +33,80 @@
         "ID_ITEMDESC_AUGMENT_T4_REVIVAL": "An augment focused on utility over defense and looting.",
         "ID_ITEMDESC_AUGMENT_UTILITY_T3_SMOKE": "An upgraded version of the Tactical MK. 2 augment, adding expanded capacity across the board."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_AUGMENT_COMBAT_FREELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_COMBAT_T2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_COMBAT_T1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_AGGRESSIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_FLANKING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_FREELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_DEFENSIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_HEALING": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_FREELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_T1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_T2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_CAUTIOUS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_DBNO": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_FREELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_DURABILITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_RUINED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_COMBAT_T3_RELOADER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_LOOTING_T3_CUSTODIAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_REVIVAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_T4_CUSTODIAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_T4_REVIVAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AUGMENT_UTILITY_T3_SMOKE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

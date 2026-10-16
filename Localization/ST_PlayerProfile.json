@@ -22,9 +22,68 @@
         "ID_PLAYERPROFILE_BACKGROUNDS": "Backgrounds",
         "ID_PLAYERPROFILE_BADGE_SLOT_FIRST": "Bagde Slot First",
         "ID_PLAYERPROFILE_BADGE_SLOT_SECOND": "Badge Slot Second",
-        "ID_PLAYERPROFILE_BADGE_SLOT_THIRD": "Badge Slot Third"
+        "ID_PLAYERPROFILE_BADGE_SLOT_THIRD": "Badge Slot Third",
+        "ID_PLAYERPROFILE_PART_NAME_BACKGROUND_01": "Background 01",
+        "ID_PLAYERPROFILE_PART_NAME_BACKGROUND_02": "Background 02",
+        "ID_PLAYERPROFILE_PART_NAME_BACKGROUND_03": "Background 03",
+        "ID_PLAYERPROFILE_PART_NAME_FRAME_01": "Frame 01",
+        "ID_PLAYERPROFILE_PART_NAME_FRAME_02": "Frame 02",
+        "ID_PLAYERPROFILE_PART_NAME_FRAME_03": "Frame 03",
+        "ID_PLAYERPROFILE_PART_NAME_FRAME_04": "Frame 04",
+        "ID_PLAYERPROFILE_PART_NAME_POSE_01": "Pose 01",
+        "ID_PLAYERPROFILE_PART_NAME_POSE_02": "Pose 02",
+        "ID_PLAYERPROFILE_PART_NAME_BADGE_01": "Badge 01",
+        "ID_PLAYERPROFILE_PART_NAME_BADGE_02": "Badge 02",
+        "ID_PLAYER_PROFILE_PART_NAME_TITLE_01": "The Noob",
+        "ID_PLAYER_PROFILE_PART_NAME_TITLE_02": "The Professional"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_PLAYERPROFILE_BADGE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_EMBLEM": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_EMBLEM_CUSTOMIZATION": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_ROUND_HISTORY": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_TITLES": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_RAIDER_POSE": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_BACKGROUND": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_FRAMES": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_BADGE_SLOT": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_STATISTICS": {
+          "Status": "approved"
+        },
+        "ID_PLAYERPROFILE_BACKGROUNDS": {
+          "Status": "new"
+        },
+        "ID_PLAYERPROFILE_BADGE_SLOT_FIRST": {
+          "Status": "new"
+        },
+        "ID_PLAYERPROFILE_BADGE_SLOT_SECOND": {
+          "Status": "new"
+        },
+        "ID_PLAYERPROFILE_BADGE_SLOT_THIRD": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

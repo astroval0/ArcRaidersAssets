@@ -26,9 +26,90 @@
         "ID_CURRENCY_SKILL_POINTS_DESCRIPTION": "Skill Points",
         "ID_CURRENCY_HARD_DESCRIPTION": "Used to purchase decks and cosmetics.",
         "ID_CURRENCY_COMMUNITYEVENT": "Merits",
-        "ID_CURRENCY_COMMUNITYEVENT_DESCRIPTION": "Earned by participating in Live Events."
+        "ID_CURRENCY_COMMUNITYEVENT_DESCRIPTION": "Earned by participating in Live Events.",
+        "ID_CURRENCY_RESEARCH_POINTS": "Research Points",
+        "ID_CURRENCY_SUBWAY_A": "Subway Currency A",
+        "ID_CURRENCY_SUBWAY_B": "Subway Currency B",
+        "ID_CURRENCY_SUBWAY_C": "Subway Currency C",
+        "ID_CURRENCY_BASE_REWARD_PASS_POINTS": "Reward Pass Points"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CURRENCY_SOFT_SHORT": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_SOFT_LONG": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_HARD_SHORT": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_HARD_LONG": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SEASONAL_SHORT": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_SEASONAL_LONG": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_TECH_LONG": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_TECH_SHORT": {
+          "Status": "new"
+        },
+        "ID_CURRENCY_COINS": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_COINS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_BATTLEPASS_POINTS": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_BATTLEPASS_POINTS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_XP": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_XP_LONG": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SKILL_POINTS": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SKILL_POINTS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_HARD_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_COMMUNITYEVENT": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_COMMUNITYEVENT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SUBWAY_A": {
+          "Note": "Currency for the Subway collaboration. Not player-facing. Not localized.",
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SUBWAY_B": {
+          "Note": "Currency for the Subway collaboration. Not player-facing. Not localized.",
+          "Status": "approved"
+        },
+        "ID_CURRENCY_SUBWAY_C": {
+          "Note": "Currency for the Subway collaboration. Not player-facing. Not localized.",
+          "Status": "approved"
+        },
+        "ID_CURRENCY_RESEARCH_POINTS": {
+          "Status": "approved"
+        },
+        "ID_CURRENCY_BASE_REWARD_PASS_POINTS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

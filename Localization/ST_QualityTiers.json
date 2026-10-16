@@ -20,7 +20,41 @@
         "ID_QUALITYTIER_SUFFIX_05": "V",
         "ID_QUALITYTIER_FORMAT_NAME_WITH_TIER": "{0} {1}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_QUALITYTIER_T0": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_T1": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_T2": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_T3": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_T4": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_SUFFIX_01": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_SUFFIX_02": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_SUFFIX_03": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_SUFFIX_04": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_SUFFIX_05": {
+          "Status": "approved"
+        },
+        "ID_QUALITYTIER_FORMAT_NAME_WITH_TIER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

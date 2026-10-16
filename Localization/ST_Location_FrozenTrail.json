@@ -1,0 +1,342 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Location_FrozenTrail",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Location_FrozenTrail",
+    "StringTable": {
+      "TableNamespace": "ST_Location_FrozenTrail",
+      "KeysToEntries": {
+        "ID_LOCATION_FROZENTRAIL": "Frozen Trail",
+        "ID_LOCATIONS_FROZENTRAIL_CENTRALSTATION": "Almatera Station",
+        "ID_LOCATIONS_FROZENTRAIL_SUBSTATION": "Electrical Substation",
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION": "Controlled Receiving Facility",
+        "ID_LOCATIONS_FROZENTRAIL_OLDMILL": "Old Mill",
+        "ID_LOCATION_FROZENTRAIL_PUMPHOUSE": "Pump House",
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET": "Old Hamlet",
+        "ID_LOCATIONS_FROZENTRAIL_SUPERMARKET": "Commissary Supermarket",
+        "ID_LOCATIONS_FROZENTRAIL_VILLAGE": "Almatera Village",
+        "ID_LOCATIONS_FROZENTRAIL_BRIDGE": "Bridge",
+        "ID_LOCATION_FROZENTRAIL_RADIOTELESCOPE": "Deep-Space Telescope",
+        "ID_LOCATION_FROZENTRAIL_OLDTOWN": "Old Town",
+        "ID_LOCATION_FROZENTRAIL_CHURCH": "Santa Sofia Church",
+        "ID_LOCATION_FROZENTRAIL_CENTRALSTATION": "Almatera Station",
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET": "Commissary Supermarket",
+        "ID_LOCATION_FROZENTRAIL_FALLENCOLLECTOR": "Fallen Emperor",
+        "ID_LOCATION_FROZENTRAIL_COLLECTORINTERIOR": "Emperor Interior",
+        "ID_LOCATION_FROZENTRAIL_COLLECTORDEBRIS": "Emperor Debris",
+        "ID_LOCATION_FROZENTRAIL_FARMLANDS": "Farmlands",
+        "ID_LOCATION_FROZENTRAIL_TRAINTOWER": "Dispatch Tower",
+        "ID_LOCATION_FROZENTRAIL_RADIOOBSERVATORY": "Cielo Sereno Observatory",
+        "ID_LOCATION_FROZENTRAIL_TUNNEL": "Transit Tunnel",
+        "ID_LOCATION_FROZENTRAIL_OBSERVATORYHILL": "Observatory Hill",
+        "ID_LOCATION_FROZENTRAIL_RAILYARD": "Railyard",
+        "ID_LOCATION_FROZENTRAIL_LOADINGPLATFORM": "Loading Platforms",
+        "ID_LOCATION_FROZENTRAIL_SEWERS": "Sewer",
+        "ID_LOCATION_FROZENTRAIL_NORTHERNTRACKS": "Northern Tracks",
+        "ID_LOCATION_FROZENTRAIL_GASSTATION": "Truck Stop",
+        "ID_LOCATION_FROZENTRAIL_FACTORY": "Factory",
+        "ID_LOCATION_FROZENTRAIL_SOUTHERNROAD": "Southern Pass",
+        "ID_LOCATION_FROZENTRAIL_EASTBANK": "Freight Terminal",
+        "ID_LOCATIONS_FROZENTRAIL_FLASHFREEZE_ROOM": "Storm Hut",
+        "ID_LOCATION_FROZENTRAIL_CALIBRATIONPOINT": "Damaged Emperor Relay",
+        "ID_LOCATIONS_FROZENTRAIL_SUPPLYYARD": "Supply Yard",
+        "ID_LOCATION_FROZENTRAIL_RIVER": "Frozen River",
+        "ID_LOCATION_FROZENTRAIL_CAMPSITE": "Camp Site",
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST": "Secure Communications Mast",
+        "ID_LOCATIONS_FROZENTRAIL_MACHINEHALL": "Machine Hall",
+        "ID_LOCATIONS_FROZENTRAIL_RECEPTION": "Reception",
+        "ID_LOCATION_FROZENTRAIL_LOADINGBAY": "Loading Bay",
+        "ID_LOCATION_FROZENTRAIL_CARGODEPOT": "Cargo Depot",
+        "ID_LOCATIONS_FROZENTRAIL_COLLECTORUNKNOWN": "???",
+        "ID_LOCATION_FROZENTRAIL_PARKING": "Light Vehicle Parking",
+        "ID_LOCATION_FROZENTRAIL_COLLAPSEDTRAINTUNNEL": "Collapsed Train Tunnel",
+        "ID_LOCATION_FROZENTRAIL_COLLAPSEDROADTUNNEL": "Collapsed Road Tunnel",
+        "ID_LOCATIONS_FROZENTRAIL_STORAGEDEPOT": "Storage Depot",
+        "ID_LOCATIONS_FROZENTRAIL_TRACKS": "Tracks",
+        "ID_LOCATIONS_FROZENTRAIL_ROUTINGSTATION": "Railroad Junction",
+        "ID_LOCATIONS_FROZENTRAIL_DISCHARGE": "Discharge",
+        "ID_LOCATIONS_FROZENTRAIL_SUPPORTBUILDING": "Support Building",
+        "ID_LOCATIONS_FROZENTRAIL_THECROSSING": "Railway Crossing",
+        "ID_LOCATIONS_FROZENTRAIL_RUINEDBUILDING": "Ruined Building",
+        "ID_LOCATIONS_FROZENTRAIL_TRAIN": "Train",
+        "ID_LOCATIONS_FROZENTRAIL_HOUSE": "House",
+        "ID_LOCATIONS_FROZENTRAIL_BUILDING": "Building",
+        "ID_LOCATIONS_FROZENTRAIL_RESTAURANT": "Restaurant",
+        "ID_LOCATIONS_FROZENTRAIL_FARMACIA": "Farmacia",
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZAONE": "Piazza Mercato",
+        "ID_LOCATIONS_FROZENTRAIL_CAFE": "Café",
+        "ID_LOCATIONS_FROZENTRAIL_WEATHERSTATION": "Weather Station",
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZATWO": "Piazza della Rupe",
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZATHREE": "Porta Benvenuti",
+        "ID_LOCATION_FROZENTRAIL_RADIOOBSERVATORY_ALT1": "Observatory",
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST_ALT1": "Encrypted Radio Mast",
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST_ALT2": "Radio Mast",
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT1": "Supermarket",
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT2": "Commissary Store",
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT3": "Commissary",
+        "ID_LOCATION_FROZENTRAIL_CENTRALSTATION_ALT1": "Central Station",
+        "ID_LOCATION_FROZENTRAIL_LOADINGPLATFORM_ALT1": "Loading Platform",
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION_ALT1": "Controlled Receiving",
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION_ALT2": "Receiving Facility",
+        "ID_LOCATION_FROZENTRAIL_TUNNEL_ALT1": "Tunnel",
+        "ID_LOCATIONS_FROZENTRAIL_VILLAGE_ALT1": "Village",
+        "ID_LOCATIONS_FROZENTRAIL_OLDTOWN": "Old Town",
+        "ID_LOCATION_FROZENTRAIL_GASSTATION_ALT1": "Gas Station",
+        "ID_LOCATION_FROZENTRAIL_PARKING_ALT1": "Parking",
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT1": "Researcher Lodgings",
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT2": "Guest House",
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT3": "Executive Lodge",
+        "ID_LOCATION_FROZENTRAIL_CALIBRATIONPOINTALT1": "Emperor Relay",
+        "ID_LOCATIONS_FROZENTRAIL_FLASHFREEZE_ROOM_ALT1": "Storm Unit"
+      },
+      "KeysToMetaData": {
+        "ID_LOCATION_FROZENTRAIL": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_CENTRALSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_SUPERMARKET": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_OLDTOWN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CHURCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CENTRALSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_FALLENCOLLECTOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_FARMLANDS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_TRAINTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_RADIOOBSERVATORY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_OBSERVATORYHILL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_RAILYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SEWERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_NORTHERNTRACKS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_GASSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_FACTORY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SOUTHERNROAD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_EASTBANK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CALIBRATIONPOINT": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_SUBSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDMILL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_PUMPHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_RADIOTELESCOPE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_COLLECTORINTERIOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_COLLECTORDEBRIS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_LOADINGPLATFORM": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_FLASHFREEZE_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_SUPPLYYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_RIVER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CAMPSITE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_MACHINEHALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RECEPTION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_LOADINGBAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CARGODEPOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_PARKING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_COLLAPSEDTRAINTUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_COLLAPSEDROADTUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_STORAGEDEPOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_TRACKS": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_ROUTINGSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_DISCHARGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_SUPPORTBUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_THECROSSING": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RUINEDBUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_TRAIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_HOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RESTAURANT": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_FARMACIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZAONE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_CAFE": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_WEATHERSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZATWO": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_PIAZZATHREE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_RADIOOBSERVATORY_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_RADIOMAST_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_SUPERMARKET_ALT3": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CENTRALSTATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_LOADINGPLATFORM_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_ADMINISTRATION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_TUNNEL_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_VILLAGE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDTOWN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_GASSTATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_PARKING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_OLDHAMLET_ALT3": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FROZENTRAIL_CALIBRATIONPOINTALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATIONS_FROZENTRAIL_FLASHFREEZE_ROOM_ALT1": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

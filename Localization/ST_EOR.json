@@ -203,134 +203,763 @@
         "ID_EOR_ROUND_HEADER_WINTEREVENT": "Flickering Flames",
         "ID_EOR_XP_EXPEDITION_BONUS": "Active buffs (Expedition)",
         "ID_EOR_OPTOUT_SQUAD": "Leave Squad",
-        "ID_EOR_OPTIN_SQUAD": "Stay with Squad"
+        "ID_EOR_OPTIN_SQUAD": "Stay with Squad",
+        "ID_EOR_REWARD_PASS_SECTION_TITLE": "Reward Pass",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS": "Reward Points Earned:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT1": "Reward Points Earned",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT2": "Total Reward Points Earned",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT3": "Total:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT3_1": "Total",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT4": "Total Points:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT4_1": "Total Points",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT5": "Total Reward Points:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT5_1": "Total Reward Points",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT6": "Earned Reward Points:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT7": "Earned Points:",
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT7_1": "Earned Points",
+        "ID_EOR_REWARD_PASS_PROGRESSED": "Reward Pass Progressed",
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT1": "Reward Pass Progress",
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT2": "Progressed Pass",
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT3": "Progressed",
+        "ID_EOR_REWARD_PASS_COLLECTED": "{0} of {1} rewards collected",
+        "ID_EOR_REWARD_PASS_COLLECTED_PREMIUM": "{0}of {1} premium rewards collected",
+        "ID_EOR_REWARD_PASS_PREMIUM_WAITING": "{0} premium rewards waiting",
+        "ID_EOR_REWARD_PASS_FREE_REWARDS_LABEL": "Free Rewards:",
+        "ID_EOR_REWARD_PASS_PREMIUM_REWARDS_LABEL": "Premium Rewards:",
+        "ID_EOR_REWARD_PASS_REWARDS_LABEL": "Rewards:",
+        "ID_EOR_REWARD_PASS_NEW_REWARDS_MULTI": "New Rewards:",
+        "ID_EOR_REWARD_PASS_NEW_REWARD_SINGLE": "New Reward:",
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_MULTI": "New Rewards Collected",
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_SINGLE": "New Reward Collected",
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_ALT1_MULTI": "{0} New Rewards Collected",
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_ALT1_SINGLE": "{0} New Reward Collected"
       },
       "KeysToMetaData": {
         "PLAYERINTERACTION_AIDED_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you. The player revived and healed you"
+          "Note": "For a list called player interactions, to explain who this player is to you. The player revived and healed you",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_AIDED_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you. You revived and healed the player"
+          "Note": "For a list called player interactions, to explain who this player is to you. You revived and healed the player",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_DAMAGE_DEALT": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_DAMAGE_RECEIVED": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_DBNO_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_DBNO_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_ELIMINATED_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_ELIMINATED_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL": {
-          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together"
+          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_HEALED_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_HEALED_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_REVIVED": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_REVIVED_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_ARMOR_REPAIRED_BY_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_ARMOR_REPAIRED_OTHER": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_IN_SQUAD": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_IN_SQUAD_ALT2": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_EXTRACTION_SUCCESSFUL_ALT2": {
-          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together"
+          "Note": "For a list called player interactions, to explain who this player is to you. You extracted successfully together",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_CLOSE_BY": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "PLAYERINTERACTION_VOICECHAT_INPROXIMITY": {
-          "Note": "For a list called player interactions, to explain who this player is to you."
+          "Note": "For a list called player interactions, to explain who this player is to you.",
+          "Status": "approved"
         },
         "EVENT_ARMOR_REPAIRED_BY_OTHER": {
-          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below"
+          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below",
+          "Status": "approved"
         },
         "EVENT_ARMOR_REPAIRED_OTHER": {
-          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below"
+          "Note": "For an event card in the EoR Journey screen, the names of players will be listed below",
+          "Status": "approved"
         },
         "EVENT_SPAWNED_IN_SQUAD": {
-          "Note": "For an event card in the EoR Journey screen, the squad members will be listed below"
+          "Note": "For an event card in the EoR Journey screen, the squad members will be listed below",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_SURRENDER": {
-          "Note": "Title Description of Surrendered event, if player leaves by surrender."
+          "Note": "Title Description of Surrendered event, if player leaves by surrender.",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_ENVIRONMENT_DAMAGE": {
-          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment\""
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment\"",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT": {
-          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Hazard\""
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Hazard\"",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_FRIENDLY_DAMAGE": {
-          "Note": "Friendly Damage could be the cause by mines"
+          "Note": "Friendly Damage could be the cause by mines",
+          "Status": "approved"
         },
         "ID_EOR_REWARDS": {
-          "Note": "Title"
+          "Note": "Title",
+          "Status": "approved"
         },
         "ID_EOR_UNLOAD_AND_CONTINUE_BUTTON": {
-          "Note": "Button in EOR for unloading backpack and continue to the progression beats"
+          "Note": "Button in EOR for unloading backpack and continue to the progression beats",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_DAMAGETYPE_FALLING": {
-          "Note": "Players can receive damage from falling"
+          "Note": "Players can receive damage from falling",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_DAMAGETYPE_FALLING_ALT": {
-          "Note": "Players can receive damage from falling"
+          "Note": "Players can receive damage from falling",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_DAMAGETYPE_LIGHTNING": {
-          "Note": "Players can receive damage from lightning"
+          "Note": "Players can receive damage from lightning",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_DAMAGETYPE_TOXIC_SWAMP": {
-          "Note": "Players can receive damage from the toxic swamp"
+          "Note": "Players can receive damage from the toxic swamp",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_DAMAGETYPE_MINES": {
-          "Note": "Players can receive damage from mines"
+          "Note": "Players can receive damage from mines",
+          "Status": "approved"
         },
         "ID_EOR_EVENT_ENVIRONMENT_DAMAGE_ALT2": {
-          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Damage\""
+          "Note": "Title Description of damage taken from world, example of use: \"Recived damage: Enviroment Damage\"",
+          "Status": "approved"
         },
         "ID_EOR_CRED_XP_BASED_BONUS": {
-          "Note": "Explanatory text showing that you get Creds through XP also"
+          "Note": "Explanatory text showing that you get Creds through XP also",
+          "Status": "approved"
         },
         "ID_EOR_CRED_ROUND_TOTAL": {
-          "Note": "Label for the actual amount of creds you've earned in a round, accounting for the cred cap if reached"
+          "Note": "Label for the actual amount of creds you've earned in a round, accounting for the cred cap if reached",
+          "Status": "approved"
         },
         "ID_EOR_CRED_WALLET": {
-          "Note": "Label above the numbers that show the current state of your Cred"
+          "Note": "Label above the numbers that show the current state of your Cred",
+          "Status": "approved"
         },
         "ID_EOR_CRED_PARTIAL_CREDS_NOTICE": {
-          "Note": "Explanatory text for why you haven't received the full extent of Creds you might have earned in a round"
+          "Note": "Explanatory text for why you haven't received the full extent of Creds you might have earned in a round",
+          "Status": "approved"
         },
         "ID_EOR_CRED_NO_CREDS_NOTICE": {
-          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink.",
+          "Status": "approved"
         },
         "ID_EOR_ROUND_HEADER_EVENTPROGRESSION": {
-          "Note": "Header for EoR step"
+          "Note": "Header for EoR step",
+          "Status": "approved"
         },
         "ID_EOR_ROUND_HEADER_WINTEREVENT": {
-          "Note": "Subheader for EoR step"
+          "Note": "Subheader for EoR step",
+          "Status": "approved"
+        },
+        "REWARDS": {
+          "Status": "approved"
+        },
+        "TOTALSESSIONSCORE": {
+          "Status": "approved"
+        },
+        "PLACEMENTHEADER": {
+          "Status": "approved"
+        },
+        "SESSIONENDS": {
+          "Status": "approved"
+        },
+        "SCORE": {
+          "Status": "approved"
+        },
+        "KILLS": {
+          "Status": "approved"
+        },
+        "DAMAGEDEALT": {
+          "Status": "approved"
+        },
+        "REVIVES": {
+          "Status": "approved"
+        },
+        "NEXT_SCREEN": {
+          "Status": "approved"
+        },
+        "VICTORY": {
+          "Status": "approved"
+        },
+        "DEFEAT": {
+          "Status": "approved"
+        },
+        "VICTORY_INFO": {
+          "Status": "approved"
+        },
+        "DEFEAT_INFO": {
+          "Status": "approved"
+        },
+        "RETURN_TO_LOBBY": {
+          "Status": "approved"
+        },
+        "NEW_REWARD": {
+          "Status": "approved"
+        },
+        "ASSISTS": {
+          "Status": "approved"
+        },
+        "REWARD_CURRENCY": {
+          "Status": "approved"
+        },
+        "REWARD_SKIN": {
+          "Status": "approved"
+        },
+        "REWARD_CHARACTER": {
+          "Status": "approved"
+        },
+        "SUMMARY_LOOT": {
+          "Status": "approved"
+        },
+        "ID_EOR_XP_COUNT": {
+          "Status": "approved"
+        },
+        "ID_EOR_ROUND_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_JOURNEY": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_FINDINGS": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_CHARACTER": {
+          "Status": "approved"
+        },
+        "QUOTE01": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_SOUVENIR": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_OPTIMISM": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_PRACTICEROUND": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_SMOOTHRAIDS": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_COMEBACK": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_STILLTOCOME": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_LUCKYSOCKS": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_RESILIENCE": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_STATISTICALLY": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_CANTSMELLYOU": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_EOR_BPP": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_EOR_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_EOR_QUEST_VISIT_QUESTGIVER": {
+          "Status": "approved"
+        },
+        "EVENT_ELIMINATED_ARC": {
+          "Status": "approved"
+        },
+        "EVENT_ELIMINATED_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_FOUND_QUESTITEM": {
+          "Status": "approved"
+        },
+        "EVENT_PATCHED_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_DAMAGE_DEALT": {
+          "Status": "approved"
+        },
+        "EVENT_DAMAGE_RECEIVED": {
+          "Status": "approved"
+        },
+        "EVENT_HEALED_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_HEALED_BY_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_FOUND_LOOT": {
+          "Status": "approved"
+        },
+        "EVENT_TOTALHEALTH": {
+          "Status": "approved"
+        },
+        "EVENT_TOTALARMOR": {
+          "Status": "approved"
+        },
+        "EVENT_DBNO_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_DBNO_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_PARTSHIT": {
+          "Status": "approved"
+        },
+        "EVENT_PARTSDESTROYED": {
+          "Status": "approved"
+        },
+        "EVENT_DAMAGE_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_HEALED_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_ELIMINATED_BY_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_EXTRACTION_REQUESTED": {
+          "Status": "approved"
+        },
+        "EVENT_EXTRACTION_SUCCESSFUL": {
+          "Status": "approved"
+        },
+        "EVENT_ELIMINATED_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_DBNO_BY_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_TOTAL_RECEIVED": {
+          "Status": "approved"
+        },
+        "EVENT_TOTAL_DEALT": {
+          "Status": "approved"
+        },
+        "EVENT_DEPLOY": {
+          "Status": "approved"
+        },
+        "FILTER_DAMAGE_DEALT_ARC": {
+          "Status": "approved"
+        },
+        "FILTER_DAMAGE_RECEIVED_ARC": {
+          "Status": "approved"
+        },
+        "FILTER_DAMAGE_DEALT_RAIDER": {
+          "Status": "approved"
+        },
+        "FILTER_DAMAGE_RECEIVED_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEALT_DAMAGE_TO": {
+          "Status": "approved"
+        },
+        "FILTER_SHOW": {
+          "Status": "approved"
+        },
+        "FILTER_HIDE": {
+          "Status": "approved"
+        },
+        "FILTER_RESET": {
+          "Status": "approved"
+        },
+        "ID_EOR_YOURSELF": {
+          "Status": "approved"
+        },
+        "ID_EOR_MISSING_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_EOR_WIN": {
+          "Status": "approved"
+        },
+        "ID_EOR_SKILL_POINTS_INCREASE": {
+          "Status": "approved"
+        },
+        "ID_EOR_FRIEND_REQUEST_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_EOR_RAIDERS_IN_PROXIMITY": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT": {
+          "Status": "approved"
+        },
+        "ID_EOR_PROXIMITY": {
+          "Status": "approved"
+        },
+        "ID_EOR_FILTERS": {
+          "Status": "approved"
+        },
+        "ID_EOR_TIME_ON_SURFACE": {
+          "Status": "approved"
+        },
+        "ID_EOR_MAP_VIEW": {
+          "Status": "approved"
+        },
+        "ID_EOR_DAMAGE_FORMAT": {
+          "Status": "approved"
+        },
+        "EVENT_REVIVED_BY_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_REVIVED": {
+          "Status": "approved"
+        },
+        "ID_EOR_QUEST_PROGRESS": {
+          "Status": "new"
+        },
+        "EVENT_AIDED_SELF": {
+          "Status": "approved"
+        },
+        "EVENT_AIDED_OTHER": {
+          "Status": "approved"
+        },
+        "EVENT_AIDED_BY_OTHER": {
+          "Status": "approved"
+        },
+        "ID_EOR_HEALTH_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_EOR_ARMOR_FORMAT": {
+          "Status": "approved"
+        },
+        "EVENT_TOTAL_DAMAGE": {
+          "Status": "approved"
+        },
+        "EVENT_DAMAGE_MITIGATED": {
+          "Status": "approved"
+        },
+        "EVENT_DAMAGE_TO_HEALTH": {
+          "Status": "approved"
+        },
+        "ID_EOR_UNKNOWN_ARC": {
+          "Status": "approved"
+        },
+        "EVENT_TOTAL_HEALED": {
+          "Status": "approved"
+        },
+        "EVENT_TOTAL_ARMOR_REPAIRED": {
+          "Status": "approved"
+        },
+        "CLUSTER_FLAG_MORE_FORMAT": {
+          "Status": "approved"
+        },
+        "CLUSTER_FLAG_TIMESTAMP_SEPARATOR": {
+          "Status": "new"
+        },
+        "SQUAD_LEAVE": {
+          "Status": "approved"
+        },
+        "SQUAD_STAY": {
+          "Status": "approved"
+        },
+        "ID_EOR_NAVIGATE": {
+          "Status": "approved"
+        },
+        "ID_EOR_NAVIGATE_SHOW": {
+          "Status": "approved"
+        },
+        "ID_EOR_NAVIGATE_ZOOM_CLUSTER": {
+          "Status": "approved"
+        },
+        "EVENT_ELEVATOR_REQUESTED": {
+          "Status": "approved"
+        },
+        "EVENT_METRO_REQUESTED": {
+          "Status": "approved"
+        },
+        "CONTINUE_TO_EOR": {
+          "Status": "approved"
+        },
+        "EVENT_ARMOR_REPAIRED": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_SIXOUTOFTEN": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_VILLAINARC": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_INSTYLE": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_DUSTOFF": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_LANCESPECIALTY": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_SHORTCAREER": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_ROLLAGAIN": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_LAUNDRY": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_GOODFORBUSINESS": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_PATIENTZERO": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_BREATHE": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_ONEARM": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_NEXTTIME": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_UNDERDOG": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_DONTGIVEUP": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_LEARNINGEXPERIENCE": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_SAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_EOR_DEATHQUOTE_STICKWITHIT": {
+          "Status": "approved"
+        },
+        "ID_EOR_XP_RATIO": {
+          "Status": "approved"
+        },
+        "ID_EOR_OVERLAY_INTERACTIONS": {
+          "Status": "approved"
+        },
+        "ID_EOR_OVERLAY_NO_INTERACTIONS_FOUND": {
+          "Status": "approved"
+        },
+        "ID_EOR_VOIP": {
+          "Status": "approved"
+        },
+        "ID_EOR_IN_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_EOR_XP_EXTRACTION_BONUS": {
+          "Status": "approved"
+        },
+        "ID_EOR_XP_BONUS_ITEM_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_EOR_CRED_XP_BONUS": {
+          "Status": "approved"
+        },
+        "ID_EOR_GENERIC_XP_BONUS": {
+          "Status": "approved"
+        },
+        "ID_EOR_CHALLENGES_SUMMARY": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_CHALLENGES": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_MASTERY": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_CHARACTER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_QUEENMINE": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_QUEENMINE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_TOXICSWAMP": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_BARONHUSK": {
+          "Status": "approved"
+        },
+        "ID_EOR_MENU_LIVEEVENT": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_COLD": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_COLD_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EOR_EVENT_DAMAGETYPE_COLD_ALT2": {
+          "Status": "approved"
+        },
+        "ID_EOR_MERITS_TOTAL": {
+          "Status": "approved"
+        },
+        "ID_EOR_XP_EXPEDITION_BONUS": {
+          "Status": "approved"
+        },
+        "ID_EOR_OPTOUT_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_EOR_OPTIN_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_SECTION_TITLE": {
+          "Note": "This is shown in End-of-round in the segment stepper as the section label Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS": {
+          "Note": "The heading on the End-of-round page just above how many points you earned from completing Feats.",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT1": {
+          "Note": "The heading on the End-of-round page just above how many points you earned from completing Feats.",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT6": {
+          "Note": "The heading on the End-of-round page just above how many points you earned from completing Feats.",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT7": {
+          "Note": "The heading on the End-of-round page just above how many points you earned from completing Feats.",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PROGRESSED": {
+          "Note": "This is the heading for the section that shows the progression of the reward pass",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_COLLECTED": {
+          "Note": "This one shows for end of round screen to summarize how many (free) items have been collected.",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_COLLECTED_PREMIUM": {
+          "Note": "Part of the summary in the End-of-Round screen",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PREMIUM_WAITING": {
+          "Note": "This acts as a nudge by showing the user how many premium rewards they could collect instantly if they just upgrade their Reward Pass to Premium",
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT3": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT3_1": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT4": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT4_1": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT5": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT5_1": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_TOTAL_POINTS_ALT7_1": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT2": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PROGRESSED_ALT3": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_FREE_REWARDS_LABEL": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_PREMIUM_REWARDS_LABEL": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_REWARDS_LABEL": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARDS_MULTI": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARD_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_MULTI": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_ALT1_MULTI": {
+          "Status": "approved"
+        },
+        "ID_EOR_REWARD_PASS_NEW_REWARD_COLLECTED_ALT1_SINGLE": {
+          "Status": "approved"
         }
       }
     }

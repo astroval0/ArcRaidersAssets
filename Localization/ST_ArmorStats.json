@@ -15,7 +15,26 @@
         "ID_ARMORSTATS_MAX_STAMINA": "Max Stamina",
         "ID_ARMORSTATS_RUN_SPEED": "Run Speed"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ARMORSTATS_STAMINA_REGEN": {
+          "Status": "approved"
+        },
+        "ID_ARMORSTATS_SPRINT_SPEED": {
+          "Status": "approved"
+        },
+        "ID_ARMORSTATS_PLATE_MITIGATION": {
+          "Status": "approved"
+        },
+        "ID_ARMORSTATS_PLATE_HEALTH": {
+          "Status": "approved"
+        },
+        "ID_ARMORSTATS_MAX_STAMINA": {
+          "Status": "approved"
+        },
+        "ID_ARMORSTATS_RUN_SPEED": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

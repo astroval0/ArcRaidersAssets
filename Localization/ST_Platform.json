@@ -11,7 +11,14 @@
         "ID_PLATFORM_XBOX_GAMERTAG": "gamertag",
         "ID_PLATFORM_PLAYSTATION_ONLINE_ID": "online ID"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_PLATFORM_XBOX_GAMERTAG": {
+          "Status": "approved"
+        },
+        "ID_PLATFORM_PLAYSTATION_ONLINE_ID": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

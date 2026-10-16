@@ -259,7 +259,7 @@
         "ID_OUTFITVARIATION_MESSYCAMO": "Messy Camo",
         "ID_OUTFITVARIATION_LEATHER": "Leather",
         "ID_OUTFITVARIATION_REDANDGREEN": "Red Green",
-        "ID_OUTFITVARIATION_GREYANDORANGE": "Grey Orange",
+        "ID_OUTFITVARIATION_GREYANDORANGE": "Gray Orange",
         "ID_OUTFITVARIATION_BLUEANDYELLOW": "Blue Yellow",
         "ID_OUTFITVARIATION_BLACKANDYELLOW": "Black Yellow",
         "ID_OUTFITVARIATION_BEIGEORANGE": "Beige Orange",
@@ -267,7 +267,7 @@
         "ID_OUTFITVARIATION_BEIGEGREEN": "Beige Green",
         "ID_OUTFITVARIATION_REDBLACK": "Red Black",
         "ID_OUTFITVARIATION_WHITERED": "White Red",
-        "ID_OUTFITVARIATION_BLUEGREY": "Blue Grey",
+        "ID_OUTFITVARIATION_BLUEGREY": "Blue Gray",
         "ID_OUTFITVARIATION_GRAYBEIGE": "Gray Beige",
         "ID_OUTFITVARIATION_BLUEYELLOW": "Blue Yellow",
         "ID_OUTFITVARIATION_YELLOWBLACK": "Yellow Black",
@@ -276,9 +276,859 @@
         "ID_OUTFITVARIATION_HORNETYELLOW": "Hornet Yellow",
         "ID_OUTFITVARIATION_ORANGEBLACK": "Orange Black",
         "ID_OUTFITVARIATION_WHITEBLUE": "White Blue",
-        "ID_OUTFITVARIATION_LIGHTBLUE": "Light Blue"
+        "ID_OUTFITVARIATION_LIGHTBLUE": "Light Blue",
+        "ID_OUTFITVARIATION_GREENWOOD": "Green Wood",
+        "ID_OUTFITVARIATION_BLUESILVER": "Blue Silver",
+        "ID_OUTFITVARIATION_BLACKSILVER": "Black Silver",
+        "ID_OUTFITVARIATION_ICEBLUE": "Ice Blue",
+        "ID_OUTFITVARIATION_GREEN": "Green",
+        "ID_OUTFITVARIATION_GRAY": "Gray",
+        "ID_OUTFITVARIATION_TRADITIONAL": "Traditional",
+        "ID_OUTFITVARIATION_BLACKWHITE": "Black White",
+        "ID_OUTFITVARIATION_BLUESAND": "Blue Sand",
+        "ID_OUTFITVARIATION_PALESHADOW": "Pale Shadow"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_OUTFITVARIATION_ALABASTER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMETHYST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AURORA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AZURE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BRONZE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CELADON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CERULEAN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CHARCOAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CHROMA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COBALT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EBON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EMERALD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FUCHSIA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GARNET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GILDED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_INDIGO": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_IRIDESCENT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_IVORY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LILAC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LUNAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MARIGOLD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MIDNIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIAN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OCHRE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ONYX": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OPAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OPALINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEARL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PRISM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RADIANT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SAPPHIRE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SEPIA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SHIMMERING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SLATE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SOLAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TEAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TURQUOISE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_UMBER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VELVET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VERMILION": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AETHERIAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AURORIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BOMBASTIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CELESTIAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COSMIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_DAZZLING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ECLIPTIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ENIGMATIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ETHEREAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GALACTIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GLIMMERING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_HALCYON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_HELIOS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_HORIZON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_INFINITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LUMINESCENT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_METEORIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_NEBULOUS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_NOVA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ORBITAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_STARDUST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_STARLIT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_STELLAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SUPERNOVA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_THUNDEROUS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIBRANT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIVACIOUS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VORTICAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ZENITH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ZEPHYRIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ASTRAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AUDACIOUS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_DYNAMITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FLARE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_NAUTICAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_NEBULAE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_DRIFTER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ELEVATED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EMPYREAN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EXPLORER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FROSTBITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GALEFORCE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ILLUSIVE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_KINETIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LUMINAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MARINER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MYSTIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBERGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBERFIRE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AQUASILVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AZUREPEARL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUEFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUESTEEL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CERULEANSHADOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CHOCOLATEBARK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COBALTICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COBALTWHITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONGOLD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONSUN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORALBLUSH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EMERALDGLEAM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EMERALDIVORY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FUCHSIADREAM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENSAND": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENROSE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_IVORYCLOUD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADELIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LILACMIST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MIDNIGHTNAVY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIANBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ONYXSHADOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEARLSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PLATINUMICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYFLARE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERMIDNIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERMOON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SUNSETORANGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TEALSHIMMER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TURQUOISEGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_UMBERDUSK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETSKY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ROSEGOLDEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEACHGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MOONLIGHTSILVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_STEELBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SUNRISEORANGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONLEAF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AURORABLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EBONYSHADOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TITANIUMWHITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OPALGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COBALTBREEZE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_EMERALDWAVE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORALWATER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADERAY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBERDUSK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PLATINUMGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FUCHSIARAY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LAVENDERMIST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SAPPHIRESKY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIANFIRE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEARLMIST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETDREAM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONFLARE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AQUAICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYLIGHTBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ROSEGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENHORIZON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MOONLIGHTBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORALGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TURQUOISELIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_IVORYGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADEFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COBALTSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBERLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FUCHSIALIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LILACGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIANGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETSHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEACHSUN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORALSUN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MIDNIGHTGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SAPPHIREGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIANLIGHT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEARLGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYDUSK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETFIRE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TURQUOISEFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADEICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_OBSIDIANICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SILVERICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TURQUOISEICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_VIOLETICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_AMBERFROST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUEGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CORALICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FUCHSIASHINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_IVORYICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JADEGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LILACICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MOONLIGHTGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PEACHICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RUBYGLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GROUNDEDGREEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOTHICGRAFFITI": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CRIMSONRACER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_DUSTEDCREAM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FADEDFLUSH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SEASUNRISE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BASIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BURNTORANGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SKYLINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GOLDENOLIVE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CAMO": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ULTRAMARINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_HONEYCOMB": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LAVAMELT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PAPAYA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TANGERINE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_JUNIPER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_NAVYBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PATCHWORK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLACKMUSTARD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LAPISBUBBLEGUM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FORESTLEATHER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_YOLKYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUSHBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_COPPERBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ROGUELEMON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CYANSKULL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_SCARLETBLACK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GRAYYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_RELAXEDRED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUEORANGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_CYANCOPPER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLACKGOLD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_DAZZLINGCRIMSON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_FULLLEATHER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PINKBROWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_MESSYCAMO": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LEATHER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_REDANDGREEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GREYANDORANGE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_OUTFITVARIATION_BLUEANDYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLACKANDYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BEIGEORANGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GREENYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BEIGEGREEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_REDBLACK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_WHITERED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUEGREY": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_OUTFITVARIATION_GRAYBEIGE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUEYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_YELLOWBLACK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ORANGEGREEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_WHITETEAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_HORNETYELLOW": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ORANGEBLACK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_WHITEBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_LIGHTBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUESILVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GREENWOOD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLACKSILVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_ICEBLUE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GREEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_GRAY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_TRADITIONAL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLACKWHITE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_BLUESAND": {
+          "Status": "approved"
+        },
+        "ID_OUTFITVARIATION_PALESHADOW": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

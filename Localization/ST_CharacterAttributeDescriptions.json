@@ -62,9 +62,260 @@
         "ID_ATTRIBUTEDESC_MOREFIELDCRAFTRECIPES": "Unlocks additional items to field craft.",
         "ID_ATTRIBUTEDESC_BONUSFIELDCRAFTFIND": "When looting Raider containers, you have a small chance of finding additional field-crafted items.",
         "ID_ATTRIBUTEDESC_CROUCHEDSTAMINAREGEN": "Stamina regeneration while crouched is increased.",
-        "ID_ATTRIBUTEDESC_INROUNDCRAFTING": "Unlocks the ability to field-craft items while topside."
+        "ID_ATTRIBUTEDESC_INROUNDCRAFTING": "Unlocks the ability to field-craft items while topside.",
+        "ID_ATTRIBUTEDESC_CARRYABLEVAULTING": "Lets you vault while holding a carryable.",
+        "ID_ATTRIBUTEDESC_ENCUMBEREDSPRINT": "Lets you sprint while over-encumbered.",
+        "ID_ATTRIBUTEDESC_REDUCEDFALLRECOVERY": "Reduces the time to get back up after a heavy landing.",
+        "ID_ATTRIBUTEDESC_WEAPONBASH": "Lets you perform a melee attack using your equipped weapon.",
+        "ID_ATTRIBUTEDESC_JUGGERNAUT": "When your weapon is stowed, allows you to knock back players and ARC while sprinting.",
+        "ID_ATTRIBUTEDESC_SCRAMBLEDURATION": "While sprinting, increases the time you can scramble up steep slopes.",
+        "ID_ATTRIBUTEDESC_FALLGRABHEIGHT": "Increases the fall height from which you can grab ledges.",
+        "ID_ATTRIBUTEDESC_INCREASEDSPRINTBOOST": "Increases the duration of the high speed at the start of a sprint.",
+        "ID_ATTRIBUTEDESC_NATURALADRENALINE": "Every {0}s, gain the effect of the adrenaline shot for {1}s.",
+        "ID_ATTRIBUTEDESC_WALLCLIMB": "Sprinting at a wall allows you to run along it for a few steps.",
+        "ID_ATTRIBUTEDESC_FLOWSTATE": "Chaining together mobility moves while sprinting increases the speed, and reduces the stamina cost.",
+        "ID_ATTRIBUTEDESC_NINJAROLL": "A faster version of the Dodge Roll, at reduced stamina cost. Covers a shorter distance.",
+        "ID_ATTRIBUTEDESC_OVERENCUMBEREDMOVESPEED": "Reduces the speed penalty when severely over-encumbered.",
+        "ID_ATTRIBUTEDESC_EXPERTSCAVENGING": "Increases the amount of ammo and ARC Powercells looted from ARC, and allows you to recycle at full efficiency while in a round.",
+        "ID_ATTRIBUTEDESC_SUPERFIELDCRAFTING": "Allows you to field craft a much wider range of items.",
+        "ID_ATTRIBUTEDESC_FIELDREPAIR": "Allows you to repair weapons, shields and gadgets up to 30% durability while in a round.",
+        "ID_ATTRIBUTEDESC_SPRINTEXTENSION": "Stamina never fully drains while sprinting. Any action or damage cancels the skill.  Recovery time scales with duration.",
+        "ID_ATTRIBUTEDESC_SPRINTEXTENSION_ALT": "While sprinting, you never fully drain your stamina. The effect is canceled when your sprint is interrupted, and more time is needed to recover.",
+        "ID_ATTRIBUTEDESC_SUPERFIELDCRAFTING_ALT": "Allows you to field craft a wider range of items.",
+        "ID_ATTRIBUTEDESC_WALLCLIMB_ALT": "Sprinting at a wall allows you to run up it for a few steps.",
+        "ID_ATTRIBUTEDESC_EXPERTSCAVENGING_ALT": "Increases the amount of ammo and ARC Powercells looted from ARC."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ATTRIBUTEDESC_MAXGADGETPOWER": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DBNOBLEEDTIME": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_AITARGETACQUISITION": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CROUCHSPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MAXSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MELEESTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_TRAVERSALSTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_ARMORSPEEDPENALTY": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_RECOVERYROLL": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_EXHAUSTEDSTATE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CLIMBSPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_GADGETRECHARGE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MOVEMENTNOISE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CRITICALSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_BREACHSPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_LOOTREVEALSPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_FALLHEIGHT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_STAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DODGEROLLDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_LOOTINGNOISE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DODGEROLLSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CHARGEDMELEE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DAMAGESTAMINABOOST": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CRITICALHEALTHREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_ENCUMBEREDSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DRONEMELEEDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_EXPLOSIONEFFECT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_FALLDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_HEALINGSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_WALKINGSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DRONEONEHITMELEEKILL": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_RECOVERYROLLWINDOW": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DBNOMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_WALLLEAPDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DISABLEEXHAUSTEDVAULTS": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DODGEROLLSPRINTBOOST": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_STAMINAFREEVAULT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_BREACHVOLUME": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_AIVISIBILITYWHENCROUCHED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_REDUCEDAIACCURACY": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DOUBLELOOTREVEAL": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_BREACHGIFT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_DBNODAMAGEREDUCTION": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CRITICALHPMOVEMENTNOISE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_ARMORBREAKFREEDODGEROLL": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MINEDISARM": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_LEVELTWOBREACH": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_VAULTSPRING": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SLIDINGFRICTION": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_REDUCEDWEAPONENCUMBRANCE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MAXCARRYWEIGHT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_MOREFIELDCRAFTRECIPES": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_BONUSFIELDCRAFTFIND": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CROUCHEDSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_INROUNDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_CARRYABLEVAULTING": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_ENCUMBEREDSPRINT": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_ATTRIBUTEDESC_REDUCEDFALLRECOVERY": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_WEAPONBASH": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_JUGGERNAUT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SCRAMBLEDURATION": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_FALLGRABHEIGHT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_INCREASEDSPRINTBOOST": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_NATURALADRENALINE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_WALLCLIMB": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_FLOWSTATE": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_NINJAROLL": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_OVERENCUMBEREDMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_EXPERTSCAVENGING": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SUPERFIELDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_FIELDREPAIR": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SPRINTEXTENSION": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SPRINTEXTENSION_ALT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_SUPERFIELDCRAFTING_ALT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_WALLCLIMB_ALT": {
+          "Status": "approved"
+        },
+        "ID_ATTRIBUTEDESC_EXPERTSCAVENGING_ALT": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

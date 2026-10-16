@@ -34,7 +34,83 @@
         "ID_INGAME_BUTTON_RETURN_TO_SPECTATOR": "Return to Spectator",
         "ID_INGAME_BUTTON_UNSTUCK": "Fix Stuck Player"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_INGAME_BUTTON_RETURN_TO_GAME": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_SETTINGS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_FORCE_DEATH": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_SURRENDER": {
+          "Status": "approved"
+        },
+        "TITLE_ACTIVE_QUESTS": {
+          "Status": "approved"
+        },
+        "TITLE_MAP_LEGEND": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_GOHOME_TEXT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_GOHOME_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_GOHOME_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_TAB_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_INGAME_TAB_MAP": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_SURRENDER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_SURRENDER_TEXT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_SURRENDER_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_SURRENDER_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_FORCE_DEATH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_FORCE_DEATH_TEXT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_FORCE_DEATH_BUTTON_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_FORCE_DEATH_BUTTON_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_TAB_CHALLENGES": {
+          "Status": "approved"
+        },
+        "ID_INGAME_NOTIF_GOHOME_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_GOHOME": {
+          "Status": "approved"
+        },
+        "ID_INGAME_TAB_CRAFTING": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_RETURN_TO_SPECTATOR": {
+          "Status": "approved"
+        },
+        "ID_INGAME_BUTTON_UNSTUCK": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

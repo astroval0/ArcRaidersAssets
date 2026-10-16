@@ -12,7 +12,17 @@
         "ID_ANNOUNCEMENT_NEXT_QUESTION": "Next question",
         "ID_ANNOUNCEMENT_QUESTION_PROGRESS": "{0}/{1} questions"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ANNOUNCEMENT_SUBMIT_YOUR_ANSWER": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_NEXT_QUESTION": {
+          "Status": "approved"
+        },
+        "ID_ANNOUNCEMENT_QUESTION_PROGRESS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -14,7 +14,23 @@
         "ID_RELATED_ENTRIES_TAB_TITLE": "Related Entries",
         "ID_WORLDBOOK_GO_TO_ENTRY": "Go to entry"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_WORLDBOOK_ENTRY_COUNT": {
+          "Status": "approved"
+        },
+        "ID_WORLDBOOK_VIEW_DISCOVERIES": {
+          "Status": "approved"
+        },
+        "ID_ENTRY_TAB_TITLE": {
+          "Status": "approved"
+        },
+        "ID_RELATED_ENTRIES_TAB_TITLE": {
+          "Status": "approved"
+        },
+        "ID_WORLDBOOK_GO_TO_ENTRY": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

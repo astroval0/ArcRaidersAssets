@@ -354,9 +354,9 @@
         "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME": "Conceal My Own Display Name",
         "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS": "Conceal My Display Name to Others",
         "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY": "Matchmaking Privacy",
-        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION": "Enables additional protection against stream sniping by adding a randomized delay to your matchmaking, and changing your server information in the bottom-right corner to make it less predictable.\r\n\r\nWhen playing in a party, make sure the party leader has this setting toggled on. This setting cannot be changed while matchmaking.",
-        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_ALT2": "Toggle visibility of party invites from friends.\r\nOn: Party invites sent from friends will be shown at the top of your screen and can be accepted.\r\nOff: Party invites from friends will not be shown at the top of your screen, but you can accept them from your Social screen.",
-        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL_DESCRIPTION": "Toggle visibility of all social notifications such as party invites and friend requests.\r\nOn: Notifications for social features are shown.\r\nOff: Notifications for social features are muted.",
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION": "Enables additional protection against stream sniping by adding a randomized delay to your matchmaking, and changing your server information in the bottom-right corner to make it less predictable.\r\n\r\nWhen playing in a party, make sure the party leader has this setting toggled on.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_ALT2": "Toggle visibility of party invites\r\nOn: Party invites sent will be shown at the top of your screen and can be accepted.\r\nOff: Party invites will not be shown at the top of your screen, but you can accept them from your Social screen.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL_DESCRIPTION": "Toggle visibility of all social notifications such as party invites and friend requests.\r\nOn: Notifications for social features are shown.\r\nOff: Notifications for social features are hidden.",
         "ID_OPTIONS_SOCIAL_PRIVACY_STATUS_DESCRIPTION": "Setting this to ON turns your in-game status to Offline for anyone outside your Party, even if you are Online. You and your Party members will see your presence as Hidden. This doesn't affect any action you can normally perform in game while Online.\r\n\r\nPlease note that this does not change your status on your platform.",
         "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME_DESCRIPTION": "Replaces your Display Name with the word “ME” in all places where it is shown in your own view.",
         "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES_DESCRIPTION": "Hides the Display Names of all the players in a round from your own view.",
@@ -364,12 +364,12 @@
         "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_USERNAME": "Conceal Display Name",
         "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUS_GROUP_TITLE": "Privacy",
         "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_GROUP_TITLE": "Notifications",
-        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS": "Show Party Invites From Friends",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS": "Show Party Invites",
         "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES": "Show Friend Requests",
         "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL": "Show Social Notifications",
         "ID_OPTIONS_SOCIAL_PRIVACY_SHOW_AS_OFFLINE_TITLE": "Show As Offline",
         "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES_DESCRIPTION": "Toggle visibility of new friend requests.\r\nOn: New friend requests will be shown at the top of your screen.\r\nOff: You’ll still be able to receive new friend requests, but the request will not be shown at the top of your screen.",
-        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION": "Toggle visibility of party invites from friends.\r\nOn: Party invites sent from friends will be shown at the top of your screen and can be accepted.\r\nOff: Party invites from friends are hidden and can’t be accepted.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION": "Toggle visibility of party invites\r\nOn: Party invites sent will be shown at the top of your screen and can be accepted.\r\nOff: Party invites are hidden and can’t be accepted.",
         "ID_OPTIONS_SOCIAL_PRIVACY_STREAMERMODE": "Streamer Mode",
         "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUSMODE": "Anonymous Mode",
         "ID_OPTIONS_SOCIAL_PRIVACY_CONCEALED_ME": "Me",
@@ -382,443 +382,1660 @@
         "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_TAP_INTERACT": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nTap to Interact: tap to interact, hold to reload.",
         "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_INTERACT": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nPrioritize Interact: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to interact and hold to reload.",
         "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_RELOAD": "Determines how the Interact/Reload button behaves.\r\n\r\nSelected choice:\r\nPrioritize Reload: tap dynamically adjusts to the available action. If both actions are available simultaneously, tap to reload and hold to interact.",
-        "ID_OPTION_VIDEO_FSR_FRAME_GENERATION_TOOLTIP": "AMD FSR Frame Generation increases frame rate by creating additional frames computed from existing inputs.\r\n\r\nIt is highly recommended to be always running at a minimum of ~60 FPS before frame generation is applied for an optimal high-quality gaming experience and to mitigate any latency introduced by the technology.\r\n\r\nThis feature can negatively affect performance in ARC Raiders on CPUs with few cores. A minimum of 8 CPU cores is recommended for running AMD FSR Frame Generation."
+        "ID_OPTION_VIDEO_FSR_FRAME_GENERATION_TOOLTIP": "AMD FSR Frame Generation increases frame rate by creating additional frames computed from existing inputs.\r\n\r\nIt is highly recommended to be always running at a minimum of ~60 FPS before frame generation is applied for an optimal high-quality gaming experience and to mitigate any latency introduced by the technology.\r\n\r\nThis feature can negatively affect performance in ARC Raiders on CPUs with few cores. A minimum of 8 CPU cores is recommended for running AMD FSR Frame Generation.",
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND_SONY_CERT": "This button cannot be rebound.",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_RICHTEXT": "**Tap to Reload:** Tap = reload, hold = interact\r\n**Tap to Interact:** Tap = interact, hold = reload\r\n**Prioritize Interact:** Tap adapts to context. If both available, tap = interact, hold = reload\r\n**Prioritize Reload:** Tap adapts to context. If both available, tap = reload, hold = interact",
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_RICHTEXT_ALT": "**Tap to Reload:** Tap to reload, hold to interact\r\n**Tap to Interact:** Tap to interact, hold to reload\r\n**Prioritize Interact:** Tap adapts to context. If both available, tap to interact, hold to reload\r\n**Prioritize Reload:** Tap adapts to context. If both available, tap to reload, hold to interact",
+        "ID_OPTION_HUD_MODE_DESCRIPTION_RICHTEXT": "**Default:** Show all HUD elements.\r\n**Crosshair and Interactions:** Show only crosshair and interaction prompts.\r\n**Crosshair Only:** Show only the crosshair.\r\n**Hidden:** Hide all HUD elements.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_RICHTEXT": "**On:** Party invites sent from friends will be shown at the top of your screen and can be accepted.\r\n**Off:** Party invites from friends will not be shown at the top of your screen, but you can accept them from your Social screen.",
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES_DESCRIPTION_RICHTEXT": "**On:** New friend requests will be shown at the top of your screen.\r\n**Off:** You’ll still be able to receive new friend requests, but the request will not be shown at the top of your screen.",
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION_SONY_CERT_RICHTEXT": "This curve determines how much of your stick movement applies to looking based on your input.\r\n**Exponential:** Starts low and gradually increases in steepness.\r\n**Linear:** Directly maps to your input with a 1:1 ratio.\r\n**Sinusoidal:** Smooth in, steep middle, smooth out.",
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE": "Server Selection",
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE_ALT1": "Server Options",
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE_ALT2": "Server Region",
+        "ID_OPTION_SERVER_DESCRIPTION": "\"Automatic\" selects server with lowest ping.  Available server regions: Europe, North America, Asia, South America, Oceania.  Choosing a region manually may increase your ping and lead to a degraded matchmaking experience. Some Destinations are not available in every region.",
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_TITLE": "Change Server and Reset Destination?",
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_DESCRIPTION": "Your currently selected destination might be unavailable when changing server region. You will have to select a new destination.",
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_CTA": "Change Server Anyway",
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_CTA_SHORT": "Change Anyway",
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION_LOCKED": "Matchmaking Privacy cannot be changed during matchmaking.",
+        "ID_OPTION_SERVER_DESCRIPTION_LOCKED": "Server region cannot be changed during matchmaking.",
+        "ID_OPTION_SERVER_LOCKED": "foobar",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_ALT": "Crossplay enables you to party up and matchmake with players on other platforms.",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_ALT2": "Crossplay enables you to matchmake with players on other platforms.",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED": "Crossplay settings cannot be changed during matchmaking, or if controlled by your system settings.",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_MATCHMAKING": "Crossplay cannot be changed during matchmaking.",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_SYSTEM": "Crossplay cannot be changed. It is currently controlled by your system settings.",
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_SYSTEM_ALT": "Crossplay is currently controlled by your system settings.",
+        "ID_OPTION_QUICK_CYCLE": "Quick Cycle",
+        "ID_OPTION_QUICK_SWAP": "Quick Swap",
+        "ID_OPTION_QUICK_USE_CYCLE": "Quick Use Cycle",
+        "ID_OPTION_QUICK_USE_CYCLE_DESCRIPTION": "Allows you to cycle through the items in your Quick Use Wheel.",
+        "ID_OPTION_QUICK_USE_SWAP": "Quick Use Swap",
+        "ID_OPTION_CAMERA_GADGET": "Camera Gadget",
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD": "Invert Forward/Backward movement in Self-Portrait mode",
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION": "Invert Camera Rotation in Self-Portrait mode",
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE": "Invert Left/Right movement in Self-Portrait mode",
+        "ID_OPTION_WEAPON_BASH": "Weapon Bash",
+        "ID_OPTION_WEAPON_BASH_HOLD": "Weapon Bash (Hold)",
+        "ID_OPTION_RUSH": "Rush",
+        "ID_OPTION_RUSH_HOLD": "Rush (Hold)",
+        "ID_OPTION_BULL_RUSH": "Bull Rush",
+        "ID_OPTION_BULL_RUSH_HOLD": "Bull Rush (Hold)",
+        "ID_OPTION_WEAPON_BASH_IN_PARANTHESES_WEAPON_EQUIPPED": "Weapon Bash (Weapon Equipped)",
+        "ID_OPTION_BULL_RUSH_IN_PARANTHESES_UNARMED": "Bull Rush (Unarmed)",
+        "ID_OPTION_WEAPON_BASH_IN_WEAPON_EQUIPPED": "Weapon Bash - Weapon Equipped",
+        "ID_OPTION_WEAPON_BASH_IN_WEAPON_EQUIPPED(HOLD)": "Weapon Bash - Weapon Equipped (Hold)",
+        "ID_OPTION_BULL_RUSH_IN_UNARMED": "Bull Rush - Unarmed",
+        "ID_OPTION_BULL_RUSH_IN_UNARMED(HOLD)": "Bull Rush - Unarmed (Hold)",
+        "ID_OPTION_RUSH_IN_UNARMED": "Rush - Unarmed",
+        "ID_OPTION_RUSH_IN_UNARMED_HOLD": "Rush - Unarmed (Hold)",
+        "ID_OPTION_WEAPON_BASH_AND_BULL_RUSH": "Weapon Bash / Bull Rush",
+        "ID_OPTION_WEAPON_BASH_AND_BULL_RUSH_HOLD": "Weapon Bash / Bull Rush (Hold)",
+        "ID_OPTION_ACTIVATE_SKILL": "Activate Skill",
+        "ID_OPTION_ACTIVATE_SKILL_HOLD": "Activate Skill (Hold)",
+        "ID_OPTION_ACTIVE_SKILL": "Active Skill",
+        "ID_OPTION_ACTIVE_SKILL_HOLD": "Active Skill (Hold)",
+        "ID_OPTION_CONTROL_PRESETS": "Controls Layout",
+        "ID_OPTION_CONTROL_PRESETS_ALT2": "Input Configuration",
+        "ID_OPTION_CONTROL_PRESETS_OPTION_LEGACY": "Legacy input",
+        "ID_OPTION_CONTROL_PRESETS_OPTION_NEW_BINDINGS": "Default",
+        "ID_OPTION_CONTROL_PRESETS_SET_TO_LEGACY_BINDINGS": "Set to legacy input",
+        "ID_OPTION_CONTROL_PRESETS_SET_TO_DEFAULT": "Set to default",
+        "ID_OPTION_CONTROL_PRESETS_DESCRIPTION": "Switches between set input layouts",
+        "ID_OPTION_CONTROL_PRESETS_DESCRIPTION_ALT1": "Selects from predefined input layouts:",
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_DESCRIPTION": "In Self-Portrait mode, camera rotation will be inverted.",
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_ALT1": "Invert Camera Rotation in Self-Portrait mode",
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_DESCRIPTION_ALT1": "In Self-Portrait mode, camera rotation will be inverted.",
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_DESCRIPTION": "In Self-Portrait mode, left/right movement will be inverted.",
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_ALT1": "Invert Left/Right movement in Self-Portrait mode",
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_DESCRIPTION_ALT1": "In Self-Portrait mode, left/right movement will be inverted.",
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_DESCRIPTION": "In Self-Portrait mode, forward/backward movement will be inverted.",
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_ALT1": "Invert Forward/Backward movement in Self-Portrait mode",
+        "ID_OPTION_CAMERA_GRAIN": "Camera Grain",
+        "ID_OPTION_CAMERA_GRAIN_DESCRIPTION": "Adds a subtle grain effect to the camera view.",
+        "ID_OPTION_CAMERA_BOB": "Camera Bob",
+        "ID_OPTION_CAMERA_BOB_DESCRIPTION": "Adds a subtle bobbing movement to the camera while moving.",
+        "ID_OPTION_CAMERA_SWAY_BOUNCE": "Camera Sway",
+        "ID_OPTION_CAMERA_SWAY_BOUNCE_DESCRIPTION": "Adds a subtle sway movement to the camera while moving.",
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH": "Camera photos are saved in: {0}",
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH_ALT1": "Camera pictures are saved in: {0}",
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH_ALT2": "Camera images are saved in: {0}",
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_DESCRIPTION_ALT1": "In Self-Portrait mode, forward/backward movement will be inverted."
       },
       "KeysToMetaData": {
         "ID_OPTION_GAMEPAD_FOV_SENSITIVITY_SCALING_SONY_CERT": {
-          "Note": "Make sure to us the correct Sony term Wireless Controller"
+          "Note": "Make sure to us the correct Sony term Wireless Controller",
+          "Status": "approved"
         },
         "ID_OPTION_ACCESSIBILITY_VISION": {
-          "Note": "Title for a section in Accessibility"
+          "Note": "Title for a section in Accessibility",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_KEYBINDING": {
-          "Note": "Option connected to VoIP when using toggle to talk, keybinding for toggling"
+          "Note": "Option connected to VoIP when using toggle to talk, keybinding for toggling",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_MODE": {
-          "Note": "Selection of mode for party chat, open mic, toggle to talk or mic off"
+          "Note": "Selection of mode for party chat, open mic, toggle to talk or mic off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_MODE": {
-          "Note": "Selection of mode for proximity chat, open mic, toggle to talk or mic off"
+          "Note": "Selection of mode for proximity chat, open mic, toggle to talk or mic off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_VOICE_CHAT_MODE": {
-          "Note": "Selection of mode for voice chat, open mic, toggle to talk or mic off"
+          "Note": "Selection of mode for voice chat, open mic, toggle to talk or mic off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_INPUTDEVICE": {
-          "Note": "For Voice Chat"
+          "Note": "For Voice Chat",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_OUTPUTDEVICE": {
-          "Note": "For Voice Chat"
+          "Note": "For Voice Chat",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT": {
-          "Note": "Title for section within Audio and Voice Chat"
+          "Note": "Title for section within Audio and Voice Chat",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_ENABLEDFOR_PARTY": {
-          "Note": "Voice Chat enabled for party - on/off"
+          "Note": "Voice Chat enabled for party - on/off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_ENABLEDFOR_PROXIMITY": {
-          "Note": "Voice chat enabled for proximity - on/off"
+          "Note": "Voice chat enabled for proximity - on/off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_ENABLEDFOR": {
-          "Note": "Voice chat enabled - on/off"
+          "Note": "Voice chat enabled - on/off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME": {
-          "Note": "Volume of output on Party VoIP"
+          "Note": "Volume of output on Party VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PARTY_VOICE_CHAT_VOLUME_ALT2": {
-          "Note": "Volume of output on Party VoIP alternative"
+          "Note": "Volume of output on Party VoIP alternative",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_PROXIMITY_VOICE_CHAT_VOLUME": {
-          "Note": "Volume of output on Proximity VoIP"
+          "Note": "Volume of output on Proximity VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_TOGGLE_MIC_OFF": {
-          "Note": "Toggle for VoIP - Microphone off"
+          "Note": "Toggle for VoIP - Microphone off",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_TOGGLE_TOGGLETOTALK": {
-          "Note": "Toggle for VoIP - Toggle to open mic"
+          "Note": "Toggle for VoIP - Toggle to open mic",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_TOGGLE_MUTED": {
-          "Note": "Toggle for VoIP - Mic muted"
+          "Note": "Toggle for VoIP - Mic muted",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_TOGGLE_MUTED_ALT2": {
-          "Note": "Toggle for VoIP - Mic muted alternative"
+          "Note": "Toggle for VoIP - Mic muted alternative",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_TOGGLE_TOGGLEMIC": {
-          "Note": "Toggle for VoIP - Toggle to open mic"
+          "Note": "Toggle for VoIP - Toggle to open mic",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_AIM_ASSIST_DESCRIPTION": {
-          "Note": "Description for aim assist"
+          "Note": "Description for aim assist",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION": {
-          "Note": "Description for Look Response Curve"
+          "Note": "Description for Look Response Curve",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION_SONY_CERT": {
-          "Note": "Description for Look Response Curve"
+          "Note": "Description for Look Response Curve",
+          "Status": "approved"
         },
         "ID_OPTION_DEADZONE_DESCRIPTION": {
-          "Note": "Description of Deadzone"
+          "Note": "Description of Deadzone",
+          "Status": "approved"
         },
         "ID_OPTION_DEADZONE_DESCRIPTION_SONY_CERT": {
-          "Note": "Description of Deadzone"
+          "Note": "Description of Deadzone",
+          "Status": "approved"
         },
         "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION": {
-          "Note": "Description of Horizontal Look Boost"
+          "Note": "Description of Horizontal Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
-          "Note": "Description of Horizontal Look Boost"
+          "Note": "Description of Horizontal Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION": {
-          "Note": "Description of Invert Vertical Look Input"
+          "Note": "Description of Invert Vertical Look Input",
+          "Status": "approved"
         },
         "ID_OPTION_INVERT_VERTICAL_LOOK_INPUT_DESCRIPTION_SONY_CERT": {
-          "Note": "Description of Invert Vertical Look Input"
+          "Note": "Description of Invert Vertical Look Input",
+          "Status": "approved"
         },
         "ID_OPTION_LOOK_ACCELERATION_DESCRIPTION": {
-          "Note": "Description of Look Acceleration"
+          "Note": "Description of Look Acceleration",
+          "Status": "approved"
         },
         "ID_OPTION_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": {
-          "Note": "Description of Look Boost Ramp-up Time"
+          "Note": "Description of Look Boost Ramp-up Time",
+          "Status": "approved"
         },
         "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION": {
-          "Note": "Description of Vertical Look Boost"
+          "Note": "Description of Vertical Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
-          "Note": "Description of Vertical Look Boost"
+          "Note": "Description of Vertical Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION": {
-          "Note": "Zoom Horizontal Look Boost"
+          "Note": "Zoom Horizontal Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_HORIZONTAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
-          "Note": "Zoom Horizontal Look Boost"
+          "Note": "Zoom Horizontal Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_LOOK_BOOST_RAMPUP_TIME_DESCRIPTION": {
-          "Note": "Zoom Look Boost Ramp-up Time"
+          "Note": "Zoom Look Boost Ramp-up Time",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_SENSITIVITY_MULTIPLIER_DESCRIPTION": {
-          "Note": "Description of Zoom Sensitivity Multiplier"
+          "Note": "Description of Zoom Sensitivity Multiplier",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION": {
-          "Note": "Zoom Vertical Look Boost"
+          "Note": "Zoom Vertical Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_ZOOM_VERTICAL_LOOK_BOOST_DESCRIPTION_SONY_CERT": {
-          "Note": "Zoom Vertical Look Boost"
+          "Note": "Zoom Vertical Look Boost",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPLAY_PREFERRED_REGION": {
-          "Note": "Setting to change server region"
+          "Note": "Setting to change server region",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL": {
-          "Note": "Setting for changing camera horizontal sensitivity"
+          "Note": "Setting for changing camera horizontal sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL": {
-          "Note": "Setting for changing camera vertical sensitivity"
+          "Note": "Setting for changing camera vertical sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_HORIZONTAL_DESCRIPTION": {
-          "Note": "Description for Look Sensitivity Horizontal"
+          "Note": "Description for Look Sensitivity Horizontal",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_LOOK_SENSITIVITY_VERTICAL_DESCRIPTION": {
-          "Note": "Description for Look Sensitivity Vertical"
+          "Note": "Description for Look Sensitivity Vertical",
+          "Status": "approved"
         },
         "ID_OPTION_MOUSE_CONTROLS_INVERT_Y": {
-          "Note": "Inverts mouse up and down on KBM"
+          "Note": "Inverts mouse up and down on KBM",
+          "Status": "approved"
         },
         "ID_OPTION_MOUSE_SENSITIVITY": {
-          "Note": "Setting for changing camera control sensitivity"
+          "Note": "Setting for changing camera control sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_MOUSE_ZOOM_SENSITIVITY": {
-          "Note": "Setting for changing zoom sensitivity"
+          "Note": "Setting for changing zoom sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_HORIZONTAL": {
-          "Note": "Setting for changing Horizontal camera sensitivity"
+          "Note": "Setting for changing Horizontal camera sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_MOUSE_ZOOM_SENSITIVITY_VERTICAL": {
-          "Note": "Setting for changing Vertical camera sensitivity"
+          "Note": "Setting for changing Vertical camera sensitivity",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_MODE": {
-          "Note": "Setting for changing the type of HUD visibility behaviour"
+          "Note": "Setting for changing the type of HUD visibility behaviour",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_EDGE_POSITION": {
-          "Note": "Setting for selecting the HUD alignment to be edge to the screen or fixed in a position"
+          "Note": "Setting for selecting the HUD alignment to be edge to the screen or fixed in a position",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_EDGE_POSITION_CENTERED": {
-          "Note": "Centered with a 16:9 ratio"
+          "Note": "Centered with a 16:9 ratio",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_EDGE_POSITION_STRETCHED": {
-          "Note": "Stretched"
+          "Note": "Stretched",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_ALIGNMENT_DESCRIPTION": {
-          "Note": "Description for HUD Position"
+          "Note": "Description for HUD Position",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_TIPS_AND_HINTS": {
-          "Note": "Setting for showing or hiding Tips and Hints in the HUD"
+          "Note": "Setting for showing or hiding Tips and Hints in the HUD",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_STAMINA_BAR_VISIBILITY": {
-          "Note": "Setting for determining visibility type of the stamina bar"
+          "Note": "Setting for determining visibility type of the stamina bar",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_STAMINA_BAR_WIDTH": {
-          "Note": "Setting for determining the width of the stamina bar"
+          "Note": "Setting for determining the width of the stamina bar",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_STAMINA_BAR_WIDTH_LONG": {
-          "Note": "Long length of the stamina bar"
+          "Note": "Long length of the stamina bar",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_STAMINA_BAR_WIDTH_MEDIUM": {
-          "Note": "Medium lenght of the stamina bar"
+          "Note": "Medium lenght of the stamina bar",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_STAMINA_BAR_WIDTH_SHORT": {
-          "Note": "Short lenght of the stamina bar"
+          "Note": "Short lenght of the stamina bar",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_COMPASS_VISIBILITY": {
-          "Note": "Setting for determing the visibility type of the compass"
+          "Note": "Setting for determing the visibility type of the compass",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_COMPASS_ICONS": {
-          "Note": "Setting for choosing what types of icons should be shown in the compass"
+          "Note": "Setting for choosing what types of icons should be shown in the compass",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_COMPASS_ICONS_DESCRIPTION": {
-          "Note": "Description for Compass Icons"
+          "Note": "Description for Compass Icons",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_COMPASS_ICONS_PINGS_AND_WAYPOINTS": {
-          "Note": "Option for the Compass Icons setting, selecting this option will only show pings and waypoints in the compass"
+          "Note": "Option for the Compass Icons setting, selecting this option will only show pings and waypoints in the compass",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP": {
-          "Note": "Setting for showing or hiding the inventory visual represention when picking up a item."
+          "Note": "Setting for showing or hiding the inventory visual represention when picking up a item.",
+          "Status": "approved"
         },
         "ID_OPTION_HUD_SHOW_INVENTORY_PICKUP_DESCRIPTION": {
-          "Note": "Description for Show Inventory pickup setting"
+          "Note": "Description for Show Inventory pickup setting",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_ASSIGNED_BUTTON": {
-          "Note": "Option connected to VoIP when using toggle to talk, push to talk, displaying the assigned button"
+          "Note": "Option connected to VoIP when using toggle to talk, push to talk, displaying the assigned button",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL": {
-          "Note": "Automatically controls voice input to lower or to increase volume depending on how loud our quiet the input is"
+          "Note": "Automatically controls voice input to lower or to increase volume depending on how loud our quiet the input is",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DESCRIPTION": {
-          "Note": "Description for Automatic Gain Control"
+          "Note": "Description for Automatic Gain Control",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_ENABLED": {
-          "Note": "Option for Enableling Automatic Gain Control"
+          "Note": "Option for Enableling Automatic Gain Control",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_AUTO_GAIN_CONTROL_DISABLED": {
-          "Note": "Option for Disableling Automatic Gain Control"
+          "Note": "Option for Disableling Automatic Gain Control",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS": {
-          "Note": "Settings for inverting A and B actions"
+          "Note": "Settings for inverting A and B actions",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_SONY_CERT": {
-          "Note": "Settings for inverting Cross and Circle actions"
+          "Note": "Settings for inverting Cross and Circle actions",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_SWAP_ACTION_BUTTONS_DESCRIPTION": {
-          "Note": "Description for Swaping actions."
+          "Note": "Description for Swaping actions.",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE": {
-          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_ALT2": {
-          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_ALT3": {
-          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP"
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PARTY": {
-          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over party VoIP"
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over party VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PROXIMITY": {
-          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over proximity VoIP"
+          "Note": "Toggle to turn on the feature Raider Voice that changes your voice over proximity VoIP",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION": {
-          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat"
+          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT2": {
-          "Note": "Updated string needed for Raider Voice to include warning/recommendation for specs and settings if you are on a low-end machine."
+          "Note": "Updated string needed for Raider Voice to include warning/recommendation for specs and settings if you are on a low-end machine.",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE": {
-          "Note": "Option for Raider Voice to be heard by everyone"
+          "Note": "Option for Raider Voice to be heard by everyone",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYBODY": {
-          "Note": "Option for Raider Voice to be heard by everybody"
+          "Note": "Option for Raider Voice to be heard by everybody",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_ON": {
-          "Note": "Option for Raider Voice to be on"
+          "Note": "Option for Raider Voice to be on",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY": {
-          "Note": "Option for Raider Voice to be on for party"
+          "Note": "Option for Raider Voice to be on for party",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY": {
-          "Note": "Option for Raider Voice to be on for proximity"
+          "Note": "Option for Raider Voice to be on for proximity",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_OFF": {
-          "Note": "Option for Raider Voice to be off"
+          "Note": "Option for Raider Voice to be off",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_NOONE": {
-          "Note": "Option for Raider Voice to be heard by no one"
+          "Note": "Option for Raider Voice to be heard by no one",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_PARTY_ALT2": {
-          "Note": "Option for Raider Voice to be on for party"
+          "Note": "Option for Raider Voice to be on for party",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT2": {
-          "Note": "Option for Raider Voice to be on for proximity"
+          "Note": "Option for Raider Voice to be on for proximity",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_EVERYONE_DESCRIPTION": {
-          "Note": "Description for the selection when everyone hears"
+          "Note": "Description for the selection when everyone hears",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION": {
-          "Note": "Description for the selection when no one hears"
+          "Note": "Description for the selection when no one hears",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_NOONE_DESCRIPTION_ALT2": {
-          "Note": "Description for the selection when no one hears"
+          "Note": "Description for the selection when no one hears",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PARTY_DESCRIPTION": {
-          "Note": "Description for the selection when only party hears"
+          "Note": "Description for the selection when only party hears",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_SELECTION": {
-          "Note": "Setting to select a Raider Voice"
+          "Note": "Setting to select a Raider Voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_SELECTION_ALT2": {
-          "Note": "Setting to select a Raider Voice"
+          "Note": "Setting to select a Raider Voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_SELECTION_SELECTED_VOICE": {
-          "Note": "Name of the Raider Voices will range with a number"
+          "Note": "Name of the Raider Voices will range with a number",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION": {
-          "Note": "Setting for improving the pitch detection of the Raider Voice feature"
+          "Note": "Setting for improving the pitch detection of the Raider Voice feature",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_ALT2": {
-          "Note": "Setting for improving the pitch detection of the Raider Voice feature"
+          "Note": "Setting for improving the pitch detection of the Raider Voice feature",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_ACTIVATE": {
-          "Note": "Activate-button for Pitch detection"
+          "Note": "Activate-button for Pitch detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC": {
-          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT2": {
-          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_AUTOMATIC_ALT3": {
-          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded"
+          "Note": "Mode for pitch detection, set to automatic when no sample has been recorded",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED": {
-          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_RECORDED_ALT2": {
-          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED": {
-          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_MODE_IMPROVED_ALT2": {
-          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection"
+          "Note": "Mode for pitch detection, when a player has recorded a sample to improve pitch detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP": {
-          "Note": "Timestamp for when a sample last was recorded with a date"
+          "Note": "Timestamp for when a sample last was recorded with a date",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_TIMESTAMP_ALT2": {
-          "Note": "Timestamp for when a sample last was recorded with a date"
+          "Note": "Timestamp for when a sample last was recorded with a date",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RECORD": {
-          "Note": "Button for players to record a short audio sample"
+          "Note": "Button for players to record a short audio sample",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STOP": {
-          "Note": "Button for players to stop recording a short audio sample"
+          "Note": "Button for players to stop recording a short audio sample",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_STARTOVER": {
-          "Note": "Button for players to start over their recording"
+          "Note": "Button for players to start over their recording",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET": {
-          "Note": "Button for players to reset their pitch detection to automatic detection"
+          "Note": "Button for players to reset their pitch detection to automatic detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_BUTTON_RESET_ALT2": {
-          "Note": "Button for players to reset their pitch detection to automatic detection"
+          "Note": "Button for players to reset their pitch detection to automatic detection",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION": {
-          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice"
+          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_DESCRIPTION_ALT2": {
-          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice"
+          "Note": "Description for feature that allows player to record a short sample to improve pitch detection with Raider Voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PITCH_DETECTION_INFO_SAMPLE_LENGTH": {
-          "Note": "Explanation of how long the sample needs to be"
+          "Note": "Explanation of how long the sample needs to be",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_GAMEPAD_PROXIMITY_VOICE_CHAT_MODE": {
-          "Note": "Title for proximity chat on Gamepad"
+          "Note": "Title for proximity chat on Gamepad",
+          "Status": "approved"
         },
         "ID_OPTION_VOICECHAT_GAMEPAD_PARTY_VOICE_CHAT_MODE": {
-          "Note": "Title for party chat on Gamepad"
+          "Note": "Title for party chat on Gamepad",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPLAY_AUTOSPRINT": {
-          "Note": "Setting for enbleling Auto Sprint"
+          "Note": "Setting for enbleling Auto Sprint",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPLAY_AUTOSPRINT_DESCRIPTION": {
-          "Note": "Description for what Auto Sprint means"
+          "Note": "Description for what Auto Sprint means",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY": {
-          "Note": "Setting for Auto Sprint Trigger Delay"
+          "Note": "Setting for Auto Sprint Trigger Delay",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPLAY_AUTOSPRINT_TRIGGERDELAY_DESCRIPTION": {
-          "Note": "Description for what Auto Sprint Trigger Delay means"
+          "Note": "Description for what Auto Sprint Trigger Delay means",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY": {
-          "Note": "Button label to preview the voice"
+          "Note": "Button label to preview the voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT2": {
-          "Note": "Button label to preview the voice"
+          "Note": "Button label to preview the voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_BUTTON_PLAY_ALT3": {
-          "Note": "Button label to preview the voice"
+          "Note": "Button label to preview the voice",
+          "Status": "approved"
         },
         "ID_OPTION_VOICE": {
-          "Note": "Alternative to Raider Voice"
+          "Note": "Alternative to Raider Voice",
+          "Status": "approved"
         },
         "ID_OPTION_RAIDER_VOICE_PROXIMITY_DESCRIPTION_ALT3": {
-          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat"
+          "Note": "Description for Raider Voice feature which changes the sound of your voice in Voice Chat",
+          "Status": "approved"
         },
         "ID_OPTIONS_RAIDERVOICE_BETA_DESCRIPTION": {
-          "Note": "Description for what Raider Voice Beta means"
+          "Note": "Description for what Raider Voice Beta means",
+          "Status": "approved"
         },
         "ID_OPTION_SETTING_REQUIRES_RESTART_TITLE": {
-          "Note": "https://embark.atlassian.net/browse/PNR2-58000 Modal title to prompt a restart upon applying a change to a setting that requires a restart of the game to take effect."
+          "Note": "https://embark.atlassian.net/browse/PNR2-58000 Modal title to prompt a restart upon applying a change to a setting that requires a restart of the game to take effect.",
+          "Status": "approved"
         },
         "ID_OPTION_SETTING_REQUIRES_RESTART_BODY": {
-          "Note": "Modal body text to tell players that the setting changed requires restart to take effect. Important: On PC it will be shown with two buttons asking if you want to Restart Now or Later. BUT on Console the button will say Close."
+          "Note": "Modal body text to tell players that the setting changed requires restart to take effect. Important: On PC it will be shown with two buttons asking if you want to Restart Now or Later. BUT on Console the button will say Close.",
+          "Status": "approved"
         },
         "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_RESTART": {
-          "Note": "Button on restart-modal prompting the player to restart the game"
+          "Note": "Button on restart-modal prompting the player to restart the game",
+          "Status": "approved"
         },
         "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_LATER": {
-          "Note": "Button on restart-modal allowing player to leave this setting changed, but not in effect until the next time they restart the game"
+          "Note": "Button on restart-modal allowing player to leave this setting changed, but not in effect until the next time they restart the game",
+          "Status": "approved"
         },
         "ID_OPTION_FONTSIZE_DESCRIPTION": {
-          "Note": "Description for the font size setting. This setting is called Font Size but only changes certain body texts between Big (24px) and Small (18px) - where the bigger is suitable for TV and the smaller for PC."
+          "Note": "Description for the font size setting. This setting is called Font Size but only changes certain body texts between Big (24px) and Small (18px) - where the bigger is suitable for TV and the smaller for PC.",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_CANNOT_REBOUND": {
-          "Note": "Blocks a certain key from being rebound"
+          "Note": "Blocks a certain key from being rebound",
+          "Status": "approved"
         },
         "ID_OPTION_GAMEPAD_CANNOT_REBOUND_ALT": {
-          "Note": "Blocks a certain key from being rebound"
+          "Note": "Blocks a certain key from being rebound",
+          "Status": "approved"
         },
         "ID_OPTIONS_BUTTON_BINDING": {
-          "Note": "Used to show the assigned button to a certain action, the row also allows you to rebind the button. Possibly we could use \"Assigned button\" to not submit a new string"
+          "Note": "Used to show the assigned button to a certain action, the row also allows you to rebind the button. Possibly we could use \"Assigned button\" to not submit a new string",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID": {
-          "Note": "Setting name for Streamers to toggle that changes your server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers."
+          "Note": "Setting name for Streamers to toggle that changes your server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers.",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_OBFUSCATE_SERVERID_DESCRIPTION": {
-          "Note": "Setting description for toggle that Streamers to can use to change server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers. "
+          "Note": "Setting description for toggle that Streamers to can use to change server ID (bottom right corner) to a randomized identifier number, a number we can use to track which server you are on, but not stream snipers. ",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES": {
-          "Note": "Setting name to conceal everyone's names on your own view."
+          "Note": "Setting name to conceal everyone's names on your own view.",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME": {
-          "Note": "Setting name to conceal your name on your own view."
+          "Note": "Setting name to conceal your name on your own view.",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS": {
-          "Note": "Setting name to conceal your name to others while in a round."
+          "Note": "Setting name to conceal your name to others while in a round.",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY": {
-          "Note": "Overarching setting to enable two Streamer settings that makes it more difficulty for stream sniping by modifying matchmaking settings."
+          "Note": "Overarching setting to enable two Streamer settings that makes it more difficulty for stream sniping by modifying matchmaking settings.",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION": {
-          "Note": "Description to the overarching setting for streamers to change their matchmaking settings, to make it more difficult for stream sniping."
+          "Note": "",
+          "Status": "approved"
         },
         "ID_OPTIONS_SOCIAL_PRIVACY_CONCEALED_ME": {
-          "Note": "Player name replacement when player name is hidden"
+          "Note": "Player name replacement when player name is hidden",
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_RICHTEXT": {
+          "Note": "Added Rich Text and shortened the string to not be as hard to parse.max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_RICHTEXT_ALT": {
+          "Note": "Added Rich Text and shortened the string to not be as hard to parse. max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_DESCRIPTION_RICHTEXT": {
+          "Note": "Added Rich Text. max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_RICHTEXT": {
+          "Note": "Added Rich Text. max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES_DESCRIPTION_RICHTEXT": {
+          "Note": "Added Rich Text. max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_LOOK_RESPONSE_CURVE_DESCRIPTION_SONY_CERT_RICHTEXT": {
+          "Note": "Added Rich Text. max chars limit 600",
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_GAMEPLAY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_GRAPHICS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_CONTROLS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_ACCESSIBILITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_OPTION_SHOW_HUD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_OPTION_COLORBLIND_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_TITLE_MOUSE_AND_KEYBOARD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_TITLE_GAMEPAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TITLE_GAMEPLAY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_BUTTON_RESET": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ADVANCED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_BOOL_TOGGLE_ON": {
+          "Status": "approved"
+        },
+        "ID_OPTION_BOOL_TOGGLE_OFF": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SELECT_KEY_BINDING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NO_KEY_BIND": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_AUDIO": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_MUSIC_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_X_AXIS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_Y_AXIS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_SENSITIVITY_X_AXIS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_SENSITIVITY_Y_AXIS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_RESET_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_RESET_TEXT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_RESET_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_RESET_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_APPLY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_APPLY_TEXT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_APPLY_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_APPLY_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_APPLY_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_USER_AGREEMENT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_CREDITS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_MASTER_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_DIALOGUE_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_SFX_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SHOW_SUBTITLES": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SUBTITLES_SIZE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SUBTITLES_OPACITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SUBTITLES_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VALUE_PERCENT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_NOTIFICATION_KEY_OVERRIDE_WARNING_TEXT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_BOOL_TOGGLE_TRUE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_BOOL_TOGGLE_FALSE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_INPUT_AUTOGAIN": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_ENABLED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_METHOD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_INPUT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_OUTPUT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_CHANNEL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_NOTIFICATIONS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_OUTPUT_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_PLAYER_OUTLINES": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_PLAYER_FILL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_OPEN_MIC": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PUSH_TO_TALK": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SERVER": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PARTY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_KEYBOARD_CONTROLS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SHOW_RELOAD_BAR": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DAMAGE_DIRECTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_KEYBINDING_UNASSIGNED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_SCOPED_ZOOM_SENSITIVITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_ZOOM_SENSITIVITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_PARTY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_SOCIAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_TEXTCHAT_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_TEXTCHAT_ALLSQUAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_NIGHT_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_OUTPUT_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_ENABLED_FOR_ALL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_ENABLED_FOR": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_ENABLED_FOR_FRIENDS_ONLY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PROXIMITYVOIP_VOLUME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PROXIMITYVOIP_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PROXIMITYVOIP_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PROXIMITYVOIP_PUSH_TO_TALK": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VALUE_FLAT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TEXT_GAMEPLAY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TITLE_CONTROLS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TITLE_GRAPHICS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TITLE_AUDIO": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TITLE_ACCESSIBILITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TEXT_AUDIO": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TEXT_ACCESSIBILITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TEXT_GRAPHICS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RESET_TEXT_CONTROLS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_LEGAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CROSSHAIR_SMOOTHPROJECTEDCROSSHAIR": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CROSSHAIR_MOVECROSSHAIRWHENBLOCKED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CATEGORY_ONLINE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ONLINE_CROSSPLAY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_NOTIFICATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_NOTIFICATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_CONFIRMATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_CONFIRMATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FONTSIZE_PC_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FONTSIZE_PC_SMALL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FONTSIZE_CONSOLE_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FONTSIZE_CONSOLE_SMALL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FONTSIZE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_EXPONENTIAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_LINEAR": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_RESPONSE_CURVE_SINUSOIDAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_RIGHT_INNER_DEADZONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_LOOKBOOST_HORIZONTAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_LOOKBOOST_VERTICAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_LOOKBOOST_TIME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_HORIZONTAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_VERTICAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_ZOOMLOOKBOOST_TIME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_LOOKACCELERATION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_FOV_SENSITIVITY_SCALING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FOV_SENSITIVITY_SCALING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_TITLE_GAMEPAD_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_AIMASSIST": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_LEFT_INNER_DEADZONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_MUSIC_INGAME": {
+          "Status": "approved"
+        },
+        "ID_OPTION_AUDIO_MUTED_IN_BACKGROUND": {
+          "Status": "approved"
+        },
+        "ID_OPTION_WINDOWS_FOCUS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_WINDOWS_FOCUS_FOREGROUND_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_DYNAMIC": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_OFF": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_STATIC": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_HIDDEN": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_KEYBOARD_PROXIMITY_VOICE_CHAT_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_KEYBOARD_PARTY_VOICE_CHAT_MODE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_EVERYONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_PROXIMITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_LOUD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_SUBTLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_EMOTE_WHEEL_SETTINGS_VOICE_AUTO": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_TAP_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_TAP_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_PRIORITIZE_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE_SQUAD_ONLY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_PING_WHEEL_SETTINGS_PINGVOICE_ALL_RAIDERS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_SCOPED_ZOOM_SENSITIVITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_FOV_SENSITIVITY_SCALING_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_FLASH_COLOR": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_FLASH_COLOR_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_VIBRATION_INTENSITY_DESCRIPTION_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_ADAPTIVE_TRIGGERS_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_CONTROLLER_ADAPTIVE_TRIGGERS_DESCRIPTION_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_LINK": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_UNLINK": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_LINK_TILE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_LINK_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_FAILED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_FAILED_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_SUCCESS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_SUCCESS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_FAILED_COOLDOWN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_LINK_SUCCESS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_DISCORD_NOTIFICATION_UNLINK_SUCCESS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GENERAL": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_TITLE_TONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_BRIGHT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_DARK": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_TONE_DEEP": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_TITLE_PITCH": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_PITCH_LOW": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_PITCH_HIGH": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_BRIGHTTONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_DARRKTONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_DEEPTONE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_LOWPITCH": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_SLIDER_OPTION_HIGHPITCH": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT3": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_NOONE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_EVERYONE_ALT3": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_TOGGLE_PROXIMITY_ALT4": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_BETA": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_HEARD_BY_OFF": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_Y_AXIS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_HORIZONTAL_LOOK_INPUT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_HORIZONTAL_LOOK_INPUT_DESCRIPTION_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_ACCESSIBILITY_INVERT_X_AXIS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_QUALITY": {
+          "Status": "approved"
+        },
+        "ID_OPTION_RAIDER_VOICE_QUALITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VOICECHAT_RADIO_EFFECT_ENABLED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SETTING_REQUIRES_RESTART_BUTTON_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_OPTION_MOUSE_SMOOTHING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_MOUSE_SMOOTHING_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_CROSSHAIRONLY": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUSMODE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_NOTIFICATIONS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL_DESCRIPTION": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_STATUS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_MY_NAME_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_CONCEAL_ALL_NAMES_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_MYNAME_TO_OTHERS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_CONCEAL_USERNAME": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUS_GROUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_GROUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_SHOW_ALL": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_SHOW_AS_OFFLINE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_FRIEND_INVITES_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_NOTIFICATION_PARTY_INVITES_FRIENDS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMERMODE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_ANONYMOUSMODE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMERMODE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_CROSSHAIRANDINTERACTIONS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_HUD_MODE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_LABEL_NO_ACTION_ASSIGNED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_LABEL_UNASSIGNED_BRACKETS": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_TAP_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_TAP_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_INTERACT_AND_RELOAD_BEHAVIOUR_DESCRIPTION_PRIORITIZE_RELOAD": {
+          "Status": "approved"
+        },
+        "ID_OPTION_VIDEO_FSR_FRAME_GENERATION_TOOLTIP": {
+          "Status": "approved"
+        },
+        "ID_OPTION_GAMEPAD_CANNOT_REBOUND_SONY_CERT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE": {
+          "Status": "approved",
+          "Note": "Title for the Server Description/Tooltip in the Options. The name of the setting itself is just \"Server\" so this should give a bit more context on what this setting does/is about"
+        },
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE_ALT2": {
+          "Status": "approved",
+          "Note": "As above, but alternative 2"
+        },
+        "ID_OPTION_SERVER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_TITLE": {
+          "Status": "approved",
+          "Note": "Max character limit: 32 chars Title for the confirmation modal. This modal only pops up if a player already has a destination selected and goes into the settings to change server. It is triggered upon clicking one of the arrow keys/pressing directional gamepad buttons on the Server option. We want the title to be a one-liner, so maximum characters are important."
+        },
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_DESCRIPTION": {
+          "Status": "approved",
+          "Note": "Description informing players that their currently selected destination will be deselected/reset when switching server."
+        },
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_CTA": {
+          "Status": "approved",
+          "Note": "Max character limit: 16 Same Confirming format as in other places (Select Destination Anyway, or Ready Up Anyway) as main CTA"
+        },
+        "ID_OPTION_SERVER_CHANGE_CONFIRM_CTA_SHORT": {
+          "Status": "approved",
+          "Note": "as above but shorter (max char. limit: 16)"
+        },
+        "ID_OPTION_SERVER_DESCRIPTION_TITLE_ALT1": {
+          "Status": "approved",
+          "Note": "As above, but alternative 1"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_ALT": {
+          "Note": "Alternative description for Crossplay to be more descriptive of what the setting does. CERT-sensitive",
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_ALT2": {
+          "Note": "Alternative description for Crossplay to be more descriptive of what the setting does. CERT-sensitive",
+          "Status": "approved"
+        },
+        "ID_OPTION_QUICK_CYCLE": {
+          "Note": "Setting to allow you to rebind quick swapping/cycling through your Quick Use Items",
+          "Status": "approved"
+        },
+        "ID_OPTION_QUICK_SWAP": {
+          "Note": "Setting to allow you to rebind quick swapping/cycling through your Quick Use Items",
+          "Status": "approved"
+        },
+        "ID_OPTION_QUICK_USE_CYCLE": {
+          "Note": "Setting to allow you to rebind quick swapping/cycling through your Quick Use Items",
+          "Status": "approved"
+        },
+        "ID_OPTION_QUICK_USE_CYCLE_DESCRIPTION": {
+          "Note": "Description for setting to allow you to rebind quick swapping/cycling through your Quick Use Items",
+          "Status": "approved"
+        },
+        "ID_OPTION_QUICK_USE_SWAP": {
+          "Note": "Setting to allow you to rebind quick swapping/cycling through your Quick Use Items",
+          "Status": "approved"
+        },
+        "ID_OPTION_SERVER_DESCRIPTION_LOCKED": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_STREAMING_MATCHMAKING_PRIVACY_DESCRIPTION_LOCKED": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_SYSTEM": {
+          "Status": "approved"
+        },
+        "ID_OPTION_CROSSPLAY_DESCRIPTION_LOCKED_SYSTEM_ALT": {
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH": {
+          "Note": "The input for activating Weapon Bash. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_HOLD": {
+          "Note": "The input for activating Weapon Bash, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_RUSH": {
+          "Note": "The input for activating Rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_RUSH_HOLD": {
+          "Note": "The input for activating Rush, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_BULL_RUSH": {
+          "Note": "The input for activating Bull Rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_BULL_RUSH_HOLD": {
+          "Note": "The input for activating Bull Rush, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_IN_PARANTHESES_WEAPON_EQUIPPED": {
+          "Note": "The input for activating Weapon Bash skill while a weapon is equipped. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_BULL_RUSH_IN_PARANTHESES_UNARMED": {
+          "Note": "The input for activating Bull Rush skill while unarmed. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_IN_WEAPON_EQUIPPED": {
+          "Note": "The input for activating Weapon Bash skill while a weapon is equipped. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_IN_WEAPON_EQUIPPED(HOLD)": {
+          "Note": "The input for activating Weapon Bash skill while a weapon is equipped, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_BULL_RUSH_IN_UNARMED": {
+          "Note": "The input for activating Bull Rush skill while unarmed, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_BULL_RUSH_IN_UNARMED(HOLD)": {
+          "Note": "The input for activating Bull Rush skill while unarmed. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_RUSH_IN_UNARMED": {
+          "Note": "The input for activating Rush skill while unarmed. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_RUSH_IN_UNARMED_HOLD": {
+          "Note": "The input for activating Rush skill while unarmed, using a hold action. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_AND_BULL_RUSH": {
+          "Note": "The input for activating either Weapon Bash or Bull Rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_WEAPON_BASH_AND_BULL_RUSH_HOLD": {
+          "Note": "The input for activating either Weapon Bash or Bull Rush using a hold input. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_ACTIVATE_SKILL": {
+          "Note": "The action of activating a \"Skill Action\", example bash or bull rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_ACTIVATE_SKILL_HOLD": {
+          "Note": "The action of activating a \"Skill Action\" by using a hold action, example bash or bull rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_ACTIVE_SKILL": {
+          "Note": "The action of activating a \"Skill Action\", example bash or bull rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_ACTIVE_SKILL_HOLD": {
+          "Note": "The action of activating a \"Skill Action\" by using a hold action, example bash or bull rush. max. char. limit: 48",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS": {
+          "Note": "Settings field that allows player to switch to a specific preset Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_ALT2": {
+          "Note": "Settings field that allows player to switch to a specific preset Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_OPTION_LEGACY": {
+          "Note": "Setting that puts sets current controllers inputs to the old controller inputs. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_OPTION_NEW_BINDINGS": {
+          "Note": "Setting that puts sets current controllers inputs to the new default inputs. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_SET_TO_LEGACY_BINDINGS": {
+          "Note": "Setting that puts sets current controllers inputs to the old controller inputs. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_SET_TO_DEFAULT": {
+          "Note": "Setting that puts sets current controllers inputs to the new default inputs. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_DESCRIPTION": {
+          "Note": "Decription of the settings Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OPTION_CONTROL_PRESETS_DESCRIPTION_ALT1": {
+          "Note": "Decription of the settings Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION": {
+          "Note": "Title of the settings that allow players to invert camera rotation in when in the selfie mode. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_DESCRIPTION": {
+          "Note": "Description of the settings that allow players to invert camera rotation in when in the selfie mode. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_ALT1": {
+          "Note": "Title of the settings that allow players to invert camera rotation in when in the selfie mode. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_CAMERA_ROTATION_DESCRIPTION_ALT1": {
+          "Note": "Description of the settings that allow players to invert camera rotation in when in the selfie mode. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE": {
+          "Note": "Alternative title of the settings that allow players to invert the player's strafe (left/right) movement while in Selfie Mode. Max. char. limit: 70",
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_DESCRIPTION": {
+          "Note": "Alternative description of the settings that allow players to invert the player's strafe (left/right) movement while in Selfie Mode. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_ALT1": {
+          "Note": "Alternative title of the settings that allow players to invert the player's strafe (left/right) movement while in Selfie Mode. Max. char. limit: 70",
+          "Status": "approved"
+        },
+        "ID_OPTION_INVERT_STRAFE_IN_SELFIE_MODE_DESCRIPTION_ALT1": {
+          "Note": "Alternative description of the settings that allow players to invert the player's strafe (left/right) movement while in Selfie Mode. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD": {
+          "Note": "Title of the settings that allow players to invert the player's Forwards and Back movement while in Selfie Mode. Max. char. limit: 70",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_DESCRIPTION": {
+          "Note": "Description of the settings that allow players to invert the player's Forwards and Back movement while in Selfie Mode. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_ALT1": {
+          "Note": "Title of the settings that allow players to invert the player's Forwards and Back movement while in Selfie Mode.Max. char. limit: 70",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_GRAIN": {
+          "Note": "Title of setting that allows the player to disable or enable the camera grain effect. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_GRAIN_DESCRIPTION": {
+          "Note": "Description of setting that allows the player to disable or enable the camera grain effect. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_BOB": {
+          "Note": "Alternative title of setting that allows the player to disable or enable the camera movement that simulates a the handheld motions. (Camera bobbling motion) Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_BOB_DESCRIPTION": {
+          "Note": "Alternative description of setting that allows the player to disable or enable the camera movement that simulates a the handheld motions. (Camera bobbling motion) Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_SWAY_BOUNCE": {
+          "Note": "Alternative title of setting that allows the player to disable or enable the camera movement that simulates a the handheld motions. (Camera bobbling motion) Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_SWAY_BOUNCE_DESCRIPTION": {
+          "Note": "Alternative description of setting that allows the player to disable or enable the camera movement that simulates a the handheld motions. (Camera bobbling motion) Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH": {
+          "Note": "Title of setting that shows the path of where the image is saved locally, this can be a C:/ path or a console path, example: \"c:/steam/saved/arcraiders/camera\" or \"PS5 game captures\" Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH_ALT1": {
+          "Note": "Title of setting that shows the path of where the image is saved locally, this can be a C:/ path or a console path, example: \"c:/steam/saved/arcraiders/camera\" or \"PS5 game captures\" Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_CAMERA_PICTURES_SAVED_PATH_ALT2": {
+          "Note": "Title of setting that shows the path of where the image is saved locally, this can be a C:/ path or a console path, example: \"c:/steam/saved/arcraiders/camera\" or \"PS5 game captures\" Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_OPTION_SELFIE_INVERT_FWD_BWD_DESCRIPTION_ALT1": {
+          "Note": "Description of the settings that allow players to invert the player's Forwards and Back movement while in Selfie Mode.Max. char. limit: 120",
+          "Status": "approved"
         }
       }
     }

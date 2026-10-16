@@ -19,7 +19,38 @@
         "ID_RAIDERVOICE_VOICE09": "9",
         "ID_RAIDERVOICE_VOICE10": "10"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_RAIDERVOICE_VOICE01": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE02": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE03": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE04": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE05": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE06": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE07": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE08": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE09": {
+          "Status": "approved"
+        },
+        "ID_RAIDERVOICE_VOICE10": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

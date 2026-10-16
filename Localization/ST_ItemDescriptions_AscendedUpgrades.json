@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_AscendedUpgrades",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_AscendedUpgrades",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_AscendedUpgrades",
+      "KeysToEntries": {
+        "ST_ITEMDESC_ACSENDEDUPGRADE_DRUMMAG": "Significantly increases magazine capacity by attaching a drum mag. However, it must still be reloaded a couple of bullets at time.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_MORERELOAD": "Increases the number of bullets loaded at a time, reducing reload time.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SCOPED": "Adds a scope to the weapon, allowing it to be fired from a scoped view.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SEMIAUTO": "Makes the weapon semi-automatic.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCENDIARYGRENADES": "Adds an incendiary compound to the projectile, causing it to spread fire when detonating on ARC.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_CHARGEDBURST": "Changes the firing mode to charge and release. The longer the charge is held, the more projectiles are fired upon release.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_FULLAUTO": "Makes the weapon fully automatic, at the cost of accuracy and stability.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_CARBINECONVERSION": "Repurposes the Canto as a carbine, greatly improving stability and accuracy at the cost of agility.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SPRINTSHOOTING": "Ergonomic fittings that allow the weapon to be comfortably fired while sprinting.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_RAMPINGDAMAGE": "Gradually increases the Equalizer's damage while its laser remains in contact with a valid target.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCREASEDBURST": "Increases the number of projectiles fired within a burst.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCENDIARYROUNDS": "Adds an incendiary compound to the projectile, setting targets on fire when hit.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_PROJECTILESPLITTER": "Replaces the Anvil's bullets with rounds that split into four weaker projectiles.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_STRAIGHTBOLT": "Ergonomic bolt that allows the user to perform the bolt-action while scoped.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_MAGRELOAD": "Removes the need to reload one projectile at a time.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_HIGHVELOCITY": "Increases the velocity of the projectile fired.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_BURSTFIRE": "Makes the weapon fire in a burst.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_TRACKERROUNDS": "Replaces the bullets with tracker rounds that briefly reveal the position of targets they hit.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_ANTIWEAKPOINT": "Deals increased damage to ARC weak points, but deals less damage to ARC armor plating.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SLUGROUNDS": "Replaces the normal shotgun shells with a single large projectile that deals massive damage.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_XROUNDS": "Adds an explosive compound to the projectile, dealing slightly increased damage to Raiders and significantly increased damage to ARC Armor plating.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_ANTISHIELD": "Redistributes damage to prioritize breaking shields faster.",
+        "ST_ITEMDESC_ACSENDEDUPGRADE_BIGGERMAG": "Increases the magazine capacity."
+      },
+      "KeysToMetaData": {
+        "ST_ITEMDESC_ACSENDEDUPGRADE_DRUMMAG": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_MORERELOAD": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SCOPED": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SEMIAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCENDIARYGRENADES": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_CHARGEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_FULLAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_CARBINECONVERSION": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SPRINTSHOOTING": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_RAMPINGDAMAGE": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCREASEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_INCENDIARYROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_PROJECTILESPLITTER": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_STRAIGHTBOLT": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_MAGRELOAD": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_HIGHVELOCITY": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_BURSTFIRE": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_TRACKERROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_ANTIWEAKPOINT": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_SLUGROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_XROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_ANTISHIELD": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_ACSENDEDUPGRADE_BIGGERMAG": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

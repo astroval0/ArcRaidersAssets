@@ -1,0 +1,136 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_Camera",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_Camera",
+    "StringTable": {
+      "TableNamespace": "ST_Camera",
+      "KeysToEntries": {
+        "ID_CAMERA_SETTING_AUTO": "Auto",
+        "ID_CAMERA_SETTING_APERTURE": "Aperture",
+        "ID_CAMERA_SETTING_ZOOM": "Zoom",
+        "ID_CAMERA_SETTING_FOCUS": "Focus",
+        "ID_CAMERA_SETTING_SELFIE_MODE": "Selfie Mode",
+        "ID_CAMERA_ACTION_CAPTURE": "Take Picture",
+        "ID_CAMERA_ACTION_UNEQUIP": "Unequip",
+        "ID_CAMERA_SETTING_MANUAL": "Manual",
+        "ID_CAMERA_TOGGLE_FLASH": "Toggle Flash",
+        "ID_CAMERA_SETTING_FILTER": "Filter",
+        "ID_CAMERA_ACTION_DELETE": "Delete",
+        "ID_CAMERA_ITEMDESC_CAMERA": "A simple little camera that gets the job done.",
+        "ID_CAMERA_ITEMNAME_CAMERA": "Basic Camera",
+        "ID_CAMERA_ACTION_VIEW": "View",
+        "ID_CAMERA_SETTING_FLASH": "Flash",
+        "ID_CAMERA_SELFIEANGLE_LEFT": "Left Offset",
+        "ID_CAMERA_SELFIEANGLE_CENTER": "Center",
+        "ID_CAMERA_SELFIEANGLE_RIGHT": "Right Offset",
+        "ID_CAMERA_ITEMNAME_ADVANCEDCAMERA": "Advanced Camera",
+        "ID_CAMERA_ITEMDESC_ADVANCEDCAMERA": "A more advanced camera with a few extra bells and whistles.",
+        "ID_CAMERA_NO_MORE_PICTURES_ALLOWED": "No more photos allowed",
+        "ID_CAMERA_ALBUM_FULL": "Album full",
+        "ID_CAMERA_CAMERA FULL": "Camera full",
+        "ID_CAMERA_NO_SPACE": "No more space",
+        "ID_CAMERA_NO_STORAGE_SPACE": "No more album space",
+        "ID_CAMERA_NO_STORAGE": "No storage",
+        "ID_CAMERA_NO_STORAGE_DESCRIPTION": "No more space. Please remove photos to store more images.",
+        "ID_CAMERA_NO_STORAGE_DESCRIPTION_ALT1": "No more space. Please free up space by removing photos."
+      },
+      "KeysToMetaData": {
+        "ID_CAMERA_SETTING_AUTO": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_APERTURE": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_ZOOM": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_FOCUS": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ACTION_CAPTURE": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_SELFIE_MODE": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ACTION_UNEQUIP": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_MANUAL": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_TOGGLE_FLASH": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_FILTER": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ACTION_DELETE": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ITEMNAME_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ACTION_VIEW": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SETTING_FLASH": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SELFIEANGLE_LEFT": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SELFIEANGLE_CENTER": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_SELFIEANGLE_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ITEMDESC_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_MORE_PICTURES_ALLOWED": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_ALBUM_FULL": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_CAMERA FULL": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_SPACE": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_STORAGE_SPACE": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_STORAGE": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 60",
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_STORAGE_DESCRIPTION": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_CAMERA_NO_STORAGE_DESCRIPTION_ALT1": {
+          "Note": "Title displayed in cameras context, showing that no more pictures can be taken. Max. char. limit: 120",
+          "Status": "approved"
+        },
+        "ID_CAMERA_ITEMNAME_ADVANCEDCAMERA": {
+          "Status": "approved"
+        },
+        "ID_CAMERA_ITEMDESC_ADVANCEDCAMERA": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

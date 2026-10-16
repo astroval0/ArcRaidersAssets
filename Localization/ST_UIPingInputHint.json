@@ -17,7 +17,32 @@
         "ID_UIPING_ARMORSLOT_POPULATED": "Request Shield Recharger",
         "ID_UIPING_ARMORSLOT_EMPTY": "Request Shield"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_UIPING_WEAPONSLOT_POPULATED": {
+          "Status": "approved"
+        },
+        "ID_UIPING_WEAPONSLOT_EMPTY": {
+          "Status": "approved"
+        },
+        "ID_UIPING_ITEM_TRACKED": {
+          "Status": "approved"
+        },
+        "ID_UIPING_ITEM_LOOTCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_UIPING_QUEST_OBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_UIPING_ITEM_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_UIPING_ARMORSLOT_POPULATED": {
+          "Status": "approved"
+        },
+        "ID_UIPING_ARMORSLOT_EMPTY": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

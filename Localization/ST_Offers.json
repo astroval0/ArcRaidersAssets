@@ -69,11 +69,290 @@
         "ID_OFFERS_QUICK_CRAFT_SOURCE_WORKSHOP": "Workshop",
         "ID_OFFERS_QUICK_CRAFT_SOURCE_TRADERS": "Traders",
         "ID_OFFERS_QUICK_CRAFT_SOURCE_INVENTORY": "Inventory",
-        "ID_OFFERS_ERROR_ALREADY_OWNED": "Already owned"
+        "ID_OFFERS_ERROR_ALREADY_OWNED": "Already owned",
+        "ID_OFFERS_ITEM_VALUE_CURRENT": "Eligible Item Value",
+        "ID_OFFERS_ITEM_VALUE_REQUIRED": "Required Item Value",
+        "ID_OFFERS_TRADE": "Trade",
+        "ID_OFFERS_ERROR_FULLY_UPGRADED": "Already fully upgraded",
+        "ID_OFFERS_SECTION_DAILY_OFFERS": "Daily Offers",
+        "ID_OFFERS_SECTION_WEEKLY_OFFERS": "Weekly Offers",
+        "ID_OFFERS_SECTION_SERVICES": "Services",
+        "ID_OFFERS_SECTION_SERVICES_ALT1": "Lessons",
+        "ID_OFFERS_ELIGIBLE_ITEMS": "Eligible Items",
+        "ID_OFFERS_AVAILABLE_ITEM_VALUE": "Available Item Value",
+        "ID_OFFERS_AVAILABLE_ITEMS": "Available Items",
+        "ID_OFFERS_REQUIRED_ITEMS": "Required Items",
+        "ID_OFFERS_SELECTED_ITEM_VALUE": "Selected Item Value",
+        "ID_OFFERS_SELECTED_ITEMS": "Selected Items",
+        "ID_OFFERS_POOL_TRANSACTION_ITEMSELECT_HINT": "Select items to reach the required value",
+        "ID_OFFERS_POOL_TRANSACTION_BUTTON_AUTOSELECT": "Auto Select",
+        "ID_OFFERS_BUTTON_EXPANDSTASH": "Expand Stash",
+        "ID_OFFERS_ERROR_STATION_UPGRADE_REQUIRED": "Requires {0} level {1}",
+        "ID_OFFERS_GOTO_WORKSHOP": "Go to Workshop",
+        "ID_OFFERS_GOTO_STATION": "Go to Station"
       },
       "KeysToMetaData": {
         "ID_OFFERS_ERROR_NOT_AFFORDED_CRED": {
-          "Note": "Informs the player that they don't have enough Cred to complete a purchase"
+          "Note": "Informs the player that they don't have enough Cred to complete a purchase",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SECTION_DAILY_OFFERS": {
+          "Note": "Title of the offers that happens within a 24h window; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SECTION_WEEKLY_OFFERS": {
+          "Note": "Title of the offers that happens within a 7 days window; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SECTION_SERVICES": {
+          "Note": "Title for stash expansion + expedition vault; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SECTION_SERVICES_ALT1": {
+          "Note": "Title for stash expansion + expedition vault - Alternative; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_ITEM_VALUE_CURRENT": {
+          "Note": "Items value owned by the player that can be used for trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_ELIGIBLE_ITEMS": {
+          "Note": "Items value owned by the player that can be used for trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_AVAILABLE_ITEM_VALUE": {
+          "Note": "Items value owned by the player that can be used for trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_AVAILABLE_ITEMS": {
+          "Note": "Items value owned by the player that can be used for trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_ITEM_VALUE_REQUIRED": {
+          "Note": "Requirement for doing a trade with trader; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_REQUIRED_ITEMS": {
+          "Note": "Requirement for doing a trade with trader; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SELECTED_ITEM_VALUE": {
+          "Note": "Items selected by the player to commit to a trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_SELECTED_ITEMS": {
+          "Note": "Items selected by the player to commit to a trade; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_OFFERS_POOL_TRANSACTION_ITEMSELECT_HINT": {
+          "Note": "Description of the action to be done to commit to a trade; max chars limit 45",
+          "Status": "approved"
+        },
+        "ID_OFFERS_POOL_TRANSACTION_BUTTON_AUTOSELECT": {
+          "Note": "Auto selection of items to reach requirement of the trade; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_BUTTON_EXPANDSTASH": {
+          "Note": "Action of expanding stash; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_OFFERS_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_REMAINING_TIME": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_NOT_AFFORDED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_LOCKED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_CRAFT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_REPAIR": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_RECYCLE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_INSTALL": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_UPGRADE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_CRAFT_TIMED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_REPAIR_TIMED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_UPGRADE_TIMED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_RECYCLE_TIMED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_INSTALL_TIMED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ITEM_AMOUNT_AND_NAME": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_FULLY_REPAIRED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_NOT_AVAILBLE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_UPGRADE_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_QUEUE_FULL": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_REQUIRED_RESOURCES": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_NOT_AFFORDED_COIN": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_PRICE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_MODS_ATTACHED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUEUE_AVAILABLE_SLOTS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUEUE_LOCKED_SLOTS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUEUE_AVAILABLE_SLOTS_TEXT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUEUE_LOCKED_SLOTS_TEXT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_REPAIR_INFO": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_CRAFTING_TIME": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_INSTANT_CRAFTING": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_IN_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_COMPLETE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_INVENTORY_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_CRAFTING_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_RECYCLABLES_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_UPGRADABLES_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_OUT_OF_STOCK": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_LIMITED_STOCK": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_INPUT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_OUTPUT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_CRAFT": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_UPGRADE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_LEVEL_UP": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_REPAIR": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CTA_BUTTON_ACQUIRE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_WARNING_NOT_ENOUGH_RESOURCES": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_WARNING_NOT_ENOUGH_RESOURCES_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_WARNING_STASH_FULL": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CAN_BE_FOUND_IN": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CAN_BE_FOUND_IN_ALT1": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_CAN_BE_FOUND_IN_ALT2": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE_REFINER": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE_RECYCLE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE_WORKSHOP": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE_TRADERS": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_QUICK_CRAFT_SOURCE_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_ALREADY_OWNED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_TRADE": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_FULLY_UPGRADED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_ERROR_STATION_UPGRADE_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_GOTO_WORKSHOP": {
+          "Status": "approved"
+        },
+        "ID_OFFERS_GOTO_STATION": {
+          "Status": "approved"
         }
       }
     }

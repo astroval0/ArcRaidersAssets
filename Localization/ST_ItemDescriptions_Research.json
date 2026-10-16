@@ -1,0 +1,29 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Research",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Research",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Research",
+      "KeysToEntries": {
+        "ID_ITEMDESCRIPTIONS_RESEARCH_INCENDIARY_COMPOUND": "Incendiary ammunication research, adding a burning damage-over-time effect to rounds fired.",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_MUZZLE_DYNAMICS": "Muzzle-device research to vent gas and tame recoil under sustained fire.",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_BURSTFIRE": "BurstFire Description",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_INCREASEDBURST": "IncreasedBurst Description",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_FULLAUTO": "",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_SPRINTSHOOTING": "SprintShooting Description",
+        "ID_ITEMDESCRIPTIONS_RESEARCH_FULLAUTO_DESCRIPTION": "FullAuto Description"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMDESCRIPTIONS_RESEARCH_INCENDIARY_COMPOUND": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RESEARCH_MUZZLE_DYNAMICS": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

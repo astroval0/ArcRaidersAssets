@@ -93,7 +93,260 @@
         "ID_LOCATION_MOUNTAINCOMPOUND_CARGODOCKB": "Cargo Dock B",
         "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_ADMIN": "Logistics Admin"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LOCATION_MOUNTAINCOMPOUND_STELLA_MONTIS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ATRIUM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CORRIDOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ARCHIVES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_STAIRCASE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_METRO_ENTRANCE_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_METRO_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_METRO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SANDBOX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CAFETERIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_FOOD_STORAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_VENTILATION_SHAFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_MEDICAL_RESEARCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_MEDICAL_WING_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_MEDICAL_RESEARCH_LAB": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_WESTERN_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_UTILITY_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_EASTERN_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_COLLAPSED_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_COMMUNICATIONS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CENTRAL_CORRIDOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_METRO_ENTRANCE_EAST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SEED_VAULT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_MEDICAL_WING_NORTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_MEDICAL_STORAGE_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_METRO_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ELEVATOR_SHAFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_TRENCH_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_BUSINESS_CENTER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_INTERIOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_ARRIVALS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_LOGISTICS_HALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CARGO_TRAIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_METRO_ENTRANCE_WEST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ARCHIVES_CARGO_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_EASTERN_TUNNEL_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ATRIUM_MAIN_HALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_WORKSHOPS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_WALKWAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_AREA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ATRIUM_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CULTURAL_ARCHIVES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CARGO_LIFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_METRO_PLATFORM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CONTROL_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SANDBOX_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_BUSINESS_CENTER_RECEPTION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_AIR_SHAFT_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SECURITY_CHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_AUDITORIUM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_VIEWING_DECK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SEED_VAULT_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_BUSINESS_LOUNGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_TRENCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_METRO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_ADMIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOCKER_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_STORAGE_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_STAFF_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ATRIUM_WALKWAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_FUNICULAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CULTURAL_ARCHIVES_STORAGE_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_COMMUNICATIONS_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_METRO_OVERPASS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SECURITY_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_STATION_ADMIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SEED_VAULT_MAIN_CORRIDOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_LINE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOBBY_METRO_ENTRANCE_WEST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SEED_VAULT_INTERIOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_ASSEMBLY_CARGO_BAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_FIRST_FLOOR_COMMS_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_KITCHEN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SANDBOXA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_SANDBOXB": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CARGODOCKA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_CARGODOCKB": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MOUNTAINCOMPOUND_LOADING_BAY_ADMIN": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

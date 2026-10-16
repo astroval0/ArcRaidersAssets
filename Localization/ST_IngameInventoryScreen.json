@@ -60,25 +60,158 @@
       },
       "KeysToMetaData": {
         "ID_INGAME_INVENTORY_CONTEXTUALMENU_SALVAGE_ITEM": {
-          "Note": "The text for the salvage option in the contextual menu"
+          "Note": "The text for the salvage option in the contextual menu",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_SALVAGE_BUTTON": {
-          "Note": "Copy for the main Salvage CTA in the popup"
+          "Note": "Copy for the main Salvage CTA in the popup",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_SALVAGE_NOTIF_TITLE": {
-          "Note": "Title of the salvage popup"
+          "Note": "Title of the salvage popup",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_SALVAGE_NOTIF_BODY": {
-          "Note": "Popup body text warning"
+          "Note": "Popup body text warning",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_CONSUME_RANDOM_WARNING": {
-          "Note": "Warning that certain recipes consume a random item of the same type (i.e. plant material) in your loadout"
+          "Note": "Warning that certain recipes consume a random item of the same type (i.e. plant material) in your loadout",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_PLANT_TYPE": {
-          "Note": "Special type of item that can be used interchangeably for some recipes"
+          "Note": "Special type of item that can be used interchangeably for some recipes",
+          "Status": "approved"
         },
         "ID_INGAME_INVENTORY_EMPTY_AUGMENT_SLOT": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_FIREARM": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_LAUNCHER": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_GADGET": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_BLUEPRINTS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PRIMARY_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_SECONDARY_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_MELEE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_QUICK_EQUIP_ITEMS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_SAFE_POCKETS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_SAFE_POCKET": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_WEAPONSLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_ARMORSLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_GEARSLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_ITEM_IN_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_ITEM_IN_CONTAINER": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_PING_WEAPON_IN_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_WEAPON_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_ARMOR_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_GADGET_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_QUICKEQUIP_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_CONTEXTUALMENU_DROP_ITEM": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_AUGMENT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EQUIPMENT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_DISABLED_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_HEAVY_ARMOR_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_MEDIUM_ARMOR_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_LIGHT_ARMOR_SLOT": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_NO_WEAPON_ARMOR_AUGMENTS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_SAFEPOCKET_NO_WEAPON_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_AUGMENT_SLOTS": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_HEALING": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_TRINKET": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_DEPLOYABLEUTILITY": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_EMPTY_AUXILIARY_SLOT_DEPLOYABLE": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_INFO_AUGMENT_LOCKED": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_INFO_AUXILIARY_LOCKED": {
+          "Status": "approved"
+        },
+        "ID_INGAME_INVENTORY_INFO_AUXILIARY_LOCKED_GENERIC": {
+          "Status": "approved"
         }
       }
     }

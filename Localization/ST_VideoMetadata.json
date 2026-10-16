@@ -15,7 +15,26 @@
         "ID_VIDEOMETADATA_QUESTCLOSING_PREFIX": "Quest closing:",
         "ID_VIDEOMETADATA_TITLE_THEWANDERER": "The Wanderer"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_VIDEOMETADATA_TITLE_WELCOMETOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_VIDEOMETADATA_TITLE_MEETINGSHANI": {
+          "Status": "approved"
+        },
+        "ID_VIDEOMETADATA_TITLE_EXPEDITIONDEPARTURE": {
+          "Status": "approved"
+        },
+        "ID_VIDEOMETADATA_QUESTOPENING_PREFIX": {
+          "Status": "approved"
+        },
+        "ID_VIDEOMETADATA_QUESTCLOSING_PREFIX": {
+          "Status": "approved"
+        },
+        "ID_VIDEOMETADATA_TITLE_THEWANDERER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

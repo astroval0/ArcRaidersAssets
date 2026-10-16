@@ -52,85 +52,154 @@
       },
       "KeysToMetaData": {
         "ID_ONBOARDING_BUTTON_RESTART": {
-          "Note": "\"In Onboarding level, restarts from beginning\""
+          "Note": "\"In Onboarding level, restarts from beginning\"",
+          "Status": "approved"
         },
         "ID_ONBOARDING_BUTTON_ADVANCEDSETTINGS": {
-          "Note": "Button for accessing more advanced settings"
+          "Note": "Button for accessing more advanced settings",
+          "Status": "approved"
         },
         "ID_ONBOARDING_BUTTON_CONTROLS": {
-          "Note": "Button for accessing more settings for controls"
+          "Note": "Button for accessing more settings for controls",
+          "Status": "approved"
         },
         "ID_ONBOARDING_BUTTON_CONTROLSETTINGS": {
-          "Note": "Button for accessing more settings for controls"
+          "Note": "Button for accessing more settings for controls",
+          "Status": "approved"
         },
         "ID_ONBOARDING_BUTTON_MORESETTINGS": {
-          "Note": "Button for accessing more settings"
+          "Note": "Button for accessing more settings",
+          "Status": "approved"
         },
         "ID_ONBOARDING_BUTTON_ALLSETTINGS": {
-          "Note": "Button for accessing all settings"
+          "Note": "Button for accessing all settings",
+          "Status": "approved"
         },
         "ID_ONBOARDING_TITLE_CREATE_EMBARKID": {
-          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info"
+          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info",
+          "Status": "approved"
         },
         "ID_ONBOARDING_TITLE_CREATE_EMBARKID_ALT2": {
-          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info"
+          "Note": "Title for the step in onboarding where you create your Embark ID, choose a name for your account. More info",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_DESCRIPTION": {
-          "Note": "Text in a modal giving players a choice to go to a real server, instead of the FTUE server"
+          "Note": "Text in a modal giving players a choice to go to a real server, instead of the FTUE server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TITLE": {
-          "Note": "Title in modal giving the player a choice to go to a real server, instead of the FTUE server"
+          "Note": "Title in modal giving the player a choice to go to a real server, instead of the FTUE server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_PROCEED": {
-          "Note": "Button in modal to go to real server"
+          "Note": "Button in modal to go to real server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_BUTTON_NOTYET": {
-          "Note": "Button in modal to go to FTUE server"
+          "Note": "Button in modal to go to FTUE server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING": {
-          "Note": "Disclaimer about not being able to go back to FTUE server"
+          "Note": "Disclaimer about not being able to go back to FTUE server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MODAL_LEAVE_FTUESERVER_TEXT_WARNING_ALT1": {
-          "Note": "Disclaimer about not being able to go back to FTUE server"
+          "Note": "Disclaimer about not being able to go back to FTUE server",
+          "Status": "approved"
         },
         "ID_ONBOARDING_INGAME_ANNOUNCEMENT_BEGINNER_SERVER": {
-          "Note": "Message when entering a FTUE server (announcement in-game)"
+          "Note": "Message when entering a FTUE server (announcement in-game)",
+          "Status": "approved"
         },
         "ID_ONBOARDING_INGAME_ANNOUNCEMENT_ONBOARDING_SERVER": {
-          "Note": "Alternative message when entering a FTUE server (announcement in-game)"
+          "Note": "Alternative message when entering a FTUE server (announcement in-game)",
+          "Status": "approved"
         },
         "ID_ONBOARDING_INGAME_ANNOUNCEMENT_NEW_PLAYER_SERVER": {
-          "Note": "Alternative message when entering a FTUE server (announcement in-game)"
+          "Note": "Alternative message when entering a FTUE server (announcement in-game)",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH": {
-          "Note": "\"Map condition\" name for FTUE servers"
+          "Note": "\"Map condition\" name for FTUE servers",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_FTUE_SERVER_STORM_AFTERMATH_ALT2": {
-          "Note": "\"Map condition\" alternative name for FTUE servers"
+          "Note": "\"Map condition\" alternative name for FTUE servers",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_BEGINNER_SERVER": {
-          "Note": "\"Map condition\" alternative name for FTUE servers"
+          "Note": "\"Map condition\" alternative name for FTUE servers",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_ONBOARDING_SERVER": {
-          "Note": "\"Map condition\" alternative name for FTUE servers"
+          "Note": "\"Map condition\" alternative name for FTUE servers",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_NEW_PLAYER_SERVER": {
-          "Note": "\"Map condition\" alternative name for FTUE servers"
+          "Note": "\"Map condition\" alternative name for FTUE servers",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_EFFECTS_TITLE": {
-          "Note": "\"Map condition\" list of explicit descriptions of effects"
+          "Note": "\"Map condition\" list of explicit descriptions of effects",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_EFFECTS_NEW_PLAYERS_ONLY": {
-          "Note": "Bullet point item of map condition effect"
+          "Note": "Bullet point item of map condition effect",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS": {
-          "Note": "Bullet point item of map condition effect"
+          "Note": "Bullet point item of map condition effect",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LIMITED_PLAYERS_ALT2": {
-          "Note": "Alternative bullet point item of map condition effect"
+          "Note": "Alternative bullet point item of map condition effect",
+          "Status": "approved"
         },
         "ID_ONBOARDING_MAP_CONDITION_EFFECTS_LOW_THREAT": {
-          "Note": "Bullet point item of map condition effect"
+          "Note": "Bullet point item of map condition effect",
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_COMPLETE_MORE_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKEDSKILLTREE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKEDBATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKEDWORKSHOP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKEDQUESTS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_UNLOCKEDAUGMENTATIONS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_LEVELUP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_LEVEL_VALUE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_TUTORIAL": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_INGAME_SCRIPTED_KNOCKOUT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_ROUNDS_EXTRACTED": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_NUMBER_OF_ROUNDS_EXTRACTED": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDING_MAP_CONDITION_DESCRIPTION": {
+          "Status": "approved"
         }
       }
     }

@@ -98,7 +98,7 @@
         "ID_MAPCONDITION_BULLETPOINT_HIGHERTHREATARC": "Higher-threat ARC",
         "ID_MAPCONDITION_BULLETPOINT_IMPAIREDVISIBILITY": "Impaired visibility",
         "ID_MAPCONDITION_EXTRACTOR": "Close Scrutiny",
-        "ID_MAPCONDITION_EXTRACTOR_DESC": "Groups of surveyors and vaporizers are scanning for valuable materials. Their discoveries could prove worthwhile, if you’re prepared for resistance.",
+        "ID_MAPCONDITION_EXTRACTOR_DESC": "Groups of Surveyors and Vaporizers are scanning for valuable materials. Their discoveries could prove worthwhile, if you’re prepared for resistance.",
         "ID_ARCOPERATION": "ARC Operation",
         "ID_MAPCONDITION_BULLETPOINT_INCREASEDARCLOOT": "Increased amount of ARC loot",
         "ID_MAPCONDITION_BULLETPOINT_DECREASEDOVERALLLOOT": "Decreased amount of overall loot value",
@@ -107,27 +107,509 @@
         "ID_MAPCONDITION_EXTRACTOR_DESC_ALT": "Surveyors and heavy backup are scanning for valuable materials. Their discoveries could prove worthwhile, if you’re prepared for resistance.",
         "ID_MAPCONDITION_BURIED_TREASURE": "Beachcombing",
         "ID_MAPCONDITION_BURIED_TREASURE_DESC": "Scouts have discovered a variety of trinkets and small finds buried in the sands around Riven Tides, along with a few less welcome things. Raiders are encouraged to use a Dockmaster’s Detector to uncover them.",
-        "ID_MAPCONDITION_BULLETPOINT_BURIEDTREASURES": "Buried  Valuables",
+        "ID_MAPCONDITION_BULLETPOINT_BURIEDTREASURES": "Buried Valuables",
         "ID_MAPCONDITION_BULLETPOINT_DETECTORS": "Lootable Detectors",
         "ID_MAPCONDITION_BURIED_TREASUREALT1": "Sandcombing",
         "ID_MAPCONDITION_BURIED_TREASUREALT2": "Sifting for Trinkets",
-        "ID_MAPCONDITION_BURIED_TREASURE_DESCALT1": "The sands of Riven Tides conceal lost trinkets, forgotten valuables, and a few unpleasant surprises. Raiders looking for either will need a Dockmaster’s Detector."
+        "ID_MAPCONDITION_BURIED_TREASURE_DESCALT1": "The sands of Riven Tides conceal lost trinkets, forgotten valuables, and a few unpleasant surprises. Raiders looking for either will need a Dockmaster’s Detector.",
+        "ID_MAPCONDITION_FRIGATE": "ARC Frigate",
+        "ID_MAPCONDITION_FRIGATE_DESC": "An ARC Frigate hovers over the area, obliterating any perceived resistance with reckless abandon.",
+        "ID_MAPCONDITION_MULTIPLE_BOSSES": "Show of Force",
+        "ID_MAPCONDITION_MULTIPLE_BOSSES_DESC": "Multiple large ARC machines have been spotted in the area, unleashing devastation from all directions.",
+        "ID_MAPCONDITION_MULTIPLE_BOSSES_DESC_ALT1": "Multiple large ARC machines have been spotted in the area, leaving Raiders nowhere to hide.",
+        "ID_MAPCONDITION_BULLETPOINT_MULTIPLEQUEENS": "Multiple Queens",
+        "ID_MAPCONDITION_BULLETPOINT_MULTIPLEMATRIARCHS": "Multiple Matriarchs",
+        "ID_MAPCONDITION_BULLETPOINT_QUEENSANDMATRIARCHS": "Both Queens and Matriarchs",
+        "ID_MAPCONDITION_NOT_RECOMMENDED_WITH_FREE_LOADOUT": "Not recommended with Free Loadout",
+        "ID_MAPCONDITION_NO_FREE_LOADOUT_AVAILABLE": "No Free Loadout available",
+        "ID_MAPCONDITION_INCOMPATIBLE_WITH_FREE_LOADOUT": "Incompatible with Free Loadout",
+        "ID_MAPCONDITION_FREE_LOADOUT_INCOMPATIBLE": "Free Loadout incompatible",
+        "ID_MAPCONDITION_NO_FREE_LOADOUT": "No Free Loadout",
+        "ID_MAPCONDITION_PARTY_MEMBERS_WITH_INCOMPATIBLE_LOADOUT": "Party members with incompatible loadout",
+        "ID_MAPCONDITION_PARTY_MEMBERS_WITH_INCOMPATIBLE_LOADOUT_ALT": "Party members with free loadout",
+        "ID_MAPCONDITION_PARTY_MEMBERS_REQUIRE_CUSTOM_LOADOUT": "Party members require Custom Loadout",
+        "ID_MAPCONDITION_PARTY_MEMBERS_REQUIRE_CUSTOM_LOADOUT_ALT": "Party members need Custom Loadout",
+        "ID_MAPCONDITION_CUSTOM_LOADOUT_ONLY": "Custom Loadout only",
+        "ID_MAPCONDITION_CUSTOM_LOADOUT_REQUIRED": "Custom Loadout required",
+        "ID_MAPCONDITION_REQUIRES_CUSTOM_LOADOUT": "Requires Custom Loadout",
+        "ID_MAPCONDITION_REDIRECTION": "Redirection",
+        "ID_MAPCONDITION_REDIRECTION_DESC": "Emperor Beacons are activating throughout the area. Raiders can loot and deploy these to redirect valuable payloads to their own position.",
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING": "Your current loadout is incompatible with this destination ({0} - {1}). You will have to Ready Up again with a different loadout.",
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING_FREE": "Free Loadout is incompatible with this destination ({0} - {1}). You will have to Ready Up again with a Custom Loadout.",
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING_CTA": "Select Anyway",
+        "ID_MAPCONDITION_BULLETPOINT_ARCPAYLOADS": "ARC Repair Shipments land regularly",
+        "ID_MAPCONDITION_BULLETPOINT_CALIBRATIONSOCKETS": "Emperor Beacon Sockets are revealed on wreckages",
+        "ID_MAPCONDITION_CLOSING_SOON": "Condition closing soon",
+        "ID_MAPCONDITION_CLOSING_SOON_SHORT": "Closing soon: {0}",
+        "ID_MAPCONDITION_FRIGATE_ALT1": "Frigate",
+        "ID_MAPCONDITION_BULLETPOINT_FRIGATE": "ARC Frigate appears",
+        "ID_MAPCONDITION_REDIRECTIONALT1": "Lost in Transit",
+        "ID_MAPCONDITION_REDIRECTIONALT2": "Special Delivery",
+        "ID_MAPCONDITION_REDIRECTION_DESCALT1": "Emperor Beacons are activating throughout the area. Raiders can use these to redirect valuable payloads to their own position.",
+        "ID_MAPCONDITION_BULLETPOINT_FALLINGDEBRIS": "Falling Debris",
+        "ID_MAPCONDITION_BULLETPOINT_NOFLASHFREEZE": "No Flash Freeze",
+        "ID_MAPCONDITION_BULLETPOINT_DEPLOYEMPERORBEACONS": "Deploy Emperor Beacons",
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORSIGNALSACTIVE": "Emperor Relays active",
+        "ID_MAPCONDITION_BULLETPOINT_INVESTIGATERECLAIMERS": "Investigate Reclaimers",
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORBEACONSACTIVE": "Emperor Beacons active",
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORBEACONSANDRELAYSACTIVE": "Emperor Relays and Beacons active"
       },
       "KeysToMetaData": {
         "ID_MAPCONDITION_TIMEOUT_MESSAGE": {
-          "Note": "Error message for when a map condition times out"
+          "Note": "Error message for when a map condition times out",
+          "Status": "approved"
         },
         "ID_MAPCONDITION_TIMEOUT_MESSAGE_ALT": {
-          "Note": "Error message for when a map condition times out, alternative."
+          "Note": "Error message for when a map condition times out, alternative.",
+          "Status": "approved"
         },
         "ID_MAPCONDITION_TIMEOUT_MESSAGE_BUTTON": {
-          "Note": "Button in error message for map conditions"
+          "Note": "Button in error message for map conditions",
+          "Status": "approved"
         },
         "ID_MAPCONDITION_TIMEOUT_MESSAGE_BUTTON_ALT": {
-          "Note": "Button in error message for map conditions"
+          "Note": "Button in error message for map conditions",
+          "Status": "approved"
         },
         "ID_MAPCONDITION_TIMEOUT_TITLE": {
-          "Note": "Title for map condition timing out "
+          "Note": "Title for map condition timing out ",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PROBE_HEIST": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PEPPERMINT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PROBE_HEIST_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PEPPERMINT_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CACHE_THEM_ALL": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CACHE_THEM_ALL_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOWER_DEFENCE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOWER_DEFENCE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HUSKUS_POCUS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HUSKUS_POCUS_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HARVEST_SEASON": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HARVEST_SEASON_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_NIGHTRAID": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_NIGHTRAID_DESC": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_MAPCONDITION_HIDDEN_BUNKER": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HIDDENBUNKER_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_LOCKED_GATE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_LOCKED_GATE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_ACID_RAIN": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_ACID_RAIN_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_ELECTROMAGNETIC_STORM": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_ELECTROMAGNETIC_STORM_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_SPEARMINT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_SPEARMINT_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_THE_QUEENS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_THE_QUEENS_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HEAT_WAVE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_HEAT_WAVE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_BURIEDMINES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_RETRIEVEDATA": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ACTIVATEROOFTOPANTENNAS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_DELIVERROCKS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ACTIVATEAIRPURIFIERS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_SECURITYCODES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_UNLOCKGATE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_LIGHTINGSTRIKES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_EXPLODINGCACHES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDPROBES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDNATURELOOT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_CONTAMINATEDWATER": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ELECTRIFIEDHUSKS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP_THERMALROCKS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP_THERMALROCKS_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP_CLEANAIR": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_TOXIC_SWAMP_CLEANAIR_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_NOHATCHES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_LESSOPENEXTRACTIONS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_HIGHERLOOTVALUE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_FEWERRAIDERS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_LOWERTHREATARC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_FROSTBITE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_FROSTBITE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDCRASHEDPROBES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDCRASHEDCOURIERS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_COLD": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BIRD_CITY": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BIRD_CITY_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDTRINKETS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDBIRDS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDZIPLINES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_REPAIRRETURNPOINTS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_REPAIRRETURNPOINTSALL": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ONERETURNPOINTUNLOCK": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ALLRETURNPOINTSUNLOCK": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONS_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONSALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONSALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONS_DESCALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REPAIREXTRACTIONS_DESCALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BIRD_CITY_DESCALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BIRD_CITY_DESCALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORM": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORM_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORM_DESCALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORMALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORMALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_WINDSTORMALT3": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_DEBRIS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_HIGHERTHREATARC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_IMPAIREDVISIBILITY": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_EXTRACTOR": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_EXTRACTOR_DESC": {
+          "Status": "approved"
+        },
+        "ID_ARCOPERATION": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INCREASEDARCLOOT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_DECREASEDOVERALLLOOT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_NOLOCKEDDOORS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_EXTRACTOR_FULL": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_EXTRACTOR_DESC_ALT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BURIED_TREASURE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BURIED_TREASURE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_BURIEDTREASURES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_DETECTORS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BURIED_TREASUREALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BURIED_TREASUREALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BURIED_TREASURE_DESCALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_FRIGATE": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_MAPCONDITION_FRIGATE_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_MULTIPLE_BOSSES": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_MULTIPLE_BOSSES_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_MULTIPLE_BOSSES_DESC_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_MULTIPLEQUEENS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_MULTIPLEMATRIARCHS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_QUEENSANDMATRIARCHS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_NO_FREE_LOADOUT_AVAILABLE": {
+          "Note": "Bullet Point description for Close Scrutiny Map condition, adding a fourth \"characteristic\" for this map condition to the list. Important to be recognized fast & at a glance (hence \"No Free Loadout available\" instead of \"Free Loadout unavailable\"), please adjust if not fitting",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_INCOMPATIBLE_WITH_FREE_LOADOUT": {
+          "Note": "Alternative phrasing for bullet point on map condition - in case we want to focus on the word \"incompatible\" rather than \"unavailable\"",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_FREE_LOADOUT_INCOMPATIBLE": {
+          "Note": "Alternative phrasing with \"incompatible\" for map condition description (bullet points) - might not be as desirable due to the adjective after the noun, therefore \"harder\"/\"slower\" to comprehend",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_NO_FREE_LOADOUT": {
+          "Note": "Map condition hint, in case we cannot fit the bullet point size-wise",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PARTY_MEMBERS_WITH_INCOMPATIBLE_LOADOUT": {
+          "Note": "If there's already a squad member ready'd up with an incompatible loadout (here: Free Loadout), the Party leader will see this little hint in the selected map's description. NOTE: POTENTIALLY CHANGE TO SQUADMATE IF THAT\"S THE OFFICIAL TERMINOLOGY",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PARTY_MEMBERS_WITH_INCOMPATIBLE_LOADOUT_ALT": {
+          "Note": "As above, specifically referring to Free Loadout rather than incompatible loadout generally",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PARTY_MEMBERS_REQUIRE_CUSTOM_LOADOUT": {
+          "Note": "As above, but specifying what's required rather than the incompatibility with Free Loadouts",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CUSTOM_LOADOUT_ONLY": {
+          "Note": "Describing the Map Condition with requirement rather than incompatibliity",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CUSTOM_LOADOUT_REQUIRED": {
+          "Note": "as above, alternative phrasing",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REQUIRES_CUSTOM_LOADOUT": {
+          "Note": "as above, alternative phrasing",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_NOT_RECOMMENDED_WITH_FREE_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_PARTY_MEMBERS_REQUIRE_CUSTOM_LOADOUT_ALT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING": {
+          "Note": "If the party leader readies up with a certain loadout (e.g. Free Loadout), Ready's Up, but then changes destination, we show a warning modal to the party leader that selecting this map (condition) is incompatible with their selected loadout, and as a consequence, we Un-Ready them and they will have to Ready Up again with a different loadout. ",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING_FREE": {
+          "Note": "As above, but specifically tailored to Free Loadout incompatibility, asking players to select a custom loadout.   NOTE: Pls correct any of the camel cases if not needed (\"Free Loadout\", \"Ready Up\" and \"Custom Loadout\")",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_LOADOUT_INCOMPATIBLE_WARNING_CTA": {
+          "Note": "Max chars limit: 16 CTA for the loadout incompatible warning modal when party lead selects a destination that is incompatible with their own, already selected loadout. The \"Anyway\" implies that the party leader understands and accepts the consequence of being Un-Ready'd up and has to reselect their loadout. ",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_CALIBRATIONSOCKETS": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REDIRECTION": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REDIRECTION_DESC": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_ARCPAYLOADS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CLOSING_SOON": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_CLOSING_SOON_SHORT": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_FRIGATE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_FRIGATE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REDIRECTIONALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REDIRECTIONALT2": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_REDIRECTION_DESCALT1": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_FALLINGDEBRIS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_NOFLASHFREEZE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_DEPLOYEMPERORBEACONS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORSIGNALSACTIVE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_INVESTIGATERECLAIMERS": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORBEACONSACTIVE": {
+          "Status": "approved"
+        },
+        "ID_MAPCONDITION_BULLETPOINT_EMPERORBEACONSANDRELAYSACTIVE": {
+          "Status": "approved"
         }
       }
     }

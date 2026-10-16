@@ -82,124 +82,257 @@
       },
       "KeysToMetaData": {
         "ID_CHARACTERSCREEN_APPEARANCE": {
-          "Note": "Everything that has to do with the actual body appearance of the raider"
+          "Note": "Everything that has to do with the actual body appearance of the raider",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_STYLE": {
-          "Note": "Everything that has to do with how you style the body, i.e. skins, backpacks, etc."
+          "Note": "Everything that has to do with how you style the body, i.e. skins, backpacks, etc.",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES": {
-          "Note": "Emotes that the raider will be able to customize on the emote wheel"
+          "Note": "Emotes that the raider will be able to customize on the emote wheel",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SCRAPPY": {
-          "Note": "Customizing Scrappy"
+          "Note": "Customizing Scrappy",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_APPEARANCE_FACE": {
-          "Note": "Appearance sub-category"
+          "Note": "Appearance sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_APPEARANCE_HAIR": {
-          "Note": "Appearance sub-category"
+          "Note": "Appearance sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_APPEARANCE_BODYTYPE": {
-          "Note": "Appearance sub-category"
+          "Note": "Appearance sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_STYLE_OUTFITS": {
-          "Note": "Style sub-category"
+          "Note": "Style sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_STYLE_BACKPACKS": {
-          "Note": "Style sub-category"
+          "Note": "Style sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_STYLE_ATTACHMENTS": {
-          "Note": "Style sub-category"
+          "Note": "Style sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_STYLE_RAIDERTOOL": {
-          "Note": "Style sub-category"
+          "Note": "Style sub-category",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_SUBNAV": {
-          "Note": "Sub-nav tab to navigate to Emotes"
+          "Note": "Sub-nav tab to navigate to Emotes",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_EMOTEWHEEL": {
-          "Note": "General noun for the emote wheel used in a few places"
+          "Note": "General noun for the emote wheel used in a few places",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL": {
-          "Note": "Button allowing the player to equip the emote"
+          "Note": "Button allowing the player to equip the emote",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_RESETWHEEL": {
-          "Note": "Button allowing the player to reset the wheel to default choices"
+          "Note": "Button allowing the player to reset the wheel to default choices",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_ADDWHEEL": {
-          "Note": "Allows the player to add a new wheel"
+          "Note": "Allows the player to add a new wheel",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_NOEDIT": {
-          "Note": "Informs the player that some wheel options are set and can't be changed"
+          "Note": "Informs the player that some wheel options are set and can't be changed",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE": {
-          "Note": "To signal that a cosmetic is locked by a condition"
+          "Note": "To signal that a cosmetic is locked by a condition",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_QUEST": {
-          "Note": "To signal that a cosmetic is locked by a quest"
+          "Note": "To signal that a cosmetic is locked by a quest",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_LEVEL": {
-          "Note": "To signal that a cosmetic is locked by a level"
+          "Note": "To signal that a cosmetic is locked by a level",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_DECKS": {
-          "Note": "To signal that a cosmetic is locked by a decks"
+          "Note": "To signal that a cosmetic is locked by a decks",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EVENT": {
-          "Note": "To signal that a cosmetic is locked by a event"
+          "Note": "To signal that a cosmetic is locked by a event",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_TRIALS": {
-          "Note": "To signal that a cosmetic is locked by a trials"
+          "Note": "To signal that a cosmetic is locked by a trials",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_BY_EXPEDITION": {
-          "Note": "To signal that a cosmetic is locked by a expedition"
+          "Note": "To signal that a cosmetic is locked by a expedition",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_COSMETIC_LOCKED_MESSAGE_ALT2": {
-          "Note": "To signal that a cosmetic will be unlocked by something"
+          "Note": "To signal that a cosmetic will be unlocked by something",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_FIXEDEMOTE": {
-          "Note": "Tells the player that this is a non-changeable, non-negotiable emote in the emote wheel (see here)"
+          "Note": "Tells the player that this is a non-changeable, non-negotiable emote in the emote wheel (see here)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_DECK": {
-          "Note": "Unlock condition: raider deck "
+          "Note": "Unlock condition: raider deck ",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_HARDCURRENCY": {
-          "Note": "Unlock condition: hard currency purchase"
+          "Note": "Unlock condition: hard currency purchase",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_MASTERY": {
-          "Note": "Unlock condition: mastery"
+          "Note": "Unlock condition: mastery",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_REWARD": {
-          "Note": "Unlock condition: Quest rewards (meaning you already have this quest available)"
+          "Note": "Unlock condition: Quest rewards (meaning you already have this quest available)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_QUEST_FUTURE_REWARD": {
-          "Note": "Unlock condition: future quest reward (not yet available to you)"
+          "Note": "Unlock condition: future quest reward (not yet available to you)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD": {
-          "Note": "Unlock condition: level up reward"
+          "Note": "Unlock condition: level up reward",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_REWARD_TITLE": {
-          "Note": "Exact level of the above unlock condition"
+          "Note": "Exact level of the above unlock condition",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_LIVEEVENT_REWARD": {
-          "Note": "Unlock condition: live event reward (Already available to you)"
+          "Note": "Unlock condition: live event reward (Already available to you)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_LEVELUP_FUTURE_REWARD": {
-          "Note": "Unlock condition: future live event reward (not yet available to you)"
+          "Note": "Unlock condition: future live event reward (not yet available to you)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_REWARD": {
-          "Note": "Unlock condition: Raider project reward (already available)"
+          "Note": "Unlock condition: Raider project reward (already available)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_SKINPROGRESSION_RAIDERPROJECT_FUTURE_REWARD": {
-          "Note": "Unlock condition: raider project reward (not yet available to you)"
+          "Note": "Unlock condition: raider project reward (not yet available to you)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_ALL_HEADGEAR_HIDDEN": {
-          "Note": "Shows how to show all currently equipped headgear (See here)"
+          "Note": "Shows how to show all currently equipped headgear (See here)",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_ALL_HEADGEAR_VISIBLE": {
-          "Note": "Show how to hide all currently equipped headgear"
+          "Note": "Show how to hide all currently equipped headgear",
+          "Status": "approved"
         },
         "ID_CHARACTERSCREEN_EMOTES_EQUIPTOWHEEL_UNCHANGEABLE": {
-          "Note": "Informs the player some emotes cannot be changed/overridden"
+          "Note": "Informs the player some emotes cannot be changed/overridden",
+          "Status": "approved"
+        },
+        "SLOT_LAUNCHER": {
+          "Status": "approved"
+        },
+        "SLOT_FIREARM": {
+          "Status": "approved"
+        },
+        "SLOT_MOBILITY": {
+          "Status": "approved"
+        },
+        "SLOT_SKINS": {
+          "Status": "approved"
+        },
+        "SLOT_SCHEMATICS": {
+          "Status": "approved"
+        },
+        "SLOT_RAIDER": {
+          "Status": "approved"
+        },
+        "BUTTON_SET_FEATURED": {
+          "Status": "approved"
+        },
+        "SLOT_TALENTS": {
+          "Status": "approved"
+        },
+        "SLOT_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_FACE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_OUTFIT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_HAIR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_PURCHASE_NOTIF_BUTTON_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_PURCHASE_NOTIF_BODY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_PURCHASE_NOTIF_BUTTON_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_PURCHASE_INSUFFICIENTFUNDS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_XP_RATIO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_CHANGE_APPEARANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_SEE_SKILL_TREE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_PURCHASEWARNING_REQUIRESBASE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_EQUIPWARNING_REQUIRESBASE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_TAB_STYLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_TAB_APPEARANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_LOCKED_SLOT_EXPLANATION_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_BACKPACKCHARMS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_FACESTYLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_BODYTYPE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_OUTFIT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_SKINPROGRESSION_HARDCURRENCY_PARTOFBUNDLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSCREEN_STYLE_FACIALHAIR": {
+          "Status": "approved"
         }
       }
     }

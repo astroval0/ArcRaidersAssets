@@ -29,7 +29,7 @@
         "ID_EMOTES_BOW_03": "Bow 4",
         "ID_EMOTES_CANTHEARYOU_00": "Can't Hear You",
         "ID_EMOTES_COMEON": "Come On",
-        "ID_EMOTES_COWBOY": "Cowboy",
+        "ID_EMOTES_COWBOY": "Now listen here you",
         "ID_EMOTES_CRYING_00": "Crying",
         "ID_EMOTES_DANCE_SYNCED": "Synced Dance",
         "ID_EMOTES_DEFLATED_00": "Annoyed",
@@ -57,7 +57,7 @@
         "ID_EMOTES_WATERBOTTLEEMPTY_00": "Water Bottle Empty",
         "ID_EMOTES_YES": "Yes",
         "ID_EMOTES_YOUCOMEATME_00": "You Come At Me",
-        "ID_EMOTES_RELOADARMS00": "Reload Arms",
+        "ID_EMOTES_RELOADARMS00": "Punching",
         "ID_EMOTES_BOWANDARROW00": "Bow and Arrow",
         "ID_EMOTES_CHEER00": "Cheer",
         "ID_EMOTES_SPITINHANDS_00": "Spit In Hands",
@@ -104,9 +104,357 @@
         "ID_EMOTES_FISTINAIR": "Fist in Air",
         "ID_EMOTES_SALUTEQUICK": "Salute Quick",
         "ID_EMOTES_FISTUP": "Fist Up",
-        "ID_EMOTES_SWAYANDSPIN": "Sway And Spin"
+        "ID_EMOTES_SWAYANDSPIN": "Sway And Spin",
+        "ID_EMOTES_SKULLPANTOMIME": "Skull Pantomime",
+        "ID_EMOTES_CHECKWIND": "Check Wind",
+        "ID_EMOTES_SHH": "Shh",
+        "ID_EMOTES_PANTOMIME": "Pantomime",
+        "ID_EMOTES_DANCEPUMPED": "Pumped Dance",
+        "ID_EMOTES_COMEATME": "Come At Me",
+        "ID_EMOTES_CAMERAHEART": "Heart",
+        "ID_EMOTES_CAMERAPEACE": "Peace",
+        "ID_EMOTES_CAMERAWAVE": "Wave",
+        "ID_EMOTES_GASSY": "Gassy",
+        "ID_EMOTES_SMELLY": "Smelly",
+        "ID_EMOTES_LOCOMOTIVE": "Choo-Choo",
+        "ID_EMOTES_MOCKSCARED": "Mock Scared",
+        "ID_EMOTES_SOSCARED": "So Scared"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_EMOTES_THANK_YOU": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_TEAM_UP": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SPRAYTAG": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_LAUGH": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HEEL_CLICK": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_GREET": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_GO_TEAM": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DON_T_SHOOT": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DANCE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_ANGRY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SORRY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FINGERGUNDUEL_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BACKPACKADJUST_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BACKPACKADJUST_01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BACKPACKADJUST_02": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOW_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOW_01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOW_02": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOW_03": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CANTHEARYOU_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_COMEON": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_COWBOY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CRYING_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DANCE_SYNCED": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DEFLATED_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FINGERGUNDUEL_01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FINGERGUNS": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FISTBUMP_SYNCED": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FISTSHAKES_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FLINGCOIN_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HEART": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HITCHEST_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HOWDY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HOWL_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_HUNTSMAN_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_ISEEYOU": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_ITWASNTME": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_KISS": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_NO": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PETSCRAPPY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SHOTINCHEST": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SHOVELDIRT_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SLITTHROAT_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SQUAT": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_STRETCHING_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_THANK": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_WATERBOTTLEEMPTY_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_YES": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_YOUCOMEATME_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_RELOADARMS00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOWANDARROW00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CHEER00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SPITINHANDS_00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_COMEHEREBOY00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_RIGHTHERE00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_TUGGLOVE00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_WARMUP00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_STRETCHING01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_THINKABOUTIT00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_STRETCHING02": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SWATBEE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BEEKEEPER": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOW04": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SCOUTAHEAD00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PUNCHHANDS": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PATONSHOULDER": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_POWERPOSE00": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SCOUTAHEAD01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DANCE01": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CHECKCOMPASS": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PLACEFLAG": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_JUSTSTOP": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PLANTSMALLFLAG": {
+          "Status": "new"
+        },
+        "ID_EMOTES_COMPASSCHECK": {
+          "Status": "new"
+        },
+        "ID_EMOTES_SMELLYARMPIT": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_NONSENSICALHANDSIGNALS": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BOO": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SALUTE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PLAYERWASHERESPRAY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_BELTDANCE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SLOWDANCE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DIVINGBELL": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CHICKENTAUNT": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CLAPPRAYER": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_RIVERDANCE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_TOODELOO": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FLIRTYGREETING": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SLOPPYSALUTE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_RIGHTON": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PEACE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_METAL": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FINGERGUNSWAVE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FINGERGUN": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FISTINAIR": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SALUTEQUICK": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_FISTUP": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SWAYANDSPIN": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SKULLPANTOMIME": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CHECKWIND": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SHH": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_COMEATME": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_DANCEPUMPED": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_PANTOMIME": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CAMERAHEART": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CAMERAPEACE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_CAMERAWAVE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_GASSY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SMELLY": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_LOCOMOTIVE": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_MOCKSCARED": {
+          "Status": "approved"
+        },
+        "ID_EMOTES_SOSCARED": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

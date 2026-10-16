@@ -13,7 +13,20 @@
         "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_TRITANOPIA": "Tritanopia",
         "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_PROTANOPIA": "Protanopia"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_DEUTRANOPIA": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_TRITANOPIA": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_ACCESSIBILITY_COLORBLIND_PROTANOPIA": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

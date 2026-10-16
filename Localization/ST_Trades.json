@@ -15,9 +15,124 @@
         "ID_TRADES_MESSAGE_EMPTY_STOCK": "None left",
         "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT2": "All gone",
         "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT3": "Supply depleted",
-        "ID_TRADES_TITLE_TIMER_INFO": "Restocks in:"
+        "ID_TRADES_TITLE_TIMER_INFO": "Restocks in:",
+        "ID_TRADES_JUANITO_SUBTITLE": "New Arrival",
+        "ID_TRADES_JUANITO_SUBTITLE_ALT1": "Trader Unlocked",
+        "ID_TRADES_JUANITO_ENVOY_NAME_PLURAL": "Nomadic Envoys",
+        "ID_TRADES_JUANITO_ENVOY_NAME_PLURAL_SINGULAR": "Nomadic Envoy",
+        "ID_TRADES_JUANITO_NAME": "Durim",
+        "ID_TRADES_JUANITO_NAME_ALT1": "Zamir",
+        "ID_TRADES_JUANITO_NAME_ALT2": "Artan",
+        "ID_TRADES_JUANITO_NAME_ALT3": "Ermal",
+        "ID_TRADES_JUANITO_NAME_ALT4": "Katri",
+        "ID_TRADES_JUANITO_NAME_ALT5": "Vasil",
+        "ID_TRADES_JUANITO_DESCRIPTION": "Though the fabric walls seem inconspicuous, this curiously-dressed delegation welcomes only those who bring valuable goods to barter with.",
+        "ID_TRADES_JUANITO_DAILYOFFER_PLURAL": "Daily Offers",
+        "ID_TRADES_JUANITO_DAILYOFFER_SINGULAR": "Daily Offer",
+        "ID_TRADES_JUANITO_OBSCURED_NAME": "Unknown",
+        "ID_TRADES_JUANITO_OBSCURED_DESCRIPTION": "A group of curiously-dressed arrivals has been observed on the Piazza, rigging a makeshift shelter from bolts of fabric and braided rope.",
+        "ID_TRADES_JUANITO_OBSCURED_UNLOCKLEVEL": "Unlocks at level {0}",
+        "ID_TRADES_JUANITO_LOCATION": "Rare Finds",
+        "ID_TRADES_JUANITO_LOCATION_ALT1": "Finds & Curiosities"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_TRADES_JUANITO_SUBTITLE": {
+          "Note": "Subtitle when introduccing the new trader in video",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_SUBTITLE_ALT1": {
+          "Note": "Subtitle when introduccing the new trader in video; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_ENVOY_NAME_PLURAL": {
+          "Note": "Name of the group in plural",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_ENVOY_NAME_PLURAL_SINGULAR": {
+          "Note": "Name of the group in singular",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME_ALT1": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME_ALT2": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME_ALT3": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME_ALT4": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_NAME_ALT5": {
+          "Note": "Name of the trader within a group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_DESCRIPTION": {
+          "Note": "Description of the nomadic group",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_DAILYOFFER_PLURAL": {
+          "Note": "Title of the offers that happens within a 24h window",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_DAILYOFFER_SINGULAR": {
+          "Note": "Title of the offers that happens within a 24h window",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_OBSCURED_NAME": {
+          "Note": "Name of trader when its not unlocked yet",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_OBSCURED_DESCRIPTION": {
+          "Note": "Description of the nomadic group when not unlocked yet",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_OBSCURED_UNLOCKLEVEL": {
+          "Note": "Requirement string to indicate when trader can be unlocked",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_LOCATION": {
+          "Note": "Location of where the trader are",
+          "Status": "approved"
+        },
+        "ID_TRADES_JUANITO_LOCATION_ALT1": {
+          "Note": "Location of where the trader are",
+          "Status": "approved"
+        },
+        "ID_TRADES_TITLE_LIMITED_OFFERS": {
+          "Status": "approved"
+        },
+        "ID_TRADES_TITLE_ALWAYS_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_TRADES_MESSAGE_LIMITED_STOCK": {
+          "Status": "approved"
+        },
+        "ID_TRADES_MESSAGE_AVAILABLE_STOCK": {
+          "Status": "approved"
+        },
+        "ID_TRADES_MESSAGE_EMPTY_STOCK": {
+          "Status": "approved"
+        },
+        "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT2": {
+          "Status": "approved"
+        },
+        "ID_TRADES_MESSAGE_EMPTY_STOCK_ALT3": {
+          "Status": "approved"
+        },
+        "ID_TRADES_TITLE_TIMER_INFO": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -53,20 +53,174 @@
         "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_STRONG": "Strong",
         "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYSTRONG": "Very Strong",
         "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYWEAK": "Very Weak",
-        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEOVERTIME": "Recharge"
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEOVERTIME": "Recharge",
+        "ID_ITEMSTATS_STATIC_ADDITIONALFALLHEIGHT": "Safe Fall Height",
+        "ID_ITEMSTATS_STATIC_ADDITIONALFALLHEIGHT_ALT1": "Additional Fall Height",
+        "ID_ITEMSTATS_STATIC_TRIGGERDELAY": "Trigger Delay",
+        "ID_ITEMSTATS_STATIC_TETHERDISTANCE": "Tether Distance",
+        "ID_ITEMSTATS_STATIC_TETHERDURATION": "Tether Duration",
+        "ID_ITEMSTATS_STATIC_TETHERSTRENGTH": "Tether Strength"
       },
       "KeysToMetaData": {
         "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY": {
-          "Note": "Header of stat style info"
+          "Note": "Header of stat style info",
+          "Status": "approved"
         },
         "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT": {
-          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet.",
+          "Status": "approved"
         },
         "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM": {
-          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet.",
+          "Status": "approved"
         },
         "ID_ITEMSTATS_STATIC_AUGMENT_SHIELD_COMPATIBILITY_LIGHT_MEDIUM_HEAVY": {
-          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet."
+          "Note": "Describes the types of shield compatible with the Augment selected. This info is now show as a stat in a tooltip, it needs to be short an sweet.",
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_FLATDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_DAMAGEOVERTIME": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_RADIUS": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_DURATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_HOMINGRANGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_DEPLOYABLEHEALTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_RANGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_FLATHEALING": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_HEALINGOVERTIME": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_FLATARMORREPAIR": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_GADGETCHARGES": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_MULTIDAMAGE_SCATTERMISSILEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_STUNDURATION_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_STUNDURATION_ARC": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_STAMINADAMAGEOVERTIME": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_STAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_HEALCAPACITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_INTERACTIONTIME": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATEHEALTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATEMITIGATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_PLATENUMBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_FLATSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGERATE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEDELAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_WEIGHT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_CRAFTINFO": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_QUICKUSE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_SAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TIMERDURATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ILLUMINATIONRADIUS": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TRIGGERRADIUS": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_AUGMENT_AUXILIARY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_CRITICALMULTIPLIER": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_WEAK": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_MODERATE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_STRONG": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYSTRONG": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARCARMOREFFICIENCY_VERYWEAK": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ARMOR_RECHARGEOVERTIME": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ADDITIONALFALLHEIGHT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_ADDITIONALFALLHEIGHT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TRIGGERDELAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TETHERDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TETHERDURATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_STATIC_TETHERSTRENGTH": {
+          "Status": "approved"
         }
       }
     }

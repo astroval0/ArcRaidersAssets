@@ -1,1 +1,6 @@
 *.blend1
+.local/
+scripts/sync_images.py
+scripts/image_folder_map.json
+scripts/image_folder_associations.md
+scripts/__pycache__/sync_images.cpython-314.pyc

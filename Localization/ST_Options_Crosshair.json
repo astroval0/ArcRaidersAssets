@@ -35,7 +35,86 @@
         "ID_OPTIONS_CROSSHAIR_HEADER_02": "Crosshair Settings",
         "ID_OPTIONS_CROSSHAIR_BLOCKEDPATH_HEADER": "Blocked Line of Fire"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_SMOOTH_DESC_02": {
+          "Status": "approved"
+        },
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_BLOCKED_DESC": {
+          "Status": "approved"
+        },
+        "ST_OPTIONS_CROSSHAIR_MOVE_CROSSHAIR_SMOOTH_DESC_01": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_CENTER_DOT": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_CENTER_DOT_RADIUS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_THICKNESS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_LENGTH": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_THICKNESS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OPACITY": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_RED": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_GREEN": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_BLUE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_RED": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_GREEN": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_CROSSHAIR_OUTLINE_BLUE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_CROSS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_CIRCLE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_TCROSS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_ROUNDEDDIAMOND": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_ANGLEDRADIALLINES": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_OVERRIDE_SHAPE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_SHAPE_TCIRCLECROSS": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_HEADER": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_HEADER_02": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_CROSSHAIR_BLOCKEDPATH_HEADER": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

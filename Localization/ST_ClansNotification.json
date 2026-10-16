@@ -48,7 +48,125 @@
         "ID_CLAN_LEAVE_TO_CREATE_AS_MEMBER_BODY": "You're currently in a clan. Creating your own clan will automatically remove you from your current clan.",
         "ID_CLAN_LEAVE_TO_JOIN_AS_MEMBER_BODY": "You're currently in a clan. Joining a new one will automatically remove you from your current clan."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_APPLICATION_APPROVED": {
+          "Status": "approved"
+        },
+        "ID_CLAN_APPLICATION_DENIED": {
+          "Status": "approved"
+        },
+        "ID_CLAN_APPLICATION_REQUEST_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_APPLICATION_REQUEST_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_LEAVE_REQUEST": {
+          "Status": "approved"
+        },
+        "ID_CLAN_LEAVE_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_LEAVE_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_APPLICATION_RESULT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_APPLICATION_REQUEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_ANSWER_RECEIVED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_ANSWER_RECEIVED_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_INVALID_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_SENT_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_SENT_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_RECEIVED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_RECEIVED_BODY": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_ANSWER_RECEIVED_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_PERMISSION_DENIED": {
+          "Status": "approved"
+        },
+        "ID_CLAN_INVITE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_KICK_PERMISSION_DENIED": {
+          "Status": "approved"
+        },
+        "ID_CLAN_KICK_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_KICK_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_KICK_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_ROLE_CHANGE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_ROLE_CHANGE_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_ROLE_CHANGE_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_ROLE_CHANGE_PERMISSION_DENIED": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_ROLE_CHANGE_ALREADY_HAS_THIS_ROLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBER_MY_ROLE_CHANGED": {
+          "Status": "approved"
+        },
+        "ID_CLANSNOTIFICATION_ADDED_MEMBER": {
+          "Status": "new"
+        },
+        "ID_CLANSNOTIFICATION_MEMBER_REMOVED": {
+          "Status": "new"
+        },
+        "ID_CLANSNOTIFICATION_ROLE_ASSIGNED": {
+          "Status": "new"
+        },
+        "ID_CLANSNOTIFICATION_CLAN_INVITE_SENT": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_AS_LEADER_TITLE": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_TO_CREATE_AS_LEADER_BODY": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_TO_JOIN_AS_LEADER_BODY": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_AS_MEMBER_TITLE": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_TO_CREATE_AS_MEMBER_BODY": {
+          "Status": "new"
+        },
+        "ID_CLAN_LEAVE_TO_JOIN_AS_MEMBER_BODY": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

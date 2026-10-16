@@ -29,9 +29,85 @@
         "ID_COMMON_ARROW_RIGHT": "→",
         "ID_COMMON_YES": "Yes",
         "ID_COMMON_NO": "No",
-        "ID_COMMON_DEPRECATED_DATA": "Deprecated Data"
+        "ID_COMMON_DEPRECATED_DATA": "Deprecated Data",
+        "ID_COMMON_LOG": "Log",
+        "ID_COMMON_READ_MORE": "Read more"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_COMMON_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_COMMON_WARNING": {
+          "Status": "approved"
+        },
+        "ID_COMMON_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_COMMON_DONE": {
+          "Status": "approved"
+        },
+        "ID_COMMON_UNKNOWN_SHORT": {
+          "Status": "new"
+        },
+        "ID_COMMON_QUESTIONMARK": {
+          "Status": "new"
+        },
+        "ID_COMMON_N_A": {
+          "Status": "approved"
+        },
+        "ID_COMMON_OK": {
+          "Status": "approved"
+        },
+        "ID_COMMON_NEWLINE": {
+          "Status": "new"
+        },
+        "ID_COMMON_COLON_TEMPLATE": {
+          "Status": "new"
+        },
+        "ID_COMMON_CONTINUE": {
+          "Status": "approved"
+        },
+        "ID_COMMON_CUSTOMER_SERVICE": {
+          "Status": "approved"
+        },
+        "ID_COMMON_APPLY": {
+          "Status": "approved"
+        },
+        "ID_COMMON_BACK": {
+          "Status": "approved"
+        },
+        "ID_COMMON_PATH_SEPARATOR": {
+          "Status": "new"
+        },
+        "ID_COMMON_PLUS_SIGN": {
+          "Status": "new"
+        },
+        "ID_COMMON_SKIP": {
+          "Status": "approved"
+        },
+        "ID_COMMON_SUPPORT": {
+          "Status": "approved"
+        },
+        "ID_COMMON_ARROW_RIGHT": {
+          "Status": "new"
+        },
+        "ID_COMMON_YES": {
+          "Status": "approved"
+        },
+        "ID_COMMON_NO": {
+          "Status": "approved"
+        },
+        "ID_COMMON_DEPRECATED_DATA": {
+          "Status": "approved"
+        },
+        "ID_COMMON_LOG": {
+          "Status": "new"
+        },
+        "ID_COMMON_READ_MORE": {
+          "Note": "Read More button.",
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

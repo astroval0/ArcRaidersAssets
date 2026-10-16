@@ -21,7 +21,44 @@
         "ID_COMMERCIAL_OR": "Or",
         "ID_COMMERCIAL_INVITE_A_FRIEND_DESCRIPTION": "ARC Raiders is more fun with friends. Go to the Embark portal to invite two friends."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_COMMERCIAL_INVITE_A_FRIEND": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_JOIN_DISCORD": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_JOIN_THE_ALPHA": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_JOIN_THE_BETA": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_TAKE_THE_SURVEY": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_WISHLIST_NOW": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_PATCH_NOTES": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_EXTERNAL_LINK": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_SCAN_WITH_MOBILE": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_OPEN_IN_BROWSER": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_OR": {
+          "Status": "approved"
+        },
+        "ID_COMMERCIAL_INVITE_A_FRIEND_DESCRIPTION": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

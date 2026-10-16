@@ -1,0 +1,76 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Firearms_Ascended",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Firearms_Ascended",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Firearms_Ascended",
+      "KeysToEntries": {
+        "ID_ITEMDESC_ASCENDED_SPECIAL_RAILGUN_01": "An amplified variant of the Jupiter.",
+        "ID_ITEMDESC_ASCENDED_SPECIAL_BEAMRIFLE_01": "An amplified variant of the Equalizer.",
+        "ID_ITEMDESC_ASCENDED_SMG_MEDIUM_01": "An amplified variant of the Canto.",
+        "ID_ITEMDESC_ASCENDED_PISTOL_01": "An amplified variant of the Burletta.",
+        "ID_ITEMDESC_ASCENDED_LAUNCHER_ANTIARC_SINGLESHOT_01": "An amplified variant of the Rascal.",
+        "ID_ITEMDESC_ASCENDED_LAUNCHER_ANTIARC_MEDIUM_01": "An amplified variant of the Hullcracker.",
+        "ID_ITEMDESC_ASCENDED_HANDCANNON_SINGLEACTION_01": "An amplified variant of the Anvil.",
+        "ID_ITEMDESC_ASCENDED_BATTLERIFLE_LEVERACTION_01": "An amplified variant of the Renegade.",
+        "ID_ITEMDESC_ASCENDED_BATTLERIFLE_ENERGYBURST_01": "An amplified variant of the Aphelion.",
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_PNEUMATIC_01": "An amplified variant of the Kettle.",
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_HEAVY_01": "An amplified variant of the Bettina.",
+        "ID_ITEMDESC_ASCENDED_SHOTGUN_PUMPACTION_01": "An amplified variant of the Il Toro.",
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_LOWTIER_01": "An amplified variant of the Rattler.",
+        "ID_ITEMDESC_ASCENDED_PISTOL_SILENCED_01": "An amplified variant of the Hairpin.",
+        "ID_ITEMDESC_ASCENDED_SNIPERRIFLE_BOLTACTION_MEDIUM_01": "An amplified variant of the Osprey."
+      },
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ASCENDED_SPECIAL_RAILGUN_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_SPECIAL_BEAMRIFLE_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_SMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_PISTOL_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_LAUNCHER_ANTIARC_SINGLESHOT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_LAUNCHER_ANTIARC_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_HANDCANNON_SINGLEACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_BATTLERIFLE_LEVERACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_BATTLERIFLE_ENERGYBURST_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_PNEUMATIC_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_HEAVY_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_SHOTGUN_PUMPACTION_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_ASSAULTRIFLE_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_PISTOL_SILENCED_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASCENDED_SNIPERRIFLE_BOLTACTION_MEDIUM_01": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

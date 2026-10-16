@@ -13,7 +13,20 @@
         "ID_CLANS_PLAYSTYLE_ANY": "Any",
         "ID_CLANS_PLAYSTYLE_PVE": "PvE"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLANS_PLAYSTYLE_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYSTYLE_PVP": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYSTYLE_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYSTYLE_PVE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

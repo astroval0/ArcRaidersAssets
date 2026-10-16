@@ -1,0 +1,219 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemSkins",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemSkins",
+    "StringTable": {
+      "TableNamespace": "ST_ItemSkins",
+      "KeysToEntries": {
+        "ID_ITEMSKINS_COMMON_BLUE": "Common Blue",
+        "ID_ITEMSKINS_COMMON_BLUE_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_MURAL_PATTERNS": "Mural Patterns",
+        "ID_ITEMSKINS_MURAL_PATTERNS_UNLOCK_REQUIREMENT": "Requires learning the Mural Patters Stencil",
+        "ID_ITEMSKINS_RECIPE_UNAVAILABLE": "Recipe Unavailable",
+        "ID_ITEMSKINS_RECIPE_AVAILABLE_BUT_NOT_LEARNED": "You have not yet learned this stencil",
+        "ID_ITEMSKINS_SKIN_COLLECTION_HEADER": "Stencils",
+        "ID_ITEMSKINS_COMMON_GREEN": "Common Green",
+        "ID_ITEMSKINS_FRACTURED_CASCADE": "Fractured Cascade",
+        "ID_ITEMSKINS_CELESTIAL": "Celestial",
+        "ID_ITEMSKINS_HUNTSMAN": "Huntsman",
+        "ID_ITEMSKINS_TORTOISE": "Tortoise",
+        "ID_ITEMSKINS_CORTO": "Corto",
+        "ID_ITEMSKINS_SHOCKWARDEN": "Shockwarden",
+        "ID_ITEMSKINS_CELESTIAL_UNLOCK_REQUIREMENT": "Requires learning the Celestial Stencil",
+        "ID_ITEMSKINS_COMMON_GREEN_UNLOCK_REQUIREMENT": "Requires learning the Common Green Stencil",
+        "ID_ITEMSKINS_CORTO_UNLOCK_REQUIREMENT": "Requires learning the Corto Stencil",
+        "ID_ITEMSKINS_TORTOISE_UNLOCK_REQUIREMENT": "Requires learning the Tortoise Stencil",
+        "ID_ITEMSKINS_HUNTSMAN_UNLOCK_REQUIREMENT": "Requires learning the Huntsman Stencil",
+        "ID_ITEMSKINS_FRACTURED_CASCADE_UNLOCK_REQUIREMENT": "Requires learning the Fractured Cascade Stencil",
+        "ID_ITEMSKINS_SHOCKWARDEN_UNLOCK_REQUIREMENT": "Requires learning the Shockwarden Stencil",
+        "ID_ITEMSKINS_STENCIL_ALREADY_APPLIED": "Stencil Already Applied",
+        "ID_ITEMSKINS_STENCIL_LEARNED_NOTIF_TITLE": "Stencil Learned",
+        "ID_ITEMSKINS_SKIN_APPLIED": "Stencil Applied",
+        "ID_ITEMSKINS_DISPLAY_TAG_BASE_APPEARANCE": "Base appearance",
+        "ID_ITEMSKINS_STENCIL_INSTANCE": "This weapon has the {0} stencil applied, but you do not yet own the stencil itself and cannot apply it to other weapons.",
+        "ID_ITEMSKINS_TABNAME": "Stencils",
+        "ID_ITEMSKINS_STENCILPARTS": "Stencil Parts",
+        "ID_ITEMSKINS_VIEW_ALL": "See all Stencils",
+        "ID_ITEMSKINS_CONFIRMATION": "Stencil applied",
+        "ID_ITEMSKINS_STENCIL_NOT_LEARNED": "You have not yet learned this Stencil",
+        "ID_ITEMSKINS_LEARN_AND_CONSUME": "Learn and consume",
+        "ID_ITEMSKINS_ACTIONMENU_SHORTCUT": "Stencils",
+        "ID_ITEMSKINS_DISPLAY_TAG": "Stencil",
+        "ID_ITEMSKINS_COMPATIBILITY": "Compatible with: {0}, {0}, and {0}",
+        "ID_ITEMSKINS_APPLY_STENCIL": "Apply",
+        "ID_ITEMSKINS_WEAPON_TOOLTIP_STENCILROW": "Stencil",
+        "ID_ITEMSKINS_STENCIL_PARTS_TOOLTIP_DESCRIPTION": "Used to apply Stencils to weapons.",
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_EYEBROW_LABEL": "Brand New Weapon Cosmetics",
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_TITLE": "Introducing Weapon Stencils",
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_BODY": "It's time to make your weapons look as good as they shoot. You can now discover and earn Weapon Stencils, customizable finishes that let you mark every gun in your loadout as yours.",
+        "ID_ITEMSKINS_BELLS": "Common Blue",
+        "ID_ITEMSKINS_BELLS_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_COMMONRED": "Common Blue",
+        "ID_ITEMSKINS_COMMONRED_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_COMMONYELLOW": "Common Blue",
+        "ID_ITEMSKINS_COMMONYELLOW_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_DUSTSTROKECAMO": "Common Blue",
+        "ID_ITEMSKINS_DUSTSTROKECAMO_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_MURALTREE": "Common Blue",
+        "ID_ITEMSKINS_MURALTREE_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_ORGANICISLAND": "Common Blue",
+        "ID_ITEMSKINS_ORGANICISLAND_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_OUTLANDER": "Common Blue",
+        "ID_ITEMSKINS_OUTLANDER_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_RENZO": "Common Blue",
+        "ID_ITEMSKINS_RENZO_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_YETI_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_YETI": "Common Blue",
+        "ID_ITEMSKINS_STATIONMASTER": "Common Blue",
+        "ID_ITEMSKINS_STATIONMASTER_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_BANSHEE_UNLOCK_REQUIREMENT": "Requires learning the Common Blue Stencil",
+        "ID_ITEMSKINS_BANSHEE": "Common Blue"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMSKINS_STENCIL_ALREADY_APPLIED": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_LEARNED_NOTIF_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_SKIN_APPLIED": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_TABNAME": {
+          "Note": "Name of the tab inside the inspect view",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCILPARTS": {
+          "Note": "Name of the new basic material that goes into applying a weapon stencil",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_VIEW_ALL": {
+          "Note": "Callout in the bottom left that opens an \"all stencils\" view",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_CONFIRMATION": {
+          "Note": "Confirmation snack bar",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_NOT_LEARNED": {
+          "Note": "Disclaimer text for the situation when you have found a stencil but you haven't yet \"learn and consumed\" it, like for blueprints",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_LEARN_AND_CONSUME": {
+          "Note": "Button CTA that allows the player to learn and consume the stencil",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_ACTIONMENU_SHORTCUT": {
+          "Note": "Shortcut in the tile right click action menu",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_DISPLAY_TAG": {
+          "Note": "Display tag text",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_COMPATIBILITY": {
+          "Note": "Stencil tooltip compatibility text; tag contains weapon names",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_APPLY_STENCIL": {
+          "Note": "Apply stencil CTA",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_WEAPON_TOOLTIP_STENCILROW": {
+          "Note": "Visible in the weapon tooltip to display the stencil to the player (notice the \"Stencil    Burgundy Moon\" line)",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_INSTANCE": {
+          "Note": "For cases when a raider loots a weapon with a stencil applied, but doesn't yet own that stencil for repeated use.Tag contains stencil name",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_DISPLAY_TAG_BASE_APPEARANCE": {
+          "Note": "Copy to show to the player when they're looking at their weapon it is original, non-stencilled, non-ascended look.",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_PARTS_TOOLTIP_DESCRIPTION": {
+          "Note": "Stencil tooltip description",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_EYEBROW_LABEL": {
+          "Note": "Onboarding popup",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_TITLE": {
+          "Note": "Onboarding popup",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_STENCIL_ONBOARDING_POPUP_BODY": {
+          "Note": "Onboarding popup  ",
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_COMMON_BLUE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_COMMON_BLUE_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_MURAL_PATTERNS": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_MURAL_PATTERNS_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_RECIPE_UNAVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_RECIPE_AVAILABLE_BUT_NOT_LEARNED": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_SKIN_COLLECTION_HEADER": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_COMMON_GREEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_FRACTURED_CASCADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_CELESTIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_HUNTSMAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_TORTOISE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_CORTO": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_SHOCKWARDEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_CELESTIAL_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_COMMON_GREEN_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_CORTO_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_TORTOISE_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_HUNTSMAN_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_FRACTURED_CASCADE_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSKINS_SHOCKWARDEN_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

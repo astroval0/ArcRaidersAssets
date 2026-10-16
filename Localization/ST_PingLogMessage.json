@@ -42,22 +42,103 @@
       },
       "KeysToMetaData": {
         "ID_PINGLOGMESSAGE_ITEM": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_PINGLOGMESSAGE_ITEM_INVENTORY": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_PINGLOGMESSAGE_DEFAULT": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_PINGLOGMESSAGE_LOCATION_SPECIFIC": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_PINGLOGMESSAGE_AVOID_TARGET": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_PINGLOGMESSAGE_DIBS": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_NEED_HEALING": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_WILL_HEAL": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_ATTACK_TARGET": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_NEED_AMMO": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_QUEST": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_EXTRACT": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_TRACKING_ITEM": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_NEED_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_REJECT": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_DIRECTION": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_ATTACK": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_WATCHING": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_WARNING": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_SOMEONES_BEEN_HERE": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_REGROUP": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_LOOTING": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_AUDIO_HEARD": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_AVOID": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_WAYPOINT": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_NEED_SHIELD": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_REMOVE": {
+          "Status": "approved"
+        },
+        "ID_PINGLOGMESSAGE_NEED_SHIELDREPAIR": {
+          "Status": "approved"
         }
       }
     }

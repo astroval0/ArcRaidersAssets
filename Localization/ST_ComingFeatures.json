@@ -19,7 +19,38 @@
         "ID_COMINGFEATURES_UNDER_CONSTRUCTION": "Under Construction",
         "ID_COMINGFEATURES_FEATURE": "Feature"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_COMING_FEATURES_CODEX_TITLE": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_CODEX_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_DEN_TITLE": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_DEN_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_STORE_TITLE": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_STORE_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_TRADING_TITLE": {
+          "Status": "new"
+        },
+        "ID_COMING_FEATURES_TRADING_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ID_COMINGFEATURES_UNDER_CONSTRUCTION": {
+          "Status": "new"
+        },
+        "ID_COMINGFEATURES_FEATURE": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

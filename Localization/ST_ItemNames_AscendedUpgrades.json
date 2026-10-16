@@ -1,0 +1,108 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_AscendedUpgrades",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_AscendedUpgrades",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_AscendedUpgrades",
+      "KeysToEntries": {
+        "ST_ITEMNAME_ACSENDEDUPGRADE_CHARGEDBURST": "Charged Burst",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_MAGRELOAD": "Mag Reload",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_RAMPINGDAMAGE": "Ramping Damage",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SCOPED": "Scoped",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_HIGHVELOCITY": "High Velocity",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_CARBINECONVERSION": "Carbine Conversion",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_DRUMMAG": "Drum Mag",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_BURSTFIRE": "Burst Fire",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SLUGROUNDS": "Slug Rounds",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_PROJECTILESPLITTER": "Anvil Splitter",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCENDIARYROUNDS": "Incendiary Rounds",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCENDIARYGRENADES": "Incendiary Grenades",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_MORERELOAD": "More Reload",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_ANTIWEAKPOINT": "Anti-Weak Point",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SPRINTSHOOTING": "Sprint Shooting",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCREASEDBURST": "Increased Burst",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_XROUNDS": "X-Rounds",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_FULLAUTO": "Full-Auto",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_BIGGERMAG": "Bigger Mag",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_STRAIGHTBOLT": "Ergonomic Bolt",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_ANTISHIELD": "Anti-Shield",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SEMIAUTO": "Semi-Auto",
+        "ST_ITEMNAME_ACSENDEDUPGRADE_TRACKERROUNDS": "Tracker Rounds"
+      },
+      "KeysToMetaData": {
+        "ST_ITEMNAME_ACSENDEDUPGRADE_CHARGEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_MAGRELOAD": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_RAMPINGDAMAGE": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SCOPED": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_HIGHVELOCITY": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_CARBINECONVERSION": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_DRUMMAG": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_BURSTFIRE": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SLUGROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_PROJECTILESPLITTER": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCENDIARYROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCENDIARYGRENADES": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_MORERELOAD": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_ANTIWEAKPOINT": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SPRINTSHOOTING": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_INCREASEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_XROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_FULLAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_BIGGERMAG": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_STRAIGHTBOLT": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_ANTISHIELD": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_SEMIAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_ACSENDEDUPGRADE_TRACKERROUNDS": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

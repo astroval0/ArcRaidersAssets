@@ -19,7 +19,38 @@
         "ID_CLAN_WALL_PARTY_UP_CREATED": "Party request created",
         "ID_CLAN_WALL_PARTY_UP_FAILED": "Failed to create party request"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_WALL_MESSAGE_JOIN": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_MESSAGE_LEAVE": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_MESSAGE_ROLE_CHANGED": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_REQUEST_PARTY_UP": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_MAP_SELECT_TITLE": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_MESSAGE_PARTY_UP": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_PARTY_UP_EXPIRED": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_PARTY_UP_ANY_MAP": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_PARTY_UP_CREATED": {
+          "Status": "new"
+        },
+        "ID_CLAN_WALL_PARTY_UP_FAILED": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

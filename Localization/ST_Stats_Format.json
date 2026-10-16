@@ -16,11 +16,52 @@
         "ID_STATS_FORMAT_DURATION_SECONDS": "{0}s",
         "ID_STATS_FORMAT_PERSECONDS": "{0}/s",
         "ID_STATS_FORMAT_RADIUS_METERS": "{0}m",
-        "ID_STATS_FORMAT_MULTIDAMAGE_SCATTERMISSILEGRENADE": "{0} x12"
+        "ID_STATS_FORMAT_MULTIDAMAGE_SCATTERMISSILEGRENADE": "{0} x12",
+        "ID_STATS_FORMAT_MULTIDAMAGE_TARRAGONPARTGRENADE": "{0} x8",
+        "ID_STATS_FORMAT_MULTIDAMAGE_7": "{0} x7",
+        "ID_STATS_FORMAT_MULTIDAMAGE_9": "{0} x9",
+        "ID_STATS_FORMAT_MULTIDAMAGE_15": "{0} x15"
       },
       "KeysToMetaData": {
         "ID_STATS_FORMAT_RPM": {
-          "Note": "Rouds Per Minute"
+          "Note": "Rouds Per Minute",
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_TIME": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_WEIGHT": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_PERCENTAGE": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_DURATION_SECONDS": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_PERSECONDS": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_RADIUS_METERS": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_MULTIDAMAGE_SCATTERMISSILEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_MULTIDAMAGE_TARRAGONPARTGRENADE": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_MULTIDAMAGE_7": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_MULTIDAMAGE_9": {
+          "Status": "approved"
+        },
+        "ID_STATS_FORMAT_MULTIDAMAGE_15": {
+          "Status": "approved"
         }
       }
     }

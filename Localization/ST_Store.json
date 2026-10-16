@@ -65,28 +65,174 @@
       },
       "KeysToMetaData": {
         "ID_STORE_COST": {
-          "Note": "Cost of the item you're about to purchase"
+          "Note": "Cost of the item you're about to purchase",
+          "Status": "approved"
         },
         "ID_STORE_AVAILABLE": {
-          "Note": "Amount of raider tokens you have available at the moment"
+          "Note": "Amount of raider tokens you have available at the moment",
+          "Status": "approved"
         },
         "ID_STORE_CELEBRATION_RAIDER_TOKENS": {
-          "Note": "Purchase confirmation of a certain amount of raider tokens"
+          "Note": "Purchase confirmation of a certain amount of raider tokens",
+          "Status": "approved"
         },
         "ID_STORE_ERROR_PURCHASE_FAIL": {
-          "Note": "Error catch all popup"
+          "Note": "Error catch all popup",
+          "Status": "approved"
         },
         "ID_STORE_HC_STORE_DELUXE_UPGRADE": {
-          "Note": "Title copy for the deluxe upgrade offer"
+          "Note": "Title copy for the deluxe upgrade offer",
+          "Status": "approved"
         },
         "ID_STORE_HC_STORE_BONUS_VALUE": {
-          "Note": "Informs the player how much more value a certain offer gives compared to the cheapest option"
+          "Note": "Informs the player how much more value a certain offer gives compared to the cheapest option",
+          "Status": "approved"
         },
         "ID_STORE_OWNED": {
-          "Note": "Informs the player that they already own a bundle"
+          "Note": "Informs the player that they already own a bundle",
+          "Status": "approved"
         },
         "ID_STORE_OFFER_LABEL_NEW": {
-          "Note": "Label explaining that an offer is a new offer"
+          "Note": "Label explaining that an offer is a new offer",
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_PREVIEW_BUNDLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUNDLE_PAGE_NAME": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_PURCHASE_SINGLE_ITEM": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_PURCHASE_BUNDLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_RARITY_EPIC": {
+          "Status": "approved"
+        },
+        "ID_STORE_RARITY_LEGENDARY": {
+          "Status": "approved"
+        },
+        "ID_STORE_EQUIP": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUNDLE_PURCHASED_CELEBRATION": {
+          "Status": "approved"
+        },
+        "ID_STORE_OVERLAY_HARD_CURRENCY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_NOT_ENOUGH_HARD_CURRENCY": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUNDLE_ITEMS_BREAKDOWN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_STORE_HARD_CURRENCY_PURCHASE_BONUS": {
+          "Status": "approved"
+        },
+        "ID_STORE_SECTION_EXPIRATION_TIMER": {
+          "Status": "approved"
+        },
+        "ID_STORE_RARITY_RARE": {
+          "Status": "approved"
+        },
+        "ID_STORE_PURCHASE_SUCCESSFUL": {
+          "Status": "approved"
+        },
+        "ID_STORE_PURCHASE_ERROR": {
+          "Status": "approved"
+        },
+        "ST_STORE_VIEW_CURRENCY": {
+          "Status": "approved"
+        },
+        "ID_STORE_UPSELL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_UPSELL_BUTTON_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_STORE_UPSELL_ITEMS_BREAKDOWN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_CONFIRM_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUTTON_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_STORE_UPSELL_BUTTON_PREVIEW": {
+          "Status": "approved"
+        },
+        "ID_STORE_USA_LEGAL_PURCHASE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_STORE_LEGAL_TERMS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_STORE_JAPAN_EXPIRATION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_STORE_JAPAN_EXPIRATION_UNUSED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_JAPAN_EXPIRATION_DATE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_JAPAN_EXPIRATION_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_STORE_PURCHASED": {
+          "Status": "approved"
+        },
+        "ID_STORE_ITEM_ALREADY_OWNED": {
+          "Status": "approved"
+        },
+        "ID_STORE_REFRESH_LABEL": {
+          "Status": "approved"
+        },
+        "ID_STORE_REFRESH_SOON_LABEL": {
+          "Status": "approved"
+        },
+        "ID_STORE_PURCHASE_CLARIFICATION": {
+          "Status": "approved"
+        },
+        "ID_STORE_RAIDER_TOKENS_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_STORE_HC_STORE_JAPANESE_COPY": {
+          "Status": "approved"
+        },
+        "ID_STORE_FEATURE_SECTION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_RAIDER_TOKENS_STORE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_STORE_HC_STORE_OVERLAY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_STORE_PURCHASE_FREE": {
+          "Status": "approved"
+        },
+        "ID_STORE_JAPAN_LEGAL_TRANSACTIONS_LAW": {
+          "Status": "approved"
+        },
+        "ID_STORE_DISCOUNT_LABEL_WITH_AMOUNT": {
+          "Status": "approved"
+        },
+        "ID_STORE_DISCOUNT_LABEL_WITH_AMOUNT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_STORE_DISCOUNT_LABEL_TEXTONLY": {
+          "Status": "approved"
+        },
+        "ID_STORE_BUNDLE_PREVIEW_PRICE_DISCLAIMER": {
+          "Status": "approved"
         }
       }
     }

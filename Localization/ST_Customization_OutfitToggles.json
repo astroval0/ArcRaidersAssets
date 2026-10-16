@@ -73,7 +73,7 @@
         "ID_OUTFITTOGGLE_LILY": "Lily",
         "ID_OUTFITTOGGLE_FLOWER": "Flower",
         "ID_OUTFITTOGGLE_ATTACHMENT": "Attachment",
-        "ID_OUTFITTOGGLE_GAUNTLET": "Gauntlet",
+        "ID_OUTFITTOGGLE_GAUNTLET": "Guantlet",
         "ID_OUTFITTOGGLE_SASH": "Sash",
         "ID_OUTFITTOGGLE_HOOD": "Hood",
         "ID_OUTFITTOGGLE_NOPADS": "No Pads",
@@ -98,9 +98,611 @@
         "ID_OUTFITTOGGLE_ROPE": "Rope",
         "ID_OUTFITTOGGLE_CAMERABELT": "Camera Belt",
         "ID_OUTFITTOGGLE_UNDERHELMET": "Underhelmet",
-        "ID_OUTFITTOGGLE_BANDOLIER": "Bandolier"
+        "ID_OUTFITTOGGLE_BANDOLIER": "Bandolier",
+        "ID_OUTFITTOGGLE_COLLAR": "Collar",
+        "ID_OUTFITTOGGLE_TECHARM": "Arm Tech",
+        "ID_OUTFITTOGGLE_PIPEWRENCH": "Pipewrench",
+        "ID_OUTFITTOGGLE_BELTMASKS": "Belt Masks",
+        "ID_OUTFITTOGGLE_HOODIE": "Hoodie",
+        "ID_OUTFITTOGGLE_HIPTANK": "Hip Tank",
+        "ID_OUTFITTOGGLE_MANTLE": "Mantle",
+        "ID_OUTFITTOGGLE_SPEAKERBAG": "Speaker Bag",
+        "ID_OUTFITTOGGLE_LEATHERBAG": "Leather Bag",
+        "ID_OUTFITTOGGLE_VESTOPEN": "Vest Open",
+        "ID_OUTFITTOGGLE_TECHCHEST": "Chest Tech",
+        "ID_OUTFITTOGGLE_TECHLEG": "Leg Tech",
+        "ID_OUTFITTOGGLE_TOOLBAG": "Tool Bag",
+        "ID_OUTFITTOGGLE_REINFORCEDPANTS": "Reinforced Pants",
+        "ID_OUTFITTOGGLE_NOBRIM": "No Helmet Brim",
+        "ID_OUTFITTOGGLE_NOANTENNA": "No Antenna",
+        "ID_OUTFITTOGGLE_SHIELD": "Shield",
+        "ID_OUTFITTOGGLE_HIPARMOR": "Hip Armor",
+        "ID_OUTFITTOGGLE_ARMPADDING": "Arm Padding",
+        "ID_OUTFITTOGGLE_UPPERONLY": "Upper Only",
+        "ID_OUTFITTOGGLE_LOWERONLY": "Lower Only",
+        "ID_OUTFITTOGGLE_PAULDRON": "Pauldron",
+        "ID_OUTFITTOGGLE_EPAULETTE": "Epaulette",
+        "ID_OUTFITTOGGLE_EXOARM": "Exo Arm",
+        "ID_OUTFITTOGGLE_GADGETS": "Gadgets",
+        "ID_OUTFITTOGGLE_CHINGUARD": "Chin Guard",
+        "ID_OUTFITTOGGLE_SLEEVESOFF": "No Sleeves",
+        "ID_OUTFITTOGGLE_OPENPANEL": "Open Panel",
+        "ID_OUTFITTOGGLE_BELLS": "Bells",
+        "ID_OUTFITTOGGLE_NOFACECOVER": "No Face Cover",
+        "ID_OUTFITTOGGLE_NOVISOR": "No Visor",
+        "ID_OUTFITTOGGLE_TECHBOX": "Tech Box",
+        "ID_OUTFITTOGGLE_NOBEADS": "No Beads",
+        "ID_OUTFITTOGGLE_HOODDOWN": "Hood Down",
+        "ID_OUTFITTOGGLE_HOODDOWNNOSLEEVES": "Hood Down No Sleeves",
+        "ID_OUTFITTOGGLE_NOFACETICK": "No Face Tick",
+        "ID_OUTFITTOGGLE_NOHEADTICK": "No Head Tick",
+        "ID_OUTFITTOGGLE_NOTICKS": "No Ticks",
+        "ID_OUTFITTOGGLE_HELMETONLY": "Helmet Only",
+        "ID_OUTFITTOGGLE_NOHEADSET": "No Headset",
+        "ID_OUTFITTOGGLE_NORIM": "No Rim",
+        "ID_OUTFITTOGGLE_GAUNTLETOFF": "Gauntlet Off",
+        "ID_OUTFITTOGGLE_BRACERS": "Bracers",
+        "ID_OUTFITTOGGLE_BACLAVA": "Balaclava",
+        "ID_OUTFITTOGGLE_SKIRT": "Skirt",
+        "ID_OUTFITTOGGLE_COMPRESSOROFF": "Compressor Off",
+        "ID_OUTFITTOGGLE_NOURNS": "No Urns",
+        "ID_OUTFITTOGGLE_ARMGEAR": "Arm Gear",
+        "ID_OUTFITTOGGLE_CLIMBINGGEAR": "Climbing Gear",
+        "ID_OUTFITTOGGLE_HEATER": "Heater",
+        "ID_OUTFITTOGGLE_LIDOFF": "Lid Off",
+        "ID_OUTFITTOGGLE_UPPERARMOR": "Upper Armor",
+        "ID_OUTFITTOGGLE_VISOROFF": "Visor Off",
+        "ID_OUTFITTOGGLE_LOWERARMOR": "Lower Armor",
+        "ID_OUTFITTOGGLE_TECHDEVICES": "Tech Devices",
+        "ID_OUTFITTOGGLE_SHOULDERPAD": "Shoulder Pad",
+        "ID_OUTFITTOGGLE_RADIO": "Radio",
+        "ID_OUTFITTOGGLE_MASKONLY": "Mask Only",
+        "ID_OUTFITTOGGLE_TECHOFF": "Tech Off",
+        "ID_OUTFITTOGGLE_DISKS": "Disks",
+        "ID_OUTFITTOGGLE_LEGPROTECTION": "Leg Protection",
+        "ID_OUTFITTOGGLE_STRAP": "Strap",
+        "ID_OUTFITTOGGLE_CHAIN": "Chain",
+        "ID_OUTFITTOGGLE_WOODENMASK": "Wooden Mask",
+        "ID_OUTFITTOGGLE_LEATHERMASK": "Leather Mask",
+        "ID_OUTFITTOGGLES_BOTTOMFUR": "Bottom Fur",
+        "ID_OUTFITTOGGLE_SOCKETOFF": "Socket Off",
+        "ID_OUTFITTOGGLE_HOOKOFF": "Hook Off",
+        "ID_OUTFITTOGGLE_TUCKED": "Tucked",
+        "ID_OUTFITTOGGLE_PROSTHETIC": "Prosthetic",
+        "ID_OUTFITTOGGLE_COAT": "Coat",
+        "ID_OUTFITTOGGLE_FRINGES": "Fringes",
+        "ID_OUTFITTOGGLE_BOTH": "Both",
+        "ID_OUTFITTOGGLE_CHAPS": "Chaps",
+        "ID_OUTFITTOGGLE_ONHEAD": "On Head",
+        "ID_OUTFITTOGGLE_NECKLACE": "Necklace",
+        "ID_OUTFITTOGGLE_NOEARCOVER": "No Ear Cover",
+        "ID_OUTFITTOGGLE_BAYONET": "Bayonet",
+        "ID_OUTFITTOGGLE_LEGARMOR": "Leg Armor",
+        "ID_OUTFITTOGGLE_SHOECOVERS": "Shoe Covers",
+        "ID_OUTFITTOGGLE_BOOTCOVERS": "Boot Covers",
+        "ID_OUTFITTOGGLE_FURBOTTOM": "Fur Bottom"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_OUTFITTOGGLE_OFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VISOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LIFEVEST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HELMET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FLIPPERS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CANISTER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_COLOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BASIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VISORUP": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HARNESS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_INFLATABLES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HEADSET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GASMASK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_OPEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GAUGEBOX": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_RADIATOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GOGGLES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HAT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GLOVES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FIELDCONSOLE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_JACKET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_AIRBOX": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VEST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PADDING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_WAISTBAG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MEASUREMENTDEVICE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SCARF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SLEEVES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MASK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GLASSES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SWORD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_STRINGTIES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_BANDANA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_BLANKET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_CHESTPIECE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_BAG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_HORNS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_SHOULDERPAD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_CASSETTEPLAYER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FRINGBELT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CANISTERS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CROSSBODYBELT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_KNEEPADS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GRENADES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_OUTERHELMET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TUBE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_AMMOPOUCH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_KNIFE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_REBREATHER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BINOCULARS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_FIELDPHONE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_FUR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_LEGPOUCH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_CHESTPOUCH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BALACLAVA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FACECOVERING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VISORDOWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PANTS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SHORTS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LILY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FLOWER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ATTACHMENT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GAUNTLET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SASH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HOOD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOPADS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ALLPADS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BELTONLY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOCABLE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MASKDOWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PADS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOCROWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SUNCROWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOGLASS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TEDDYBEAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BANDANA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOOUTER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CAPE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GUNHOLSTER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MOUTHPIECEOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_RADIOBOX": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_DUNGAREES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ROPE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CAMERABELT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_UNDERHELMET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BANDOLIER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_COLLAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHARM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PIPEWRENCH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BELTMASKS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HOODIE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HIPTANK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MANTLE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SPEAKERBAG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LEATHERBAG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VESTOPEN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHCHEST": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHLEG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TOOLBAG": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_REINFORCEDPANTS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOBRIM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOANTENNA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SHIELD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HIPARMOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ARMPADDING": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_UPPERONLY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LOWERONLY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PAULDRON": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_EPAULETTE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_EXOARM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GADGETS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CHINGUARD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SLEEVESOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_OPENPANEL": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BELLS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOFACECOVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOVISOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHBOX": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOBEADS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HOODDOWN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HOODDOWNNOSLEEVES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOFACETICK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOHEADTICK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOTICKS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HELMETONLY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOHEADSET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NORIM": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_GAUNTLETOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BRACERS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BOOTCOVERS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SHOECOVERS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LEGARMOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BAYONET": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOEARCOVER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NECKLACE": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ONHEAD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CHAPS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BOTH": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FRINGES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_COAT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_PROSTHETIC": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TUCKED": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HOOKOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SOCKETOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLES_BOTTOMFUR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LEATHERMASK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_WOODENMASK": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CHAIN": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_STRAP": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LEGPROTECTION": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_DISKS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_MASKONLY": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_RADIO": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SHOULDERPAD": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_TECHDEVICES": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LOWERARMOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_VISOROFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_UPPERARMOR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_LIDOFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_HEATER": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_CLIMBINGGEAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_ARMGEAR": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_NOURNS": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_COMPRESSOROFF": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_SKIRT": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_BACLAVA": {
+          "Status": "approved"
+        },
+        "ID_OUTFITTOGGLE_FURBOTTOM": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

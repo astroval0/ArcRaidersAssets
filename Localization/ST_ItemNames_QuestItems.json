@@ -43,9 +43,150 @@
         "ID_ITEMNAMES_QUESTITEMS_PRECISION_GIMBAL": "Precision Gimbal",
         "ID_ITEMNAMES_QUESTITEMS_OLD_MARKET_CARD": "Old Market Card",
         "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD": "Marano Market Business Card",
-        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD_ALT1": "Scribbled-On Business Card"
+        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD_ALT1": "Scribbled-On Business Card",
+        "ID_ITEMNAMES_QUESTITEMS_NOMAD_TECH_ITEM": "Nomad Tech Item",
+        "ID_ITEMNAMES_QUESTITEMS_COLLECTOR_CIRCUITRY": "Unknown ARC Circuitry",
+        "ID_ITEMNAMES_QUESTITEM_CLEANDREAM_BLUEPRINT": "Purification System Blueprint",
+        "ID_ITEMNAMES_QUESTITEMS_FIND_THE_HIDDEN_STASH": "Find the Hidden Stash",
+        "ID_ITEMNAMES_QUESTITEMS_PRECIOUS_CARGO": "Precious Cargo",
+        "ID_ITEMNAMES_QUESTITEMS_BROKEN_COMPASS": "Broken Compass",
+        "ID_ITEMNAMES_QUESTITEM_PATHOSMODULE": "Project Pathos Empathy Core",
+        "ID_ITEMNAMES_QUESTITEM_PATHOSMODULE_DESC": "A prototype android core said to instill empathy and self-determination in androids."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_QUESTITEM_ESPRESSOPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVECOMPASS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVERATIONS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_FIRSTWAVECAMCORDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_LIDARSCANNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_SEEDPACKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_AIVASPATCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_ESRANALYZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_AIVASMEMENTOS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_CELESTEJOURNAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_MEDICALRECORDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_LIBRARYBOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_NEWPLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_ICECREAMCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_RAIDERFLAG": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_CALIBRATION_DEVICE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_QUEST_ITEM_USED_FOR_DELIVER_OBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CARDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CARDS_USED_AS_DELIVER_OBJECTIVE_IN_QUEST": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CHIPS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_POKER_CHIPS_USED_IN_DELIVER_OBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_RARE_BOOKS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_TERMINAL_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_NUTRIENT_METER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_MOISTURE_METER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_QUEST_VIDEOTAPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_OLD_REPORT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_SCOUT_PATROL_NOTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_DODGER_S_NOTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_SEED_VAULT_BOX_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_OFFICIAL_SHUTDOWN_DOCUMENTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_SECRET_MEETING_INFO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_PRECISION_GIMBAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_OLD_MARKET_CARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_BUSINESSCARD_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_CLEANDREAM_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_BROKEN_COMPASS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_PRECIOUS_CARGO": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_QUESTITEM_PATHOSMODULE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEM_PATHOSMODULE_DESC": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_FIND_THE_HIDDEN_STASH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_COLLECTOR_CIRCUITRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_QUESTITEMS_NOMAD_TECH_ITEM": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

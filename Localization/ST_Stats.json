@@ -29,7 +29,68 @@
         "ID_STATS_AMMO_TYPE": "Ammo type",
         "ID_STATS_MAGAZINE_SIZE": "Magazine size"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_STATS_DAMAGE": {
+          "Status": "approved"
+        },
+        "ID_STATS_DAMAGE_RANGE": {
+          "Status": "approved"
+        },
+        "ID_STATS_RELOAD_TIME": {
+          "Status": "approved"
+        },
+        "ID_STATS_FIRE_RATE": {
+          "Status": "approved"
+        },
+        "ID_STATS_HANDLING": {
+          "Status": "approved"
+        },
+        "ID_STATS_ACCURACY": {
+          "Status": "approved"
+        },
+        "ID_STATS_CLIP_SIZE": {
+          "Status": "approved"
+        },
+        "ID_STATS_CHARGES": {
+          "Status": "approved"
+        },
+        "ID_STATS_ROLE_RESTRICTIONS": {
+          "Status": "approved"
+        },
+        "ID_STATS_CRAFTING_COST": {
+          "Status": "approved"
+        },
+        "ID_STATS_POWER_RATING": {
+          "Status": "approved"
+        },
+        "ID_STATS_ROUNDS_PER_MINUTE": {
+          "Status": "approved"
+        },
+        "ID_STATS_RANGE": {
+          "Status": "approved"
+        },
+        "ID_STATS_NOISE_REDUCTION": {
+          "Status": "approved"
+        },
+        "ID_STATS_AGILITY": {
+          "Status": "approved"
+        },
+        "ID_STATS_STABILITY": {
+          "Status": "approved"
+        },
+        "ID_STATS_STEALTH": {
+          "Status": "approved"
+        },
+        "ID_STATS_DURABILITY": {
+          "Status": "approved"
+        },
+        "ID_STATS_AMMO_TYPE": {
+          "Status": "approved"
+        },
+        "ID_STATS_MAGAZINE_SIZE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

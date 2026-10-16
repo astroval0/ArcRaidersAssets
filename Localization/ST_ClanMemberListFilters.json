@@ -12,7 +12,17 @@
         "ID_CLAN_MEMBERS_FILTER_ADMINS": "Admins",
         "ID_CLAN_MEMBERS_FILTER_ONLINE": "Online"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_MEMBERS_FILTER_ALL": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBERS_FILTER_ADMINS": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MEMBERS_FILTER_ONLINE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

@@ -60,7 +60,161 @@
         "ID_LOCATION_RIVENTIDES_CLASSIFIEDRECORDS": "Classified Records Room",
         "ID_LOCATION_RIVENTIDES_SECURESTORAGE": "Secure Storage Room"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LOCATION_RIVENTIDES": {
+          "Status": "approved"
+        },
+        "ID_GAMEMODE_LOCATION_RIVENTIDES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HARBOUR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CONTAINER_YARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HOTEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_LOGISTICS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_RIVERBED": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_SEABED": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WAVE_BREAKER_COMPOUND": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_TENNIS_COURT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HOTELCOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CRANE_HOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CRANE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_EASTHILL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CENTRALHILL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_ABANDONEDHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WESTHILL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WAVEBREAKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WAREHOUSECOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_FUELPODS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_SUPPORTBUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_ACCESSROAD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_PIER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HARBORCRANE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_RAILYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_LOGISTICSTUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_LOGISTICSELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_SEASIDEELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WRECKAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_BEACHBAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_POOLSIDE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HOTELBEACH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CHANGINGROOMS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_PIPELINE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_RAIDERTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_RAIDERCAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CONTAINERHIDEOUT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_TRANSITBUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_HILLTOPHATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_SEASIDEHATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WAREHOUSEHATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WRECKAGES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_QUAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_WHARF": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_RIVERBED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CONTAINER_YARD_ALT1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CONTAINER_YARD_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_CLASSIFIEDRECORDS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RIVENTIDES_SECURESTORAGE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

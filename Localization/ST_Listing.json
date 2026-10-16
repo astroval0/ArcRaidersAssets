@@ -12,7 +12,17 @@
         "ID_LISTING_PAIR": "{0} and {1}",
         "ID_LISTING_JOIN": "{0}, {1}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LISTING_LAST": {
+          "Status": "approved"
+        },
+        "ID_LISTING_PAIR": {
+          "Status": "approved"
+        },
+        "ID_LISTING_JOIN": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

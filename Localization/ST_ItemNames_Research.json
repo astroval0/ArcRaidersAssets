@@ -1,0 +1,28 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Research",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Research",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Research",
+      "KeysToEntries": {
+        "ID_ITEMNAMES_RESEARCH_INCENDIARY_COMPOUND": "Incendiary Compound",
+        "ID_ITEMNAMES_RESEARCH_MUZZLE_DYNAMICS": "Muzzle Dynamics",
+        "ID_ITEMNAMES_RESEARCH_BURSTFIRE": "BurstFire",
+        "ID_ITEMNAMES_RESEARCH_INCREASEDBURST": "IncreasedBurst",
+        "ID_ITEMNAMES_RESEARCH_FULLAUTO": "FullAuto",
+        "ID_ITEMNAMES_RESEARCH_SPRINTSHOOTING": "SprintShooting"
+      },
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_RESEARCH_MUZZLE_DYNAMICS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RESEARCH_INCENDIARY_COMPOUND": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

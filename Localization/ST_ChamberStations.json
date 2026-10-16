@@ -52,9 +52,435 @@
         "ID_CHAMBERSTATIONS_WEAPON_BENCH": "Gunsmith",
         "ID_CHAMBERSTATIONS_REQUIRESWEAPONBENCH": "Requires a Gunsmith station",
         "ID_CHAMBERSTATIONS_WEAPON_UPGRADE_BENCH_T4": "Gunsmith T4",
-        "ID_CHAMBERSTATIONS_WEAPON_UPGRADE_BENCH_T5": "Gunsmith T5"
+        "ID_CHAMBERSTATIONS_WEAPON_UPGRADE_BENCH_T5": "Gunsmith T5",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION": "Research Station",
+        "ID_CHAMBERSTATIONS_REQUIRESLEVEL4": "Requires this station to be level 4",
+        "ID_CHAMBERSTATIONS_REQUIRESSTATIONTIER": "Requires {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESCRIPTION": "Research Weapon Amplification, craftable Blueprints and Designs for your Outpost furniture.",
+        "ID_CHAMBERSTATIONS_NOTIFICATION_NEW_STATION": "New Workshop Station",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_CURRENCY_RESEARCH_POINTS": "Research Points",
+        "ID_CHAMBERSTATIONS_BUTTON_ACQUIRE_RESEARCH_POINTS": "Acquire Research Points",
+        "ID_CHAMBERSTATIONS_RESEARCH_POINTS_ACQUIRE_DESCRIPTION": "Research Points can be earned by studying special Research Items, which can be found around Topside.",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BLUEPRINT_CRAFTING_ALT1": "Craft Blueprints",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BLUEPRINT_CRAFTING": "Blueprint Crafting",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESIGNS_CRAFTING_ALT1": "Craft Designs",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESIGNS_CRAFTING": "Design Crafting",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_DESIGNS": "Designs",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION": "Amplification",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION_ALT1": "Amplification Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION_ALT2": "Amplified Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_BLUEPRINTS": "Blueprints",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_KNOWN_PLANS_VARIABLE": "Known plans: {0}/{1}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_KNOWN_PLANS": "Known plans: {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_AMPLIFICATION_RESEARCH": "Weapon Amplification Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_AMPLIFICATION_RESEARCH_AVAILABLE": "Weapon Amplification Research Available",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_HEADER_RESEARCH_ITEMS": "Research Items",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_RESEARCH_STATION": "Requires Research Station Level {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_OUTPOST": "Requires Outpost Level {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_GUNSMITH": "Requires Gunsmith Level {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_RECEIVE": "Receive {0}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_RESEARCH_POINT_USE_DESCRIPTION": "Research Points are used to craft Blueprints, Designs and to research Weapon Amplification",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY_ALT1": "Study Item",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY": "Study",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LABEL_PLURAL": "Research Items",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LABEL_SINGULAR": "Research Item",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_RESEARCH": "Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_HEADER_RESEARCH": "Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY_ALT2": "Study & Consume",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_WARNING_ITEMS_WILL_BE_CONSUMED": "Item will be consumed",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STATUS_RESEARCH_IN_PROGRESS": "Research in progress",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STATUS_RESEARCH_IN_PROGRESS_VARIABLE": "Research in progress: {0}/{1}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP": "Step {0}/{1}",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_START": "Start",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_UPGRADE_UNLOCKED": "Upgrade Unlocked",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_COMPLETE_RESEARCH": "Complete Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_COMPLETE_RESEARCH_ALT1": "Finalize Research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_SINGULAR": "Research task",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_PLURAL": "Research tasks",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_SINGULAR_ALT1": "Task to complete",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_PLURAL_ALT2": "Tasks to complete",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_REQUIREMENT": "Fullfil the previous step to complete this research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_REQUIREMENT_ALT1": "Complete the previous step to finalize this research",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_RESEARCH_COMPLETED": "Research completed",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_RESEARCH_COMPLETED_ALT1": "Completed",
+        "ID_CHAMBERSTATIONS_ONBOARDING_BLUEPRINTS_AND_DESIGNS_CRAFTING": "You'll now be able to craft your own Blueprints and Designs, making you less reliant on encountering them while topside.",
+        "ID_CHAMBERSTATIONS_ONBOARDING_WEAPON_AMPLIFICATION": "Weapon Amplification is a way to push your favorite weapons beyond their usual limits and make them into something more.",
+        "ID_CHAMBERSTATIONS_ONBOARDING_ACQUIRE_RESEARCH_POINTS": "To acquire Research Points, find Research Items around Topside, and bring them back to study in your Research Station.",
+        "ID_CHAMBERSTATIONS_ONBOARDING_ACQUIRE_RESEARCH_POINTS_ALT": "Research Points can be acquired by studying Research Items, which you'll find around Topside.",
+        "ID_CHAMBERSTATIONS_ONBOARDING_USE_RESEARCH_POINTS": "Research Points can be used alongside other resources to craft Blueprints, Furniture designs and to research Weapon Amplification.",
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_GO_TO_AMPLIFICATION_BUTTON": "Amplification",
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_AMPLIFY_MODULE": "Amplify",
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_SECTION_TITLE_AMPLIFIED_WEAPONS": "Amplified Weapons",
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_SECTION_TITLE_WEAPONS": "Weapons",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_IN_PROGRESS": "Step {0} in progress",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_AVAILABLE": "Step {0} available",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_COMPLETED": "Task completed",
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_NOT_STARTED": "Not Started"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CHAMBERSTATIONS_AMMO_MAKER": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESARMORBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ARMOR_BENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESLEVEL2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESLEVEL3": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ARMOR_ASSEMBLER_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ARMOR_ASSEMBLER_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESREFINER": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REFINER": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESLAB": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_LAB_STATION_T1": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_LAB_STATION_T2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_LAB_STATION_T3": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESEXPLOSIVESBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_EXPLOSIVES_BENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_EXPLOSIVE_BENCH_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_EXPLOSIVE_BENCH_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ELECTRICAL_FABRICATOR_T1": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ELECTRICAL_FABRICATOR_T2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ELECTRICAL_FABRICATOR_T3": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESUTILITYBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_UTILITY_BENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_UTILITY_BENCH_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_UTILITY_BENCH_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESMODBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MOD_TABLE_T1": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MOD_TABLE_T2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MOD_TABLE_T3": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MOD_TABLE_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MOD_TABLE_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESMEDSTATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MED_STATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MED_STATION_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MED_STATION_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESRECYCLESTATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RECYCLE_STATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REPAIR_STATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESBASICBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_BASIC_BENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MECHANICAL_FABRICATOR_T2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_MECHANICAL_FABRICATOR_T3": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESWEAPONBENCH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_UPGRADE_BENCH_T4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_UPGRADE_BENCH_T5": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION": {
+          "Status": "approved",
+          "Note": "This is a new workshop station player can install after getting their Outpost. It allows them to craft Blueprints, Designs and later on, Ascended Crafting Research (\"Ascended Crafting\" name is pending)."
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESCRIPTION": {
+          "Note": "Research Station description, as shown on Info Panel when installing new station in workshop. Should mention Blueprints & Designs crafting, and Weapon Amplification.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_CURRENCY_RESEARCH_POINTS": {
+          "Note": "New \"currency\" that player get when they use the Research Station to research items they find in world, like books or hard drives. This new currency can be used along other resources to craft various things in the Research Station.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_BUTTON_ACQUIRE_RESEARCH_POINTS": {
+          "Note": "Button that will send the player to a new screen where they can Study&Consume items in their inventory to get Research Points.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_POINTS_ACQUIRE_DESCRIPTION": {
+          "Note": "description on how to acquire research points, SHORT (eg: find item type X in the world and bring them back home to study them). To be shown in a tooltip",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BLUEPRINT_CRAFTING": {
+          "Note": "Alt",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESIGNS_CRAFTING_ALT1": {
+          "Note": "Designs refers to what the player need to learn in order to craft Furniture; like Blueprints but for Furniture",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_DESIGNS_CRAFTING": {
+          "Note": "Alt",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_DESIGNS": {
+          "Note": "For Station sub-nav",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION": {
+          "Note": "For staion sub-nav",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_KNOWN_PLANS": {
+          "Note": "Alternative in case we don't want to show the total amount of plans a player can find and stay mysterious.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_AMPLIFICATION_RESEARCH": {
+          "Note": "This is the entry point for the player to enter the screen that allows them to select a Research they want to ... research for their Ascended Crafting weapon.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_HEADER_RESEARCH_ITEMS": {
+          "Note": "Header for the screen that list all the items the player can Learn & Consume to get Research Points. Research here is a noun that refers to a category of item, not a verb",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_RECEIVE": {
+          "Note": "Not sure if this is the correct format, it would be displayed as follow: \"Receive 99999 [Research Point icon]\"",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY_ALT1": {
+          "Note": "Verb, used in a button",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY": {
+          "Note": "Verb, used in a button",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LABEL_PLURAL": {
+          "Note": "Category tag, refers to the category of items players can find in game and consume to get research points",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LABEL_SINGULAR": {
+          "Note": "Alternative, singular",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_RESEARCH": {
+          "Note": "Action Verb, used in a button",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_HEADER_RESEARCH": {
+          "Note": "Noun.The research, the study. Think Technology Tree in Civilization games.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_WARNING_ITEMS_WILL_BE_CONSUMED": {
+          "Note": "Some items in world can be looted and studied once back in Speranza. Doing so will consume the item, removing it from the player's inventory.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_START": {
+          "Note": "Button",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_COMPLETE_RESEARCH": {
+          "Note": "Action Verb, used in a button.",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_COMPLETE_RESEARCH_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_SINGULAR": {
+          "Note": "Header for the first step to do Amplification Research",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_PLURAL": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_SINGULAR_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_HEADER_COMPLETE_TASK_PLURAL_ALT2": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_REQUIREMENT_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_RESEARCH_COMPLETED_ALT1": {
+          "Note": "Alternative",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ONBOARDING_BLUEPRINTS_AND_DESIGNS_CRAFTING": {
+          "Note": "Research station: introduce \"blueprints crafting\" & \"designs crafting\" Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ONBOARDING_WEAPON_AMPLIFICATION": {
+          "Note": "Research station: Introduce \"Weapon Amplification Research\" Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ONBOARDING_ACQUIRE_RESEARCH_POINTS": {
+          "Note": "Highlight \"acquire research points\" button Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ONBOARDING_ACQUIRE_RESEARCH_POINTS_ALT": {
+          "Note": "regarding acquiring research points: what are the items needed to get RP and how/where to find them Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_ONBOARDING_USE_RESEARCH_POINTS": {
+          "Note": "What are Research Points used for? Max. char. limit: 160",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_GO_TO_AMPLIFICATION_BUTTON": {
+          "Note": "Button that sends the player over to the amplification tab once the weapon has had its module slot filled",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_AMPLIFY_MODULE": {
+          "Note": "Button that attaches the module slot",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_NOTIFICATION_NEW_STATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_AMPLIFICATION_RESEARCH_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BLUEPRINT_CRAFTING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_BUTTON_STUDY_ALT2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_KNOWN_PLANS_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_RESEARCH_STATION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_OUTPOST": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_LEVEL_REQUIREMENT_GUNSMITH": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_RESEARCH_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_NOTIFICATION_UPGRADE_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_RESEARCH_POINT_USE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STATUS_RESEARCH_IN_PROGRESS_VARIABLE": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STATUS_RESEARCH_IN_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_AMPLIFICATION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_SUB_NAV_BLUEPRINTS": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESLEVEL4": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_REQUIRESSTATIONTIER": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_SECTION_TITLE_AMPLIFIED_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_WEAPON_BENCH_SECTION_TITLE_WEAPONS": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_IN_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_COMPLETED": {
+          "Note": "Variation of the subheader to categorize the status of the Research listed in this screen",
+          "Status": "approved"
+        },
+        "ID_CHAMBERSTATIONS_RESEARCH_STATION_STEP_NOT_STARTED": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

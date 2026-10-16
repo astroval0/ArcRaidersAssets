@@ -20,9 +20,53 @@
         "ID_ITEMDESC_AMMOMAKER": "Why buy ammo when you can make it yourself?",
         "ID_ITEMDESC_ASSEMBLYSTATION": "Crucial companion for any Raider finding themselves in frequent need of custom parts.",
         "ID_ITEMDESC_MEDSTATION": "The Medical Lab is where you can create stimulants to give you that extra boost out in the wilds.",
-        "ID_ITEMDESC_MODTABLE": "The mod table is where you can create your own weapon mods."
+        "ID_ITEMDESC_MODTABLE": "The mod table is where you can create your own weapon mods.",
+        "ID_ITEMDESC_RESEARCHSTATION": "Research completed here can unlock new blueprints, furniture designs, and Weapon Amplification nodes, offering new ways to tune and improve weapon performance."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ELECFABRICATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_EXPLOSIVEBENCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LABSTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MECHFABRICATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RECYCLESTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_REPAIRSTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_UTILITYBENCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_WEAPUPGRADEBENCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORASSEMBLER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AMMOMAKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ASSEMBLYSTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MEDSTATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_MODTABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_RESEARCHSTATION": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

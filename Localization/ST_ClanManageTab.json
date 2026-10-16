@@ -19,7 +19,38 @@
         "ID_CLAN_MANAGE_ROLES_REMOVE_MEMBER": "Remove member",
         "ID_CLAN_ROLES_ASSIGN": "Assign"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_MANAGE_ROLES_CLEAR_ROLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_ROLES_CHANGE_ROLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_ROLES_LEAVE_EMPTY": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_ROLES_MEMBER_SELECTION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_KICK_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_KICK_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLAN_MANAGE_ROLES_REMOVE_FROM_ROLE": {
+          "Status": "new"
+        },
+        "ID_CLAN_MANAGE_ROLES_ASSIGN_ON_ROLE": {
+          "Status": "new"
+        },
+        "ID_CLAN_MANAGE_ROLES_REMOVE_MEMBER": {
+          "Status": "new"
+        },
+        "ID_CLAN_ROLES_ASSIGN": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

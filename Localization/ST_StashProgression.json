@@ -1,0 +1,126 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_StashProgression",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_StashProgression",
+    "StringTable": {
+      "TableNamespace": "ST_StashProgression",
+      "KeysToEntries": {
+        "ID_STASHPROGRESSION_STASHEXPANSION_TITLE": "Stash Expansion",
+        "ID_STASHPROGRESSION_STASHEXPANSION_TITLE_ALT1": "Additional Stash Expansion",
+        "ID_STASHPROGRESSION_STASHEXPANSION_DESCRIPTION": "Expands your stash size beyond its ordinary limits.",
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT": "Stash slots +{0}",
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT_ALT1": "Stash slots ×{0}",
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT_ALT2": "Gain {0} stash slots",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_TITLE": "Vault +{0} Slots",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_DESCRIPTION": "After departing on an Expedition, any items placed in the Vault will be available to your next Raider.",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_UNLOCK": "Unlocks Vault",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_UNLOCK_ALT1": "Unlocks Expedition Vault",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_ADDEDSLOTS": "Vault slots +{0}",
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT1": "Vault slots ×{0}",
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT2": "Expedition Vault slots +{0}",
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT3": "Expedition Vault slots ×{0}",
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_TITLE_ALT1": "Vault ×{0} Slots",
+        "ID_STASHPROGRESSION_BUTTON_EXPAND": "Expand Vault",
+        "ID_STASHPROGRESSION_BUTTON_EXPAND_ALT1": "Expand Vault +{0} Slots",
+        "ID_STASHPROGRESSION_BUTTON_EXPAND_ALT2": "Expand Vault ×{0} Slots",
+        "ID_STASHPROGRESSION_BUTTON_VIEWEXPEDITION": "View Expedition",
+        "ID_STASHPROGRESSION_BUTTON_ADD_TO_VAULT": "Add To Vault",
+        "ID_STASHPROGRESSION_BUTTON_REMOVEFROMVAULT": "Remove From Vault",
+        "ID_STASHPROGRESSION_BUTTON_UNLOAD_VAULT": "Unload Vault"
+      },
+      "KeysToMetaData": {
+        "ID_STASHPROGRESSION_STASHEXPANSION_TITLE": {
+          "Note": "Title for expanding stash from trader (it is its own progression); max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_STASHEXPANSION_TITLE_ALT1": {
+          "Note": "Title for expanding stash from trader (it is its own progression); max chars limit 30",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_STASHEXPANSION_DESCRIPTION": {
+          "Note": "Description for expanding stash from trader (it is its own progression); max chars limit 60",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT": {
+          "Note": "Description on what and how much is getting affected when expanding stash slots; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT_ALT1": {
+          "Note": "Description on what and how much is getting affected when expanding stash slots; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_STASHEXPANSION_EFFECT_ALT2": {
+          "Note": "Description on what and how much is getting affected when expanding stash slots; max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_TITLE": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_DESCRIPTION": {
+          "Note": "Explain conneciton to the expedition; max chars limit 150",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_UNLOCK": {
+          "Note": "Description on unlocking vualt; max chars limit 16",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_UNLOCK_ALT1": {
+          "Note": "Description on unlocking vualt; max chars limit 30",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_EFFECT_ADDEDSLOTS": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT1": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT2": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EFFECT_ADDEDSLOTS_ALT3": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_EXPEDITIONVAULT_TITLE_ALT1": {
+          "Note": "Description on what and how much is getting affected when expanding vault slot; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_EXPAND": {
+          "Note": "Expand vault button",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_EXPAND_ALT1": {
+          "Note": "Expand vault button; max chars limit 28",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_EXPAND_ALT2": {
+          "Note": "Expand vault button; max chars limit 28",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_VIEWEXPEDITION": {
+          "Note": "Button that leads to expedition screen; max chars limit 18",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_ADD_TO_VAULT": {
+          "Note": "Button that leads to expedition vault; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_REMOVEFROMVAULT": {
+          "Note": "Button that leads to expedition vault; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_STASHPROGRESSION_BUTTON_UNLOAD_VAULT": {
+          "Note": "Button that moves all items from vault to stash; max chars limit 18",
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

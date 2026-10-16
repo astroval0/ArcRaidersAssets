@@ -41,12 +41,152 @@
         "ID_ENEMY_HORNETFLAMETHROWER_NAME_ALT1": "Blaze Hornet",
         "ID_ENEMY_BOOM_NAME": "Comet",
         "ID_ENEMY_LASERROCKETEER_NAME": "Vaporizer",
-        "ID_ENEMY_MONOLITH_NAME": "Turbine",
-        "ID_ENEMY_MONOLITH_ALT1": "ARC Turbine"
+        "ID_ENEMY_MONOLITH_NAME": "ARC Turbine",
+        "ID_ENEMY_MONOLITH_ALT1": "ARC Turbine",
+        "ID_ENEMY_MUSTARDMINT_NAME": "Mustardmint",
+        "ID_ENEMY_MEERKAT": "Skulker",
+        "ID_ENEMY_TARRAGON": "Bully",
+        "ID_ENEMY_KEBAB_NAME": "Hydra",
+        "ID_ENEMY_ROSE_NAME": "Frigate Cannon",
+        "ID_ENEMY_COURIER_NAME": "Courier",
+        "ID_ENEMY_FRIGATE": "ARC Frigate",
+        "ID_ENEMY_FRIGATE_ALT": "Frigate",
+        "ID_ENEMY_ROSE_NAME_ALT1": "Frigate Ground Cannon"
       },
       "KeysToMetaData": {
         "ID_ENEMY_PEPPERMINT_NAME": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ENEMY_GOLDGOBLIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_DETONATORDRONE_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_GROUNDHEAVY_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_HEAVYDRONE_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_LIGHTDRONE_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_MOSSMONSTER_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_ONIONELITE_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_SHIELDBUBBLE_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_SNEAKDROP_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_SNITCHBOT_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_TICKBOT_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_WASABIHALF_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_SALT_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_FIREBALL_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_ROCKETEER_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_WASP_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_HORNET_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_BULL_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_TURRET_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_ROLLBOT_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_DUMMY_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_POP_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_CHONK_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_SNIPER_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_PINGER_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_CHONK_MORTAR_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_SPEARMINT_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_RUNNER": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_HORNETFLAMETHROWER_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_HORNETFLAMETHROWER_NAME_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_BOOM_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_LASERROCKETEER_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_MONOLITH_NAME": {
+          "Status": "approved",
           "Note": ""
+        },
+        "ID_ENEMY_MONOLITH_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_MUSTARDMINT_NAME": {
+          "Status": "new"
+        },
+        "ID_ENEMY_FRIGATE_ALT": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_FRIGATE": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_KEBAB_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_TARRAGON": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_MEERKAT": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_ROSE_NAME_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_ROSE_NAME": {
+          "Status": "approved"
+        },
+        "ID_ENEMY_COURIER_NAME": {
+          "Status": "approved"
         }
       }
     }

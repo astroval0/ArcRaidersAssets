@@ -343,247 +343,1081 @@
       },
       "KeysToMetaData": {
         "ID_ONBOARDINGTOOLTIPS_MAPSCREEN": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_RAIDERSCREEN": {
-          "Note": "Figma"
+          "Note": "Figma",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_RAIDERDENSCREEN": {
-          "Note": "Tutorial for going to Raider screen"
+          "Note": "Tutorial for going to Raider screen",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT": {
-          "Note": "Short hint shown in the center of the screen while a player is running"
+          "Note": "Short hint shown in the center of the screen while a player is running",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPONSPRINT_BUTTON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON": {
-          "Note": "Short hint shown in the center of the screen while a player is running"
+          "Note": "Short hint shown in the center of the screen while a player is running",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with the button in line rich text",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_STOWWEAPON_BUTTON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is running. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOWWEAPON": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state."
+          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote"
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with the button in line rich text"
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with the button in line rich text",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EMOTE_BUTTON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen to teach a player how to emote. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EMOTE": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for emote and what that can be used for"
+          "Note": "Longer hint shown to player in the HUD, tutorial for emote and what that can be used for",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health"
+          "Note": "Short hint shown in the center of the screen while a player is low on health",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_HEALYOURSELF_BUTTON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health"
+          "Note": "Short hint shown in the center of the screen while a player is low on health",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with the button in line rich text",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label"
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with hold-label",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_EQUIPHEALING_BUTTON_HOLD_ALT2": {
-          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label."
+          "Note": "Short hint shown in the center of the screen while a player is low on health. Alt with rich text button in line and hold-label.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the quick use wheel in-game"
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the quick use wheel in-game",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_EQUIPHEALING_BUTTONCALLOUT_HOLD_ALT2": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the quick use wheel in-game",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_ALT2": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map"
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map"
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to open the in-game map",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_MAP_BUTTONCALLOUT_HOLD_ALT2": {
-          "Note": "Button callout shown in tutorial hint to tell players how to open the map"
+          "Note": "Button callout shown in tutorial hint to tell players how to open the map",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for how to ping in-world"
+          "Note": "Longer hint shown to player in the HUD, tutorial for how to ping in-world",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT": {
-          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD": {
-          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_PINGINWORLD_BUTTONCALLOUT_HOLD_ALT2": {
-          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world"
+          "Note": "Button callout shown in tutorial hint to tell players how to ping in-world",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_ACCEPTQUEST": {
-          "Note": "Step where the player accepts the quest - Figma"
+          "Note": "Step where the player accepts the quest - Figma",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_TITLE": {
-          "Note": "Step where the player are shown the Fill squad option - FIgma"
+          "Note": "Step where the player are shown the Fill squad option - FIgma",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_WORKSHOP_SCRAPPY": {
-          "Note": "Step to point to Scrappy"
+          "Note": "Step to point to Scrappy",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_BASICBENCH": {
-          "Note": "Need it to point to augments"
+          "Note": "Need it to point to augments",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON_ALT2": {
-          "Note": "We may need to point them to checking their ammo"
+          "Note": "We may need to point them to checking their ammo",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FIRSTDEPLOY": {
-          "Note": "Prompt to press the button to start matchmaking"
+          "Note": "Prompt to press the button to start matchmaking",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_NEW_DESTINATION": {
-          "Note": "Buried City unlocks. May be needed for highlight purposes"
+          "Note": "Buried City unlocks. May be needed for highlight purposes",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERTAB_TOPNAV": {
-          "Note": "NPX for pointing out the Raider tab to go to Codex"
+          "Note": "NPX for pointing out the Raider tab to go to Codex",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CODEX_BACK": {
-          "Note": "NPX for pointing player to go back (e.g. from Quest-screen) to be able to access Codex"
+          "Note": "NPX for pointing player to go back (e.g. from Quest-screen) to be able to access Codex",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CODEX_RAIDERDEN": {
-          "Note": "NPX to point to Codex on the Raider Den screen"
+          "Note": "NPX to point to Codex on the Raider Den screen",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CODEX": {
-          "Note": "Presentation of Codex if we want it. Though I need more details of how the final version of Codex looks like for launch"
+          "Note": "Presentation of Codex if we want it. Though I need more details of how the final version of Codex looks like for launch",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTIN": {
-          "Note": "NPX for Fill squad being opt in"
+          "Note": "NPX for Fill squad being opt in",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_PLAYTOGETHER_OPTOUT": {
-          "Note": "NPX for Fill squad being opt out"
+          "Note": "NPX for Fill squad being opt out",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_INPUT_NAVIGATE": {
-          "Note": "Callout for how to navigate a tab"
+          "Note": "Callout for how to navigate a tab",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_AUGMENTSINTRO_ALT2": {
-          "Note": "NPX for augments to tell players that they should equip augments, and short what they do and prompt to equip"
+          "Note": "NPX for augments to tell players that they should equip augments, and short what they do and prompt to equip",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_AUGMENTSABOUT": {
-          "Note": "NPX for augments after one has been equipped, tell them a little about what they do (generally)"
+          "Note": "NPX for augments after one has been equipped, tell them a little about what they do (generally)",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY": {
-          "Note": "Shield durability description"
+          "Note": "Shield durability description",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_SHIELDDURABILITY_ALT2": {
-          "Note": "Shield durability and how to repair"
+          "Note": "Shield durability and how to repair",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_WEAPONDURABILITY_ALT2": {
-          "Note": "Weapon durability and how to repair"
+          "Note": "Weapon durability and how to repair",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_WEAPONARMORDURABILITY_ALT2": {
-          "Note": "Weapon and shield durability and how to repair"
+          "Note": "Weapon and shield durability and how to repair",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_TRADERRUN": {
-          "Note": "Prompt to go with free loadout if they are missing gear. NPX"
+          "Note": "Prompt to go with free loadout if they are missing gear. NPX",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_EXPANDSTASH": {
-          "Note": "NPX for full stash"
+          "Note": "NPX for full stash",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_ALT2": {
-          "Note": "NPX for sell, in case you didnt expand stash as we told you to"
+          "Note": "NPX for sell, in case you didnt expand stash as we told you to",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE": {
-          "Note": "NPX for full stash"
+          "Note": "NPX for full stash",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE": {
-          "Note": "NPX for sell"
+          "Note": "NPX for sell",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FREEUPSPACE_SELLRECYCLE_ALT2": {
-          "Note": "NPX for sell, in case you didnt expand stash as we told you to"
+          "Note": "NPX for sell, in case you didnt expand stash as we told you to",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_BUTTON_PROCEED": {
-          "Note": "Button to dismiss NPX"
+          "Note": "Button to dismiss NPX",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_OPENINVENTORY": {
-          "Note": "NPX to open Inventory"
+          "Note": "NPX to open Inventory",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_INVENTORY_TITLE": {
-          "Note": "Title for Inventory NPX"
+          "Note": "Title for Inventory NPX",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_DESCRIPTIVENPX_STOW": {
-          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state."
+          "Note": "Longer hint shown to player in the HUD, tutorial for Unarmed state.",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_FIELDCRAFTING_DESCRIPTION": {
-          "Note": "Shown upon entering the round after unlocking the skill in the skill tree"
+          "Note": "Shown upon entering the round after unlocking the skill in the skill tree",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY": {
-          "Note": "Callout with a hotkey assigned, in the bottom of the NPX"
+          "Note": "Callout with a hotkey assigned, in the bottom of the NPX",
+          "Status": "approved"
         },
         "ID_ONBOARDINGTOOLTIPS_CALLOUT_NPX_INVENTORY_FIELDCRAFTING": {
-          "Note": "Callout with a hotkey assigned, in the bottom of the NPX"
+          "Note": "Callout with a hotkey assigned, in the bottom of the NPX",
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WELCOMETOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PREPAREFORTOPSIDE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PREPARELOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHARACTERSCREEN": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREEBRANCHES": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUESTREWARD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_UNLOADBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ANYTHINGLOST": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ESSENTIALITEM": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUICKUSESLOTS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOPINTRO": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPYCOLLECT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAMMO": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAMMOCOMPLETE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUESTREWARDREMINDER": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONDURABILITY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONREPAIR_MOUSE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MAPCONDITIONS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_03": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_03": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RAIDERFLARES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RAIDERFLARES_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_LOOTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_LOOTING_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_BREACHING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_BREACHING_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_FLASHLIGHT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_KORAIDERS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MAPMARKER": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_ZIPLINE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PREPARELOADOUTPLAY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOPCALLOUT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSLOST": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTSINTRO": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTNEWBIE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHALLENGESCRED": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEHARDCURRENCY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONREPAIR_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_OINBOARDINGTOOLTIPS_WEAPONREPAIR_GAMEPAD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_STATIONUPGRADE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_MOUSE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONUPGRADE_GAMEPAD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADERGIFT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MODS_LONG": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MODS_SHORT_INSPECT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MODS_SHORT_ALTERBEHAVIOR": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MODSLOT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MAPMARKER_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_ZIPLINE_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_01_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_02_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SHOOTING_03_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_01_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_02_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_GRENADES_03_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COVER_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_RAIDERENCOUNTERS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_FLASHLIGHT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_PRESS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_CLICK": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_RIGHTCLICK": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_MELEE_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_DEFEND_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HARVEST_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_STASHINGUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_STASHINGUP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_CRAFTINGBANDAGES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_CRAFTINGBANDAGES": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FIELDCRAFTING_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EQUIP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EQUIP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_FIELDCRAFTINGTAB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_01_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEALING_02_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_KORAIDERS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ELEVATOR_03": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FREEBATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_PROMPT_SLIDING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_FIELDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_NOVERB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ENCOUNTERRAIDERS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_RECOVERINGHEALTH_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUESTS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ACCEPTQUEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CLAIMQUEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TOPSIDE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_GOINGTOPSIDE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIPWEAPON_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MANAGELOADOUT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_LOADOUT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SKILLTREE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SKILLS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_LEVELUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_GOTOPSIDE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHAMBERSTATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INSTALLCHAMBERSTATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_UPGRADECHAMBERSTATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADERRUN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MAP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MAPS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DESTINATIONS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SELECTDESTINATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SELECTMAP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTATIONS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_BATTLEPASS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHALLENGES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_REPAIR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_DURABILITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MAPCONDITIONS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FULLSTASH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MANAGESTASH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SELLANDRECYCLE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MASTERY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_UPGRADEWEAPON_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TRADERS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MODS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONMODS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MOREACTIONS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_TITLE_01": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_MOVE_TITLE_02": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_TOGGLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_DRAG": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ACTIONVERBS_MOVE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_SAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_MOVEMENT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUICKUSE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_COMBAT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_HEAL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_TRAVERSE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_TRAVERSAL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EXTRACT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EXTRACTION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_QUICKEQUIP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CANGOBACK": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE_ALT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING_ALT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SELECTADESTINATION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPON_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENT_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ARMORSLOT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_EMOTE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WELCOMETOSPERANZA_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_TOPSIDE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIPAUGMENT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SHOWMAPHOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SCRAPPYCRAFT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ARMOREQUIP": {
+          "Status": "approved"
+        },
+        "IDONBOARDINGTOOLTIPS_CRAFTINGTAB": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTTOGGLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCHTOGGLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WEAPONARMORDURABILITY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_ARMOR_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_AUGMENTINVENTORY": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SHIELD_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_SHIELDS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_BRINGSHIELD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FIRSTREADYUP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FIRSTDEPLOY_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINTPRESS": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_FIRSTMAP": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUESTOBJECTIVE_FINDSPERANZA_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_QUESTOBJECTIVE_SHELTER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_ENERGYAMMO_RELOADWARNING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_INROUNDCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_INTRO_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_WORKSHOP_INTRO_RETURN": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAUGMENT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CRAFTAUGMENT": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CODEX_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHARACTER_CREATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_CHARACTER_CREATION_BUTTON_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_LEARNRECIPE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_LEARNRECIPE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_MOVE_FASTER_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_EQUIP_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_CROUCH_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_VAULT_ACTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_JUMP_ACTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SPRINT_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_SLIDE_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FLASHLIGHT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_FLASHLIGHT_ACTION": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGTOOLTIPS_INGAME_PROMPT_HEALING_DESCRIPTION": {
+          "Status": "approved"
         }
       }
     }

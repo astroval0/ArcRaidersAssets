@@ -164,7 +164,7 @@
         "ID_QUESTINTERACTIONS_SEARCH_FOR_SEED_BOX_KEY": "Search for Seed Box Key",
         "ID_QUESTINTERACTIONS_UNLOCK_SEED_BOX": "Unlock Seed Box",
         "ID_QUESTINTERACTIONS_TAKE_PHOTO_OF_THE_MEETING_SPOT": "Photograph Meeting Spot",
-        "ID_QUESTINTERACTIONS_ACCESS_RESEARCHERS_LOG": "Access researchers log",
+        "ID_QUESTINTERACTIONS_ACCESS_RESEARCHERS_LOG": "Access Researcher's Log",
         "ID_QUESTINTERACTIONS_REPLACE_FAULTY_COMPONTENTS": "Replace Faulty Components",
         "ID_QUESTINTERACTIONS_ENABLE_MAIN_POWER_SWITCH": "Enable Main Power Switch",
         "ID_QUESTINTERACTIONS_BRING_ONLINE_THE_CULTURAL_ARCHIVES_DATA_STORAGE": "Bring Online",
@@ -182,9 +182,767 @@
         "ID_QUESTINTERACTIONS_SEARCH_BUS_DRIVERS_SEAT": "Search Bus Driver's Seat",
         "ID_QUESTINTERACTIONS_TRANSMIT_LOCATION_OF_CACHE": "Transmit Location of Cache",
         "ID_QUESTINTERACT_LAYBIRDTRAP": "Lay Bird Trap",
-        "ID_QUESTINTERACT_LAYBIRDCAGE": "Lay Bird Cage"
+        "ID_QUESTINTERACT_LAYBIRDCAGE": "Lay Bird Cage",
+        "ID_QUESTINTERACTIONS_INSPECT_TECH": "Inspect the Tech",
+        "ID_QUESTINTERACTIONS_PATCHSIGNAL": "Patch into Antenna",
+        "ID_QUESTINTERACTIONS_ANALYZE_PART": "Analyze Part",
+        "ID_QUESTINTERACTIONS_MANUAL_MAGNETIC_OVERRIDE": "Manual Magnetic Override",
+        "ID_QUESTINTERACTIONS_MAGNETIC_OVERRIDE": "Override Magnetic Lock",
+        "ID_QUESTINTERACTIONS_SEARCH_CARGO_CRATE": "Search Cargo Crate",
+        "ID_QUESTINTERACT_SEARCHBLUEPRINT": "Search for Blueprint",
+        "ID_QUESTINTERACTIONS_SCAN_ANDROID": "Scan Android",
+        "ID_QUESTINTERACTIONS_RETRIEVE_SECURITY_FOOTAGE": "Retrieve Security Footage",
+        "ID_QUESTINTERACTIONS_SCAN_ARC_FLIGHT_DATA": "Scan ARC Flight data",
+        "ID_QUESTINTERACTIONS_INSPECT_ANTENNA": "Inspect Antenna",
+        "ID_QUESTINTERACTIONS_SEARCH_OLD_TOOLBAG": "Search Old Toolbag",
+        "ID_QUESTINTERACTIONS_RUN_FREQUENCY_MATCH": "Run Frequency Match",
+        "ID_QUESTINTERACTIONS_ENABLE_THE_POWER": "Enable the Power",
+        "ID_QUESTINTERACTIONS_ATTACH": "Attach",
+        "ID_QUESTINTERACTIONS_ATTACH_PART": "Attach Part",
+        "ID_QUESTINTERACTIONS_WIPE_SAND": "Wipe Sand",
+        "ID_QUESTINTERACTIONS_REVEAL_DRAWING": "Reveal Drawing",
+        "ID_QUESTINTERACTIONS_ATTACH_ARC_PART": "Attach ARC Part",
+        "ID_QUESTINTERACTIONS_CLEANSE": "Cleanse",
+        "ID_QUESTINTERACTIONS_PERFORM_RITUAL": "Perform Ritual",
+        "ID_QUESTINTERACTIONS_TEST": "Test",
+        "ID_QUESTINTERACTIONS_CONVERT_FREQUENCY": "Convert Frequency",
+        "ID_QUESTINTERACTIONS_CONVERT": "Convert",
+        "ID_QUESTINTERACTIONS_OVERRIDE": "Override",
+        "ID_QUESTINTERACTIONS_WELD": "Weld",
+        "ID_QUESTINTERACTIONS_SIT": "Sit",
+        "ID_QUESTINTERACTIONS_SIT_DOWN": "Sit Down",
+        "ID_QUESTINTERACTIONS_STAND_UP": "Stand Up",
+        "ID_QUESTINTERACTIONS_JAM_SIGNAL": "Jam Signal",
+        "ID_QUESTINTERACTIONS_CUT_LOOSE": "Cut Loose",
+        "ID_QUESTINTERACTIONS_DROP_CARGO": "Drop Cargo",
+        "ID_QUESTINTERACTIONS_DROP": "Drop",
+        "ID_QUESTINTERACTIONS_RELEASE": "Release",
+        "ID_QUESTINTERACTIONS_BOARD": "Board",
+        "ID_QUESTINTERACTIONS_HITCH_RIDE": "Hitch Ride",
+        "ID_QUESTINTERACTIONS_FOLLOW": "Follow",
+        "ID_QUESTINTERACTIONS_FOLLOW_TRAIL": "Follow Trail",
+        "ID_QUESTINTERACTIONS_PLACE_MARKER": "Place Marker",
+        "ID_QUESTINTERACTIONS_REMOVE_MARKER": "Remove Marker",
+        "ID_QUESTINTERACTIONS_READ_LOGS": "Read logs",
+        "ID_QUESTINTERACTIONS_TRANSMIT_SECURITY_RECORDING": "Transmit Security Recording",
+        "ID_QUESTINTERACTIONS_SEARCH_THE_HIDDEN_STASH": "Search the Hidden Stash",
+        "ID_QUESTINTERACTIONS_SIT_ON_COUCH": "Sit On Couch",
+        "ID_QUESTINTERACTIONS_INSPECT_THE_MAP": "Inspect the map",
+        "ID_QUESTINTERACTIONS_PHOTO_THE_DRAWING": "Photo the Drawing",
+        "ID_QUESTINTERACTIONS_ACTIVATE_ARC_PART": "Activate ARC part",
+        "ID_QUESTINTERACTIONS_HOLD_UP_ITEM": "Hold up item",
+        "ID_QUESTINTERACTIONS_SEARCH_SECRET_STASH": "Search Secret Stash",
+        "ID_QUESTINTERACTIONS_SEARCH_NOMAD_CACHE": "Search Nomad Cache",
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_NOMAD_ITEM": "Search for Nomad Item",
+        "ID_QUESTINTERACTIONS_ACTIVATE_GONDOLA_PROTOTYPE": "Activate Gondola Prototype",
+        "ID_QUESTINTERACTIONS_INSTALL_PERFORMANCE_STEEL": "Install Performance Steel",
+        "ID_QUESTINTERACTIONS_INSTALL_POP_TRIGGER": "Install Pop Trigger",
+        "ID_QUESTINTERACTIONS_INSTALL_SYNTHETIC_RESIN": "Install Synthetic Resin",
+        "ID_QUESTINTERACTIONS_INSTALL_THERMO_LINING": "Install Thermo Lining",
+        "ID_QUESTINTERACTIONS_SEARCH_CRASHED_PAYLOAD": "Search Buried Payload",
+        "ID_QUESTINTERACTIONS_LISTEN_TO_RECORDING": "Listen to Recording"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_QUESTINTERACT_FEEDBIRD": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BIRDMAN_NOTES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DEAD_DROP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE_ANTENNA_TERMINAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_POWER_SWITCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SURVIVOR_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_ESR_ANALYZER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RARE_BOOKS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEED_VAULT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FAULTY_WIRES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_HYDRAULIC_LEAK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_QUEST_OBJECT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BUNKER_OBJECTIVE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TECHNICIAN_REMAINS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MEDICAL_RECORDS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TURN_VALVE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SPRAY_THE_WALL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FIX_BROKEN_GENERATOR": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TIAN_WEN_SURPRISE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SAMPLE_WATER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SUSPICIOUS_OBJECT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RETRIEVE_RESEARCH_DATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_UPLOAD_RESEARCH_DATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DOCUMENT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_HIGHLIGHTED_LOOT_AREA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BREACH_DOOR": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BREACH_DOOR_DESC": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CONTAINER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CONTAINER_DESC": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_PHOTO": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FISH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_GATHER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CAPTUREANIMAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_ESPRESSO_PARTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_MACHINE_PARTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_SEEDS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_WATER_PUMP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_HUMIDIFIER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_CALIBRATION_DEVICE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_COMPASS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_RATIONS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CAMCORDER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_DEAD_DROP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_NOTE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_JOURNALS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOOTLOCKER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DEFUSE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DISARM": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_MEMORABILIA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_GATHER_FERTILIZER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSTALL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_HACK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEND": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SURVEY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SURVEY_SITE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RAISE_FLAG": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MARK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MARK_OUTPOST": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MARK_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TURN_ON": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TURN_OFF": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TURN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REWIRE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SAMPLE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SABOTAGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_POISON": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REPAIR": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INVESTIGATE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRACK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLACE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLACE_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CALIBRATE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BREAK_OPEN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SPRAY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RETRIEVE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FIX": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLAY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_COLLECT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSPECT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_STABILIZE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_STABILIZE_OBSERVATION_DECK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TURN_ON_COMMS_TERMINAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ROTATE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ROTATE_SATTELITE_DISHES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_NAIL_DOWN_ROOF": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_DRONE_PARTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_TRACES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE_AIR_PURIFIER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOOTBALL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_BATTLEPLANS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FLAG": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_SCANNERS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_HELMET": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_TAPE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_WATERPUMP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_NOTES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DECRYPT_DATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DECRYPT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_EXAMINE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_SPARE_KEY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CLUES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MONITOR": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_MOISTUREMETER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_NUTRIENTMETER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_VHS_TAPES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRIANGULATE_POSITION": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATALANCE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATASHANI": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATACELESTE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATAAPOLLO": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SENDDATATIANWEN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRANSMITLOCATION": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BROADCAST": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_PORTABLETV": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_BICYCLEPUMP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_BICYCLE_PUMP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_DEFLATED_FOOTBALL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_USE_A_ROTARY_ENCODER_TO_ACTIVATE_THE_SWITCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACCESSSERVERS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SCOPEOUT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MEMORIZE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACCESS_LOGS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACCESS_DATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RECHARGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CHARGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RECHARGE_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CHARGE_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PRINTACCESSCARD": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCHSAFE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSPECTNOTES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_OPENSAFE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLAYRECORDING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCHFORRECORDING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_LOGBOOK": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_START_EMERGENCY_KLAXON": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REPLACE_BATTERY_AND_PLAY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INTERACT_WITH_THE_BUS_HORN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CUT_THE_WIRES": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_DODGER_S_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_DODGER_S_BAG": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_START_THE_SECURITY_CONTROL_CENTER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE_THE_SECURITY_SENSORS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RESEND_THE_SCOUT_GROUP_S_LOG_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRIANGULATE_THE_POSITION_TO_SHANI": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_THE_SCOUT_REMAINS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_SEED_BOX": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_SEED_BOX_KEY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_UNLOCK_SEED_BOX": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_PHOTO_OF_THE_MEETING_SPOT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACCESS_RESEARCHERS_LOG": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REPLACE_FAULTY_COMPONTENTS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ENABLE_MAIN_POWER_SWITCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BRING_ONLINE_THE_CULTURAL_ARCHIVES_DATA_STORAGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TAKE_PICTURE_OF_CRACKS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REINFORCE_STRUCTURE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REPAIR_PIPELINE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SAMPLE_SEAWEED": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BOARD_UP_WINDOW": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PICKUP_PLANKS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLACE_PLANKS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DIG_UP_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_USE_CLUES_TO_FIND_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INVESTIGATE_TRAIN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_AIR_VENT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_BUS_DRIVERS_SEAT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRANSMIT_LOCATION_OF_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACT_LAYBIRDTRAP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACT_LAYBIRDCAGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSPECT_TECH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PATCHSIGNAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACT_SEARCHBLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ANALYZE_PART": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MANUAL_MAGNETIC_OVERRIDE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_MAGNETIC_OVERRIDE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CARGO_CRATE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SCAN_ANDROID": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RETRIEVE_SECURITY_FOOTAGE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SCAN_ARC_FLIGHT_DATA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSPECT_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_OLD_TOOLBAG": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RUN_FREQUENCY_MATCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ENABLE_THE_POWER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ATTACH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ATTACH_PART": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_WIPE_SAND": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REVEAL_DRAWING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ATTACH_ARC_PART": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CLEANSE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PERFORM_RITUAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TEST": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CONVERT_FREQUENCY": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CONVERT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_OVERRIDE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_WELD": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SIT": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SIT_DOWN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_STAND_UP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_JAM_SIGNAL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_CUT_LOOSE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DROP_CARGO": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_DROP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_RELEASE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_BOARD": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_HITCH_RIDE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FOLLOW": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_FOLLOW_TRAIL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PLACE_MARKER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_REMOVE_MARKER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_READ_LOGS": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_TRANSMIT_SECURITY_RECORDING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_THE_HIDDEN_STASH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SIT_ON_COUCH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSPECT_THE_MAP": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_PHOTO_THE_DRAWING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE_ARC_PART": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_HOLD_UP_ITEM": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_SECRET_STASH": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_NOMAD_CACHE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_FOR_NOMAD_ITEM": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_ACTIVATE_GONDOLA_PROTOTYPE": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSTALL_PERFORMANCE_STEEL": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSTALL_POP_TRIGGER": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSTALL_SYNTHETIC_RESIN": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_INSTALL_THERMO_LINING": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_SEARCH_CRASHED_PAYLOAD": {
+          "Status": "approved"
+        },
+        "ID_QUESTINTERACTIONS_LISTEN_TO_RECORDING": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

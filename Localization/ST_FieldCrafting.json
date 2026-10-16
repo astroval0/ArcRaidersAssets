@@ -11,7 +11,14 @@
         "ID_FIELDCRAFTING_CONSUME_RANDOM_WARNING": "Will consume random available resources.",
         "ID_FIELDCRAFTING_PLANT_TYPE": "Plant Material"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_FIELDCRAFTING_CONSUME_RANDOM_WARNING": {
+          "Status": "approved"
+        },
+        "ID_FIELDCRAFTING_PLANT_TYPE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

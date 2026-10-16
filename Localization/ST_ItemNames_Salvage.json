@@ -13,13 +13,13 @@
         "ID_ITEMNAMES_SALVAGE_CHEMICALS": "Chemicals",
         "ID_ITEMNAMES_SALVAGE_OUTSKIRTS_BUNKER_KEY": "Hidden Bunker Key",
         "ID_ITEMNAMES_SALVAGE_BULLY_PART": "Bully Part",
-        "ID_ITEMNAMES_SALVAGE_DAMAGED_MEERKAT_DRIVER": "Damaged Meerkat Driver",
+        "ID_ITEMNAMES_SALVAGE_DAMAGED_MEERKAT_DRIVER": "Damaged Skulker Driver",
         "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS": "Heavy Gun Parts",
-        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRIVER": "Meerkat Driver",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRIVER": "Skulker Driver",
         "ID_ITEMNAMES_SALVAGE_TOMATO": "Tomato",
         "ID_ITEMNAMES_SALVAGE_TOMATO_SEEDS": "Tomato Seeds",
         "ID_ITEMNAMES_SALVAGE_ARC_SAMPLE_CONTAINER": "Arc Sample Container",
-        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRONE_PART": "Meerkat Drone Part",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRONE_PART": "Skulker Drone Part",
         "ID_ITEMNAMES_SALVAGE_COMMAND_RECIEVER": "Command Reciever",
         "ID_ITEMNAMES_SALVAGE_EQUALIZER_BLUEPRINT": "Equalizer Blueprint",
         "ID_ITEMNAMES_SALVAGE_BROKEN_RIOT_SHEILD": "Ruined Riot Shield",
@@ -32,11 +32,114 @@
         "ID_ITEMNAMES_SALVAGE_ADVANCED_ARC_POWERCELL": "Advanced ARC Powercell",
         "ID_ITEMNAMES_SALVAGE_ASSORTED_SEEDS": "Assorted Seeds",
         "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT1": "Reinforced Chamber",
-        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT2": "Large Gun Parts"
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT2": "Large Gun Parts",
+        "ID_ITEMNAMES_SALVAGE_INACTIVE_TRANSMITTER": "Inactive Beacon",
+        "ID_ITEMNAMES_SALVAGE_CALIBRATED_TRANSMITTER": "Emperor Beacon",
+        "ID_ITEMNAMES_SALVAGE_BROKEN_TRANSMITTER": "Ruined Emperor Beacon",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART": "Skulker Targeter",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT1": "Skulker Axis",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT2": "Skulker Spindle",
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT3": "Skulker Turret"
       },
       "KeysToMetaData": {
         "ID_ITEMNAMES_SALVAGE_OUTSKIRTS_BUNKER_KEY": {
-          "Note": "A makeshift key that lets you open the Outskirts Bunker on Spaceport."
+          "Note": "A makeshift key that lets you open the Outskirts Bunker on Spaceport.",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_ARC_RAID_TOKEN": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_SALVAGE_CANDLE_HOLDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_CHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_BULLY_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_DAMAGED_MEERKAT_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_TOMATO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_TOMATO_SEEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_ARC_SAMPLE_CONTAINER": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_DRONE_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_COMMAND_RECIEVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_EQUALIZER_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_BROKEN_RIOT_SHEILD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUBBER_BANDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_EXODUS_MODULES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MAGNETIC_ACCELERATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_DURABLE_CLOTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_EXPLOSIVE_COMPOUND": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_COMPLEX_GUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_ADVANCED_ARC_POWERCELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_ASSORTED_SEEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_HEAVY_GUN_PARTS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_CALIBRATED_TRANSMITTER": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_BROKEN_TRANSMITTER": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_INACTIVE_TRANSMITTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SALVAGE_MEERKAT_TURRET_PART_ALT3": {
+          "Status": "approved"
         }
       }
     }

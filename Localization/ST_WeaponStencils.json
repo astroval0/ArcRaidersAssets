@@ -1,0 +1,76 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_WeaponStencils",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_WeaponStencils",
+    "StringTable": {
+      "TableNamespace": "ST_WeaponStencils",
+      "KeysToEntries": {
+        "ID_CUSTOMIZATION_STENCIL_DRAGON": "Dragon's Breath",
+        "ID_CUSTOMIZATION_STENCIL_YETI": "Serac",
+        "ID_CUSTOMIZATION_STENCIL_WOLFMOON": "Wolf Moon",
+        "ID_CUSTOMIZATION_STENCIL_FURCOVEREDSWIRL": "Sacrifice",
+        "ID_CUSTOMIZATION_STENCIL_OUTLANDER": "Bulwark",
+        "ID_CUSTOMIZATION_STENCIL_TORTOISE": "Tortoise",
+        "ID_CUSTOMIZATION_STENCIL_COMMON_BLUE": "Verdigris",
+        "ID_CUSTOMIZATION_STENCIL_COMMON_COMMON_RED": "Garnet",
+        "ID_CUSTOMIZATION_STENCIL_COMMON_COMMON_YELLOW": "Ochre",
+        "ID_CUSTOMIZATION_STENCIL_DUST_STROKE_CAMO": "Milky Terraccota",
+        "ID_CUSTOMIZATION_STENCIL_MURAL_TREE": "Cerulean",
+        "ID_CUSTOMIZATION_STENCIL_ORGANIC_ISLANDS": "Dusty Camo",
+        "ID_CUSTOMIZATION_STENCIL_CORTO": "Slipstream",
+        "ID_CUSTOMIZATION_STENCIL_FORTUNA": "Fortuna",
+        "ID_CUSTOMIZATION_STENCIL_DESCRIPTION": "A fresh new coat of paint"
+      },
+      "KeysToMetaData": {
+        "ID_CUSTOMIZATION_STENCIL_DRAGON": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_YETI": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_WOLFMOON": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_FURCOVEREDSWIRL": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_OUTLANDER": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_TORTOISE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_COMMON_BLUE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_COMMON_COMMON_RED": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_COMMON_COMMON_YELLOW": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_DUST_STROKE_CAMO": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_MURAL_TREE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_ORGANIC_ISLANDS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_CORTO": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_FORTUNA": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_STENCIL_DESCRIPTION": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

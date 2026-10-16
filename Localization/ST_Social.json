@@ -65,12 +65,12 @@
         "ID_SOCIAL_PLAYER_REPORT_ACTION_CONTINUE": "Continue",
         "ID_SOCIAL_PLAYER_REPORT_CHEATING": "Cheating",
         "ID_SOCIAL_PLAYER_REPORT_EXPLOITING": "Exploiting",
-        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_DESC": "Add additional information about what happened:",
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_DESC": "Additional information about what happened (optional):",
         "ID_SOCIAL_PLAYER_REPORT_MESSAGE_HINT": "512 character limit",
         "ID_SOCIAL_PLAYER_REPORT_MESSAGE_INFO": "Add additional information about what happened:",
         "ID_SOCIAL_PLAYER_REPORT_OFFENSIVEPROFILE": "Offensive Profile",
         "ID_SOCIAL_PLAYER_REPORT_OTHER": "Other",
-        "ID_SOCIAL_PLAYER_REPORT_REASON_DESC": "Select reason for reporting player:",
+        "ID_SOCIAL_PLAYER_REPORT_REASON_DESC": "Select the main reason for reporting the player. They will not be notified that you are the reporter.",
         "ID_SOCIAL_PLAYER_REPORT_SCAMMING": "Scamming",
         "ID_SOCIAL_PLAYER_REPORT_SEND": "Send report",
         "ID_SOCIAL_PLAYER_REPORT_SPAMMING": "Spamming",
@@ -98,7 +98,7 @@
         "ID_SOCIAL_EDIT_EMBARK_ID": "Edit Embark ID",
         "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER": "Must start with a letter or number",
         "ID_SOCIAL_EDIT_EMBARK_ID_NUMBERS_ROW": "Limited to a maximum of {0} {0}|plural(one=number, few=numbers, many=numbers, other=numbers) in a row",
-        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS": "Accepted symbols: hyphen (-), underscore (_), and period (.)",
+        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS": "Accepted characters: a–z, A–Z, 0–9, hyphen (-), underscore (_), and period (.)",
         "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS_ROW": "Limited to a maximum of {0} {0}|plural(one=symbol, few=symbols, many=symbols, other=symbols) in a row",
         "ID_SOCIAL_EDIT_EMBARK_ID_CHAR_RANGE": "Must contain between {0}-{1} {1}|plural(one=character, few=characters, many=characters, other=characters)",
         "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER_END": "Must end with a letter or number",
@@ -154,59 +154,522 @@
         "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY": "Matchmaking Delay",
         "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY_DESCRIPTION": "While matchmaking, a randomized delay will be added to your queue to make it more difficult for viewers to queue simultaneously.\r\n\r\nWhen playing in a party, make sure the party leader has this setting toggled on. This cannot be changed while in matchmaking.",
         "ID_SOCIAL_FRIEND_REQUEST_TOO_MANY": "Too many pending outgoing requests",
-        "ID_SOCIAL_FRIEND_REQUEST_RATE_LIMIT": "Too many requests, please wait"
+        "ID_SOCIAL_FRIEND_REQUEST_RATE_LIMIT": "Too many requests, please wait",
+        "ID_SOCIAL_PLAYER_REPORT_OFFENSIVE_NAME": "Offensive name",
+        "ID_SOCIAL_PLAYER_REPORT_DISRUPTIVE_GAMEPLAY": "Disruptive gameplay",
+        "ID_SOCIAL_PLAYER_REPORT_HARASSMENT": "Harassment",
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_DESC": "You are about to report {0} for: {1}. They will not be notified you are the reporter.",
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_BLOCK": "Also block this person",
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_BLOCK_DESC": "A blocked player cannot invite you to their party or communicate with you.",
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_CTA": "Send report",
+        "ID_SOCIAL_PLAYER_REPORT_CONFIRMATION_HEADER": "Report received",
+        "ID_SOCIAL_PLAYER_REPORT_CONFIRMATION_DESC": "You have reported {0} for: {1}. They will not be notified you are the reporter.",
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_DATE": "You can change your Embark ID again on {0}",
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_BLOCKED": "You have been blocked from changing your display name",
+        "ID_SOCIAL_PVE_ONLY": "PvE ONLY"
       },
       "KeysToMetaData": {
         "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_SENT": {
-          "Note": "Feedback for party invite"
+          "Note": "Feedback for party invite",
+          "Status": "approved"
         },
         "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_HEADER": {
-          "Note": "Feedback for party invite"
+          "Note": "Feedback for party invite",
+          "Status": "approved"
         },
         "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_FULL": {
-          "Note": "Feedback for party invite"
+          "Note": "Feedback for party invite",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_PLAYED_WITH_RECENTLY": {
-          "Note": "In Recent tab in social tab, decribes players that recently interacted/played with"
+          "Note": "In Recent tab in social tab, decribes players that recently interacted/played with",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_LAST_ROUND": {
-          "Note": "Out-lines what encounter was had with a player from previous round."
+          "Note": "Out-lines what encounter was had with a player from previous round.",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_LAST_ROUND_WITH": {
-          "Note": "In Recent tab in social tab, decribes players that recently interacted/played within a time frame"
+          "Note": "In Recent tab in social tab, decribes players that recently interacted/played within a time frame",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_HOURS_AGO": {
-          "Note": "Timeframe within hours players recently interacted/played with"
+          "Note": "Timeframe within hours players recently interacted/played with",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_DAYS_AGO": {
-          "Note": "Timeframe within hours players recently interacted/played with"
+          "Note": "Timeframe within hours players recently interacted/played with",
+          "Status": "approved"
         },
         "ID_SOCIAL_RECENT_STATUS_YEARS_AGO": {
-          "Note": "Timeframe within hours players recently interacted/played with"
+          "Note": "Timeframe within hours players recently interacted/played with",
+          "Status": "approved"
         },
         "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_TITLE": {
-          "Note": "Title on snackbar for failed party"
+          "Note": "Title on snackbar for failed party",
+          "Status": "approved"
         },
         "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_TITLE": {
-          "Note": "Title on snackbar for when a party won't be able to matchmake due to mismatched versions"
+          "Note": "Title on snackbar for when a party won't be able to matchmake due to mismatched versions",
+          "Status": "approved"
         },
         "ID_SOCIAL_FAILED_TO_JOIN_SNACKBAR_DESCRIPTION": {
-          "Note": "Description in the case when the player cannot join the party due to mismatched versions"
+          "Note": "Description in the case when the player cannot join the party due to mismatched versions",
+          "Status": "approved"
         },
         "ID_SOCIAL_PARTY_MATCHMAKING_FAIL_SNACKBAR_DESCRIPTION": {
-          "Note": "Description in the case when the player can join the party but when they won't be able to matchmake into a game, due to mismatched versions."
+          "Note": "Description in the case when the player can join the party but when they won't be able to matchmake into a game, due to mismatched versions.",
+          "Status": "approved"
         },
         "ID_SOCIAL_PARTY_LEADER_UPDATE_NEEDED_SNACKBAR_DESCRIPTION": {
-          "Note": "Description for when party leader has an older version."
+          "Note": "Description for when party leader has an older version.",
+          "Status": "approved"
         },
         "ID_SOCIAL_EMPTY_FRIENDS_LIST": {
-          "Note": "Show in the Friends tab if the friend list is empty."
+          "Note": "Show in the Friends tab if the friend list is empty.",
+          "Status": "approved"
         },
         "ID_SOCIAL_EMPTY_RECENT_LIST": {
-          "Note": "Show in the Recent tab if the Recent list is empty."
+          "Note": "Show in the Recent tab if the Recent list is empty.",
+          "Status": "approved"
         },
         "ID_SOCIAL_EMPTY_REQUEST_LIST": {
-          "Note": "Show in the Request tab if the Request list is empty."
+          "Note": "Show in the Request tab if the Request list is empty.",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_OFFENSIVE_NAME": {
+          "Note": "To replace \"offensive profile\"",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_DISRUPTIVE_GAMEPLAY": {
+          "Note": "To replace \"grieving\" so it's clearer to the player",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_HARASSMENT": {
+          "Note": "To replace \"spamming\"",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_REASON_DESC": {
+          "Note": "Updating the description in the Player Report popup. Player can only select 1 option",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_DESC": {
+          "Note": "Updating the description for the free text, to include that this is optional.",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_DESC": {
+          "Note": "Second step of the updated report flow. \"you are about to report [playername] for [reporting reason].",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_BLOCK": {
+          "Note": "Checkbox that lets the reporter automatically block the person they reported.",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_BLOCK_DESC": {
+          "Note": "Describes what blocking another player means.",
+          "Status": "approved"
+        },
+        "ID_SOCIAL_COPY_EMBARK_ID": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPEN_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_ONLINE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_REJECT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OFFLINE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_INCOMING_FRIEND_INVITES": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_INCOMING_PARTY_INVITES": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_ADD_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_SENT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_FAILED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_ALREADY_SENT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_INVALID": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_NOT_FOUND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_ALREADY_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_SELF": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_ACCEPTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_ADD_FRIEND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_INVITE_TO_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_MUTE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_UNMUTE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_ACCEPT_PARTY_INVITE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_DECLINE_PARTY_INVITE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_SEND_FRIEND_REQUEST": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_CANCEL_FRIEND_REQUEST": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_REMOVE_FRIEND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_ACCEPT_FRIEND_INVITE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_DECLINE_FRIEND_INVITE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_LEAVE_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_BLOCK_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_REPORT_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_KICK_FROM_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_SHOW_PLATFORM_PROFILE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_CHANGE_NAME": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_COPY_NAME": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_JOIN_VOIP": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_LEAVE_VOIP": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EMBARK_ID_COPIED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PREPARING_TO_DEPLOY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_SENT_INVITES": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_JOIN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_REPORT_SENT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_REMOVE_FRIEND_CONFIRMATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_BLOCK_PLAYER_CONFIRMATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_KICK_FROM_PARTY_CONFIRMATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPTION_FILL_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_FRIEND_REQUEST_RECEIVED_HEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_FRIEND_REQUEST_RECEIVED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_RECEIVED_HEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_RECEIVED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_JOIN_FAILED_TEXT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_INPUT_ADD_FRIEND_HINT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_ACTION_CONTINUE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_CHEATING": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_EXPLOITING": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_HINT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_MESSAGE_INFO": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_OFFENSIVEPROFILE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_OTHER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SCAMMING": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SEND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SPAMMING": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SUMMARY_DESC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SUMMARY_HEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_VERBALABUSE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_CONFIRM_LEAVE_PARTY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_CONFIRM_LEAVE_PARTY_TEXT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_MORE_THAN_99": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_SEND_PREAMBLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_RECENT_PLAYERS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_MATCHMAKING_LOCATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_MATCHMAKING_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_MATCHMAKING_IN_GAME": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_PROFILE_XBOX": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_REPORT_PLAYER_ALREADY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_JOIN_FAILED_FULL_TEXT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_HEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_FAILED_GENERIC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NAME_HINT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_NUMBERS_ROW": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_SYMBOLS_ROW": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_CHAR_RANGE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_LETTER_OR_NUMBER_END": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_REMAINING_DAYS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_SUCCESS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_SUCCESS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_REMAINING_HOURS_MINUTES": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_ERROR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_PROFANITY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_BUTTON_HIDE_DISCRIMINATOR": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_BUTTON_SHOW_DISCRIMINATOR": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_NOTIFICATION_PARTY_INVITE_PARTYLEADER_CLIENT_OUTDATED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_DESKTOP_NOTIFICATION_MATCHMAKING_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PARTY_LEAVE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TAB_REQUESTS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TAB_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TAB_RECENT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_PLAYER_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_MORE_ACTIONS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TAB_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_UNBLOCK_PLAYER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_CONFIRMATION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_CONFIRMATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_RECENT_STATUS_YEARS_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_RECENT_STATUS_HOURS_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_RECENT_STATUS_DAYS_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CANNOT_UNBLOCK_ON_EPIC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_CONTEXTUAL_JOIN_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPTION_OPEN_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPTION_OPEN_PARTY_DESC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPEN_PARTY_ERROR": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPEN_PARTY_ERROR_DESC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_OPTION_OPEN_PARTY_DESC_LEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_GRIEFING": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_STREAMER_GROUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY": {
+          "Status": "approved"
+        },
+        "ID_OPTIONS_SOCIAL_PRIVACY_MATCHMAKING_DELAY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_TOO_MANY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_FRIEND_REQUEST_RATE_LIMIT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_SECOND_STEP_CTA": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_CONFIRMATION_HEADER": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PLAYER_REPORT_CONFIRMATION_DESC": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_DATE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_EDIT_EMBARK_ID_COOLDOWN_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_PVE_ONLY": {
+          "Status": "approved"
         }
       }
     }

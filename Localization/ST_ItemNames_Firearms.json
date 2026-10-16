@@ -32,9 +32,117 @@
         "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_HEAVY_01_ALTERNATIVE": "Malleus",
         "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01": "Canto",
         "ST_ITEMNAME_FIREARM_SHOTGUN_ENERGY_ADJUSTABLE_01": "Dolabra",
-        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01_ALT": "Stanza"
+        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01_ALT": "Stanza",
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01": "Junior",
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE1": "Thump",
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE2": "Rascal",
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE3": "Punch",
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE4": "Buster",
+        "ST_ITEMNAME_FIREARM_HANDCANNON_DOUBLEACTION_SNUBNOSE_01": "Bantam",
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_SEMIAUTO_LIGHT_01": "Stiletto",
+        "ST_ITEMNAME_FIREARM_PISTOL_ENERGY_01": "§Energy_Pistol_01"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_BULLPUP_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_PNEUMATIC_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SMG_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SMG_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_LEVERACTION_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_BREACHACTION_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_PISTOL_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_PISTOL_SILENCED_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SPECIAL_SNIPERRIFLE_RAILGUN_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SHOTGUN_SEMIAUTO_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SHOTGUN_PUMPACTION_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SPECIAL_BEAMRIFLE_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_HANDCANNON_SINGLEACTION_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_BURST_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_LOWTIER_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_PISTOL_HIGHPOWER_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SNIPERRIFLE_BOLTACTION_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SPECIAL_GRENADELAUNCHER_ANTIARCLAUNCHER": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_HEAVY_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_ENERGYBURST_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_ASSAULTRIFLE_HEAVY_01_ALTERNATIVE": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SHOTGUN_ENERGY_ADJUSTABLE_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_SMG_MEDIUM_01_ALT": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE1": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE2": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE3": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE4": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_PISTOL_ENERGY_01": {
+          "Status": "new"
+        },
+        "ST_ITEMNAME_FIREARM_HANDCANNON_DOUBLEACTION_SNUBNOSE_01": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_FIREARM_BATTLERIFLE_SEMIAUTO_LIGHT_01": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

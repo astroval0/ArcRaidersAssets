@@ -12,9 +12,30 @@
         "RARITY_EPIC": "Epic",
         "RARITY_LEGENDARY": "Legendary",
         "RARITY_RARE": "Rare",
-        "RARITY_UNCOMMON": "Uncommon"
+        "RARITY_UNCOMMON": "Uncommon",
+        "ID_RARITY_AMPLIFIED": "Amplified"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "RARITY_COMMON": {
+          "Status": "approved"
+        },
+        "RARITY_EPIC": {
+          "Status": "approved"
+        },
+        "RARITY_LEGENDARY": {
+          "Status": "approved"
+        },
+        "RARITY_RARE": {
+          "Status": "approved"
+        },
+        "RARITY_UNCOMMON": {
+          "Status": "approved"
+        },
+        "ID_RARITY_AMPLIFIED": {
+          "Note": "Rarity name for Amplified weapons",
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

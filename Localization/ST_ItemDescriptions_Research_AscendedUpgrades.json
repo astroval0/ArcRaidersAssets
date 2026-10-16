@@ -1,0 +1,92 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemDescriptions_Research_AscendedUpgrades",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemDescriptions_Research_AscendedUpgrades",
+    "StringTable": {
+      "TableNamespace": "ST_ItemDescriptions_Research_AscendedUpgrades",
+      "KeysToEntries": {
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_ANTISHIELD": "Sustained damage could reveal exactly what makes a shield give out—and how to make that happen faster. For science, naturally.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_ANTIWEAKPOINT": "Even the toughest machines have their weak spots. Consistent strikes against vulnerable components could reveal a way to develop rounds that hit them where it hurts most. Metaphorically speaking.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_BIGGERMAG": "§ Increases the magazine capacity.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE": "Shredders manage rapid volleys with little downtime. Careful dismantling with a Raider Tool might preserve the firing assembly long enough to figure out how.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_CARBINECONVERSION": "§ Repurposes the Canto as a carbine, greatly improving stability and accuracy at the cost of agility.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST": "Some ARC machines appear capable of absorbing energy before putting it back to use. The same principle might be worth testing on something a little less insulated.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_DRUMMAG": "A standard magazine does its job, but it can only hold so much. Getting familiar with a drum-fed design could reveal how that extra room is put to use, and where the same idea might fit elsewhere.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_FULLAUTO": "§ Makes the weapon fully automatic, at the cost of accuracy and stability.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_HIGHVELOCITY": "§ Increases the velocity of the projectile fired.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCENDIARYGRENADES": "Most explosives end with the detonation. Blaze Grenades have the good sense to keep causing trouble afterward. There may be something worth borrowing in that.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCENDIARYROUNDS": "Impact damage is useful. Setting the problem on fire afterward feels like a reasonable improvement.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCREASEDBURST": "A burst has a beginning, a middle, and an end. The middle could probably use more bullets. Let's investigate.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_MAGRELOAD": "§ Removes the need to reload one projectile at a time.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_MORERELOAD": "§ Increases the number of bullets loaded at a time, reducing reload time.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_PROJECTILESPLITTER": "§ Replaces the Anvil's bullets with rounds that split into four weaker projectiles.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_RAMPINGDAMAGE": "The Equalizer is at its best when the beam stays exactly where the target would rather not have it. Maybe we can work with that.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SCOPED": "Elevated firing positions provide clear sightlines. Osprey field data under those conditions could support development of improved magnification.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SEMIAUTO": "Fast-moving threats leave little margin for hesitation. Close encounters with Skulkers could reveal ways to improve paced combat effectiveness.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SLUGROUNDS": "Shotgun engagements against drones offer a useful test of stopping power. Concentrating the full charge into a single projectile could produce far more decisive results.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SPRINTSHOOTING": "Fast movement is useful right up until a weapon needs to come into play. A weapon that keeps up with the pace would be useful.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_STRAIGHTBOLT": "The Hairpin wastes very little motion between shots. That sort of efficiency gets more interesting once a scope is involved.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_TRACKERROUNDS": "§ Replaces the bullets with tracker rounds that briefly reveal the position of targets they hit.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_XROUNDS": "Armor does a good job against bullets. Small explosions are less respectful of the arrangement. Combining the two might be worth exploring.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE_ALT1": "Burst weapons reward a good sense of timing. A few rounds with an Arpeggio against Pops and Fireballs should help build a feel for controlled volleys, and also provide some very satisfying target practice.",
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST_ALT1": "Energy rounds behave differently from conventional rounds. Repeated use against ARC could reveal how stored energy might be concentrated into a more deliberate burst."
+      },
+      "KeysToMetaData": {
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_ANTISHIELD": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_ANTIWEAKPOINT": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_DRUMMAG": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCENDIARYGRENADES": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCENDIARYROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_INCREASEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_RAMPINGDAMAGE": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SCOPED": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SEMIAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SLUGROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_SPRINTSHOOTING": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_STRAIGHTBOLT": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_XROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE_ALT1": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST_ALT1": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

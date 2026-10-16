@@ -38,7 +38,95 @@
         "ID_DATE_YEAR_TEMPLATE": "{0}",
         "ID_DATE_DAY_TEMPLATE": "{0}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_DATE_JANUARY": {
+          "Status": "approved"
+        },
+        "ID_DATE_FEBRUARY": {
+          "Status": "approved"
+        },
+        "ID_DATE_MARCH": {
+          "Status": "approved"
+        },
+        "ID_DATE_APRIL": {
+          "Status": "approved"
+        },
+        "ID_DATE_MAY": {
+          "Status": "approved"
+        },
+        "ID_DATE_JUNE": {
+          "Status": "approved"
+        },
+        "ID_DATE_JULY": {
+          "Status": "approved"
+        },
+        "ID_DATE_AUGUST": {
+          "Status": "approved"
+        },
+        "ID_DATE_SEPTEMBER": {
+          "Status": "approved"
+        },
+        "ID_DATE_OCTOBER": {
+          "Status": "approved"
+        },
+        "ID_DATE_NOVEMBER": {
+          "Status": "approved"
+        },
+        "ID_DATE_DECEMBER": {
+          "Status": "approved"
+        },
+        "ID_DATE_JANUARY_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_FEBRUARY_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_MARCH_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_APRIL_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_MAY_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_JUNE_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_JULY_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_AUGUST_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_SEPTEMBER_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_OCTOBER_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_NOVEMBER_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_DECEMBER_SHORT": {
+          "Status": "approved"
+        },
+        "ID_DATE_DAY": {
+          "Status": "approved"
+        },
+        "ID_DATE_MONTH": {
+          "Status": "approved"
+        },
+        "ID_DATE_YEAR": {
+          "Status": "approved"
+        },
+        "ID_DATE_YEAR_TEMPLATE": {
+          "Status": "approved"
+        },
+        "ID_DATE_DAY_TEMPLATE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

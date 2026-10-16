@@ -18,7 +18,35 @@
         "ID_LEGAL_ACCEPT": "Accept",
         "ID_LEGAL_TECHTEST2": "Tech Test 2"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LEGAL_TOS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_COPYRIGHT_NOTICE": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_PP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_BETA_TOS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_BETA_TOS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_BETA_TOS_LINK": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_REJECT": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_LEGAL_TECHTEST2": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

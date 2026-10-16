@@ -1,0 +1,95 @@
+[
+  {
+    "Type": "StringTable",
+    "Name": "ST_ItemNames_Research_AscendedUpgrades",
+    "Flags": "RF_Public | RF_Standalone | RF_Transactional | RF_WasLoaded | RF_LoadCompleted",
+    "Class": "UScriptClass'StringTable'",
+    "Package": "/Game/Pioneer/UI/Localization/ST_ItemNames_Research_AscendedUpgrades",
+    "StringTable": {
+      "TableNamespace": "ST_ItemNames_Research_AscendedUpgrades",
+      "KeysToEntries": {
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_ANTISHIELD": "Shield Stress Testing",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_ANTIWEAKPOINT": "Targeted Component Trial",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_BIGGERMAG": "§ Space Efficient Stacking",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE": "Burst Assembly Recovery",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_CARBINECONVERSION": "§ Exodus Carbine Tech",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST": "High-Voltage Exposure",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_DRUMMAG": "Magazine Geometry 101",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_FULLAUTO": "§ Sustained Fire Mechanisms",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_HIGHVELOCITY": "§ High Velocity Cartridge Design",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCENDIARYGRENADES": "Compact Combustion Charges",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCENDIARYROUNDS": "Thermite-Tipped Rounds",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCREASEDBURST": "Extended Burst Cycles",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_MAGRELOAD": "§ Quick-Load Magazine Retrofittings",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_MORERELOAD": "§ Stripper Clips",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_PROJECTILESPLITTER": "§ Payload Fragmentation Tech",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_RAMPINGDAMAGE": "Beam Resonance Tech",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SCOPED": "Top Mounted Optics Retrofittings",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SEMIAUTO": "Trigger Reset Systems",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SLUGROUNDS": "Solid-Core Casting Tech",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SPRINTSHOOTING": "Mobile-Fire Grip Fittings",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_STRAIGHTBOLT": "Action Economy",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_TRACKERROUNDS": "Ballistic Tracking Markers",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_XROUNDS": "Embedded Blast Engineering",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE_ALT1": "Burst-Fire Fundamentals",
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST_ALT1": "Energy Saturation Study"
+      },
+      "KeysToMetaData": {
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_ANTISHIELD": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_ANTIWEAKPOINT": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCENDIARYGRENADES": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_DRUMMAG": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCENDIARYROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_INCREASEDBURST": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_RAMPINGDAMAGE": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SCOPED": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SEMIAUTO": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SLUGROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_SPRINTSHOOTING": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_STRAIGHTBOLT": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_TRACKERROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_XROUNDS": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_BURSTFIRE_ALT1": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAME_RESEARCH_ASCENDEDUPGRADES_CHARGEDBURST_ALT1": {
+          "Status": "approved"
+        }
+      }
+    }
+  }
+]

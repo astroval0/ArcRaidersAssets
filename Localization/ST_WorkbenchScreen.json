@@ -12,7 +12,17 @@
         "ID_WORKBENCH_SCREEN_DISMANTLE": "Dismantle",
         "ID_WORKBENCHSCREEN_DETAILS": "Details"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_WORKBENCH_SCREEN_SORT_BY": {
+          "Status": "approved"
+        },
+        "ID_WORKBENCH_SCREEN_DISMANTLE": {
+          "Status": "approved"
+        },
+        "ID_WORKBENCHSCREEN_DETAILS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

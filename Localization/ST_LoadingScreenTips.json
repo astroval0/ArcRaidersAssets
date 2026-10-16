@@ -79,9 +79,242 @@
         "ID_LOADINGSCREEN_MATRIARCHSOLO": "There's brave, there's stupid, and then there's \"I'm gonna take on a Matriarch alone.\" Guess which one's extinct.",
         "ID_LOADINGSCREEN_SOURCE_ALESSIA": "Alessia (veteran Raider)",
         "ID_LOADINGSCREEN_SOURCE_TOMAS": "Tomás (veteran Raider)",
-        "ID_LOADINGSCREEN_MATRIARCHBASTIONS": "We were quite sure it couldn't get any worse - but then the Matriarch called in her Bastions."
+        "ID_LOADINGSCREEN_MATRIARCHBASTIONS": "We were quite sure it couldn't get any worse - but then the Matriarch called in her Bastions.",
+        "ID_LOADINGSCREEN_FLASHFREEZE": "Flash Freezes regularly trouble Pendola Pass. Get to safety inside, or head toward the well-stocked Emergency Shelters.",
+        "ID_LOADINGSCREEN_FROZENTRAIL_DYNAMICLOOT": "In Pendola Pass, the loot quality of major locations varies between rounds.",
+        "ID_LOADINGSCREEN_STEAL_SKYBUCKET": "Stealing someone else's Ballistic Gondola might make even the friendliest of Raiders see red.",
+        "ID_LOADINGSCREEN_ELEVATORSHUTDOWN_ALT1": "During a round, most types of return points will be gradually shut down."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LOADINGSCREEN_HURT": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SCAVENGE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PREPARED": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RECYCLE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARMORBENCH": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_FREERESOURCES": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_TRACKING": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARMORUPGRADET1": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARMORUPGRADET2": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RECOIL": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_STEALTH": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_MULTIPLESOLUTIONS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_EVERYSHOTMATTERS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_DODGEROLL": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARCPLATING": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_HIDDENLOOT": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_DONTSHOOT": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDERCAUTION1": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDERCAUTION2": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDERCAUTION3": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDERCAUTION4": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_RAIDERCAUTION5": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_OPENSPACES": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARMORWEIGHT": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ELEVATORSHUTDOWN": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ARCTHRUSTERS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_LOCKEDDOORS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SCAVENGEDRONES": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ACCURACY": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_EMOTEWHEEL": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PINGBUTTON": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_TRACKEDITEMS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_REQUESTAMMO": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_REQUESTWEAPON": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_CONTAINERITEMS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_PING_AUDIBLEBARKS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_WEAPONBENCH": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_FARAH": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_RAIDERPROVERB": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_OLAYEMI": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_TIANWEN": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_CELESTE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_GIANNI": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_LANCE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_SILVIA": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_SHANI": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_APOLLO": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_ZAHIR": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_VALENTINA": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_CHARLES": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_DAVID": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_ELEONORA": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREENTIPS_UNARMED": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_USABLEARCPARTS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_WEAPONREPAIR": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREENTOOLTIPS_PRACTICERANGE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SAFEPOCKETPROTECTION": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SCARCEAMMO": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_BARRICADEREPACK": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_TRADERRUN": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREENTIPS_FIELDCRATES": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ENERGYAMMO": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_THREETICKS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_AUGMENTESSENTIAL": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_MATRIARCHSOLO": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_ALESSIA": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_SOURCE_TOMAS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_MATRIARCHBASTIONS": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_FLASHFREEZE": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_FROZENTRAIL_DYNAMICLOOT": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_STEAL_SKYBUCKET": {
+          "Status": "approved"
+        },
+        "ID_LOADINGSCREEN_ELEVATORSHUTDOWN_ALT1": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

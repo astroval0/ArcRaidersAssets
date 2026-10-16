@@ -30,6 +30,24 @@
         "ID_VIDEOSUB_TT1OPENING_019": "Who knows? Maybe you'll make a friend or two here.",
         "ID_VIDEOSUB_TT1OPENING_020": "But watch your back,",
         "ID_VIDEOSUB_TT1OPENING_021": "you never know who you can trust.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_010": "Those stories got us through many a journey.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_020": "Embellished, I’m sure,",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_030": "but not outright lies.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_040": "They say they discovered it by accident.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_050": "A single burst of energy,",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_060": "enough to fray wires right through the plating.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_070": "We’ve never been able to outgun them; not us.",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_080": "But to outsmart them; stay one step ahead?",
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_090": "That, we had perfected.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_010": "Flying kites by the riverbed...",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_020": "Playing jumprope with mooring lines.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_030": "One time, we made it halfway up the stacking cranes.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_040": "It's never just losing a home.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_050": "Precious few still believe, these days.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_060": "Now we cower underground;",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_070": "scramble over scraps.",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_080": "And that laughter,",
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_090": "once it fades - well...",
         "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_010": "The camps...",
         "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_020": "Feels like forever we could spend our nights on the surface;",
         "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_030": "when we still thought we had a chance",
@@ -403,8 +421,8 @@
         "ID_VIDEOSUB_RIVENTIDESTEASER_003": "It looks… calmer than I expected out there.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_004": "Almost like how I remember it.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_005": "It’s still there.",
-        "ID_VIDEOSUB_RIVENTIDESTEASER_006": "I mean, it would be. I’m not sure what I expected.",
-        "ID_VIDEOSUB_RIVENTIDESTEASER_007": "It… looks like it held together better than I thought it would.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_006": "I mean, it would be.",
+        "ID_VIDEOSUB_RIVENTIDESTEASER_007": "It held together better than I thought it would.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_008": "I guess we’ll see how true that is once we get there.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_009": "You build it up in your head, coming back to a place like this.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_010": "I don’t think I accounted for how familiar it would feel.",
@@ -420,611 +438,2342 @@
         "ID_VIDEOSUB_RIVENTIDESTEASER_020": "It’s nice to see the coastline again, even if I can’t be there in person.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_021": "The ocean… it’s been a while.",
         "ID_VIDEOSUB_RIVENTIDESTEASER_022": "It’s time to get some antennas on those beautiful beaches.",
-        "ID_VIDEOSUB_RIVENTIDESTEASER_023": "and this is where that makes sense."
+        "ID_VIDEOSUB_RIVENTIDESTEASER_023": "and this is where that makes sense.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0010": "Go on. They're right there.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0020": "You go, then.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0030": "They’ve been up there, all this time...",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0040": "I heard they never shoot a bullet;",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0050": "that they make offerings to Queens and Matriarchs.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0060": "Who knows what they want.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0070": "One way to find out, I guess.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0010": "Looks like they’ve been… Thriving.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0020": "Up there? All this time?",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0030": "Who knows where they may have been?",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0010": "They don’t seem desperate.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0020": "They don’t seem so tough, either.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0020": "And not a whole lot of them.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0030": "Perhaps that’s the point.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0030": "Perhaps that’s the point. Perhaps they don’t need to.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0010": "They’re just… People.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0040": "Perhaps they don’t need to.",
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0080": "Welcome, Raider.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0010": "There's a whole valley up north,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0020": "unnoticed by ARC.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0030": "Old structures, just waiting to be fixed up.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0040": "You won't just be passing through;",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0050": "you'd have a place there.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0060": "It’s felt impossible for a long time,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0070": "living up there again,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0080": "on the surface.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0090": "Thanks to the Nomads,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0100": "it’s feeling less like a dream now.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0110": "They’ve shown us how to survive",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0120": "areas of the Rust Belt that aren’t so…",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0130": "crowded.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0140": "They’re not much now,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0150": "but with some love,",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0160": "they could be proper dwellings some day.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0170": "A new frontier.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0180": "But it’s going to take a lot of effort",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0190": "…and a lot of duct tape.",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0200": "But hey, I have a feeling",
+        "ID_VIDEOSUB_OUTPOST_INTRO_0210": "you might be up for it.",
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0010": "I can’t promise you’re going to",
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0020": "love the weather out there, but hey:",
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0030": "no nosy neighbors is a start, isn’t it?",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0010": "You’d hear it in the cantinas,",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0020": "every now and then.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0030": "Spaceships went up.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0040": "Machines came down.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0050": "Simple enough.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0060": "But when the ceiling’s crumbling?",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0070": "When Raiders fight each other",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0080": "over empty stomachs and bruised egos?",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0090": "Hard to care about something so far away.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0100": "I was wrong; I see that now.",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0110": "Because if mere humans",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0120": "could build all of this:",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0130": "who knows what we ourselves",
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0140": "may be capable of?",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0010": "Those stories got us through many a journey.",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0020": "Embellished, I’m sure,",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0030": "but not outright lies.",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0040": "They say they discovered it by accident.",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0050": "A single burst of energy,",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0060": "enough to fray wires",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0070": "right through the plating.",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0080": "We’ve never been able to outgun them;",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0090": "not us.",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0100": "But to outsmart them;",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0110": "stay one step ahead?",
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0120": "That, we had perfected.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0010": "We’ve been tearing out ARC parts",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0020": "since the First Wave.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0030": "Some we learned to use.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0040": "Most blew up in our faces.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0050": "Over time, we really thought",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0060": "we were gaining ground.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0070": "But then this Emperor came down,",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0080": "and ARC descended on the Rust Belt",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0090": "like never before.",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0100": "Now, we’re happy",
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0110": "just to fight another day.",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0010": "We used to call them Nomadic tales.",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0020": "Machines so large",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0030": "they’d block out the sun.",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0040": "Make-believe.",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0050": "But then the hurricanes started hitting,",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0060": "and the Turbines appeared on the coast.",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0070": "And when glitched Wasps",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0080": "started heading towards the summit?",
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0090": "It was hard to keep denying, then.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0010": "You called for me.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0020": "I did.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0030": "Make yourself at home.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0040": "I already answered your “volunteer call.”",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0050": "Yeah. A disappointing answer,",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0060": "by the way.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0070": "I’m not interested.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0080": "The northern route is suicide this time of year.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0090": "This one's different.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0100": "There’s a high chance of some rare tech.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0110": "Stuff we’ve never touched before.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0120": "I got all I need.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0130": "You’re not listening.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0140": "There’s…",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0150": "something out there.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0160": "Up north.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0170": "According to who?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0180": "Three separate scouting parties..",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0190": "before they vanished.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0200": "Ah.Dead witnesses.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0210": "Very convincing.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0220": "One of the big walkers is down.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0230": "Wait, what do you mean, down?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0240": "An Emperor?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0250": "Swarms of ARC are headed there.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0260": "We need to beat them to it.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0270": "You’re not selling this well.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0280": "I’m not trying to sell it.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0290": "I don't know about this.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0300": "It sounds like a death trap.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0310": "It might be.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0320": "I trust you’re competent enough to handle it.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0330": "Was that supposed to be a compliment?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0340": "Don’t get used to it.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0350": "Even if I agreed,",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0360": "we’d need proper gear for the cold.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0370": "Planning.Weapons.A full team.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0380": "Done.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0390": "Look, this is more than just a one-off.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0400": "I'm considering…",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0410": "sending more people up there, permanently.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0420": "How?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0430": "There's a whole valley up north",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0440": "unnoticed by ARC.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0450": "And in between?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0460": "Old structures,",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0470": "just waiting to be fixed up.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0480": "You won't just be passing through—",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0490": "you'd have a place there.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0500": "There’s… more to it.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0510": "I’ve been planning something.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0520": "That’s ominous.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0530": "There's a whole valley up north,",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0540": "without ARC presence.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0550": "We found old structures;",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0560": "sturdy ones, just waiting to be fixed up.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0570": "If this works out,",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0580": "you’d be first in line to get one.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0590": "If I go, I need time to prepare.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0600": "At least one day.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0610": "I can't give you that;",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0620": "the others are already—",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0630": "Then find another Raider.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0640": "OK. One day.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0650": "Take the North Line as far as it goes.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0660": "Apollo’s been working on a way",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0670": "to get you to the summit.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0680": "Take the North Line as far as it goes.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0690": "What are my chances here?",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0700": "That'll be up to you.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0710": "Guess we’re about to find out.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0720": "You’ll have to tell me when you get back.",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0730": "I’ll get you as far as I can—",
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0740": "the rest is up to you.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0010": "The crisp air quiets the mind.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0020": "Every inhale one step closer",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0030": "to leaving your mortal coil behind.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0040": "Paths unwalked.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0050": "Soil, untrampled.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0060": "We used to sing songs",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0070": "of the untouched summits.",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0080": "Dream of a place",
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0090": "where fear couldn’t reach.",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_03": "Pendola Pass",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_02": "North",
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_01": "Calabretta"
       },
       "KeysToMetaData": {
+        "ID_VIDEOSUB_ONSCREEN_EMBARKPRESENTS": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_001": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_002": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_003": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_004": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_005": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_006": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_007": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_008": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_009": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_011": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_012": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_013": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_014": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_015": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_016": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_017": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_018": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_019": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT1OPENING_021": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_THEFIRSTNOMADS_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_CELESTECHILDHOODDRAWINGS_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_LOOTRAIDERCAMPS_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_INVESTIGATEARCPARTTWO_100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_0011": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_0012": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_0013": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_0014": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0010_ALT2": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0011": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0011_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0013": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0014": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0015": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0016": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_MEETINGSHANI_0010": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0110": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_0120": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0010": {
+          "Status": "approved",
           "Note": "Male"
         },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0050": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0060": {
+          "Status": "approved",
           "Note": "Female"
         },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0110": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0120": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0130": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0140": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0150": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0160": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0170": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0180": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0190": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0200": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_0100": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0010": {
+          "Status": "approved",
           "Note": "Female"
         },
         "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0020": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0030": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0040": {
+          "Status": "approved",
           "Note": "Male"
         },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_THEDAM_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_YEAR": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_MEETINGSHANI_0005": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_SPEAKERTAG_SHANI": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MEETINGSHANI_SPEAKERTAG_OPERATOR": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0025": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0027": {
+          "Status": "approved",
           "Note": "Female"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075": {
+          "Status": "approved",
           "Note": "Female"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0210": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0230": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0240_ALT1": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0250": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0260": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0270": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0280": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0290": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_01": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_02": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_ONSCREEN_LOCATION_03": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_01": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_02": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_SPACEPORT_ONSCREEN_LOCATION_03": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0013": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_BURIEDCITY_0012": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MEETINGSHANI_ONSCREEN_SHANISECURITY": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MEETINGSHANI_ONSCREEN_TOLEDOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_RUSTBELTSOUTHCALABRETTA": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_THEWANDERER_ONSCREEN_0012_ALT2": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_030": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_040": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_050": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_060": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_070": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_WHEATPARTTHREE_080": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_030": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_040": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_050": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_060": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SECUREWATERPARTTHREE_070": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_015": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_030": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_040": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_050": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_060": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_070": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_080": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_090": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_100": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_110": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_120": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_130": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_140": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_150": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_160": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_170": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_010": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_020": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_030": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_040": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_050": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_060": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_070": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_080": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_090": {
+          "Status": "approved",
           "Note": "Male"
         },
         "ID_VIDEOSUB_QUESTS_MOREARCPARTTWO_100": {
+          "Status": "approved",
           "Note": "Male"
         },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220_ALT2": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_030": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_040": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_050": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_060": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_070": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_080": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_030": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_040": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_010": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_020": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_030": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_010": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_020": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_030": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_040": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT1_050": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_010": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_020": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_030": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_SHANI_ALT2_040": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_010": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_020": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_030": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_040": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_050": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_060": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_070": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_080": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_090": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_100": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_110": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_120": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_130": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_140": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_150": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_160": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_170": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_180": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_190": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_200": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_210": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_220": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
         "ID_VIDEOSUB_QUESTS_ADEADEND_PRESSCONFERENCE_221": {
+          "Status": "approved",
           "Note": "Spokesperson (male)"
         },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_ONSCREEN_LOCATION_BLUEGATE": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_NORTH": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_CALABRETTANORTH": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_LOCATION_CALABRETTASOUTH": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0010": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0020": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0030": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0040": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0050": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0060": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0070": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0080": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0090": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0100": {
+          "Status": "approved",
           "Note": "Apollo (male)"
         },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0200": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0300": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0400": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0500": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_0600": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0200": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0300": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0400": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0500": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0600": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0700": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0800": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_0900": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT1_1000": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0200": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0300": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0400": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_STELLAMONTIS_ALT2_0500": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0010_ALT1": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0020_ALT1": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0030_ALT1": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_LIVING_0040_ALT1": {
+          "Status": "approved",
           "Note": "Wyatt (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT1": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT1": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT1": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT1": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT1": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0010_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0020_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0030_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0040_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0050_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0060_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_FOOD_0070_ALT2": {
+          "Status": "approved",
           "Note": "Ryan (male)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT1": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT1": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT1": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0040_ALT1": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0010_ALT2": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0020_ALT2": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_THEDAM_SCAVENGING_0030_ALT2": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_NEW_LOCATION": {
+          "Status": "approved",
           "Note": "Written out on top of the map cinematic when unlocking - alternative"
         },
+        "ID_VIDEOSUB_QUESTS_FINALARCPARTTWO_ALT3_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_SEARCHVICTORYRIDGE_025": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_DORMANTBARONS_100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_SYMBOLOFUNIFICATION_005": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT2": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0075_ALT3": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0220_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0230_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_WELCOMETOSPERANZA_0235": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_BLUEGATE_0070_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_100": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_110": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_ONSCREEN_NEW_LOCATION_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_EXPEDITIONDEPARTURE_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_090_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_QUESTS_GROUNDBREAKING_100_ALT1": {
+          "Status": "approved"
+        },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_010": {
+          "Status": "approved",
           "Note": "Raider 1 (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_020": {
+          "Status": "approved",
           "Note": "Raider 2 (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_030": {
+          "Status": "approved",
           "Note": "Raider 3 (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_040": {
+          "Status": "approved",
           "Note": "Raider 2 (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT1": {
+          "Status": "approved",
           "Note": "Raider 2 (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT2": {
+          "Status": "approved",
           "Note": "Raider 2 (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_040_ALT3": {
+          "Status": "approved",
           "Note": "Raider 2 (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_050": {
+          "Status": "approved",
           "Note": "Raider 1 (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_060": {
+          "Status": "approved",
           "Note": "Dino (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_070": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_070_ALT1": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_080": {
+          "Status": "approved",
           "Note": "Dino (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_090": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_090_ALT1": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_100": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_110": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_120": {
+          "Status": "approved",
           "Note": "Raider (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_130": {
+          "Status": "approved",
           "Note": "Raider (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_140": {
+          "Status": "approved",
           "Note": "Tian Wen (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_150": {
+          "Status": "approved",
           "Note": "Raider (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_160": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_170": {
+          "Status": "approved",
           "Note": "Raider (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_180": {
+          "Status": "approved",
           "Note": "Raider (male)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_190": {
+          "Status": "approved",
           "Note": "Raider (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_200": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_210": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_220": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_230": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_240": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_250": {
+          "Status": "approved",
           "Note": "Shani (female)"
         },
         "ID_VIDEOSUB_INTRO_FLASHPOINT_260": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0010": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0020": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0030": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0040": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0050": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0060": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0070": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0080": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0090": {
+          "Status": "approved",
           "Note": "Celeste (female)"
         },
         "ID_VIDEOSUB_MAPUNLOCK_RIVENTIDES_0100": {
+          "Status": "approved",
           "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_001": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_002": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_003": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_004": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_005": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_006": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_007": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_008": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_009": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_011": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_012": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_013": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_014": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_015": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_016": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_017": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_018": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_019": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_021": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_022": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_RIVENTIDESTEASER_023": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT1_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT2_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_ALT3_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TRADERUNLOCK_JUANITO_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0010": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0040": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0050": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0060": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0070": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0080": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0090": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0100": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0110": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0120": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0130": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0140": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0150": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0160": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0170": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0180": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0190": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0200": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_INTRO_0210": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0010": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_OUTPOST_UNLOCK_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0010": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0040": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0050": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0060": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0070": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0080": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0090": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0100": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0110": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0120": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0130": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_STORMINGSPACEPORT_0140": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0010": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0020": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0030": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0040": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0050": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0060": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0070": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0080": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0090": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0100": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0110": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_FIRSTNOMADS_0120": {
+          "Status": "approved",
+          "Note": "Cassio (male)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0010": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0040": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0050": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0060": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0070": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0080": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0090": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0100": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_BIGFALLENARC_0110": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0010": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0040": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0050": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0060": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0070": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0080": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_QUESTS_DISRUPTINGTHEFRIGATE_0090": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0010": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0020": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0030": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0040": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0050": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0060": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0070": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0080": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0090": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0100": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0110": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0120": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0130": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0140": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0150": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0160": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0170": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0180": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0190": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0200": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0210": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0220": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0230": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0240": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0250": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0260": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0270": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0280": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0290": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0300": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0310": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0320": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0330": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0340": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0350": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0360": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0370": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0380": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0390": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0400": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0410": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0420": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0430": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0440": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0450": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0460": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0470": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0480": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0490": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0500": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0510": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0520": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0530": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0540": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0550": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0560": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0570": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0580": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0590": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0600": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0610": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0620": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0630": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0640": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0650": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0660": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0670": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0680": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0690": {
+          "Status": "approved",
+          "Note": "Raider (male)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0700": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0710": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0720": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0730": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_FROZENTRAIL_INTROMOVIE_0740": {
+          "Status": "approved",
+          "Note": "Celeste (female)"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0010": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0020": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0030": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0040": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0050": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0060": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0070": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0080": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_MAPUNLOCK_PENDOLAPASS_0090": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_03": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_02": {
+          "Status": "approved"
+        },
+        "ID_VIDEOSUB_TT2_MAPUNLOCK_PENDOLAPASS_ONSCREEN_LOCATION_01": {
+          "Status": "approved"
         }
       }
     }

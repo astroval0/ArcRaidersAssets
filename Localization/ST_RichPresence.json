@@ -57,23 +57,168 @@
         "ID_RICH_PRESENCE_EOR_FAILED": "Failed Return",
         "ID_RICH_PRESENCE_EOR": "End of Round",
         "ID_RICH_PRESENCE_FAILED": "Failed Return",
-        "ID_RICH_PRESENCE_WON": "Returning to Speranza"
+        "ID_RICH_PRESENCE_WON": "Returning to Speranza",
+        "ID_RICH_PRESENCE_LEFT_THE_PARTY": "Left the Party"
       },
       "KeysToMetaData": {
         "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN": {
-          "Note": "Used for Raider Den and Character Apperance"
+          "Note": "Used for Raider Den and Character Apperance",
+          "Status": "approved"
         },
         "ID_RICH_PRESENCE_IN_PARTY_RAIDER_DEN_ALT_1": {
-          "Note": "Used for Raider Den and Character Apperance"
+          "Note": "Used for Raider Den and Character Apperance",
+          "Status": "approved"
         },
         "ID_RICH_PRESENCE_EOR": {
-          "Note": "Describes screen the player is on, it is shown below name"
+          "Note": "Describes screen the player is on, it is shown below name",
+          "Status": "approved"
         },
         "ID_RICH_PRESENCE_FAILED": {
-          "Note": "Describes if player failed to extract/survive in the End of Round."
+          "Note": "Describes if player failed to extract/survive in the End of Round.",
+          "Status": "approved"
         },
         "ID_RICH_PRESENCE_WON": {
-          "Note": "Describes if player succeded to extract/survive in the End of Round."
+          "Note": "Describes if player succeded to extract/survive in the End of Round.",
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_LEFT_THE_PARTY": {
+          "Note": "Tag of a player when they leave the squad in the Eor Squad walk sequence",
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_GAME": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_GAME_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_GAME_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_GAME_ALT_3": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_1_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_2": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_2_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_3": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY_SIZE_3_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_PARTY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_MENU": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_MENU_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_MENU_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_IDLE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_READY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_NOT_READY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_SETTINGS": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_SETTINGS_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_WORKSHOP": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_WORKSHOP_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_INVENTORY_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_LOADOUT_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_TRADERS": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_STORE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_STORE_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_SKILLTREE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_CODEX": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_CODEX_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_MASTERY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_MASTERY_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_MAP": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_MAP_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_PARTY_FALLBACK": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_QUEUE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_IN_GAME_TIMER": {
+          "Status": "new"
+        },
+        "ID_RICH_PRESENCE_PARTY_COUNT": {
+          "Status": "new"
+        },
+        "ID_RICH_PRESENCE_READY": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_ELSEWHERE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_INVISIBLE": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_EOR_WON": {
+          "Status": "approved"
+        },
+        "ID_RICH_PRESENCE_EOR_FAILED": {
+          "Status": "approved"
         }
       }
     }

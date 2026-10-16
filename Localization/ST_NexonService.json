@@ -9,33 +9,128 @@
       "TableNamespace": "ST_NexonService",
       "KeysToEntries": {
         "ID_NEXON_SERVICE_NEXON": "Nexon",
-        "ID_NEXONSERVICE_RATINGSCREEN_BODY": "The game is rated for ages 15 and older, and it is not suitable for adolescents under that age.",
-        "ID_NEXONSERVICE_PCCAFE_BONUS": "Active buffs (PC Cafe Benefits)",
-        "ID_NEXONSERVICE_PCCAFE_BENEFITS": "PC CAFE BENEFITS",
-        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_WARNING": "Game access is unavailable from {0} due to the Gaming Time Selection System.",
-        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_QUIT_DESC": "Game access has been blocked due to the Gaming Time Selection System.",
-        "ID_NEXONSERVICE_IMMERSIONPREVENTION": "Your game time has passed by {0} {0}|plural(one=hour,other=hours). Excessive game use can interfere with your normal daily life.",
-        "ID_NEXONSERVICE_TERMS_AGREEMENT_REQUIRED": "To play the game, please agree to the Terms and try again.",
+        "ID_NEXONSERVICE_RATINGSCREEN_BODY": "This game is rated 15+. Content may not be suitable for players under 15.",
+        "ID_NEXONSERVICE_PCCAFE_BONUS": "Active Buff (PC Café)",
+        "ID_NEXONSERVICE_PCCAFE_BENEFITS": "PC Café Benefits",
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_WARNING": "Game access is unavailable from {0} due to the Game Time Selection System.",
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_QUIT_DESC": "Game access has been blocked due to the Game Time Selection System.",
+        "ID_NEXONSERVICE_IMMERSIONPREVENTION": "You have been playing for {0} {0}|plural(one=hour,other=hours). Excessive gameplay may interfere with your daily life.",
+        "ID_NEXONSERVICE_TERMS_AGREEMENT_REQUIRED": "Please agree to the Terms of Service to continue.",
         "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_TITLE": "Your item has arrived.",
-        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY": "Your item has arrived. Confirm your purchase to receive it.\r\n\r\nYou may request a refund within 7 days of purchase.",
-        "ID_NEXONSERVICE_MESSAGE_ACTION_CONFIRM_PURCHASE": "Confirm",
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY": "Your item has arrived. Press [Confirm Purchase] to claim it.\r\n\r\nYou may cancel within 7 days of purchase.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_CONFIRM_PURCHASE": "Confirm Purchase",
         "ID_NEXONSERVICE_MESSAGE_PURCHASE_STATUS": "Purchase",
-        "ID_NEXONSERVICE_PURCHASE_CONFIRM_MESSAGE": "Do you want to confirm the purchase?\r\nOnce you confirm the purchase, you cannot withdraw it.",
-        "ID_NEXONSERVICE_WITHDRAW_CONFIRM_MESSAGE": "Do you want to withdraw the purchase?\r\nIf you withdraw the purchase, you will not be able to use the item.",
-        "ID_NEXONSERVICE_MESSAGE_ACTION_WITHDRAW_PURCHASE": "Withdraw",
-        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_FAILED_EXPIRED": "The withdrawal period has expired.",
+        "ID_NEXONSERVICE_PURCHASE_CONFIRM_MESSAGE": "Do you want to confirm this purchase?\r\nOnce confirmed, this purchase cannot be canceled.",
+        "ID_NEXONSERVICE_WITHDRAW_CONFIRM_MESSAGE": "Do you want to cancel this purchase?\r\nIf you cancel, the item will no longer be available.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_WITHDRAW_PURCHASE": "Cancel Purchase",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_FAILED_EXPIRED": "The cancellation period has expired.",
         "ID_NEXONSERVICE_KR_LEGAL_WITHDRAW": "The purchased item can be canceled from your Inbox within 7 days.",
-        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TITLE": "Purchase completed",
+        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TITLE": "Purchase Complete",
         "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TO_INBOX": "Purchase completed. You can check the item in your Inbox.",
         "ID_NEXONSERVICE_PRODUCT_PENDING_CLAIM": "Pending Claim",
-        "ID_NEXONSERVICE_DISCONNECT_GUSS": "The connection to the server has been lost.",
-        "ID_NEXONSERVICE_MESSAGE_CLAIM_PURCHASED_PRODUCT_FAILED": "Failed to claim the purchased product.",
-        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_FAILED": "Failed to refund the purchased product.",
-        "ID_NEXONSERVICE_STORE_ITEM_PENDING_CLAIM": "This item is pending claim",
-        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_SUCCESS": "Purchase cancellation complete.",
-        "ID_NEXONSERVICE_MESSAGE_ACTION_DELETE_ERROR_HAS_PENDING": "Please complete the pending purchase before deleting the message."
+        "ID_NEXONSERVICE_DISCONNECT_GUSS": "Failed to connect to the server.",
+        "ID_NEXONSERVICE_MESSAGE_CLAIM_PURCHASED_PRODUCT_FAILED": "Failed to claim the purchased item.",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_FAILED": "Failed to process the refund.",
+        "ID_NEXONSERVICE_STORE_ITEM_PENDING_CLAIM": "This item is pending claim.",
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_SUCCESS": "Purchase successfully canceled.",
+        "ID_NEXONSERVICE_MESSAGE_ACTION_DELETE_ERROR_HAS_PENDING": "You have a pending purchase. Please complete or cancel it before deleting.",
+        "ID_NEXONSERVICE_DISCONNECT_GUSS_MESSAGE": "Please restart the game to continue.",
+        "ID_NEXONSERVICE_DISCONNECT_GUSS_TITLE": "Game Restart Required",
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY_ITEMTITLE": "Item Name: **{0}**",
+        "ID_NEXONSERVICE_MESSAGE_CLAIM_ALL_NOT_AVAILABLE_FOR_PENDING_PURCHASE": "Nexon purchased items cannot be claimed with [Claim All]. Please claim them individually."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_NEXON_SERVICE_NEXON": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_RATINGSCREEN_BODY": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_PCCAFE_BONUS": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_PCCAFE_BENEFITS": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_WARNING": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_SELECTIVE_SHUTDOWN_QUIT_DESC": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_IMMERSIONPREVENTION": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_TERMS_AGREEMENT_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_ACTION_CONFIRM_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_PURCHASE_STATUS": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_PURCHASE_CONFIRM_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_WITHDRAW_CONFIRM_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_ACTION_WITHDRAW_PURCHASE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_FAILED_EXPIRED": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_KR_LEGAL_WITHDRAW": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_STORE_PURCHASE_COMPLETE_TO_INBOX": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_PRODUCT_PENDING_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_DISCONNECT_GUSS": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_CLAIM_PURCHASED_PRODUCT_FAILED": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_FAILED": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_STORE_ITEM_PENDING_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_WITHDRAW_PURCHASED_PRODUCT_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_ACTION_DELETE_ERROR_HAS_PENDING": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_DISCONNECT_GUSS_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_DISCONNECT_GUSS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_PURCHASED_PRODUCT_BODY_ITEMTITLE": {
+          "Status": "approved"
+        },
+        "ID_NEXONSERVICE_MESSAGE_CLAIM_ALL_NOT_AVAILABLE_FOR_PENDING_PURCHASE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

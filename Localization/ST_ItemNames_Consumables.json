@@ -19,7 +19,38 @@
         "ID_ITEMNAMES_CONSUMABLES_HERBAL_BANDAGE": "Herbal Bandage",
         "ID_ITEMNAMES_CONSUMABLES_SHIELD_OVER_TIME_PACK": "Shield Recharger"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_CONSUMABLES_ADRENALINE_SHOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_ARMOR_PATCHER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_STERILIZED_BANDAGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_BANDAGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_VITA_SHOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_AGAVE_JUICE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_FLOWERS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_FRUIT_MIX": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_HERBAL_BANDAGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONSUMABLES_SHIELD_OVER_TIME_PACK": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

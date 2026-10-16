@@ -24,9 +24,62 @@
         "ID_ITEMNAMES_DEPLOYABLES_REMOTETRAP_FIREWORKBOX": "Fireworks Box",
         "ID_ITEMNAMES_DEPLOYABLES_EMITTERTRAP_TESLACOIL": "Surge Coil",
         "ID_ITEMNAMES_DEPLOYABLES_WHITEFLAG": "White Flag",
-        "ID_ITEMNAMES_DEPLOYABLES_RAIDERONASTICK": "Decoy Helmet"
+        "ID_ITEMNAMES_DEPLOYABLES_RAIDERONASTICK": "Decoy Helmet",
+        "ID_ITEMNAMES_DEPLOYABLES_TETHERMINE": "§Tether Mine"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_DEPLOYABLES_BARRICADE_KIT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_DOORBLOCKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_DOTGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_SMOKEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_STAMINADOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_LASERTRAP_THROWABLEDECOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_TIMEDMINE_EXPLOSIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_IMPULSE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_STAMINADOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_EXPLOSIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_JUMPMINE_STUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_SOUNDTRAP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_LAUNCHPAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_REMOTETRAP_FIREWORKBOX": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_EMITTERTRAP_TESLACOIL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_WHITEFLAG": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEPLOYABLES_RAIDERONASTICK": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

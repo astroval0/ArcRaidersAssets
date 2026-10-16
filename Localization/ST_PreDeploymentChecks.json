@@ -9,7 +9,7 @@
       "TableNamespace": "ST_PreDeploymentChecks",
       "KeysToEntries": {
         "ID_DEPLOYMENTCHECK_BUTTON_CANCEL": "Cancel",
-        "ID_DEPLOYMENTCHECK_BUTTON_CONTINUE": "Ready Up Anyways",
+        "ID_DEPLOYMENTCHECK_BUTTON_CONTINUE": "Ready Up Anyway",
         "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_TITLE": "You have unaccepted quests",
         "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_BODY": "Before you go topside, one or more Traders have a quest available.",
         "ID_DEPLOYMENTCHECK_QUEST_UNCLAIMED_TITLE": "You have unclaimed rewards",
@@ -54,7 +54,135 @@
       },
       "KeysToMetaData": {
         "ID_DEPLOYMENTCHECK_CROSSPLAYOFF": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BUTTON_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BUTTON_CONTINUE": {
+          "Status": "approved",
           "Note": ""
+        },
+        "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_QUEST_UNACCEPTED_BODY": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_QUEST_UNCLAIMED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_QUEST_UNCLAIMED_BODY": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_WARNING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_EMPTY": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_EMPTY_APARTSAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_OVERENCUMBERED": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_NONE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_GADGET_NONE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_ALMOSTBROKEN": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_BROKEN": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_NONE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_BROKEN": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_ARMOR_ALMOSTBROKEN": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_NOAMMO": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_FIREARM_ONENOAMMO": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_INTRO": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_DAMAGEDSHIELD": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_BROKENSHIELD": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOSHIELD": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_EMPTYLOADOUT": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_EMPTYLOADOUTSAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_DAMAGEDFIREARM": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_BROKENFIREARM": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOCOMPATIBLEAMMO": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOFIREARM": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_OVERENCUMBERED": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_UNACCEPTEDQUESTS": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_UNCLAIMEDQUESTS": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_LOADOUT_NOHEALING": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_TITLE": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_INGAME": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BUTTON_DISMISS": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_PARTYMEMBER_IF": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_PARTYMEMBER": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_CROSSPLAYOFF_BULLETPOINT_SYSTEM": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOAUGMENT": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_NOSAFEPOCKET": {
+          "Status": "approved"
+        },
+        "ID_DEPLOYMENTCHECK_BULLETPOINT_RAIDERHATCHKEY_UNUSABLE": {
+          "Status": "approved"
         }
       }
     }

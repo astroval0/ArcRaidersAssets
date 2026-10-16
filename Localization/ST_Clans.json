@@ -243,7 +243,710 @@
         "ID_CLANS_CLAN_OWNER": "Clan Owner",
         "ID_CLANS_CLAN_NOT_FOUND": "Clan Not Found"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LANGUAGE": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_ANY": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_EN": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_ZH": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_ES": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_FR": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_DE": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_PT": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_KO": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_TR": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_JA": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_PL": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_AR": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_IT": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_RU": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_NL": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_SV": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_CS": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_HU": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_NO": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_FI": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_DA": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_TH": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_EL": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_RO": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_HE": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_SK": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_ID": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_UK": {
+          "Status": "approved"
+        },
+        "ID_LANGUAGE_VI": {
+          "Status": "approved"
+        },
+        "ID_REGION_NA": {
+          "Status": "approved"
+        },
+        "ID_REGION_APAC": {
+          "Status": "approved"
+        },
+        "ID_REGION": {
+          "Status": "approved"
+        },
+        "ID_REGION_EU": {
+          "Status": "approved"
+        },
+        "ID_REGION_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRIVACY_PRIVATE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRIVACY_REQUEST_ONLY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SORT_TYPE_NEWEST": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SORT_TYPE_LARGEST": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SORT_TYPE_RISING": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRIVACY_OPEN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLE_OWNER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_UNLOCK_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_UNLOCK_PROGRESS": {
+          "Status": "new"
+        },
+        "ID_CLANS_INVITE_MORE_PLAYERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_CLANS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MORE_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PROGRESSION_OVERVIEW": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PROGRESSION_OVERVIEW_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROOKIE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROOKIE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CONTENDER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CONTENDER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRO_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLES_BREAKDOWN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLES_BREAKDOWN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_OWNERS_ABILITY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_OWNERS_ABILITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MANAGERS_ABILITY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MANAGERS_ABILITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SCOUTS_ABILITY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SCOUTS_ABILITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_INVITE_PLAYER_MODAL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_INVITE_PLAYER_HINT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SEND_INVITE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVING_THE_CLAN_MODAL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVING_THE_CLAN_MODAL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN_MODAL_AGREE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_RESET_FILTERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_OPTIONS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLANS_NOT_FOUND": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SORT_BY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_JOIN_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CHARACTER_LEVEL_TAGS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYSTYLE_TAGS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REGION_LANGUAGE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SEARCH": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NAME_OR_TAG": {
+          "Status": "approved"
+        },
+        "ID_CLANS_JOIN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLANS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LANGUAGE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REGION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAGS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NAME": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_TAG": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PRIVACY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREST": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_INVITE_PLAYERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_INVITE_PLAYER_POPUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN_POPUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN_POPUP_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN_POPUP_DESCRIPTION_OWNER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEAVE_CLAN_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLE_CAPTAIN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLE_RECRUITER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLE_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLE_MEMBERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLES_OWNER_CAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLES_CAPTAIN_CAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ROLES_RECRUITER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ENTRY_SCREEN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ENTRY_SCREEN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_UNLOCK_REQUIREMENT_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ENTRY_SCREEN_CREATE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_ENTRY_SCREEN_JOIN_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TOP_BAR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_CLAN_LIST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_FILTERS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_SEARCH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_SEARCH_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_LANGUARE_REGION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_PLAYSTYLE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_SHOW_FULL_CLANS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_APPLY_TO_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_APPLIED_TO_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_APPLICATION_TO_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_CLANS_NOT_FOUND": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_SCREEN_FOUND_CLANS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_DEN_TAB_NAME": {
+          "Status": "new"
+        },
+        "ID_CLANS_CLAN_MEMBERS_TAB_NAME": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_CUSTOMIZE_TAB_NAME": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_WALL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_FEED": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_CHAT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_JOINED_NOTIFICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_LEFT_NOTIFICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_PROMOTED_NOTIFICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_DEMOTED_NOTIFICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_FILTER_ONLINE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_FILTER_ADMINS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_FILTER_ALL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYER_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_LEADERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BUTTON_ADD_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BUTTON_ADD_NEW_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BUTTON_LEAVE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BUTTON_ACCEPT_APPLICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BUTTON_REJECT_APPLICATION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_APPLICATIONS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_INVITES_SENT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_APPLY_CHANGES": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_STEP": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_IDENTITY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PREFERENCES_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BRANDING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_BRANDING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SYMBOL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BORDER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BACKGROUND": {
+          "Status": "approved"
+        },
+        "ID_CLANS_NEXT_STEP": {
+          "Status": "approved"
+        },
+        "ID_CLANS_QUICK_CREATE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_LANGUAGE_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_REGION_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_PRIVACY_INFO": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SYMBOL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BORDER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BACKGROUND_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NAME_CRITERIAS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_TAG_CRITERIAS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NAME_INVALID": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NAME_TAKEN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_TAG_INVALID": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_TAG_TAKEN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_NAME_MUST_BE_BETWEEN_X_X_CHARACTERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_NAME_MAY_NOT_START_OR_END_WITH_A_NON_ALPHABETIC_SYMBOL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_NAME_MAY_NOT_CONTAIN_MORE_THAN_X_CONSECTUTIVE_NUMBERS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_NAME_MAY_ONLY_CONSIST_OF_CHARACTERS_IN_THE_LATIN_ALPHABET_DIGITS_ETC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_NO_RESULTS_FOUND": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_EMPTY_LOCKED": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_EMPTY_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_LANGUAGE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_LANGUAGE_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_SERIOUS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_COMPETETIVE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_CASUAL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_PVE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_PVP": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_BOSS_FIGHTS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_SCAVENGING": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_CHARACTER_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_CHARACTER_LEVEL_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_CHARACTER_LEVEL_SELECT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_CHARACTER_LEVEL_SELECT_PLUS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_CASUAL_DESC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_PLAYSTYLE_SERIOUS_DESC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_CHARACTER_LEVEL_DESC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_LANGUAGE_DESC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_REGION_DESC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_FULL_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_FULL_CLAN_SHOW": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_FULL_CLAN_OFF": {
+          "Status": "approved"
+        },
+        "ID_CLANS_TAG_FULL_CLAN_ON": {
+          "Status": "approved"
+        },
+        "ID_CLANS_BROWSE_CREATE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CREATE_EQUIP_ICON": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PARTY_REQUEST_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PARTY_REQUEST_JOIN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PARTY_REQUEST_DISMISS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PARTY_MEMBER_SELECT_AND_ASSIGN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_INVITE_SENT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_ROLES": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_REQUESTS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_OFFLINE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_PROFILE_REMOVE_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_MEMBER_PROFILE_CANCEL_INVITE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_PLAYER_IS_ALREADY_IN_ANOTHER_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_INAPPROPRIATENAMEORTAG": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_OFFENSIVEDESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_RECRUITMENTSCAM": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_COORDINATEDHARASSMENT": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_MATCHFIXINGORBOOSTING": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_OTHER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_POPUP_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_SUCCESS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_FAIL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_REPORT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_PRIVACY_PUBLIC": {
+          "Status": "approved"
+        },
+        "ID_CLANS_SHOW_FULL_CLANS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_APPLY_TO_JOIN": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_FOCUS": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CHARACHTER_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_CLANS_GAME_MODE": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_OWNER": {
+          "Status": "approved"
+        },
+        "ID_CLANS_CLAN_NOT_FOUND": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

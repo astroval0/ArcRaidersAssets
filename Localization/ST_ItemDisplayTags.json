@@ -107,11 +107,356 @@
         "ID_ITEMDISPLAYTAG_WEAPONTRAIT": "Special Trait",
         "ID_ITEMDISPLAYTAG_FIRINGMODE_SLIDEACTION": "Slide-Action",
         "ID_ITEMDISPLAYTAG_FIRINGMODE_MANUALACTION": "Manual-Action",
-        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_INTEGRATEDSILENCER": "Integrated Silencer"
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_INTEGRATEDSILENCER": "Integrated Silencer",
+        "ID_ITEMDISPLAYTAGS_ITEMSKINS": "Stencil",
+        "ID_ITEMDISPLAYTAG_RECIPE_OUTPOSTFURNITURE": "Design",
+        "ID_ITEMDISPLAYTAG_PLR_TRACK": "Track",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_ANTISHIELD": "§ Anti-Shield",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_ANTIWEAKPOINT": "§ Anti-Weak Point",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_BIGGERMAG": "§ Bigger Mag",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_BURSTFIRE": "§ Burst Fire",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_CARBINECONVERSION": "§ Carbine Conversion",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_CHARGEDBURST": "§ Charged Burst",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_DRUMMAG": "§ Drum Mag",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_FULLAUTO": "§ Full-Auto",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_HIGHVELOCITY": "§ High Velocity",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_INCENDIARYGRENADES": "§ Incendiary Grenades",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_INCENDIARYROUNDS": "§ Incendiary Rounds",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_INCREASEDBURST": "§ Increased Burst",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_MAGRELOAD": "§ Mag Reload",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_MORERELOAD": "§ More Reload",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_PROJECTILESPLITTER": "§ Anvil Splitter",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_RAMPINGDAMAGE": "§ Ramping Damage",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_SCOPED": "§ Scoped",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_SEMIAUTO": "§ Semi-Auto",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_SLUGROUNDS": "§ Slug Rounds",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_STRAIGHTBOLT": "§ Straight Bolt",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_TRACKERROUNDS": "§ Tracker Rounds",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_XROUNDS": "§ X-Rounds",
+        "ID_ITEMDISPLAYTAG_ASCENDEDUPGRADE_SPRINTSHOOTING": "§ Sprint Shooting",
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_4ROUNDBURST": "4-Round Burst",
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_5ROUNDBURST": "5-Round Burst",
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_CHARGEDBURST": "Charged Burst"
       },
       "KeysToMetaData": {
         "ID_ITEMDISPLAYTAG_GENERATOR": {
-          "Note": "Type of station for crafting"
+          "Note": "Type of station for crafting",
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_ARMOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_BACKPACK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CONSUMABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTING_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTING_REAGENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CURRENCY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_DEPLOYABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_GADGET": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_LAUNCHER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_LAUNCHER_PAYLOAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_LAUNCHER_UNIVERSAL_PAYLOAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_MELEE_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_MISC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_MODIFICATION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RIFLE_PAYLOAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_THROWABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_JUNK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CHEMICAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGMATERIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_REFINEDMATERIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_PRIMECOMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_BASECOMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_ELECTRICAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_MECHANICAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_TOOL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_TRADERCOMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_LANCE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_SHOTGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_BATTLERIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_ASSAULTRIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_SNIPERRIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_PISTOL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_HANDCANNON": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_SMG": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_GENERATOR_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGCOMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_BASICPART": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_SPECIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_COMMERCIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_MEDICAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_INDUSTRIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_NATURE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_EXODUS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RAIDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_EDUCATIONAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_ARC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGMATERIAL_ADVANCED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGMATERIAL_BASIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGMATERIAL_TOPSIDE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_TECHNOLOGICAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_SECURITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RESIDENTIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RECYCLABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_UTILITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_USABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_CRAFTINGMATERIAL_REFINED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_OLDWORLD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_AUGMENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_LMG": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RECIPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_SEMIAUTOMATIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_FULLYAUTOMATIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_BURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_2ROUNDBURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_3ROUNDBURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_SINGLEACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_DOUBLEACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_PUMPACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_LEVERACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_BREAKACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_BOLTACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_TWINSHOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_SCOPED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_EXPERIMENTAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_RIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_ASSAULTRIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_BATTLERIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_SNIPERRIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_MACHINEGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_SUBMACHINEGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_LIGHTMACHINEGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_MEDIUMMACHINEGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_HEAVYMACHINEGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_MACHINEGUN_ABBREVIATED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_SUBMACHINEGUN_ABBREVIATED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_LIGHTMACHINEGUN_ABBREVIATED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_MEDIUMMACHINEGUN_ABBREVIATED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_HEAVYMACHINEGUN_ABBREVIATED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_BEAMRIFLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_RAILGUN": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_LAUNCHER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTYPE_SPECIAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_SLIDEACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_MANUALACTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_WEAPONTRAIT_INTEGRATEDSILENCER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAGS_ITEMSKINS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_RECIPE_OUTPOSTFURNITURE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_PLR_TRACK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_4ROUNDBURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_5ROUNDBURST": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAG_FIRINGMODE_CHARGEDBURST": {
+          "Status": "approved"
         }
       }
     }

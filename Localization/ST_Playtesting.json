@@ -12,7 +12,17 @@
         "ID_PLAYTESTING_TAKE_PLAYTEST_SURVEY": "Take Playtest Survey",
         "ID_PLAYTESTING_PLAYTEST_FEEDBACK_CTA": "Playtest Feedback Survey - Please reflect on your experience during this playtest!"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_PLAYTESTING_SHOW_PLAYTEST_NOTES": {
+          "Status": "approved"
+        },
+        "ID_PLAYTESTING_TAKE_PLAYTEST_SURVEY": {
+          "Status": "approved"
+        },
+        "ID_PLAYTESTING_PLAYTEST_FEEDBACK_CTA": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

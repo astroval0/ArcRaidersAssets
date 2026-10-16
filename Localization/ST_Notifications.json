@@ -45,7 +45,116 @@
         "ID_NOTIF_SELL_TITLE_MULTIPLE": "Sell {0} items",
         "ID_NOTIF_SELL_TOTAL_VALUE": "Total Value"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_NOTIF_BUTTON_PROCEED": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_OK": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_ERROR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CONFIRM_QUIT": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CANCEL_QUIT": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_CONTENT_UPDATE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_CONTENT_UPDATE_DESC": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_CONTENT_YES": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_CONTENT_NO": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_PREVIOUS": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_NEXT": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_USER_AGREEMENT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_ACCEPT": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_DECLINE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CLEAR": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_SKIP_ALL": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_BUTTON_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_FULL_STASH_HEADER": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_FULL_STASH_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_QUIT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_QUIT_BODY": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_SELL_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_LVL_NEW_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_CUSTOMER_SUPPORT": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_QUIT_GAME": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_LEVEL_UP_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_THANKS": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_LOADING": {
+          "Status": "approved"
+        },
+        "ID_NOTIFICATIONS_FORCE_PURCHASE": {
+          "Status": "new"
+        },
+        "ID_NOTIF_SELL_INFO": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_SELL_TITLE_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_SELL_TITLE_MULTIPLE": {
+          "Status": "approved"
+        },
+        "ID_NOTIF_SELL_TOTAL_VALUE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

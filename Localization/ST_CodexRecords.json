@@ -19,9 +19,66 @@
         "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ROOTOFTHEMATTER": "The Root of the Matter",
         "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SYMBOLOFUNIFICATION": "A Symbol of Unification",
         "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_GROUNDBREAKING": "Groundbreaking",
-        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SWITCHINGTHESUPPLY": "Switching the Supply"
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SWITCHINGTHESUPPLY": "Switching the Supply",
+        "ID_CODEX_RECORDS_CATEGORY_CAMERA": "Camera",
+        "ID_CODEX_RECORDS_PICTURES_TAKEN": "Pictures taken: {0} / {1}",
+        "ID_CODEX_RECORDS_VIEW_FULLSCREEN": "View in Fullscreen",
+        "ID_CODEX_RECORDS_SELECT": "Select",
+        "ID_CODEX_RECORDS_REMOVE": "Remove"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CODEX_RECORDS_CATEGORY_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_CATEGORY_VIDEOS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_INTOTHEFRAY": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_FINDERSKEEPERS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_DORMANTBARONS": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_COMMUNICATIONHIDEOUT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ABADFEELING": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ECHOESOFVICTORYRIDGE": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_ROOTOFTHEMATTER": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SYMBOLOFUNIFICATION": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_GROUNDBREAKING": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIDEOS_QUESTNAME_SWITCHINGTHESUPPLY": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_CATEGORY_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_PICTURES_TAKEN": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_VIEW_FULLSCREEN": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_SELECT": {
+          "Status": "approved"
+        },
+        "ID_CODEX_RECORDS_REMOVE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

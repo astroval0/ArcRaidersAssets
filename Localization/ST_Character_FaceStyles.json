@@ -59,9 +59,222 @@
         "ID_FACESTYLE_MUTTONCHOPS": "Mutton Chops",
         "ID_FACESTYLE_SPECKLEDFACEART": "Speckled Face Art",
         "ID_FACESTYLE_PAINTEDMASKBLACK": "Painted Mask Black",
-        "ID_FACESTYLE_TRIBALTATTOORED": "Tribal Tattoo Red"
+        "ID_FACESTYLE_TRIBALTATTOORED": "Tribal Tattoo Red",
+        "ID_FACESTYLE_BURNSCAR": "Burn Scar",
+        "ID_FACESTYLE_BURN": "Burn",
+        "ID_FACESTYLE_SKULLPAINT": "Skull Paint",
+        "ID_FACESTYLE_TRIBALFACEPAINT": "Tribal Face Paint",
+        "ID_FACESTYLE_TRIBALMARKINGS": "Tribal Markings",
+        "ID_FACESTYLE_EYESTRIPEGREEN": "Green Eye Stripe",
+        "ID_FACESTYLE_TRIBALEYERED": "Tribal Eye Red",
+        "ID_FACESTYLE_GLITCHTATTOO": "Glitch Tattoo",
+        "ID_FACESTYLE_SPIDERTATTOO": "Spider Tattoo",
+        "ID_FACESTYLE_KABUKIFACEPAINT": "Kabuki Face Paint",
+        "ID_FACESTYLE_EYEBROWBANDAID": "Eyebrow Bandaid",
+        "ID_FACESTYLE_PURPLEGLAM": "Purple Glam",
+        "ID_FACESTYLE_EYESTRIPEBLUE": "Blue Eye Stripe",
+        "ID_FACESTYLE_TRIBALSHEEPFACE": "Tribal Sheep Face"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_FACESTYLE_SOOT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_MILITARYPAINT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_HENNATATTOO": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BANDAIDNOSE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SHARKBITE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_LIPSCAR": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYELINER": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPRAYEDEYES": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYESCAR": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_MYCOOLFACESTYLE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_ACNESCAR": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BANDAIDCHEEK": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_NONE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_GOGGLESDIRT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_FULLDIRT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BLACKEYE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SOT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_DIRTFULL": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_DIRTSPRAY": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPORTFACEPAINT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_FRECKLES": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_NOSESTRIPE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_OILSPLATTER": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SMOKEYEYE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TATTOOSNAKE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYESTRIPE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALEYE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_PAINTEDMASK": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPRAYEDEYESRED": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BRUISED": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_NEUTRALMAKEUP": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SMOKEYEYERED": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SOTBLUE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPORTFACEPAINTBLUE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_MILITARYPAINTWHITE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYEBAND": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BLACKBAND": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TATTOOKRAKEN": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_STUBBLE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BEARDFULL": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_CAMOPAINTWHITE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_STUBBLEBEARD": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_STUBBLESTACHE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_MUSTACHE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_THICKMUSTACHE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_GELPATCHES": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SHORTTIDY": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SIDEBURNS": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_MUTTONCHOPS": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPECKLEDFACEART": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_PAINTEDMASKBLACK": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALTATTOORED": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BURNSCAR": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_BURN": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SKULLPAINT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALFACEPAINT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALMARKINGS": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYESTRIPEGREEN": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALEYERED": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_GLITCHTATTOO": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_SPIDERTATTOO": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYESTRIPEBLUE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_TRIBALSHEEPFACE": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_KABUKIFACEPAINT": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_EYEBROWBANDAID": {
+          "Status": "approved"
+        },
+        "ID_FACESTYLE_PURPLEGLAM": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

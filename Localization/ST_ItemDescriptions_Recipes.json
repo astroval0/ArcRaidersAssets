@@ -105,9 +105,365 @@
         "ID_ITEMDESCRIPTIONS_RECIPES_CRASH_PAD_BLUEPRINT": "Lets you craft a Crash Mat",
         "ID_ITEMDESCRIPTIONS_RECIPES_T3_SMOKE_AUGMENT_BLUEPRINT": "Lets you craft a T3 Smoke Augment",
         "ID_ITEMDESCRIPTIONS_RECIPES_WHITE_FLAG_BLUEPRINT": "Lets you craft a White Flag",
-        "ID_ITEMDESCRIPTIONS_RECIPES_RAIDER_ON_A_STICK_BLUEPRINT": "Lets you craft a Raider on a Stick"
+        "ID_ITEMDESCRIPTIONS_RECIPES_RAIDER_ON_A_STICK_BLUEPRINT": "Lets you craft a Raider on a Stick",
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01": "Lets you craft a Junior",
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_01": "Lets you craft an Extended Barrel I",
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_02": "Lets you craft an Extended Barrel II",
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_03": "Lets you craft an Extended Barrel III",
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE1": "Lets you craft a Thump",
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE2": "Lets you craft a Rascal",
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE3": "Lets you craft a Punch",
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE4": "Lets you craft a Buster",
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERGUNRECIPE_DESCRIPTION": "Lets you craft a Tether Launcher",
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERGRENADERECIPE_DESCRIPTION": "Lets you craft a Yank Grenade",
+        "ID_ITEMDESCRIPTIONS_RECIPES_GRAPPLINGHOOKRECIPE_DESCRIPTION": "Lets you craft a Grappling Hook",
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERMINERECIPE_DESCRIPTION": "TetherMineRecipe description",
+        "ID_ITEMDESCRIPTIONS_RECIPES_SNUBNOSERECIPE_DESCRIPTION": "Lets you craft a Bantam",
+        "ID_ITEMDESCRIPTIONS_RECIPES_BATTLERIFLELIGHTRECIPE_DESCRIPTION": "Lets you craft a Stiletto",
+        "ID_ITEMDESCRIPTIONS_RECIPES_ADVANCEDCAMERARECIPE_DESCRIPTION": "Lets you craft an Advanced Camera",
+        "ID_ITEMDESCRIPTIONS_RECIPES_COLLECTORKEY_BLUEPRINT_DESCRIPTION": "CollectorKey Blueprint Description"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_RECIPE_EXTENDEDSHOTGUNMAG_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDSHOTGUNMAG_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ARMOR_PATCHER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BARRICADE_KIT_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_DEFIBRILLATOR_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_DOOR_BLOCKER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_HEAVY_MAG_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_VITA_SPRAY_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_VITA_SHOT_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_VERTICAL_GRIP_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TRIGGER_NADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TAGGING_GRENADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_STERILIZED_BANDAGE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SNAP_BLAST_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SHOWSTOPPER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_VULCANO_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_VERTICAL_GRIP_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TEMPEST_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_STABLE_STOCK_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_STABLE_STOCK_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SNAP_HOOK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SILENCER_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SHOTGUN_SILENCER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SHOTGUN_PARTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SHOTGUN_CHOKE_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SHOTGUN_CHOKE_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RENEGADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_POWER_ROD_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_PHOTOELECTRIC_CLOAK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_PADDED_STOCK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MUZZLE_BRAKE_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MUZZLE_BRAKE_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MOD_COMPONENTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MEDIUM_GUN_PARTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LURE_GRENADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LIGHTWEIGHT_STOCK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LIGHT_GUN_PARTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_JUPITER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_JUMP_MINE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_JOLT_MINE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_IL_TORO_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_HEAVY_GUN_PARTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_HEAVY_FUZE_GRENADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_GAS_GRENADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_FLARE_TRAP_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_MEDIUM_MAG_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_MEDIUM_MAG_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_LIGHT_MAG_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_LIGHT_MAG_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_HEAVY_MAG_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDED_BARREL_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EQULIZER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_COMPENSATOR_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_COMPENSATOR_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BOBCAT_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ARC_MECHANISM_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ARC_CUIRCUIT_BOARD_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ANVIL_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ANGLEDGRIP_II_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ANGLED_GRIP_III_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ADVANCED_TECHNOLOGY_COMPONENTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ADVANCED_MECHANICAL_COMPONENTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_WOLFPACK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BURLETTA_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SILENCER_I_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BLAZE_GRENADE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ANTI_ARC_LAUNCHER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RECIPE_HIPOWERPISTOL_01_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RECIPE_MEDIUMLMG_01_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RECIPE_ASSAULTRIFLEBURST_01_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RECIPE_BOLTACTIONMEDIUM_01_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RECIPE_ASSAULTRIFLELOWTIER_01_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ADVANCED_ELECTRICAL_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SMOKE_GRENADE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_YELLOW_GLOW_STICK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RED_GLOWSTICK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_GREEN_GLOWSTICK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BLUE_GLOWSTICK_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_COMPLEX_GUN_PARTS_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_REMOTE_FLAIR_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_CHARGE_RIFLE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_IMPULSE_MINE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_GAS_MINE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LONE_WOLF_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TRAILBLAZER_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TIMED_MINE_RECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LIGHT_GUN_PARTS_RECIPE_DESCRIPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LIGHT_GUN_PARTS_RECIPE_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MEDIUM_GUN_PARTS_RECIPE_DESCRIPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_MEDIUM_GUN_PARTS_RECIPE_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_HEAVY_GUN_PARTS_RECIPE_DESCRIPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_HEAVY_GUN_PARTS_RECIPE_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LETS_YOU_CRAFT_A_BETTINA": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_POWERED_DESCENDER_RECIPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_CRASH_PAD_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_T3_SMOKE_AUGMENT_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_WHITE_FLAG_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_RAIDER_ON_A_STICK_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_EXTENDEDBARREL_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE1": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE2": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE3": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_LAUNCHER_ANTIARC_SINGLESHOT_01_ALTERNATIVE4": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERGUNRECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERGRENADERECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_GRAPPLINGHOOKRECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_TETHERMINERECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_SNUBNOSERECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_BATTLERIFLELIGHTRECIPE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESCRIPTIONS_RECIPES_ADVANCEDCAMERARECIPE_DESCRIPTION": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

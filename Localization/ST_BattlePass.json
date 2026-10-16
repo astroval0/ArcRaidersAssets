@@ -63,53 +63,1045 @@
         "ID_BATTLEPASS_VARIANT_PACK": "Variant Pack",
         "ID_BATTLEPASS_RAIDER_TOKEN_REWARD_AMOUNT": "Raider Tokens: {0}",
         "ID_BATTLEPASS_TAB_TOOLIP_CAP_REACHED": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers.",
-        "ID_BATTLEPASS_TAB_DECKS_CAP_REACHED_MESSAGE": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers."
+        "ID_BATTLEPASS_TAB_DECKS_CAP_REACHED_MESSAGE": "You’ve reached the Cred limit. Spend Cred on Raider Deck rewards or Shani’s offers.",
+        "ID_BATTLEPASS_EARN_MORE": "Earn another <currency id=\"cred\" amount=\"{0}\"/> to unlock",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC": "As we look ahead to future improvements to Raider Decks, we’ll be making changes to the Cred currency.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER": "Cred are being reworked",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER_ALT1": "Cred are being improved",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER_ALT2": "An update on Cred",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_PROGRESSION_DESC": "Your Raider Deck progression is safe. It will not be affected or reset, and any upcoming changes will take your current progression into account.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_PROGRESSION_HEADER": "What this means for your progress",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING": "You can keep using Cred until:",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING_ALT1": "You can keep using Cred until the end of September.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING_ALT2": "You can keep using Cred until the beginning of October.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER": "An Update on Cred",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT5": "Changes to Cred Currency",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT1": "Update to Cred & Raider Deck in October",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT2": "Cred Expires in October",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT3": "Cred Is Changing",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT4": "Retiring Cred",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_ALT1": "As we look ahead to the Frozen Trail game update, we’ll be replacing the Cred currency. It will remain usable until the Frozen Trail update in October, so be sure to use any remaining Cred before then.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SHORT": "As we look ahead to the Frozen Trail game update, we’ll be replacing the Cred currency.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SHORT_ALT1": "As part of a rework of the Raider Deck feature, we’ll be replacing the Cred currency with the release of the Frozen Trail update.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SPEND": "Be sure to spend your Cred before that time.",
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SPEND_ALT1": "We recommend that you spend your remaining Cred before that time.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_HEADER": "What is happening to Cred?",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC": "We are retiring Cred as a currency, as we'll be introducing a more expansive reward system launching with the Frozen Trail update.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC_OTHERREWARDS": "All existing Raider Deck rewards will also be available in the new system.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC_CLAIMEDREWARDS": "You will keep any rewards you have already claimed at the time of the update.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_HEADER": "What happens if I do not spend my remaining Cred?",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_HEADER_ALT1": "What happens if I have Cred left over?",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_DESC": "Any Cred remaining on your account will expire with the Frozen Trail update, so please be sure to spend your Cred with Shani or on any remaining Raider Deck rewards.",
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_DESC_ALT1": "Any Cred remaining on your account will expire with the Frozen Trail update.",
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER": "Frozen Trail",
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_PREMIUM": "Frozen Trail Premium Reward Pass",
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_PREMIUM_ALT1": "Frozen Trail (Premium)",
+        "ID_BATTLEPASS_CARD_PREMIUM_SUBHEADER": "Premium",
+        "ID_BATTLEPASS_CARD_PREMIUM_SUBHEADER_ALT1": "Premium Pass",
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_LONG": "Frozen Trail Reward Pass",
+        "ID_BATTLEPASS_CARD_PREMIUM_REWARD_PASS": "Premium Reward Pass",
+        "ID_BATTLEPASS_CARD_STARTER_PASS_HEADER": "Starter Pass",
+        "ID_BATTLEPASS_CARD_STARTER_PASS_HEADER_ALT1": "Starter Reward Pass",
+        "ID_BATTLEPASS_CARD_LEGACY_PASS_HEADER": "Legacy Pass",
+        "ID_BATTLEPASS_CARD_LEGACY_PASS_HEADER_ALT1": "Legacy Reward Pass",
+        "ID_BATTLEPASS_SECTION_ACTIVE": "Active",
+        "ID_BATTLEPASS_SECTION_ACTIVE_ALT1": "Active Pass",
+        "ID_BATTLEPASS_SECTION_AVAILABLE_MULTI": "Available Passes",
+        "ID_BATTLEPASS_SECTION_AVAILABLE_SINGLE": "Available Pass",
+        "ID_BATTLEPASS_SECTION_AVAILABLE": "Available",
+        "ID_BATTLEPASS_SECTION_PASSES": "Passes",
+        "ID_BATTLEPASS_SECTION_COMPLETED_PLURAL": "Completed Passes",
+        "ID_BATTLEPASS_SECTION_COMPLETED_SINGLE": "Completed Pass",
+        "ID_BATTLEPASS_SECTION_COMPLETED": "Completed",
+        "ID_BATTLEPASS_FEATS_WEEKLY_BONUS_HEADER": "Weekly Bonus",
+        "ID_BATTLEPASS_FEATS_WEEKLY_BONUS_HEADER_ALT1": "Bonus",
+        "ID_BATTLEPASS_CTA_ACTIVATE": "Activate Pass",
+        "ID_BATTLEPASS_CTA_ACTIVATE_ALT1": "Activate",
+        "ID_BATTLEPASS_CTA_UPGRADE": "Upgrade Options",
+        "ID_BATTLEPASS_CTA_UPGRADE_BUTTON": "Upgrade",
+        "ID_BATTLEPASS_CTA_EXPLORE_PREMIUM_BUTTON": "Explore Premium",
+        "ID_BATTLEPASS_CTA_UPGRADE_PREMIUM_BUTTON": "Upgrade Premium",
+        "ID_BATTLEPASS_CTA_UPGRADE_PREMIUM_BUTTON_ALT2": "Upgrade to Premium",
+        "ID_BATTLEPASS_CTA_UPGRADE_BUTTON_ALT2": "Pass Upgrade",
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT": "{0} Rewards",
+        "ID_BATTLEPASS_PASS_TILE_REWARDS": "Rewards",
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_COLON": "Rewards:",
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT_ALT2": "Rewards: {0}",
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS": "Premium Rewards",
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS_COLON": "Premium Rewards:",
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS_AMOUNT_ALT2": "Premium Rewards: {0}",
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT_REWARD": "Next reward",
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT_REWARDS": "Next rewards",
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT": "Next",
+        "ID_BATTLEPASS_CARD_STATE_PAUSED": "Paused",
+        "ID_BATTLEPASS_CARD_STATE_COMPLETED": "Completed",
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER": "You are currently progressing on the {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT1": "You are currently progressing: {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT2": "Your Reward Points are currently progressing the {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT3": "Your Reward Points are currently progressing: {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED": "Activated",
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT1": "Activated:",
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT2": "Activated: {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT3": "Activated {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE": "Currently Active",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT1": "Currently Active:",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT2": "Currently Active: {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT3": "Currently Active {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING": "Progressing",
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT1": "Progressing:",
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT2": "Progressing: {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT3": "Progressing {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING": "Currently Progressing",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT1": "Currently Progressing:",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT2": "Currently Progressing {0}",
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT3": "Currently Progressing: {0}",
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED": "Earn another {0} to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT1": "Earn another {0}{1} to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT2": "{0} Reward Points to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT3": "{0}{1} to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS": "Progress:",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT1": "Progress: {0}{1}",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT2": "{0}{1}/{2}{3} to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT3": "{0}{1} to progress",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT4": "{0}{1} left to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT5": "Collect {0}{1}",
+        "ID_BATTLEPASS_REWARD_PANEL_COLLECTED": "Collected",
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ": "Get Premium Pass",
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT1": "Get Premium",
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT2": "Get Premium Pass to collect",
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT3": "Earn another {0} and get Premium Pass to collect",
+        "ID_BATTLEPASS_TOPBAR_MENU_REWARD_PASS_FROZEN_TRAIL": "Frozen Trail Reward Pass",
+        "ID_BATTLEPASS_TOPBAR_MENU_REWARD_PASS_FROZEN_TRAIL_ALT1": "Frozen Trail Pass",
+        "ID_BATTLEPASS_UPGRADE_PREMIUM_HEADING": "Frozen Trail Premium Reward Pass",
+        "ID_BATTLEPASS_UPGRADE_DLC_HEADING": "Frozen Trail Collector Set",
+        "ID_BATTLEPASS_REWARD_POINTS": "Reward Points",
+        "ID_BATTLEPASS_REWARD_PACKAGE": "Package",
+        "ID_BATTLEPASS_LABEL_REQUIRES": "Requires",
+        "ID_BATTLEPASS_LABEL_EARN": "Earn",
+        "ID_BATTLEPASS_LABEL_UNLOCK": "Unlock",
+        "ID_BATTLEPASS_LABEL_UNLOCKS_IN": "Unlocks in",
+        "ID_BATTLEPASS_UPGRADE_COSMETICS": "Unique cosmetics",
+        "ID_BATTLEPASS_UPGRADE_COSMETICS_ALT1": "Cosmetics",
+        "ID_BATTLEPASS_UPGRADE_COSMETICS_ALT2": "Exclusive Cosmetics",
+        "ID_BATTLEPASS_UPGRADE_RAIDER_TOKENS": "Raider Tokens",
+        "ID_BATTLEPASS_UPGRADE_EXTRA_ITEMS": "Extra Items",
+        "ID_BATTLEPASS_UPGRADE_INSTANT_UNLOCKS": "Instantly unlock",
+        "ID_BATTLEPASS_ACCESS_PREMIUM_TRACK": "Access to Premium Track",
+        "ID_BATTLEPASS_ACCESS_PREMIUM_PASS": "Access to Premium Pass",
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTFITS": "Unique Outfits",
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_WEAPON_STENCIL": "Unique Weapon Stencil",
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_MUSIC_INSTRUMENT": "Unique Music Instrument",
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTPOST_BLUEPRINT": "Unique Outpost Blueprint",
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTPOST_BLUEPRINT_ALT1": "Unique Furniture Design",
+        "ID_BATTLEPASS_UPGRADE_BONUS_RAIDER_TOKENS": "Bonus Raider Tokens",
+        "ID_BATTLEPASS_UPGRADE_LEVEL_SKIPS": "Skip {0} levels",
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_OUTFIT": "Exclusive Outfit",
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_OUTFITS": "Exclusive Outfits",
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_WEAPON_STENCIL": "Exclusive Weapon Stencil",
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_WEAPON_STENCILS": "Exclusive Weapon Stencils",
+        "ID_BATTLEPASS_UPGRADE_DLC_BENEFIT6": "You own Premium. Contact Customer Support for a refund of {0} Raider Tokens",
+        "ID_BATTLEPASS_UPGRADE_PASS_SCREEN_TITLE": "Upgrade Pass",
+        "ID_BATTLEPASS_PASS_TILE_COMPLETED": "Completed",
+        "ID_BATTLEPASS_COMPLETE_EYEBROW": "Reward Pass",
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL": "Frozen Trail Reward Pass completed",
+        "ID_BATTLEPASS_COMPLETE_HEADING_LEGACY": "Legacy Reward Pass completed",
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL_PREMIUM": "Frozen Trail Premium Pass",
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL_FREE": "Frozen Trail Reward Pass - Free Track",
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT": "{0} of {1} free rewards collected",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT": "{0} of {1} premium rewards collected",
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT_ALT1": "Free Rewards Collected: {0}",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT_ALT1": "Premium Rewards Collected: {0}",
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT_ALT2": "Free Rewards: {0}",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT_ALT2": "Premium Rewards: {0}",
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT": "Rewards collected: {0}/{1}",
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS": "Free Rewards",
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_ALT1": "Free Rewards Collected",
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT_ALT1": "Rewards Collected",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE": "Premium Rewards Available",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE_ALT1": "Premium Rewards Available to Collect",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE_ALT2": "Premium Rewards Collected",
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO": "Upgrade your pass anytime to unlock all remaining rewards.",
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO_ALT1": "You can still upgrade this pass anytime to collect all remaining rewards.",
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO_ALT2": "You can still upgrade this pass anytime to unlock and collect additional rewards.",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP": "All passes completed: Reward Points converted to XP",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT1": "Completed Feats now gives you XP",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT2": "Completing Daily Feats now grant XP.",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT3": "All Reward Passes are completed. Completing feats now gives you XP.",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT4": "Any Reward Points earned convert now into XP.",
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_WAITING": "{0} premium rewards waiting. Upgrade to collect them all instantly.",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS": "Next Pass Activated",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT1": "Feats Now Progress",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT2": "Completed Feats now progress {0}",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT3": "Reward Points now progress {0}",
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT4": "Active Now:",
+        "ID_BATTLEPASS_COMPLETE_CTA_REWARD_PASSES": "Go to Reward Passes",
+        "ID_BATTLEPASS_COMPLETE_CTA_VIEW_ACTIVE_PASS": "View Active Pass",
+        "ID_BATTLEPASS_COMPLETE_CTA_REWARD_PASSES_ALT": "Reward Passes",
+        "ID_BATTLEPASS_UPGRADE_PREMIUM_UPGRADED": "Purchased",
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER": "If you already purchased the Premium Pass, you can contact Customer Support to get those Raider Tokens refunded after buying the Frozen Trail Collector Set.",
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT1": "If you purchased the Premium Pass, contact Customer Support to get {0} Raider Tokens refunded.",
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT2": "If you purchased the Premium Pass before upgrading to the Collector Set, you can contact Customer Support to get your Raider Tokens refunded.",
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT3": "If you upgraded to Premium Pass before purchasing the Collector Set, you can contact Customer Support to get your Raider Tokens refunded.",
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT4": "If you upgraded to Premium Pass before purchasing the Collector Set, you can contact Customer Support {0} to get your Raider Tokens refunded.",
+        "ID_BATTLEPASS_UPGRADE_RULES": "Rewards unlock as you reach each level. Levels you've already passed unlock instantly.",
+        "ID_BATTLEPASS_DLC_BANNER": "Get the unique Renzo outfit with the Frozen Trail Collector Set",
+        "ID_BATTLEPASS_FREE_TRACK": "Free Track",
+        "ID_BATTLEPASS_PREMIUM_TRACK": "Premium Track",
+        "ID_BATTLEPASS_FREE_PASS": "Free Pass",
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT_ALT2": "{0} of {1} rewards collected",
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT_ALT1": "{0} Premium Rewards",
+        "ID_BATTLEPASS_LABEL_INCLUDES": "Includes:",
+        "ID_BATTLEPASS_LISTITEM_PREMIUM_PASS_REWARDS": "{0} Raider Tokens, Cosmetics, Weapon Stencils",
+        "ID_BATTLEPASS_LISTITEM_UNLOCKABLE_PREMIUM_REWARDS": "{0} Unlockable Premium Rewards",
+        "ID_BATTLEPASS_LISTITEM_PREMIUM_PASS_REWARDS_ALT2": "{0} Raider Tokens, Weapon Stencils, Outfit Variants and more",
+        "ID_BATTLEPASS_LISTITEM_DLC_EXCLUSIVE_REWARDS": "{0} Exclusive Rewards",
+        "ID_BATTLEPASS_LISTITEM_DLC_EXCLUSIVE_REWARDS_PLUS": "+ {0} Exclusive Rewards"
       },
       "KeysToMetaData": {
         "ID_BATTLEPASS_BUTTON_UNLOCK": {
-          "Note": "Unlock battlepass"
+          "Note": "Unlock battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_BUTTON_PURCHASE": {
-          "Note": "Unlock battlepass"
+          "Note": "Unlock battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_STATUS_TAG_INPROGRESS": {
-          "Note": "Battlepass"
+          "Note": "Battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_STATUS_TAG_PROGRESS": {
-          "Note": "Battlepass"
+          "Note": "Battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_STATUS_TAG_COMPLETED": {
-          "Note": "Battlepass"
+          "Note": "Battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_PURCHASE_WARNING_NOTENOUGHRESOURCES": {
-          "Note": "Battlepass"
+          "Note": "Battlepass",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_REWARD_BUTTON_DETAILS": {
-          "Note": "See more detailed view of reward"
+          "Note": "See more detailed view of reward",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_REWARD_BUTTON_SEEDETAILS": {
-          "Note": "See more detailed view of reward"
+          "Note": "See more detailed view of reward",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_REWARD_BUTTON_CUSTOMIZE": {
-          "Note": "See more detailed view of reward"
+          "Note": "See more detailed view of reward",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_PURCHASE_DESCRIPTION": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ST_BATTLEPASS_MILESTONE_DESCRIPTION": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_TAB_DECKS": {
-          "Note": "Name of tab for Battlepasses"
+          "Note": "Name of tab for Battlepasses",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_RAIDER_TOKEN_REWARD_AMOUNT": {
-          "Note": "Informs the player of exactly how many raiders tokens they're claiming in BP"
+          "Note": "Informs the player of exactly how many raiders tokens they're claiming in BP",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_TAB_TOOLIP_CAP_REACHED": {
-          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink.",
+          "Status": "approved"
         },
         "ID_BATTLEPASS_TAB_DECKS_CAP_REACHED_MESSAGE": {
-          "Note": "Update to existing copy so that it includes Shani as a Cred sink."
+          "Note": "Update to existing copy so that it includes Shani as a Cred sink.",
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_DAILY_TASKS": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_WEEKLY_TASKS": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_DAILY_REFRESH_TIME": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_REROLL_TITLE": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_REROLL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_REROLL": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UNLOCKED": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PAGE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CLAIMED_COUNT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SPEND_TO_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_AVAILABLE_REROLLS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ITEM_PACK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_OUTFIT_VARIATIONS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_WEAPON_INSTANCE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LOCKED_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PURCHASED": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_BLACK_MARKET": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_NOT_ENOUGH_BPP": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PURCHASE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CLAIMED": {
+          "Status": "approved"
+        },
+        "ID_CHALLENGES_DAILY_CHALLENGES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_OUTFIT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CURRENCY": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PURCHASE_PASS_INCLUDES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PURCHASE_PASS_AVAILABLE_BALANCE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PURCHASE_PASS_COST": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SHUTTEREDSTOREFRONT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_BACKALLEYMARKET": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECLUDEDCOURTYARD": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PREVIEW": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_BINDING_OPEN_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_MILESTONE": {
+          "Status": "approved"
+        },
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION_SINGLE": {
+          "Status": "approved"
+        },
+        "ST_BATTLEPASS_MILESTONE_DESCRIPTION_MULTIPLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LEMANS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_WELDER": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_HAIRSTYLES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_VARIANT_PACK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_EARN_MORE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC": {
+          "Note": "Chars. limit: 250 Description of the overarching removal of cred currency message.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER": {
+          "Note": "Chars. limit: 25 Title of the message of removing cred after major update.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER_ALT1": {
+          "Note": "Chars. limit: 25 Title of the message of removing cred after major update.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_HEADER_ALT2": {
+          "Note": "Chars. limit: 25 Title of the message of removing cred after major update.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_PROGRESSION_DESC": {
+          "Note": "Chars. limit: 150 Description explaining what happens with the Progression done with Cred after its removal",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_PROGRESSION_HEADER": {
+          "Note": "Chars. limit: 35 Title of the explaination about what happens with Progression made with Cred",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING": {
+          "Note": "Chars. limit: 60 Text describing until when the Cred will be removed from the game",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING_ALT1": {
+          "Note": "Chars. limit: 60 Text describing until when the Cred will be removed from the game",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_TIME_REMAINING_ALT2": {
+          "Note": "Chars. limit: 60 Text describing until when the Cred will be removed from the game",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER": {
+          "Note": "Max chars count: 36 This is the most important touchpoint. We want to make sure players know what is happening, and ideally when",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT5": {
+          "Note": "Current version",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT1": {
+          "Note": "Max chars count: 36",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT2": {
+          "Note": "Max chars count: 36",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT3": {
+          "Note": "Max chars count: 36",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_HEADER_ALT4": {
+          "Note": "Max chars count: 36",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SPEND": {
+          "Note": "Short string for concatenation",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SPEND_ALT1": {
+          "Note": "Phrased more as a recommendation",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_HEADER": {
+          "Note": "FAQ Style header  1",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC": {
+          "Note": "FAQ Style answer 1 - we should formulate this clearly: Players PROGRESSION is safe and won't be affected, but Raider Decks will actually be affected by this update, so we want to make sure this isn't a misunderstanding. Ideally we phrase this in a very soft and reassuring way. Maybe even give them something to look forward to. (here I teaser to a more expansive (reward) system). Pls feel free to change \"expansive\" and \"reward system\" to whatever fits, but I feel like that way it sounds like something to actually look forward to, rather than just \"replacing the system\"",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_HEADER": {
+          "Note": "FAQ style header 2 - probably the most pressing question",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_HEADER_ALT1": {
+          "Note": "same but phrased without the \"spending\" part, because maybe players have other reasons why they have leftovers than just not spending (?)",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_DESC": {
+          "Note": "FAQ answer 2: we want to be clear that Cred will disappear. We want to reassure that we reimburse, but still encourage players to spend Creds as that is the option that leaves them control over what they want to spend it on This is the version without any info on compensation/conversion",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB2_DESC_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SHORT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPDATE_ANNOUNCEMENT_DESC_SHORT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC_OTHERREWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CRED_ANNOUNCEMENT_SUB1_DESC_CLAIMEDREWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER": {
+          "Note": "This is the name for the new Reward Pass being released with the October update",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_PREMIUM": {
+          "Note": "Alternative name with the full phrasing but might struggle to fit and cause localization issues",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_PREMIUM_REWARD_PASS": {
+          "Note": "Alternative name with Frozen Trail removed",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_STARTER_PASS_HEADER": {
+          "Note": "Name for the Reward Pass that contains the legacy Raider Decks content.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_STARTER_PASS_HEADER_ALT1": {
+          "Note": "Name for the Reward Pass that contains the legacy Raider Decks content.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_LEGACY_PASS_HEADER": {
+          "Note": "Alternative name for the Reward Pass that contains the legacy Raider Decks content.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_LEGACY_PASS_HEADER_ALT1": {
+          "Note": "Alternative name for the Reward Pass that contains the legacy Raider Decks content.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_PASSES": {
+          "Note": "In case you finished all passes, saying Available seems incorrect so this should cover that case",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_FEATS_WEEKLY_BONUS_HEADER": {
+          "Note": "Completing feats (gives 10, 15, or 20 points) gives you progress towards 3 bonus thresholds where you can get +100 bonus points at each point.  Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_FEATS_WEEKLY_BONUS_HEADER_ALT1": {
+          "Note": "Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_ACTIVATE": {
+          "Note": "Button label for activating the reward pass (make completed feats give you points towards that pass progression) ",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_ACTIVATE_ALT1": {
+          "Note": "Button label for activating the reward pass (make completed feats give you points towards that pass progression) ",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_UPGRADE": {
+          "Note": "This is the button that takes players to a page where they can compare offers and make a decision before upgrading. We want to avoid direct words like \"UPGRADE PASS\" since that is too committing, the button doesn't upgrade instantly, it just takes you to a place where you can evaluate how to upgrade. Same string is also used as the heading on the upgrade page itself.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_EXPLORE_PREMIUM_BUTTON": {
+          "Note": "Max. char. limit: 24",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_UPGRADE_PREMIUM_BUTTON": {
+          "Note": "Max. char. limit: 24",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_UPGRADE_PREMIUM_BUTTON_ALT2": {
+          "Note": "Max. char. limit: 24",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_UPGRADE_BUTTON_ALT2": {
+          "Note": "Pass as in, \"Reward Pass\" - noun, not a verb.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_COLON": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT_REWARD": {
+          "Note": "The reward tile shows which is the next reward they could earn if they progress the reward pass. This is the label just under the reward showcased. ",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT": {
+          "Note": "The reward tile shows which is the next reward they could earn if they progress the reward pass. This is the label just under the reward showcased. ",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_STATE_PAUSED": {
+          "Note": "If you start progressing a reward pass but then activate a different reward pass, the first reward pass ends up in a paused state. This simply labels that state. Max. char. limit: 12",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_STATE_COMPLETED": {
+          "Note": "When you have finished all levels in a reward pass it is labeled as completed. Max. char. limit: 12",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER": {
+          "Note": "This sits under the button \"ACTIVATE PASS\" in order to implicitly clarify what pass you would stop progressing by activating this one.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT2": {
+          "Note": "mentioning the currency name as we don't have the same tooltip capabilities as for the other Currency tooltips",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED": {
+          "Note": "This shows on items you have not yet reached the required amount of reward pass points to collect/unlock yet.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT1": {
+          "Note": "This shows on items you have not yet reached the required amount of reward pass points to collect/unlock yet.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_COLLECTED": {
+          "Note": "Status when you have collected/unlocked an item in the Reward Pass",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ": {
+          "Note": "Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT1": {
+          "Note": "Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT2": {
+          "Note": "A small nudge to promote premium items on levels that have them available.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_TOPBAR_MENU_REWARD_PASS_FROZEN_TRAIL": {
+          "Note": "The name of the reward pass in the top menu bar.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_TOPBAR_MENU_REWARD_PASS_FROZEN_TRAIL_ALT1": {
+          "Note": "The name of the reward pass in the top menu bar.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_PREMIUM_HEADING": {
+          "Note": "The heading of the Premium Pass option",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_POINTS": {
+          "Note": "Reward Points Tooltip (not top row, but could be viable in other icon touchpoints?)",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PACKAGE": {
+          "Note": "Tag in case we need to categorize the DLC as a package and not confuse with a regular bundle",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LABEL_UNLOCKS_IN": {
+          "Note": "Points required to unlock this level",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_COSMETICS": {
+          "Note": "One of the selling points of the Premium Pass. It will have a certain amount of unique cosmetics",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_RAIDER_TOKENS": {
+          "Note": "One of the benefits of the Premium Pass, it will give you 1,500 Raider Tokens.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_EXTRA_ITEMS": {
+          "Note": "One of the benefits of Premium Pass. It will contain a certain amount of usable gameplay items (e.g. camera, instruments, weapons and gadgets etc)",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_INSTANT_UNLOCKS": {
+          "Note": "Clarifies that the items listed below is actually unlocked instantly, regardless of your Reward Pass progress.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_BONUS_RAIDER_TOKENS": {
+          "Note": "0=2,000 Raider Tokens",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_LEVEL_SKIPS": {
+          "Note": "0=30",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_DLC_BENEFIT6": {
+          "Note": "This is to clarify that you are getting some Raider Tokens \"back\" since you already bought the premium reward pass first",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_COMPLETED": {
+          "Note": "When you have finished all levels in a reward pass it is labeled as completed.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_EYEBROW": {
+          "Note": "Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_HEADING_LEGACY": {
+          "Note": "CompleteD at the end is in line with our other translations (e.g. Projects)",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL_PREMIUM": {
+          "Note": "Completed is the eyebrow, and then this is what they completed",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL_FREE": {
+          "Note": "Completed is the eyebrow, and then this is what they completed",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO": {
+          "Note": "I feel like we might need this prompt to let players know that they can upgrade their pass anytime, to prevent misunderstandings and unnecessary FOMO",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO_ALT1": {
+          "Note": "as above, just with collect",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_UPGRADE_INFO_ALT2": {
+          "Note": "as above, with both unlock and collect",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT4": {
+          "Note": "check for . need",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT3": {
+          "Note": "more accurate as above",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT4": {
+          "Note": "Generic version to show the now active pass",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_PREMIUM_UPGRADED": {
+          "Note": "The CTA button label change to this state when premium pass has been purchased.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER": {
+          "Note": "We will likely not use this text string, but it's added in case we would need something like this.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT1": {
+          "Note": "with placeholder for URL, general phrasing so can be reused",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT2": {
+          "Note": "no placeholder, but general phrasing",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT3": {
+          "Note": "turning it around - upgrade to Premium, purchase Collector Set",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_REFUND_DISCLAIMER_ALT4": {
+          "Note": "same as above with potential URL placeholder",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_RULES": {
+          "Note": "Potentially useful string to have on the reward pass to clarify that you are not getting instantly unlocks, rather you get rewards as you reach levels.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACCESS_PREMIUM_TRACK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACCESS_PREMIUM_PASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_ACTIVATED_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_ACTIVE_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_CURRENTLY_PROGRESSING_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_DISCLAIMER_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_ACTIVE_PASS_PROGRESSING_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_PREMIUM_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_FROZEN_TRAIL_HEADER_LONG": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_PREMIUM_SUBHEADER": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CARD_PREMIUM_SUBHEADER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_CTA_REWARD_PASSES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_CTA_REWARD_PASSES_ALT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_CTA_VIEW_ACTIVE_PASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_COUNT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_FREE_REWARDS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_HEADING_FROZEN_TRAIL": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_AVAILABLE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_COUNT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_PREMIUM_REWARDS_WAITING": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_REWARDS_COUNT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_PASS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_COMPLETE_SWITCH_XP_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_CTA_UPGRADE_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_DLC_BANNER": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_FREE_TRACK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_FREE_PASS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LABEL_REQUIRES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LABEL_EARN": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LABEL_UNLOCK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PASS_NEXT_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS_COLON": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_PREMIUM_REWARDS_AMOUNT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PASS_TILE_REWARDS_AMOUNT_ALT1": {
+          "Note": "The amount of premium rewards are written out to make it more enticing. likely 30 premium rewards included in this pass.",
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_PREMIUM_TRACK": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_NOT_COLLECTED_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT4": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PROGRESS_ALT5": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_BATTLEPASS_REWARD_PANEL_PREMIUM_REQ_ALT3": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_ACTIVE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_ACTIVE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_AVAILABLE_MULTI": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_AVAILABLE_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_COMPLETED_PLURAL": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_COMPLETED_SINGLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_SECTION_COMPLETED": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_DLC_HEADING": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_COSMETICS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_COSMETICS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTFITS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_WEAPON_STENCIL": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_MUSIC_INSTRUMENT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTPOST_BLUEPRINT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_UNIQUE_OUTPOST_BLUEPRINT_ALT1": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_OUTFIT": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_OUTFITS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_WEAPON_STENCIL": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_EXCLUSIVE_WEAPON_STENCILS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_UPGRADE_PASS_SCREEN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LABEL_INCLUDES": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LISTITEM_PREMIUM_PASS_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LISTITEM_UNLOCKABLE_PREMIUM_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LISTITEM_PREMIUM_PASS_REWARDS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LISTITEM_DLC_EXCLUSIVE_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_BATTLEPASS_LISTITEM_DLC_EXCLUSIVE_REWARDS_PLUS": {
+          "Status": "approved"
         }
       }
     }

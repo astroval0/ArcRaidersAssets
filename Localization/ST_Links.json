@@ -24,7 +24,53 @@
         "ID_LINKS_VOIP_TROUBLESHOOT": "https://id.embark.games/arc-raiders/support/faq/156-troubleshooting-voice-chat---pc",
         "ID_LINKS_VOIP_TROUBLESHOOT_CONSOLE": "https://id.embark.games/arc-raiders/support/faq/176-troubleshooting-voice-chat---console"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LINKS_TERMS_OF_SERVICE": {
+          "Status": "new"
+        },
+        "ID_LINKS_BETA_TERMS_OF_SERVICE": {
+          "Status": "new"
+        },
+        "ID_LINKS_SUPPORT": {
+          "Status": "new"
+        },
+        "ID_LINKS_DISCORD": {
+          "Status": "new"
+        },
+        "ID_LINKS_EMBARK_ID_LINK_USER_FRIENDLY": {
+          "Status": "new"
+        },
+        "ID_LINKS_EMBARK_ID": {
+          "Status": "new"
+        },
+        "ID_LINKS_EMBARK_ID_LINK": {
+          "Status": "new"
+        },
+        "ID_LINKS_EMBARK_ID_LINK_PREFILLED": {
+          "Status": "new"
+        },
+        "ID_LINKS_PRIVACY_POLICY": {
+          "Status": "new"
+        },
+        "ID_LINKS_REPORT_BUG": {
+          "Status": "new"
+        },
+        "ID_LINKS_INVITE_FRIENDS": {
+          "Status": "new"
+        },
+        "ID_LINKS_MANAGE_YOUR_EMBARK_ID": {
+          "Status": "approved"
+        },
+        "ID_LINKS_GO_TO_PORTAL": {
+          "Status": "approved"
+        },
+        "ID_LINKS_VOIP_TROUBLESHOOT": {
+          "Status": "new"
+        },
+        "ID_LINKS_VOIP_TROUBLESHOOT_CONSOLE": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

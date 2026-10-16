@@ -27,9 +27,87 @@
         "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACCORDION": "Accordion",
         "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACOUSTIC_GUITAR": "Acoustic Guitar",
         "ID_ITEMNAMES_GADGETS_METALDETECTOR": "Dockmaster's Detector",
-        "ID_ITEMNAMES_GADGETS_POWEREDDESCENDER": "Powered Descender"
+        "ID_ITEMNAMES_GADGETS_POWEREDDESCENDER": "Powered Descender",
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_PLR": "§PLR",
+        "ID_ITEMNAMES_GADGETS_GRAPPLEHOOK": "Grappling Hook",
+        "ID_ITEMNAMES_GADGETS_METALDETECTOR_02": "Mountaineer’s Detector",
+        "ID_ITEMNAMES_GADGETS_TETHERGUN": "Tether Launcher",
+        "ID_ITEMNAMES_GADGETS_GRAPPLEHOOKALT1": "Grapple Hook"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_GADGETS_REMOTE_RAIDER_FLARE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_ZIPLINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_PHOTOELECTRIC_CLOAK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_SNAP_HOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_BINOCULARS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_SPRAYCAN_FIRE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_FLUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_BANJO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_BONGO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_COWBELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_HARMONICA": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_PIANO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_SHAKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_SLIDE_GUITAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_TAMBOURINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_UDU": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACCORDION": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_INSTRUMENT_ACOUSTIC_GUITAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_METALDETECTOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_POWEREDDESCENDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_GRAPPLEHOOKALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_GRAPPLEHOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_METALDETECTOR_02": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GADGETS_TETHERGUN": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

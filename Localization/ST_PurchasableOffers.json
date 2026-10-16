@@ -277,11 +277,1012 @@
         "ID_PURCHASABLEOFFER_BUNDLE_SANDVEIL_DESCRIPTION": "The Sandveil's pale wraps and layered linens were made for long stretches of dust and heat, where survival depends on patience and knowing when to move, and when to stay hidden.",
         "ID_PURCHASABLEOFFER_BUNDLE_WHALER": "The Whaler Set",
         "ID_PURCHASABLEOFFER_BUNDLE_WHALER_DESCRIPTION": "Two legends of the deep sea, one weapon.",
-        "ID_PURCHASABLE_BUNDLE_EMOTES": "Emotes Set"
+        "ID_PURCHASABLE_BUNDLE_EMOTES": "Emotes Set",
+        "ID_PURCHASABLE_BUNDLE_THEAERONAUTSET": "The Aeronaut Set",
+        "ID_PURCHASABLE_BUNDLE_THESHEATHSET": "The Sheath Set",
+        "ID_PURCHASABLE_BUNDLE_THEREAVERSET": "The Reaver Set",
+        "ID_PURCHASABLE_BUNDLE_THEHORNETHUNTERSET": "The Hornet Hunter Set",
+        "ID_PURCHASABLE_BUNDLE_THEDWELLERSET": "The Dweller Set",
+        "ID_PURCHASABLE_BUNDLE_THEAERONAUTSET_DESC": "Built for altitude, adapted for the Rust Belt’s lethal wilderness. The Aeronaut's worn flight suit and tactical rigging tell the story of a Raider who never truly left the cockpit.",
+        "ID_PURCHASABLE_BUNDLE_THESHEATHSET_DESC": "For those who operate on their own frequency.  The satellite dish stapled to the Sheath’s helmet is no longer operational, but the suit’s sleek shape and visorless helmet broadcasts its own message.",
+        "ID_PURCHASABLE_BUNDLE_THEREAVERSET_DESC": "The Rust Belt breeds all kinds of hunters; the battleground-prowling Reaver is the one everything else routes around. Approach uninvited, and you'll find out the antlers aren't just for show.",
+        "ID_PURCHASABLE_BUNDLE_THEHORNETHUNTERSET_DESC": "The Rust Belt's most dedicated exterminator. Armored head to toe in salvaged Hornet parts, this Raider doesn't just hunt ARC; they wear the evidence.",
+        "ID_PURCHASABLE_BUNDLE_THEDWELLERSET_DESC": "Patience is the Dweller's best weapon. Layered up in leather, wool, and metal, this Raider can weather any storm the Rust Belt has to offer.",
+        "ID_PURCHASABLE_BUNDLE_THEHOPLOMACHUSSET": "The Triumph Set",
+        "ID_PURCHASABLE_BUNDLE_THEHOPLOMACHUSSET_DESC": "Triumph is a reconstruction of an unknowable past hero. This ensemble belongs to Raiders who honor history, and wish for their own triumphs to be remembered by future generations.",
+        "ID_PURCHASABLE_BUNDLE_THESHOCKWARDENSET_DESC": "Crafted for those who dedicate themselves to understanding the hidden currents of the world. Layers of padding protect the wearer from their own ambitions, while trailing wires stand as a reminder that discovery often begins with failure.",
+        "ID_PURCHASABLE_BUNDLE_THESHOCKWARDENSET": "The Static Set",
+        "ID_PURCHASABLE_BUNDLE_THELOOMERSET": "The Roamer Set",
+        "ID_PURCHASABLE_BUNDLE_THELOOMERSET_DESC": "Built from reclaimed technology and weathered materials, this suit belongs to those who roam the surface without fear. For the Raider who sees value where others see ruins, living not against the world, but alongside its new rhythms.",
+        "ID_PURCHASABLE_BUNDLE_THEPOPSTARSET": "The Maestro Set",
+        "ID_PURCHASABLE_BUNDLE_THEPOPSTARSET_DESC": "The Maestro embraces the idea that standing apart can encourage others to stand taller themselves. It is worn by Raiders unafraid to become a spectacle in service of a greater purpose.",
+        "ID_PURCHASABLE_BUNDLE_THEGLITCHSET": "The Anomalia Set",
+        "ID_PURCHASABLE_BUNDLE_THEGLITCHSET_DESC": "Somewhere inside the static, something is trying to be heard. This suit is for Raiders who choose to listen.",
+        "ID_PURCHASABLE_BUNDLE_THENIGHTRUNNERSET": "The Azimuth Set",
+        "ID_PURCHASABLE_BUNDLE_THENIGHTRUNNERSET_DESC": "The Azimuth looks like it stepped out of a different future. Clad in sleek technical gear and covered in highly advanced sensors, the Azimuth cuts a silhouette that looks more at home among the stars than the Rust Belt's lethal wilderness.",
+        "ID_PURCHASABLE_BUNDLE_THETICKHUNTERSET": "The Tick Hunter Set",
+        "ID_PURCHASABLE_BUNDLE_THETICKHUNTERSET_DESC": "Lurking within the shadows, the Tick Hunter lies in wait. They bide their time in ambush, ready to strike and latch onto their prey.",
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_PREMIUMFROZENTRAILPASS": "Frozen Trail Premium Reward Pass",
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FROZENTRAILDLC": "Frozen Trail Collector Set",
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FROZENTRAILDLC_SHORT": "Collector Set",
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_PREMIUMFROZENTRAILPASS_SHORT": "Premium Reward Pass",
+        "ID_PURCHASABLE_BUNDLE_THEPATCHERSET": "The Anchor Set",
+        "ID_PURCHASABLE_BUNDLE_THEBELLSSET": "The Carriga Set",
+        "ID_PURCHASABLE_BUNDLE_THEOUTLANDERSET": "The Deadwire Set",
+        "ID_PURCHASABLE_BUNDLE_THEOUTLANDERSET_DESC": "Honor the souls of the fallen. A skull masks the Deadwire's hollow eyes, wires running from a scavenged chestplate into a torn tunic.",
+        "ID_PURCHASABLE_BUNDLE_THEBELLSSET_DESC": "Vanish into the cold. The Carriga peers out behind a carved fox mask, the hulking nomad wrapped in enough fur to survive a long journey through the icy mountains.",
+        "ID_PURCHASABLE_BUNDLE_THEPATCHERSET_DESC": "Sink like an anchor and hold the line. A cybernetic eye tracks every angle while heavy straps and metal plating pile on the weight; this is a Raider who is built to be immovable.",
+        "ID_PURCHASABLE_BUNDLE_THERENZOSET": "The Renzo Set",
+        "ID_PURCHASABLE_BUNDLE_THEBANSHESET": "The Banshee Set",
+        "ID_PURCHASABLE_BUNDLE_THEICEGIANTSET": "The Ice Giant Set",
+        "ID_PURCHASABLE_BUNDLE_THEWRECKSET": "The Wreck Set",
+        "ID_PURCHASABLE_BUNDLE_THECARRIONSET": "The Carrion Set",
+        "ID_PURCHASABLE_BUNDLE_THERENZOSET_DESC": "Skirmish with the calm of an ancient warlord. Lacquered plating hides live wiring underneath, a warrior's silhouette rebuilt from scraps.",
+        "ID_PURCHASABLE_BUNDLE_THEICEGIANTSET_DESC": "Move with the weight of a walking mountain. White plating and a fleece collar wrap a frame packed with scavenged gear, a cracked visor glowing through the frost.",
+        "ID_PURCHASABLE_BUNDLE_THEBANSHESET_DESC": "Stalk through the Belt, claws bared. A sealed suit and a tangle of tubing hug close under the Banshee’s torn collar, blades bolted over each hand.",
+        "ID_PURCHASABLE_BUNDLE_THEWRECKSET_DESC": "Every seam on this suit has been patched, welded, or tied off twice. Torn cloth hangs over scavenged armor, hoses and pouches lashed on wherever there's room, a Raider held together by scrap and stubbornness.",
+        "ID_PURCHASABLE_BUNDLE_THECARRIONSET_DESC": "Pick the field clean before the next Raider does. The Carrion dons a stitched mask and a coat gone stiff with grime, always prowling the brush for their next target.",
+        "ID_PURCHASABLE_BUNDLE_THEBUTTEROSET": "The Dead Eye Set",
+        "ID_PURCHASABLE_BUNDLE_THEBUTTEROSET_DESC": "For the Raider whose gaze cuts through the soul, like a knife cuts through butter.",
+        "ID_PURCHASABLE_BUNDLE_THESTATIONMASTERSET": "The Caposta Set",
+        "ID_PURCHASABLE_BUNDLE_THESTATIONMASTERSET_DESC": "Heavy-duty elegance paying homage to the engine’s heartbeat and the winter’s reach."
       },
       "KeysToMetaData": {
         "ID_PURCHASABLEOFFER_ITEMBUNDLE_ARCBACKPACK": {
-          "Note": "This is the name of a backpack; it's made of materials salvaged from ARC"
+          "Note": "This is the name of a backpack; it's made of materials salvaged from ARC",
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_DEFENSIVE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKINBUNDLE_RECRUIT_ORANGE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_CURRENCY_HARD": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKINBUNDLE_RECRUIT_REDBLUEGREEN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_CURRENCY_SOFT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_CURRENCY_SKILLPOINT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_HARDCASEBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_BASICMATERIAL": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKINBUNDLE_HIKINGBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_WEAPON_VULCANO": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_TOPSIDE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_LEMANS": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_SCOUTBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_WEAPON_ANVIL": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_HEALING": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKINBUNDLE_RECRUIT_BLACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_ADVANCED": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_SURVIVALBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_OFFENSIVE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_WEAPON_TEMPEST": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_ABANDONED_ASTRONAUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_SKIN_BARRELBACKPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_WEAPON_JUPITER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_MATERIALS_PACKAGE_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_INTACT_TEMPEST": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_JUKEBOX_SKIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ENFORCER_SKIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_COWBOY_MISSIONARY_SKIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_INTACT_JUPITER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ANTLER_SHAMAN_SKIN_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_WORN_ANVIL": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_WORN_BURLETTA": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_WEAPONS_PACKAGE_NAME": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_LARGEMATERIALSCRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_SHOTGUNWEAPONCRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_WEAPONMODCRAFTING": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_REFINER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_HEAVYFUZERECIPE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_COMPESATORIIIRECIPEPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_HEAVYWEAPONCRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_BENCHINSTALLATION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_CONSUMABLES": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_ANGLEDGRIPIIIRECIPECRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_LIGHTWEAPONCRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_TORRENTERECIPECRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_STABLESTOCKIIRECIPECRATE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_MEDICALCRAFTERPACKAGE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_ARPEGGIORECIPEPACKAGE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GSUIT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BEEKEEPER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_HAIRCUT_CURLYSHORT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_HAIRCUT_BOBMESSY": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_HAIRCUT_BUZZCUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKINBUNDLE_ROOKIERAIDERGREEN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKINBUNDLE_ROOKIERAIDERBLUE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_HYDROSCAV": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_COMPENSATORIIRECIPE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_VERTICALGRIPIIRECIPE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_ITEMBUNDLE_MUZZLEBRAKEIIIRECIPEPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_LE_MANS_SKIN_NAME_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_CASUALPILOT_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GREENHORN_7": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_JANITOR_7": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEKID_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST_2": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST_3": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST_4": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST_5": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_THEVEST_6": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_TRINKET_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_TRINKET_BLANKET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_TRINKET_URN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_ABANDONEDASTRONAUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_COSMONAUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_COWBOYMISSIONARY": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_DEEPSEADIVER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_ENFORCER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_FIGHTERPILOT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_SPACECHAPS": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_WAYFARER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_WELDER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_GWRANGER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BACKPACK_SCOUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BACKPACK_UTILITY": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BACKPACK_TECHBAG": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BACKPACK_URN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_BACKPACK_TREASURECHEST": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_MOUNTAINEER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_WAYFARER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_LEVIATHANSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_BOGWALKERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VALENTESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_LUNASET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MIRAGESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VOLTEDGESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RIPOSTA": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_BEEKEEPER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RENEGADEMOONSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_OMBRASET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ASTROLITESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_WILDERNESSSCOUTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RIOTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ROGUEHAWKSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FORESTRANGERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MARCOSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_GILDEDDRIFCOATSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ASTROLITEROOSTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_HIVEKEEPERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_DEEPSEABIRDSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_TRAILROOSTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ENVOYSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_TRAVELERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RADIOMOUNTAINEERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ELECTRICIANSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VELATISET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ASTROLITEROOSTERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ASTROLITESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_BEEKEEPER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_BOGWALKERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_DEEPSEABIRDSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ELECTRICIANSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ENVOYSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FORESTRANGERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_GILDEDDRIFCOATSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_HIVEKEEPERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_LEVIATHANSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_LUNASET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MARCOSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MIRAGESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_OMBRASET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RADIOMOUNTAINEERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RENEGADEMOONSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RIOTSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_RIPOSTA_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ROGUEHAWKSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_TRAILROOSTERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_TRAVELERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VALENTESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VELATISET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_VOLTEDGESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_WILDERNESSSCOUTSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEFARMERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEFARMERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMEMORIALISTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMEMORIALISTSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEENGINEERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEENGINEERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEGOALIESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEGOALIESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THECAVALIERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THECAVALIERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_GEARSHIFTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_GEARSHIFTERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ANDROIDSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_ANDROIDSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MACRAMESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_MACRAMESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_WELLSUMMERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_WELLSUMMERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_WELDER_MUDCRAWLER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_WELDER_ALABASTERBLUE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_SKIN_WELDER_WHITEFROG": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_MAYHEM": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_SCOUT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_IMPROVISATION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_ARCHUNTER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_PROTECTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_NINJA": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_MEDIC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_KEYHOLDER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THETRAILBYTESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THETRAILBYTESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEJUNKYARDASTRONAUTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEJUNKYARDASTRONAUTSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMISTHORNSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMISTHORNSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMOONSTONEROOSTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEMOONSTONEROOSTERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEPASSENGERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEPASSENGERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THECRAFTSMANSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THECRAFTSMANSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEBEACHSIDESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEBEACHSIDESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEBONECROWNSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_THEBONECROWNSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_DEFENDERPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_ARCTAMERPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_PYROJAMPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_ITEMBUNDLE_FASTPHANTOMPACK": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_RAIDERDECK_GOALIE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_RAIDERDECK_STARTER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEFIEROSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEFIEROSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEABYSSSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEABYSSSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEDIVERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEDIVERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEHYDROLOGISTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEHYDROLOGISTSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THESLUGGERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THESLUGGERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THESANDWALKERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THESANDWALKERSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEALPINERESCUESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_THEALPINERESCUESET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_STEALTH": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_STEALTH_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_YARNFACE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_YARNFACE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_HUNTSMAN": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_HUNTSMAN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CARTOGRAPHER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SPYGLASSSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CARTOGRAPHER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SPYGLASSSET_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_BRIGADE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_NASCOSTO": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SOLARE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_VANGUARD": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SPECKLED": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_RAMPAGE": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_RAMPAGE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SPECKLED_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_VANGUARD_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SOLARE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_NASCOSTO_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_BRIGADE_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_WASPHUNTER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_WASPHUNTER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_RACHETTA": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_RACHETTA_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CORSARO": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CORSARO_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CASTAWAY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_CASTAWAY": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SANDVEIL": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_SANDVEIL_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_WHALER": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_BUNDLE_WHALER_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_EMOTES": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEAERONAUTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESHEATHSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEREAVERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEHORNETHUNTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEDWELLERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEAERONAUTSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESHEATHSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEREAVERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEHORNETHUNTERSET_DESC": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_PURCHASABLE_BUNDLE_THEDWELLERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEHOPLOMACHUSSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEHOPLOMACHUSSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESHOCKWARDENSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESHOCKWARDENSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THELOOMERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THELOOMERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEPOPSTARSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEPOPSTARSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEGLITCHSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEGLITCHSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THENIGHTRUNNERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THENIGHTRUNNERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THETICKHUNTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THETICKHUNTERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBUTTEROSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESTATIONMASTERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBUTTEROSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THESTATIONMASTERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBELLSSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBELLSSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEOUTLANDERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEOUTLANDERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEPATCHERSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEPATCHERSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THERENZOSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBANSHESET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEICEGIANTSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEWRECKSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THECARRIONSET": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THERENZOSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEICEGIANTSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEBANSHESET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THEWRECKSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLE_BUNDLE_THECARRIONSET_DESC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_PREMIUMFROZENTRAILPASS": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FROZENTRAILDLC": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_FROZENTRAILDLC_SHORT": {
+          "Status": "approved"
+        },
+        "ID_PURCHASABLEOFFER_STOREBUNDLE_PREMIUMFROZENTRAILPASS_SHORT": {
+          "Status": "approved"
         }
       }
     }

@@ -108,178 +108,353 @@
       },
       "KeysToMetaData": {
         "ID_INBOX_INBOX": {
-          "Note": "Title of inbox feature, Link to Figma"
+          "Note": "Title of inbox feature, Link to Figma",
+          "Status": "approved"
         },
         "ID_INBOX_FILTER_INBOX": {
-          "Note": "Inbox Filter"
+          "Note": "Inbox Filter",
+          "Status": "approved"
         },
         "ID_INBOX_FILTER_ARCHIVE": {
-          "Note": "Inbox Filter"
+          "Note": "Inbox Filter",
+          "Status": "approved"
         },
         "ID_INBOX_NEW_MESSAGE": {
-          "Note": "NR of messages"
+          "Note": "NR of messages",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGES_MULTIPLE_TITLE": {
-          "Note": "NR of messages"
+          "Note": "NR of messages",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGES_SINGLE_TITLE": {
-          "Note": "NR of messages"
+          "Note": "NR of messages",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_STATUS": {
-          "Note": "Indicates if message has gifts/items"
+          "Note": "Indicates if message has gifts/items",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_GIFTS_SINGLE_STATUS": {
-          "Note": "Indicates if message has gifts/items"
+          "Note": "Indicates if message has gifts/items",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_GIFTS_MULTIPLE_CLAIMED_STATUS": {
-          "Note": "Indicates if message has gifts/items that have been claimed"
+          "Note": "Indicates if message has gifts/items that have been claimed",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_GIFTS_SINGLE_CLAIMED_STATUS": {
-          "Note": "Indicates if message has gifts/items that have been claimed"
+          "Note": "Indicates if message has gifts/items that have been claimed",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_GIFTS_CLAIMED_STATUS": {
-          "Note": "Indicates if message has gifts/items that have been claimed, alt"
+          "Note": "Indicates if message has gifts/items that have been claimed, alt",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIM_ALL": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIM": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_LINK_DISCORD": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIMED": {
-          "Note": "Message action - complete"
+          "Note": "Message action - complete",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_ARCHIVE": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_UNARCHIVE": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ALL": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_ARCHIVED": {
-          "Note": "Message action - complete"
+          "Note": "Message action - complete",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH": {
-          "Note": "Claim status if not possible"
+          "Note": "Claim status if not possible",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIM_ERROR_FULL_STASH_ALT": {
-          "Note": "Claim status if not possible, alt"
+          "Note": "Claim status if not possible, alt",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_ARCHIVE_ERROR_UNCLAIMED": {
-          "Note": "Archive status if not possible"
+          "Note": "Archive status if not possible",
+          "Status": "approved"
         },
         "ID_INBOX_INBOX_EMPTY_TITLE": {
-          "Note": "Empty state Inbox"
+          "Note": "Empty state Inbox",
+          "Status": "approved"
         },
         "ID_INBOX_INBOX_EMPTY_DESCRIPTION": {
-          "Note": "Empty state Inbox"
+          "Note": "Empty state Inbox",
+          "Status": "approved"
         },
         "ID_INBOX_ARCHIVE_EMPTY_TITLE": {
-          "Note": "Empty state Archive"
+          "Note": "Empty state Archive",
+          "Status": "approved"
         },
         "ID_INBOX_ARCHIVE_EMPTY_DESCRIPTION": {
-          "Note": "Empty state Archive"
+          "Note": "Empty state Archive",
+          "Status": "approved"
         },
         "ID_INBOX_TOOLTIP_DESCRIPTION": {
-          "Note": "Used in the tool tip to descirbe what Inbox is"
+          "Note": "Used in the tool tip to descirbe what Inbox is",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_REPORT_RECEIVED_TITLE": {
-          "Note": "Inbox Message - Title - Confirmation message after a player submits a report"
+          "Note": "Inbox Message - Title - Confirmation message after a player submits a report",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_REPORT_RECEIVED_BODY": {
-          "Note": "Inbox Message - Body - Confirmation message after a player submits a report"
+          "Note": "Inbox Message - Body - Confirmation message after a player submits a report",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_TITLE": {
-          "Note": "Inbox Message – Title – Notification when a player’s display name is updated"
+          "Note": "Inbox Message – Title – Notification when a player’s display name is updated",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_DISPLAY_NAME_UPDATED_BODY": {
-          "Note": "Inbox Message – Body – Notification when a player’s display name is updated"
+          "Note": "Inbox Message – Body – Notification when a player’s display name is updated",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_REFUND_PROCESSED_TITLE": {
-          "Note": "Inbox Message – Title – Notification when a refund has been processed"
+          "Note": "Inbox Message – Title – Notification when a refund has been processed",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_REFUND_PROCESSED_BODY": {
-          "Note": "Inbox Message – Body – Notification when a refund has been processed"
+          "Note": "Inbox Message – Body – Notification when a refund has been processed",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_TITLE": {
-          "Note": "Inbox Message – Title – Notification when purchases are rolled back due to invalid or unauthorized payment"
+          "Note": "Inbox Message – Title – Notification when purchases are rolled back due to invalid or unauthorized payment",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_CHARGEBACK_PROCESSED_BODY": {
-          "Note": "Inbox Message – Body – Notification when purchases are rolled back due to invalid or unauthorized payment"
+          "Note": "Inbox Message – Body – Notification when purchases are rolled back due to invalid or unauthorized payment",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_PERMANENT_BAN_TITLE": {
-          "Note": "Inbox Message – Title – Notification of permanent account suspension"
+          "Note": "Inbox Message – Title – Notification of permanent account suspension",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_PERMANENT_BAN_BODY": {
-          "Note": "Inbox Message – Body – Notification of permanent account suspension"
+          "Note": "Inbox Message – Body – Notification of permanent account suspension",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_TITLE": {
-          "Note": "Inbox Message – Title – Notification of temporary account suspension"
+          "Note": "Inbox Message – Title – Notification of temporary account suspension",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_TEMPORARY_SUSPENSION_BODY": {
-          "Note": "Inbox Message – Body – Notification of temporary account suspension"
+          "Note": "Inbox Message – Body – Notification of temporary account suspension",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_TITLE": {
-          "Note": "Inbox Message – Title – Notification when scheduled maintenance is ongoing"
+          "Note": "Inbox Message – Title – Notification when scheduled maintenance is ongoing",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_MAINTENANCE_IN_PROGRESS_BODY": {
-          "Note": "Inbox Message – Body – Notification when scheduled maintenance is ongoing"
+          "Note": "Inbox Message – Body – Notification when scheduled maintenance is ongoing",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_TITLE": {
-          "Note": "Inbox Message – Title – Notification when scheduled maintenance has ended"
+          "Note": "Inbox Message – Title – Notification when scheduled maintenance has ended",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_MAINTENANCE_COMPLETE_BODY": {
-          "Note": "Inbox Message – Body – Notification when scheduled maintenance has ended"
+          "Note": "Inbox Message – Body – Notification when scheduled maintenance has ended",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_TITLE": {
-          "Note": "Inbox Message – Title – Notification when items lost due to unfair play are restored"
+          "Note": "Inbox Message – Title – Notification when items lost due to unfair play are restored",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_CHEATER_COMPENSATION_BODY": {
-          "Note": "Inbox Message – Body – Notification when items lost due to unfair play are restored"
+          "Note": "Inbox Message – Body – Notification when items lost due to unfair play are restored",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_TITLE": {
-          "Note": "Inbox Message – Title – Notification when compensation is granted for downtime"
+          "Note": "Inbox Message – Title – Notification when compensation is granted for downtime",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_DOWNTIME_COMPENSATION_BODY": {
-          "Note": "Inbox Message – Body – Notification when compensation is granted for downtime"
+          "Note": "Inbox Message – Body – Notification when compensation is granted for downtime",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_DELETE": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_DELETE_ALL": {
-          "Note": "Message action"
+          "Note": "Message action",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_DELETED": {
-          "Note": "Message action - complete"
+          "Note": "Message action - complete",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_DELETE_ERROR_UNCLAIMED": {
-          "Note": "Delete status if not possible"
+          "Note": "Delete status if not possible",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_ACTION_CLAIM_COMPENSATION_ERROR_FAILED": {
-          "Note": "Shown to the user if the compensation cannot be claimed"
+          "Note": "Shown to the user if the compensation cannot be claimed",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_EVENT_REWARD_TITLE": {
-          "Note": "Title for rewards sent from different events. TT1-2, Server Slam, Email Verification, Twitch Drops"
+          "Note": "Title for rewards sent from different events. TT1-2, Server Slam, Email Verification, Twitch Drops",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_TT1_REWARDS_BODY": {
-          "Note": "Inbox message for event rewards, Tech Test 1"
+          "Note": "Inbox message for event rewards, Tech Test 1",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_TT2_REWARDS_BODY": {
-          "Note": "Inbox message for event rewards, Tech Test 2"
+          "Note": "Inbox message for event rewards, Tech Test 2",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_SSOT_REWARDS_BODY": {
-          "Note": "Inbox message for event rewards Server Slam."
+          "Note": "Inbox message for event rewards Server Slam.",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_TWITCH_DROPS_BODY": {
-          "Note": "Inbox message for Twitch Drops"
+          "Note": "Inbox message for Twitch Drops",
+          "Status": "approved"
         },
         "ID_INBOX_MESSAGE_EMAIL_VERIFICATION_BODY": {
-          "Note": "Inbox message for Email Verification"
+          "Note": "Inbox message for Email Verification",
+          "Status": "approved"
+        },
+        "ID_INBOX_ARCHIVE_MESSAGE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_NO_MESSAGES": {
+          "Status": "approved"
+        },
+        "ID_INBOX_NO_MESSAGES_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_ACTION_LINK_DISCORD_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVER_CRASH_COMPENSATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVER_CRASH_COMPENSATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_TITLE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_SERVERSLAMENDING_BODY_ALT1": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_REWARD_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_BUTTON": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_REWARD_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_REPORT_ACTION_TAKEN_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_REPORT_ACTION_TAKEN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CHRISTMAS_2025_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CHRISTMAS_2025_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_TEN_MILLION_PLAYERS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_TEN_MILLION_PLAYERS_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_ARC_TO_FINALS_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_CROSSPROMOTION_ARC_TO_FINALS_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_CTA_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_CTA_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_COMMUNITYACTIVATION_REWARD_BODY_ALT1": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_VALENTINE_2026_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_VALENTINE_2026_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_ONE_MILLION_DISCORD_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_ONE_MILLION_DISCORD_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_TRIALS_COMPENSATION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_TRIALS_COMPENSATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_1_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_1_BODY": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_2_TITLE": {
+          "Status": "approved"
+        },
+        "ID_INBOX_MESSAGE_PENALIZATION_LEVEL_2_BODY": {
+          "Status": "approved"
         }
       }
     }

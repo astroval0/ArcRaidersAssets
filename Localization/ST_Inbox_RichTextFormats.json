@@ -11,7 +11,14 @@
         "ID_INBOX_RTF_PREVIEW_TITLE_WITH_GIFT": "<img id=\"Inbox_Gift\"/> {0}",
         "ID_INBOX_RTF_PREVIEW_TITLE": "{0}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_INBOX_RTF_PREVIEW_TITLE_WITH_GIFT": {
+          "Status": "new"
+        },
+        "ID_INBOX_RTF_PREVIEW_TITLE": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

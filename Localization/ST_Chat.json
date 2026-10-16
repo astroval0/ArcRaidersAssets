@@ -108,25 +108,302 @@
       },
       "KeysToMetaData": {
         "ID_SOCIAL_TEXT_CHAT_RESTRICTED_ALT2": {
-          "Note": "Restricted access to text chat for breaking Community Standards"
+          "Note": "Restricted access to text chat for breaking Community Standards",
+          "Status": "approved"
         },
         "ID_SOCIAL_VOICE_CHAT_RESTRICTED": {
-          "Note": "Restricted access to voice chat for breaking Community Standards"
+          "Note": "Restricted access to voice chat for breaking Community Standards",
+          "Status": "approved"
         },
         "ID_SOCIAL_VOICE_CHAT_FAILED": {
-          "Note": "Chat access failed to load"
+          "Note": "Chat access failed to load",
+          "Status": "approved"
         },
         "ID_SOCIAL_TEXT_CHAT_FAILED": {
-          "Note": "Chat access failed to load"
+          "Note": "Chat access failed to load",
+          "Status": "approved"
         },
         "ID_SOCIAL_CHAT_FAILED": {
-          "Note": "Chat access failed to load"
+          "Note": "Chat access failed to load",
+          "Status": "approved"
         },
         "ID_SOCIAL_CHAT_BLOCKED": {
-          "Note": "Chat access is blocked"
+          "Note": "Chat access is blocked",
+          "Status": "approved"
         },
         "ID_SOCIAL_TEXT_CHAT_BLOCKED": {
-          "Note": "Chat access is blocked"
+          "Note": "Chat access is blocked",
+          "Status": "approved"
+        },
+        "ID_CHAT_ALL": {
+          "Status": "approved"
+        },
+        "ID_CHAT_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_CHAT_CHANNEL_TEMPLATE": {
+          "Status": "new"
+        },
+        "ID_CHAT_EMPTY_CHANNEL": {
+          "Status": "new"
+        },
+        "ID_CHAT_LINE_TEMPLATE": {
+          "Status": "new"
+        },
+        "ID_CHAT_WHISPER": {
+          "Status": "approved"
+        },
+        "ID_CHAT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CHAT_PROMPT": {
+          "Status": "approved"
+        },
+        "ID_CHAT_MESSAGE_RECEIVED": {
+          "Status": "approved"
+        },
+        "ID_CHAT_MESSAGE_RECEIVED_CLAN": {
+          "Status": "approved"
+        },
+        "ID_CHAT_MESSAGE_RECEIVED_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_CHAT_DM": {
+          "Status": "approved"
+        },
+        "ID_CHAT_PROMPT_RICH_TEXT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_JOINED_PARTY_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_JOINED_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_LEFT_PARTY_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_LEFT_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_PARTY_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_LEFT_PARTY_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_LEFT_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_JOINED_CLAN_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_JOINED_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_LEFT_CLAN_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PLAYER_LEFT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_CLAN_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_LEFT_CLAN_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_LEFT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_TOO_MANY_MESSAGES": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_MODERATED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_MODERATED_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_INDICATOR_NEW": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_INDICATOR_NEW_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_TAB_CHANNEL_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_TAB_CHANNEL_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CLOSE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CHAT_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CLOSE_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CHAT_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_CLOSE_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_TAB_CHANNEL_PARTY_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_TAB_CHANNEL_CLAN_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_RESTRICTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_INPUT_HINT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_ALT_3": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_ENABLED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_DISABLED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_ENABLED_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_DISABLED_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_SWITCH_CHANNELS": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_MUTE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_UNMUTE_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_MUTE_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_UNMUTE_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_MUTE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_UNMUTE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_MUTE_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_UNMUTE_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_MUTE_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_UNMUTE_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_PARTY_CHAT_NOT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_CLAN_CHAT_NOT_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_PARTY_CHAT_MUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_PARTY_CHAT_UNMUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CLAN_CHAT_MUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CLAN_CHAT_UNMUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CHAT_MUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CHAT_UNMUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CHANNEL_MUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_STATE_CHANNEL_UNMUTED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_PARTY_CHAT_HAS_ENDED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_CLAN_CHAT_HAS_ENDED": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_ONLY_ONE_IN_PARTY_USING_TEXT_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_REQUESTED_CLAN_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_CLAN_MEMBER_REQUESTED_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_CLAN_MEMBER_REQUESTED_PARTY_SUGGESTED_MAP": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_CHAT_PARTY": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_CHAT": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_ACTION_HINT_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_NEW_CLAN": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_MESSAGE_YOU_JOINED_NEW_CLAN_ALT_1": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_BUTTON_PROMPT_SEND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_TEXT_CHAT_FAILED_SEND": {
+          "Status": "approved"
+        },
+        "ID_SOCIAL_VOICE_CHAT_BLOCKED": {
+          "Status": "approved"
+        },
+        "ID_CHAT_MESSAGE_PARTYMEMBER_SUGGESTS_DESTINATION": {
+          "Status": "approved"
         }
       }
     }

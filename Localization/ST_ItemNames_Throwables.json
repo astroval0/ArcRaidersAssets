@@ -33,9 +33,92 @@
         "ID_ITEMNAMES_THROWABLES_SNOWBALL": "Snowball",
         "ID_ITEMNAMES_THROWABLES_SNOWBALL_ROCK": "Dubious Snowball",
         "ID_ITEMNAMES_THROWABLES_LURE_FIRECRACKER": "Firecracker",
-        "ID_ITEMNAMES_THROWABLES_CRASHPAD": "Crash Mat"
+        "ID_ITEMNAMES_THROWABLES_CRASHPAD": "Crash Mat",
+        "ID_ITEMNAMES_THROWABLES_TETHERGRENADE": "Yank Grenade"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMNAMES_THROWABLES_JUMP_MINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_BLAZE_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_LIGHT_IMPACT_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_WOLFPACK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SMOKE_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_GAS_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_TAGGING_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_LURE_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_VOLCANIC_ROCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_JOLT_MINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SNAP_BLAST_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_HEAVY_FUZE_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_TRIGGER_NADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SHOWSTOPPER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_BLUE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_RED": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_YELLOW": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_GLOWSTICK_GREEN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_HOMINGMISSILEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_TRAILBLAZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SMOKE_GRENADE_SMALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SHRAPNEL_GRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SNOWBALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_SNOWBALL_ROCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_LURE_FIRECRACKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_CRASHPAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THROWABLES_TETHERGRENADE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

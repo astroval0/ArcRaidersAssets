@@ -377,9 +377,1124 @@
         "ID_LOCATION_HOUSING_PROJECT_RESEARCH_CENTER": "Housing Project Research Center",
         "ID_LOCATION_DAM_CONTROLLEDACCESSZONE": "Controlled Access Zone",
         "ID_LOCATION_DAM_AUXILIARYAREA": "Auxiliary Area",
-        "ID_LOCATION_DERAILED_TRAIN": "Derailed Train"
+        "ID_LOCATION_DERAILED_TRAIN": "Derailed Train",
+        "ID_LOCATION_REINFORCED_BUS": "Reinforced Bus"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_LOCATION_ACERRA_LALBERO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ACERRA_LACHIESA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ACERRA_PLAINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ACERRA_SPACEPORT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_DAM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_ARROYO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_BIGBOWLS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_MAJORSWAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_REDLAKE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_RIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_FORMICAI": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_VIPERTRAILS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ACERRA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BROKENHIGHWAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_CITYCENTER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_COMMERCIALDISTRICT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_OLDTOWN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_OUTSKIRTS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_RESIDENTIAL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_UNKNOWN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ALCANTARA_POZZO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_REDDUNES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_APARTMENTCOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PIAZZAROMA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PARK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_TOWNHALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_MARKETRUINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_GALLERIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_HOSPITAL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PARKING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_RESEARCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_SPACETRAVEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_TRAINSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_CHURCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_RUINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_MAINSTREET": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_LIBRARY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_WAREHOUSES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_DESERTEDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_DISTRICTOVERLOOK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BURIEDPROPERTIES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PIAZZAARBUSTO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_CONTROLTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_CONTROLTOWERTOP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_BREACH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FLOODGATES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PIPELINETOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_GENERATORHALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_LAKEBERM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_TESTINGANNEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_REDAPARTMENTS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WHITEAPARTMENTS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_ADMIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_HYDROPONICDOME": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_HYDROPONICDOMECOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_EASTEND": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_TAHLIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_SCHOOL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_DAVINCI": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_ARBUSTO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_MAINSTREET": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_ROSA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_MUTINY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_CHAN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_COPERTO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_COLLAPSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_BACK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_COLLINE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_SANTAMARIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATERTREATMENT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATERTREATMENT_MAIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROLTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRENCHTOWER_NORTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRENCHTOWER_SOUTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FLIGHTCONTROL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROL_STAFFROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SECURITYCHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_BLOCK_REDTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_VENTILATIONSHAFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SMALLCREEK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_OUTSKIRTSBUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BUNKERINTERIOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATERTOWERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATERCONTROLROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_BARONHUSK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_TESTINGANNEXMONITORROOM1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_TESTINGANNEXINFORMATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FLOODEDCELLAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FLOODSPILLINTAKE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SWAMPSIDEELEVATORCOURTYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SPILLWAYGATES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SOUTHSWAMPOUTPOST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_THEDAMRESEARCHSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RESEARCHLAB": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_ELECTRICALTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_REDLAKE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RAIDEROUTPOSTEAST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PATTERNHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_OLDBATTLEGROUND": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_MAINTENANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_LOADINGBAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FLOODACCESSTUNNELWATER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FLOODACCESSTUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_ELECTRICALSUBSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_DRAINAGETUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_DEPLOYMENTTUNNELS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_BUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_DEPLOYMENTTUNNELSANTENNA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_ADMINISTRATIONRECEPTION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PRIMARYFACILITY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TUNNELS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRENCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WESTTRANSITBUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SOUTHTRANSITBUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRANSITBUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WESTLAUNCHTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EASTLAUNCHTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_LAUNCHTOWERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_LACHIESA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_MAINGROUNDS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_GASSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FOODCOURT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROLROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_VEHICLEMAINTENANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTAINERSTORAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FACILITYSUPPORT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_ENCAMPMENTWASABI": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EASTPLAINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TOWERTOP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROLTOWER_B6": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTAINERYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTAINERSTORAGEROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_COMMUNICATIONSTOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_COLONYFIELDSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BROKENPIPELINE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_DATASTORAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_ARRIVALBUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SECURITY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_MEDICALEXAMROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_LOCKERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DEPARTUREBUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_PRACTICERANGE_PRACTICERANGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_ABANDONEDHIGHWAYCAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_TRATTORIAPICCOLO": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_APARTMENTBUILDINGA2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_APARTMENTBUILDINGA1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_WESTVILLAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_FARMACIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_APARTMENTBUILDINGB2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_GENERATORCOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ARBUSTO_FARMACIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ABANDONED_HIGHWAY_CAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RAIDER_CAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MEDICAL_BAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_LAUNCH_PAD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_PIAZZA_ARBUSTO_FARMACIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SECLUDED_ROOF_TERRACE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_FLOODED_SOLAR_PANELS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ANY_MAP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BROKEN_WALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SCRAMBLER_HUSK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_PERIMETER_GATE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_RAIDER_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CAR_PARK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_JIANGSU_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_DEPOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRANSPORT_PARKING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CRANE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_LINES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_CONTROL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_POD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CENTRAL_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TUNNEL_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SOUTH_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EAST_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WEST_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_PUMPING_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EAST_PLAINS_WAREHOUSES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SUPPORT_BUILDINGS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SUPPORT_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BLUE_GATE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WEST_GATE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_GROUND_CONTROL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SHIPPING_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SHIPPING_WAREHOUSE_OFFICE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SECURITY_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_GARAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_PLATFORM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_GUARD_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WEST_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EAST_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_LITTLE_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_ROCKET_ASSEMBLY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_EAST_CONTAINER_YARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WEST_CONTAINER_YARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_PERIMETER_WALL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_LINE_SUPPORT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_STORAGE_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_STORAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_DEPARTURES_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROL_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRENCH_HATCH_EAST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TRENCH_HATCH_WEST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_PODS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SILOS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_MAINTENANCE_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_STAFF_PARKING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CHECKPOINTS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SERVICE_BUILDINGS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_FUEL_PROCESSING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_SECONDARY_FUEL_STORAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_VEHICLE_BAY_B": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_VEHICLE_BAY_C": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_VEHICLE_BAY_A": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_THE_TRENCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BARON_HUSK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_CONTROL_TOWER_TOP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_ELECTRICALSUBSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_WATER_TOWERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PARKING_LOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_CAMPSITE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_CENTRAL_SWAMP_LIFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SWAMPSIDE_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RED_LAKE_BALCONY_LIFT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_NORTH_COMPLEX_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_POWER_CONTROL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_UNDERPASS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_GUIDE_BERM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_LOWER_GALLERY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATER_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WRECKAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_ENEMY_WRECK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_TOWER_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_OLD_BARON_HUSK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_BEN_WELDERS_SUNROOF": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SUNROOF_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_BARONS_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SPILLWAY_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SMALL_CAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_HIGHWAY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WEST_BROKEN_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FOREST_BUNKER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PUMP_HOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RED_LAKE_OUTLOOK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SCRAP_YARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_APARTMENT_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_EAST_BROKEN_BRIDGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_OUTPOST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RAIDER_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_POWER_CONTROL_COMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RUINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_PUMPHOUSE_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SPILLWAY_LANES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WIRELESS_ELECTRICITY_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_SUPPORT_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RAIDER_CAMP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_GARAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_APARTMENT_BUILDING_B1": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_EASTERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_SOUTHERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_MAINTENANCE_DEPOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_HIGHWAY_RUINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_ROMA_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_COURTYARD_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_HIGHWAY_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_UNDERPASS_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_CHURCH_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_SINKHOLE_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PARK_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_LIBRARY_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_UNIVERSITY_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_HOSPITAL_BASEMENT_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_PARKING_GARAGE_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_WESTERN_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_NORTHERN_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_CENTRAL_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_SOUTHERN_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_WESTERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_NORTHERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_GAS_STATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_WAREHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIEDCITY_RESEARCH_LAB": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_MANTIKOR_SITE_ENTRANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_FORTRESS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_GATE_PROPER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_TRAFFIC_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_LOWER_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_MODDED_WRECK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_OLD_MONASTERY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_FIRE_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_HIGHWAY_COLLAPSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_THE_FOREST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_ARC_DEFORESTATION_ZONE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_DECIMARE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_HIKERS_PARKING_LOT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_MAINTENANCE_WING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_CHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_UPPER_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_THE_MOUNTAINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_COMMUNICATION_TOWER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_ABANDONED_HOUSING_PROJECT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_SECURITY_WING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_BROKEN_EARTH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_RUINS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_HANGAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ONBOARDING_PIZZERIA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ONBOARDING_MIRE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ONBOARDING_HYDROPOWERSTATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ONBOARDING_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ONBOARDING_FLOODGATES": {
+          "Status": "approved"
+        },
+        "ID_MAP_ANY_MAP": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_SECRET_CELLAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_HEADHOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_REDLAKES_BALCONY": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_REDLAKES_HATCH": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATER_TREATMENT_COURTYARD": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_WATERTREATMENT_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_OLIVE_GROVE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_FARMLANDS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_LOGISTICS_OFFICE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_LOADING_DOCK": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_COMMUNICATION_TOWER_OFFICE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_RIDGELINE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_GLADE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_BUNKER_DATA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_BUNKER_MAINTENANCE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_LITTLE_HOUSE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_RAIDERSREFUGE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_WAREHOUSECOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_SUPPORT_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_BUILDING_FOUNDATION": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_RUINED_BUILDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_GATE_ACCESS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_RUIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_TOP_OF_LAUNCH_TOWERS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_WATER_SIPHONING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_RIDGEHOUSES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_FORMICAIOUTPOST": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_OUTERGATES": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BLUEGATE_ROOTCELLAR": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SPACEPORT_BILGUUNS_HIDEOUT": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_NORTH_TRENCH_TOWER_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_SOUTH_TRENCH_TOWER_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_JIANGSU_WAREHOUSE_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_CONTAINER_STORAGE_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_TESTING_ANNEX_SECURE_ROOM_B": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_CONTROL_TOWER_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_RESEARCH_ADMINISTRATION_STAFF_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_TESTING_ANNEX_SECURE_ROOM_A": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_HOSPITAL_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MAIN_STREET_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_GRANDIOSO_APARTMENTS_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MUTINY_BLOCK_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_BURIED_CITY_SPACE_TRAVEL_LOCKED_ROOM": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MULTIPLE_DESTINATIONS": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_MULTIPLE_DESTINATIONS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_ENELICABULDING": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_HOUSING_PROJECT_RESEARCH_CENTER": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_CONTROLLEDACCESSZONE": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DAM_AUXILIARYAREA": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_DERAILED_TRAIN": {
+          "Status": "approved"
+        },
+        "ID_LOCATION_REINFORCED_BUS": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

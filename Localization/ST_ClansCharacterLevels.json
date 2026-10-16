@@ -13,7 +13,20 @@
         "ID_CLAN_CHARACTER_LEVELS_20": "10 - 20",
         "ID_CLAN_CHARACTER_LEVELS_30": "20 - 30"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_CHARACTER_LEVELS_ANY": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CHARACTER_LEVELS_10": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CHARACTER_LEVELS_20": {
+          "Status": "approved"
+        },
+        "ID_CLAN_CHARACTER_LEVELS_30": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

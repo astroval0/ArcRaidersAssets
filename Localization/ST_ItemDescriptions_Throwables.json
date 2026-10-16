@@ -27,9 +27,78 @@
         "ID_ITEMDESC_SNOWBALL": "A compact snowball fashioned out of the most malleable and aerodynamic snow.",
         "ID_ITEMDESC_SNOWBALL_ROCK": "A heavier \"snowball\" for the Raiders who don't play nice.",
         "ID_ITEMDESC_LURE_FIRECRACKER": "A device that sparks and pops in a pleasant manner.",
-        "ID_ITEMDESC_CRASHPAD": "A throwable emergency landing device, to soften some heavy landings."
+        "ID_ITEMDESC_CRASHPAD": "A throwable emergency landing device, to soften some heavy landings.",
+        "ID_ITEMDESC_TETHERGRENADE": "A grenade that anchors a line to whatever it hits, pulling the target toward the point of impact.",
+        "ID_ITEMDESC_TETHERGRENADEALT1": "A canister that anchors a line to whatever it hits, pulling the target toward the point of impact."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_IMPACTGRENADE_SMALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMOKEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STAMINADOTGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DOTGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TAGGINGGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_BASICSTICKYGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STICKYREMOTEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_THROWABLEDECOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SCATTERMISSILEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_STUNGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_GLOWSTICK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HOMINGMISSILEGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TRAILBLAZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SMOKEGRENADE_SMALL": {
+          "Status": "approved"
+        },
+        "ST_ITEMDESC_SHRAPNELGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNOWBALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SNOWBALL_ROCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_LURE_FIRECRACKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_CRASHPAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TETHERGRENADE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_TETHERGRENADEALT1": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

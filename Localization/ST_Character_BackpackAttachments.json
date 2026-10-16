@@ -69,9 +69,295 @@
         "ID_CHARACTER_BACKPACKATTACHMENT_SHIPBELL": "Ship Bell",
         "ID_CHARACTER_BACKPACKATTACHMENT_FISHTRAP": "Fish Trap",
         "ID_CHARACTER_BACKPACKATTACHMENT_CONCHSHELL": "Conch Shell",
-        "ID_CHARACTER_BACKPACKATTACHMENT_BIRDHOUSE": "Bird House"
+        "ID_CHARACTER_BACKPACKATTACHMENT_BIRDHOUSE": "Bird House",
+        "ID_CHARACTER_BACKPACKATTACHMENT_SPINNINGTOP": "Spinning Top",
+        "ID_CHARACTER_BACKPACKATTACHMENT_LANCEKEYCHAIN": "Lance Keychain",
+        "SPINNINGTOP": "Spinning Top",
+        "ID_CHARACTER_BACKPACKATTACHMENT_NOMADJUG": "Nomad Jug",
+        "ID_CHARACTER_BACKPACKATTACHMENT_SEXTAN": "Sextant",
+        "ID_CHARACTER_BACKPACKATTACHMENT_POCKETEXTINGUISHER": "Pocket Extinguisher",
+        "ID_CHARACTER_BACKPACKATTACHMENT_HYDRAULICPUMP": "Hydraulic Pump",
+        "ID_CHARACTER_BACKPACKATTACHMENT_GAMECONSOLE": "Game Console",
+        "ID_CHARACTER_BACKPACKATTACHMENT_TICKTROPHY": "Tick Trophy",
+        "ID_CHARACTER_BACKPACKATTACHMENT_CERAMICVASE": "Ceramic Vase",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_TRAINWHISTLE": "Train Whistle",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_SPACECRAFTMODULE": "Spacecraft Module",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_OXYGENRESPIRATOR": "Oxygen Respirator",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_MAILBOX": "Mailbox",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_LITHIUMPACK": "LithiumPack",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_INFRAREDTRANSMITTER": "Infrared Transmitter",
+        "ID_CHARACTER_BACKPACKATTACHMENTS_CARBIDELAMP": "Carbide Lamp",
+        "ID_CHARACTER_BACKPACKATTACHMENT_RENEGADECENSER": "Renegade Censer",
+        "ID_CHARACTER_BACKPACKATTACHMENT_SPACECRAFTMODULE": "Spacecraft Module",
+        "ID_CHARACTER_BACKPACKATTACHMENT_LITHIUMPACK": "Lithium Pack",
+        "ID_CHARACTER_BACKPACKATTACHMENT_CARBIDELAMP": "Carbide Lamp",
+        "ID_CHARACTER_BACKPACKATTACHMENT_MAILBOX": "Mailbox",
+        "ID_CHARACTER_BACKPACKATTACHMENT_RESPIRATOR": "Respirator",
+        "ID_CHARACTER_BACKPACKATTACHMENT_TRAINWHISTLE": "Train Whistle",
+        "ID_CHARACTER_FURNITURE_RETROSOFA": "Retro Sofa"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CHARACTER_BACKPACKATTACHMENT_SPINNINGTOP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_LANCEKEYCHAIN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BUCKET01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BRIEFCASE01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CANSIXPACK01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CANTEEN01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FAXMACHINE01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FIELDKITCHEN01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FOOTBALL01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FUELCANISTER01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GAUGEBOX01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_RADIOPACK01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SHOES01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_WATERSKIN01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GASCANISTER01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_RADIOPACK02A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SPACESHIP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_MINE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BLANKETROLL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_HOOKAH": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_ANTENNA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_PIOTECHSET02SCOURGERIDER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_PIOTECHSET03GASMASK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CHARACTERHELMET01": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_PIOTECHSET04": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CHARACTERHELMET13": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_PICNICBASKET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_KEG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_DRUM": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FOOTBALL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FIRSTAIDKIT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FIREEXTINGUISHER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SLEEPINGBAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_TOOLBAG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_AVIATORMASK01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_AIRTIGHTCONTAINER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_RADIO": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GRAINSACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CAULDRON": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GASCANISTER02A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SCROLLS01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BOXINGGLOVES01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BOXINGGLOVES": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CAULDRON01A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GRAINSACK01A": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SAMPLEBOX01A": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FLIGHTRECORDER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_WICKERBASKET": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FLIGHTRECORDER01A": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_TOOLBAG01A": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_WICKERBASKET01A": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_HOSE_BUNDLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_DIVINGFINS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_HOSEBUNDLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FLIPPERS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SNOWRESCUEKIT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_MAPS": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_RECORDEPLAYER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_GLOBE_01_A": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_WEAPONSCASE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SHIPBELL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_FISHTRAP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CONCHSHELL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_BIRDHOUSE": {
+          "Status": "approved"
+        },
+        "SPINNINGTOP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_NOMADJUG": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SEXTAN": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_POCKETEXTINGUISHER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_HYDRAULICPUMP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_GAMECONSOLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_TICKTROPHY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CERAMICVASE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_TRAINWHISTLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_RESPIRATOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_LITHIUMPACK": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_CARBIDELAMP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_MAILBOX": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_TRAINWHISTLE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_OXYGENRESPIRATOR": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_INFRAREDTRANSMITTER": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_CARBIDELAMP": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_MAILBOX": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_RENEGADECENSER": {
+          "Status": "approved",
+          "Note": ""
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENT_SPACECRAFTMODULE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_BACKPACKATTACHMENTS_SPACECRAFTMODULE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTER_FURNITURE_RETROSOFA": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

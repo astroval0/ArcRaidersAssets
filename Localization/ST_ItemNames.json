@@ -326,29 +326,1211 @@
         "ID_ITEMNAMES_MONOLITH_PART": "Turbine Compressor",
         "ID_ITEMNAMES_MONOLITH_PART_ALT1": "Turbine Rotor",
         "ID_ITEMNAMES_MONOLITH_PART_ALT2": "Turbine Intake",
-        "ID_ITEMNAMES_MONOLITH_PART_ALT3": "Turbine Fan"
+        "ID_ITEMNAMES_MONOLITH_PART_ALT3": "Turbine Fan",
+        "ID_ITEMNAME_CAMERA": "Camera",
+        "ID_ITEMNAMES_TARRAGON_PART": "Bully Cluster Shell",
+        "ID_ITEMNAMES_PAINT": "Paint",
+        "ID_ITEMNAMES_FRIGATEMEMORYMODULE": "Frigate Diagnostic Node",
+        "ID_ITEMNAMES_ARCMEMORYCARD": "ARC Data Module",
+        "ID_ITEMNAMES_EXODUSBOOK": "Exodus Technical Handbook",
+        "ID_ITEMNAMES_RAIDERJOURNAL": "Raider Logbook",
+        "ID_ITEMNAMES_STEELCABLE": "SteelCable",
+        "ID_ITEMNAMES_FRIGATE1": "Frigate Inductor",
+        "ID_ITEMNAMES_COLLECTOR1": "Emperor Modulator",
+        "ID_ITEMNAMES_FROZENTRAILMAT3": "Insulation Roll",
+        "ID_ITEMNAMES_FROZENTRAILMAT2": "Epoxy Bucket",
+        "ID_ITEMNAMES_FROZENTRAILMAT1": "Steel Cable",
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL4": "Radial Press",
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL3": "Laser Level",
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL2": "Hand Drill",
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL1": "Cable Stripper",
+        "ID_ITEMNAMES_FROZENTRAILTECH4": "Thermal Shaker",
+        "ID_ITEMNAMES_FROZENTRAILTECH3": "Differential Microphone",
+        "ID_ITEMNAMES_FROZENTRAILTECH2": "Calculator",
+        "ID_ITEMNAMES_FROZENTRAILTECH1": "Mini Pump",
+        "ID_ITEMNAMES_PLANKS": "Planks",
+        "ID_ITEMNAMES_SHEETMETAL": "SheetMetal",
+        "ID_ITEMNAMES_WINNER01_DUCK": "MRI Duck",
+        "ID_ITEMNAMES_WINNER02_DUCK": "Arcade Duck",
+        "ID_ITEMNAMES_WINNER03_DUCK": "Frosty Duck",
+        "ID_ITEMNAMES_COMMONASCENSIONMODULE": "CommonAscensionModule",
+        "ID_ITEMNAMES_UNCOMMONASCENSIONMODULE": "UncommonAscensionModule",
+        "ID_ITEMNAMES_RAREASCENSIONMODULE": "RareAscensionModule",
+        "ID_ITEMNAMES_EPICASCENSIONMODULE": "EpicAscensionModule",
+        "ID_ITEMNAMES_LEGENDARYASCENSIONMODULE": "LegendaryAscensionModule",
+        "ID_ITEMNAMES_ASCENSIONMATERIAL1": "Propellant Valve Assembly",
+        "ID_ITEMNAMES_ASCENSIONMATERIAL2": "Pressure Regulator",
+        "ID_ITEMNAMES_ASCENSIONMATERIAL3": "Fluted Rotor Core",
+        "ID_ITEMNAMES_ASCENSIONMATERIAL4": "Pneumatic Actuator",
+        "ID_ITEMNAMES_MRI_DUCK": "MRI Duck",
+        "ID_ITEMNAMES_GRAFFITI_DUCK": "Graffiti Duck",
+        "ID_ITEMNAMES_CONVALESCENT_DUCK": "Convalescent Duck",
+        "ID_ITEMNAMES_FROSTY_DUCK": "Frosty Duck",
+        "ID_ITEMNAMES_NEON_DUCK": "Neon Duck",
+        "ID_ITEMNAMES_ARCADE_DUCK": "Arcade Duck",
+        "ID_ITEMNAMES_PARTY_DUCK": "Party Duck",
+        "ID_ITEMNAMES_MEDIC_DUCK": "Medic Duck",
+        "ID_ITEMNAMES_HOLOGRAPHIC_DUCK": "Holographic Duck",
+        "ST_ITEMNAMES_FROZEN_TRAIL_STATION_KEY": "Pendola Pass Train Station Key",
+        "ST_ITEMNAMES_FROZEN_TRAIL_VILLAGE_KEY": "Pendola Pass Old Town Key",
+        "ID_ITEMNAMES_BRONZESTATUETTE": "Bronze Statuette",
+        "ST_ITEMNAMES_FROZEN_TRAIL_RAILYARD_KEY": "Pendola Pass Railyard Key",
+        "ST_ITEMNAMES_FROZEN_TRAIL_OBSERVATORY_KEY": "Pendola Pass Observatory Key",
+        "ID_ITEMNAMES_ASCENSIONFRAGMENTS": "Amplified Fragments",
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_01": "ARC Plated Coupler",
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_02": "ARC Insulated Coupler",
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_03": "ARC Conductive Coupler",
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEY": "Emperor Gateway Conduit",
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK1": "Amplification Module MK. I",
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK2": "Amplification Module MK. II",
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK3": "Amplification Module MK. III",
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK4": "Amplification Module MK. IV",
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK5": "Amplification Module MK. V",
+        "ID_ITEMNAMES_POTTED_PLANT": "Potted Plant",
+        "ID_ITEMNAMES_TARRAGON_PART_ALT1": "Bully Cluster",
+        "ID_ITEMNAMES_TARRAGON_PART_ALT2": "Bully Fragmenter",
+        "ID_ITEMNAMES_STENCILPARTS": "Stencil Parts"
       },
       "KeysToMetaData": {
         "ID_ITEMNAMES_POSTER_NATURAL_WONDERS": {
-          "Note": "If you stand close and squint your eyes, it's like the world never came crumbling down."
+          "Note": "If you stand close and squint your eyes, it's like the world never came crumbling down.",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_CHONK_PART": {
-          "Note": "Salvageable item of ARC"
+          "Note": "Salvageable item of ARC",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_PEPPERMINT_PART": {
-          "Note": "Salvageable item of ARC"
+          "Note": "Salvageable item of ARC",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_SNIPER_PART": {
-          "Note": "Salvageable item of ARC"
+          "Note": "Salvageable item of ARC",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_ROLLBOT_PART": {
-          "Note": "Salvageable item of ARC"
+          "Note": "Salvageable item of ARC",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_RAIDER_HATCH_KEY": {
-          "Note": "Unlocks a Raider Hatch."
+          "Note": "Unlocks a Raider Hatch.",
+          "Status": "approved"
         },
         "ID_ITEMNAMES_EXPIRED_SECURITY_CODE": {
-          "Note": "The security codes for Ancient Fort, Pilgrims Peak, Raiders Refuge and Reinforced Reception will expire and transform into this item upon leaving the round."
+          "Note": "The security codes for Ancient Fort, Pilgrims Peak, Raiders Refuge and Reinforced Reception will expire and transform into this item upon leaving the round.",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AGAVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_APRICOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEFIBRILLATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_VITA_SPRAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LEMON": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MOSS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MUSHROOM": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_OLIVES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PRICKLY_PEAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RESIN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ENERGY_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HEAVY_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LIGHT_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDIUM_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SHOTGUN_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ACCORDION": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ADVANCED_ELECTRICAL_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ADVANCED_MECHANICAL_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ALARM_CLOCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ANTISEPTIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_COOLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_IMPURE_ARC_COOLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_BATON": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BELLOWS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BICYCLE_PUMP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLUE_GATE_CONFISCATION_ROOM_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLUE_GATE_COMMS_TOWER_OFFICE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLUE_GATE_VILLAGE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_ARC_MOTION_CORE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CRACKED_BIOSCANNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURIED_CITY_HOSPITAL_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURIED_CITY_JKV_EMPLOYEE_ACCESS_CARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURIED_CITY_TOWN_HALL_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURIED_CITY_RESIDENTIAL_MASTER_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CAMERA_LENS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CANISTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CHEMICALS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CHEMSHROOM": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CIRCUIT_BOARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COFFEE_MACHINE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COOLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COOLING_COIL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COOLING_FAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CRUMPLED_PLASTIC_BOTTLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CURTAINS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_HEAT_SINK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DESK_FAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DESK_LAMP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DESK_PHONE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DIVING_GOGGLES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_OLD_DOLL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DUCT_TAPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ELECTRICAL_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXPLOSIVE_MIXTURE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FABRIC": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FERTILIZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FILM_REEL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FIREBALL_BURNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_FLASHLIGHT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FLUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FRIED_MOTHERBOARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FRYING_PAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_GUIDANCE_SYSTEM": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SIMPLE_GUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_HANDCUFFS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HEADPHONES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HOUSEHOLD_CLEANER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HUMIDIFIER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_INDUSTRIAL_BATTERY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_INDUSTRIAL_CHARGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_INDUSTRIAL_MAGNET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_JEWELRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LABORATORY_REAGENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LIGHT_GUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MAGNET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_CIRCUITRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_MOTION_CORE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_POWERCELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_ALLOY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARMOR_BATTERIES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FRAYED_ARC_WIRES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TATTERED_ARC_LINING": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUSTY_ARC_STEEL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DRIED_OUT_ARC_RESIN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEGRADED_ARC_RUBBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BISON_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURNED_ARC_CIRCUITRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_ARC_POWERCELL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_BISON_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_HORNET_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_SNITCH_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_WASP_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_ROCKETEER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TICK_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DROPS_FROM_TICKS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ROCKETEER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HORNET_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CAN_BE_THROWN_AND_WILL_BRIEFLY_STUN_NEARBY_TARGETS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_WIRE_BUNDLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CAN_BE_RECYCLED_INTO_WIRES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_THERMO_LINING": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_PERFORMANCE_STEEL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_SYNTHETIC_RESIN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARC_FLEX_RUBBER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXPIRED_PASTA": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GOLDEN_RING": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLOATED_TUNA_CAN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_FIREBALL_BURNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SNITCH_SCANNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAMAGED_TICK_POD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TICK_POD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WASP_DRIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WATERMELON": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WATERMELON_SEEDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MECHANICAL_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDICAL_GOWN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUSTED_SHUT_MEDICAL_KIT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDIUM_GUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_METAL_BRACKETS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MOD_COMPONENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MOTOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MUSIC_BOX": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_NAPKINS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_NUMBER_PLATE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_OIL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PAINTED_BOX": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_PARACHUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PHONE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PLASTIC_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PLASTIC_TRASH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POLLUTED_AIR_FILTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PORTABLE_TV": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POTTERY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POWER_BANK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POWER_CABLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POWER_ROD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PROCESSOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PROJECTOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RADIO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_HANDHELD_RADIO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_REMOTE_CONTROL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ROCKET_THRUSTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ROOTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ROPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ROSARY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUBBER_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUBBER_PAD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUSTED_BOLTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUSTED_GEAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUSTED_TOOLS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_UNUSABLE_WEAPON": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_METAL_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SENSORS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SHOTGUN_PARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPACEPORT_GROUND_CONTROL_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPACEPORT_TRENCH_TOWER_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPACEPORT_CONTAINER_STORAGE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPACEPORT_WAREHOUSE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPEAKER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPEAKER_COMPONENT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPRING_CUSHION": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STATUETTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STEEL_SPRING": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SYNTHESIZED_FUEL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SYRINGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUINED_TACTICAL_WEST": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BROKEN_TASER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TATTERED_CLOTHES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_TESTING_ANNEX_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_CONTROL_CENTER_TOWER_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_STAFF_ROOM_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_SURVEILLANCE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_THERMOSTAT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TICK_DRONE_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TIRE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TOASTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TORCH_GINGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TORN_BLANKET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRANSPONDER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AIR_FRESHENER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BENT_CLOTHES_HANGER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLOWN_FUSES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BREATHTAKING_SNOW_GLOBE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BURNT_OUT_CANDLES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COFFEE_POT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DEFLATED_FOOTBALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DOG_COLLAR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EMPTY_WINE_BOTTLE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXPIRED_RESPIRATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FADED_PHOTOGRAPH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FOOD_WRAPPER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GARLIC_PRESS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HUSK_LILY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ICE_CREAM_SCOOPER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LANCE_S_MIXTAPE_5TH_EDITION": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LIGHT_BULB": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_OIL_SHROOM": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PIANO_KEYS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PLASTIC_SPINNER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PLAYING_CARDS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_REALLY_NICE_ROCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIPPED_SAFETY_VEST": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUBBER_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SCARY_WOODEN_DOLL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SCRATCHED_SUNGLASSES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TORN_BOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TORN_LACE_TABLECLOTH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TURBO_PUMP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_VASE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_VOLTAGE_CONVERTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WATER_FILTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WATER_PUMP": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WIRES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PATROL_CAR_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RED_CORAL_JEWELRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FINE_WRISTWATCH": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_VERY_COMFORTABLE_PILLOW": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SILVER_TEASPOON_SET": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DART_BOARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CAT_BED": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MUSIC_ALBUM": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LAUNCHER_AMMO": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RAIDER_TOOL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ACERRA_UTILITY_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_UTILITY_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BLUE_GATE_CELLAR_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STELLA_MONTIS_SECURITY_TOWER_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STELLA_MONTIS_MEDICAL_STORAGE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STELLA_MONTIS_ARCHIVES_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RAIDEXTRACTKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SECURITY_CODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_UNARMED": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BUNKER_KEY_IN_STOCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAGS_GEIGER_COUNTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAGS_ION_SPUTTER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FLOW_CONTROLLER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MAGNETRON": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MICROSCOPE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MINI_CENTRIFUGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RADIO_RELAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDISPLAYTAGS_ROTARY_ENCODER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SAMPLE_CLEANER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SIGNAL_AMPLIFIER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPECTROMETER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SPECTRUM_ANALYZER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TELEMETRY_TRANSCEIVER": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FREQUENCY_MODULATION_BOX": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FOSSILIZED_LIGHTNING": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LIGHT_GUN_PARTS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LIGHT_GUN_PARTS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDIUM_GUN_PARTS_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDIUM_GUN_PARTS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GREATMULLEIN": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MORTAR_CHONK_PART": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_BROKENACCORDION": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_BROKENFLUTE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ANCIENT_FORT_SECURITY_CODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PILGRIM_S_PEAK_SECURITY_CODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RAIDER_S_REFUGE_SECURITY_CODE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POP_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_SNITCH_PINGER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RECHARGEABLE_BATTEWRY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MATRIARCH_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RUNNER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STELLA_MONTIS_ASSEMBLY_ADMIN_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CANDLEBERRIES": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FLASHY_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ALIEN_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TROPICAL_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GENTLE_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FAMILIAR_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DOODLY_DUCK": {
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_POLKADUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BOOM_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HORNETFLAMETHROWER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HORNETFLAMETHROWER_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BOOM_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HORNETFLAMETHROWER_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HORNETFLAMETHROWER_PART_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_DAM_CONTROLLED_ACCESS_ZONE_KEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_4": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_5": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_6": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_7": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_8": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_HOTELKEY_9": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_ROCKETEERLASER_PART": {
+          "Status": "new"
+        },
+        "ID_ITEMNAMES_EXTRACTOR_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LASERROCKETEER_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LASERROCKETEER_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LASERROCKETEER_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_LASERROCKETEER_PART_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXTRACTOR_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXTRACTOR_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXTRACTOR_PART_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXTRACTOR_PART_ALT4": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_CRANEHOUSEKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_WAVEBREAKERKEY1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RIVENTIDES_WAVEBREAKERKEY2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRINKET_BOATMODEL_A": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRINKET_BOATMODEL_C": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRINKET_BOATMODEL_B": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRINKET_BOATMODEL_D": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TRINKET_BOATMODEL_E": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MONOLITH_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MONOLITH_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MONOLITH_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MONOLITH_PART_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MRI_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_GRAFFITI_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_CONVALESCENT_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROSTY_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_NEON_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARCADE_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PARTY_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_MEDIC_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_HOLOGRAPHIC_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WINNER01_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WINNER02_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_WINNER03_DUCK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_BRONZESTATUETTE": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_FROZEN_TRAIL_STATION_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_FROZEN_TRAIL_VILLAGE_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_FROZEN_TRAIL_RAILYARD_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ST_ITEMNAMES_FROZEN_TRAIL_OBSERVATORY_KEY": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_STENCILPARTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_02": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAME_CAMERA": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TARRAGON_PART": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PAINT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FRIGATEMEMORYMODULE": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ARCMEMORYCARD": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_EXODUSBOOK": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_RAIDERJOURNAL": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMAT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMAT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMAT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL4": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILMECHANICAL1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILTECH4": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILTECH3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILTECH2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAILTECH1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_PLANKS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEYCOMPONENT_03": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FROZENTRAIL_COLLECTORKEY": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK4": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_AMPLIFICATION_MODULE_MK5": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_POTTED_PLANT": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TARRAGON_PART_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_TARRAGON_PART_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_COLLECTOR1": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_FRIGATE1": {
+          "Note": "",
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ASCENSIONFRAGMENTS": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ASCENSIONMATERIAL1": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ASCENSIONMATERIAL2": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ASCENSIONMATERIAL3": {
+          "Status": "approved"
+        },
+        "ID_ITEMNAMES_ASCENSIONMATERIAL4": {
+          "Status": "approved"
         }
       }
     }

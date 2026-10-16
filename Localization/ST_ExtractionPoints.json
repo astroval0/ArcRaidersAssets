@@ -104,9 +104,361 @@
         "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR1": "Seaside Elevator",
         "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR1_DESC": "Built in convenient proximity to the nearby cranes, some speculate it may have have tempted a crane operator or two.",
         "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR2": "Customs Elevator",
-        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR2_DESC": "For transporting heavy-weight goods, and even heavier stacks of paperwork."
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR2_DESC": "For transporting heavy-weight goods, and even heavier stacks of paperwork.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER": "Glacial Transceiver",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER_DESC": "Gondolas requested here have been known to occasionally shatter the ice.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET": "Supermarket Transceiver",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET_DESC": "Despite appearances, Gondolas requested here are not meant for transporting snacks.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE": "Reckless Transceiver",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE_DESC": "Placed in the shadow of the Fallen Emperor, a Raider may defy both fate and common sense just by calling in a Gondola.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION": "Commuter's Transceiver",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION_DESC": "The Gondola operators do what they can to aim away from the overhead lines.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS": "Northern Transceiver",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS_DESC": "Placed sensibly in an open plain, Raiders who frequent these Gondolas are known for their trimmed fingernails and well-stocked pantries.",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER_ALT1": "Glacial Gondola Radio",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION_ALT1": "Commuter's Gondola Radio",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET_ALT1": "Supermarket Gondola Radio",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE_ALT1": "Reckless Gondola Radio",
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS_ALT1": "Northern Gondola Radio"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "SPACEPORT_CENTRAL_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_CENTRAL_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_DEPARTURE_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_DEPARTURE_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_EAST_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_EAST_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_TRENCH_EAST_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_TRENCH_EAST_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_TRENCH_WEST_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_TRENCH_WEST_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_NORTH_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_NORTH_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_CONTROL_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_CONTROL_DESC": {
+          "Status": "approved"
+        },
+        "DAM_TRALICCIO_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_TRALICCIO_DESC": {
+          "Status": "approved"
+        },
+        "DAM_NORTHCOMPLEX_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_NORTHCOMPLEX_DESC": {
+          "Status": "approved"
+        },
+        "DAM_PUMPHOUSE_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_PUMPHOUSE_DESC": {
+          "Status": "approved"
+        },
+        "DAM_SPILLWAY_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_SPILLWAY_DESC": {
+          "Status": "approved"
+        },
+        "DAM_SWAMPSIDE_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_SWAMPSIDE_DESC": {
+          "Status": "approved"
+        },
+        "DAM_REDLAKEBALCONY_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_REDLAKEBALCONY_DESC": {
+          "Status": "approved"
+        },
+        "DAM_LAINES_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_LAINES_DESC": {
+          "Status": "approved"
+        },
+        "DAM_SWAMPLIFT_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_SWAMPLIFT_DESC": {
+          "Status": "approved"
+        },
+        "DAM_OLDBARON_TITLE": {
+          "Status": "approved"
+        },
+        "DAM_OLDBARON_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_WEST_TITLE": {
+          "Status": "approved"
+        },
+        "SPACEPORT_WEST_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_SOUTH_DESC": {
+          "Status": "approved"
+        },
+        "SPACEPORT_SOUTH_TITLE": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_TRAINSTATION_TITLE": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_TRAINSTATION_DESC": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_COLLAPSEDSTORE_TITLE": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_COLLAPSEDSTORE_DESC": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_OVERPASS_TITLE": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_OVERPASS_DESC": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_OLDTOWN_TITLE": {
+          "Status": "approved"
+        },
+        "BURIEDCITY_OLDTOWN_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_WESTERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BURIEDCITY_WESTERN_STATION_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_SOUTHERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BURIEDCITY_SOUTHERN_STATION_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_NORTHERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BURIEDCITY_NORTHERN_STATION_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_EASTERN_STATION": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BURIEDCITY_EASTERN_STATION_DESC": {
+          "Status": "approved"
+        },
+        "DAM_PUMPHOUSEHATCH_TITLE": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FOREST_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_HANGAR_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_OVERLOOK_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_CLIFFSIDE_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BACK_TO_SPERANZA": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_AIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_WATER_TREATMENT_ELEVATOR": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RED_LAKES_HATCH": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RED_LAKES_HATCH_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_LOADINGBAYMETRO": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_LOADINGBAYMETRO_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_LOBBYMETRO": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_LOBBYMETRO_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_SEEDVAULTAIRSHAFT": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_SEEDVAULTAIRSHAFT_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_ONBOARDINGLEVEL": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_VILLAGEHATCH": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_VILLAGEHATCH_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_WRECKAGEHATCH": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_WRECKAGEHATCH_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_OLIVEGROVEHATCH": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_OLIVEGROVEHATCH_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_CONSTRUCTIONSITEHATCH": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_BLUEGATE_CONSTRUCTIONSITEHATCH_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_CLIFFSIDE_AIRSHAFT_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FOREST_AIRSHAFT_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_HANGAR_AIRSHAFT_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_OVERLOOK_AIRSHAFT_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_ASSEMBLY": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_ASSEMBLY_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_SANDBOX": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_SANDBOX_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_EASTERNTUNNEL": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_MOUNTAINCOMPOUND_HATCH_EASTERNTUNNEL_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH1_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH2": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH2_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH3": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_HATCH3_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR1_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR2": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_RIVENTIDES_ELEVATOR2_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS_DESC": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_RIVER_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_STATION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_SUPERMARKET_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_VILLAGE_ALT1": {
+          "Status": "approved"
+        },
+        "ID_EXTRACTIONPOINTS_FROZENTRAIL_TRACKS_ALT1": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

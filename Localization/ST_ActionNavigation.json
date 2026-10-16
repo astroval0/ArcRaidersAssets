@@ -38,7 +38,95 @@
         "ID_ACTIONNAVIGATION_TRACKINGLIST": "Tracking List",
         "ID_ACTIONNAVIGATION_OPEN_LOADOUT": "Open Loadout"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ACTIONNAVIGATION_EXIT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_BACK": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SELECT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_REMOVE": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_LEFT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_VIEW": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_EDIT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_RESET": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_APPLY": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_CLEAR": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SORT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_DISMANTLE": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_TAB_LEFT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_EQUIP": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_CRAFT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_DROP": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_UPGRADE": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_OPEN": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_TAB_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SPECIAL_LEFT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SPECIAL_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_DETAILS": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SKIP": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_SKIP_HOLD": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_TRACKINGLIST": {
+          "Status": "approved"
+        },
+        "ID_ACTIONNAVIGATION_OPEN_LOADOUT": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

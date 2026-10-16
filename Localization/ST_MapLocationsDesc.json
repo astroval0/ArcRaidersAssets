@@ -55,9 +55,227 @@
         "ID_TOOLTIP_RIVENTIDES_WAVEBREAKERCOMPOUND": "Once the beating heart of all maritime operations, it allows for dilligent surveillance of the port in every direction.",
         "ID_TOOLTIP_RIVENTIDES_WRECKAGES": "Ages of violent undercurrents and biting rust have taken a visible toll.",
         "ID_TOOLTIP_RIVENTIDES_HOTELBEACH": "A secluded stretch of once-pristine beachfront.",
-        "ID_TOOLTIP_RIVENTIDES_CHECKPOINT": "With scales embedded into the road's surface, this must've been about as elegant as a checkpoint gets."
+        "ID_TOOLTIP_RIVENTIDES_CHECKPOINT": "With scales embedded into the road's surface, this must've been about as elegant as a checkpoint gets.",
+        "ID_TOOLTIP_FROZENTRAIL_RAILYARD": "An Exodus-era railyard, seemingly designed to handle delicate, uncommonly shaped freight.",
+        "ID_TOOLTIP_FROZENTRAIL_LOADINGPLATFORM": "These platforms allow for the handling of particularly delicate goods.",
+        "ID_TOOLTIP_FROZENTRAIL_VILLAGE": "Isolated yet seemingly close-knit, most of the village of Almatera has been swallowed by an avalanche.",
+        "ID_TOOLTIP_FROZENTRAIL_SUPERMARKET": "With surprisingly elaborate shelving, this supermarket must've provisioned locals and astronomers alike.",
+        "ID_TOOLTIP_FROZENTRAIL_CENTRALSTATION": "Said to have once been a quaint local station, these tracks now seem to support high axle-load traffic.",
+        "ID_TOOLTIP_FROZENTRAIL_OBSERVATORY": "A marvel of astronomical ingenuity, even to those unable to fathom its one-time readings.",
+        "ID_TOOLTIP_FROZENTRAIL_TELESCOPE": "Perched atop a mountain summit, this marvel of astronomy puts all other antennas to shame.",
+        "ID_TOOLTIP_FROZENTRAIL_COLLECTOR": "Stuck between snow and debris, this giant walker seems to attract ARC attention from far beyond the Rust Belt.",
+        "ID_TOOLTIP_FROZENTRAIL_FROZENRIVER": "A long-frozen river that leaves prospective ice skaters dangerously exposed.",
+        "ID_TOOLTIP_FROZENTRAIL_OLDHAMLET": "Standing tall amongst the snows, this lodge straddles the line between rustic and chique.",
+        "ID_TOOLTIP_FROZENTRAIL_OLDTOWN": "Strolling across these narrow streets, you can almost picture the days before astronomical and fallen behemoths.",
+        "ID_TOOLTIP_FROZENTRAIL_CHURCH": "A church in the centre of the Old Town, weathered by time.",
+        "ID_TOOLTIP_FROZENTRAIL_GASSTATION": "A gasoline-stained refuge for the weary traveler.",
+        "ID_TOOLTIP_FROZENTRAIL_SUBSTATION": "A substation built to provide reliable power in the harshest weather conditions.",
+        "ID_TOOLTIP_FROZENTRAIL_TUNNEL": "A sturdy concrete tunnel that has mostly withstood the test of time, providing shelter and safe passage.",
+        "ID_TOOLTIP_FROZENTRAIL_RAILWAYCROSSING": "Crossing these train tracks, one may picture hungry astronomers heading out for lunch.",
+        "ID_TOOLTIP_FROZENTRAIL_WEATHERSTATION": "A versatile meteorological instrument, long retired.",
+        "ID_MAPLOCATIONSDESC_GONDOLA_PROTORYPE": "Gondola Prototype"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_TOOLTIP_DAM_RESEARCHADMIN": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_TESTINGANNEX": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_ELECTRICALSUBSTATION": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_WATERTREATMENT": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_POWERGENERATIONCOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_OLDBATTLEGROUND": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_CONTROLTOWER": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_HYDRODOMES": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_MARANOPARK": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_LIBRARY": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_GRANDIOSOAPARTMENTS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_RESEARCHBUILDING": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_SPACETRAVEL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_TOWNHALL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_PARKINGGARAGE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_CHURCHRUINS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_GALLERIA": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BURIEDCITY_HOSPITAL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_DEPARTUREBUILDING": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_ARRIVALBUILDING": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_ROCKETASSEMBLY": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_VEHICLEMAINTENANCE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_CONTROLTOWERB6": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_REINFORCEDRECEPTION": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_ANCIENTFORT": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_ADORNEDWRECKAGE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_RAIDERREFUGE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_LOWERVILLAGE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_COMMSTOWER": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_ABANDONEDHOUSINGPROJECT": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_WAREHOUSECOMPLEX": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_BLUEGATE_CHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_SPACEPORT_LAUNCHTOWERS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_ASSEMBLYWORKSHOPS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_ROBOTICSANDBOXA": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_CAFETERIA": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_SEEDVAULTINTERIOR": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_AUDITORIUM": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_CULTURALARCHIVES": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_STELLAMONTIS_MEDICALWINGNORTH": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_DAM_CONTROLLEDACCESSZONE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_HOTEL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_LOGISTICS": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_CONTAINERYARD": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_WAVEBREAKERCOMPOUND": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_WRECKAGES": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_HOTELBEACH": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_RIVENTIDES_CHECKPOINT": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_RAILYARD": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_LOADINGPLATFORM": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_VILLAGE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_SUPERMARKET": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_CENTRALSTATION": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_OBSERVATORY": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_TELESCOPE": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_COLLECTOR": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_FROZENRIVER": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_OLDHAMLET": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_OLDTOWN": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_CHURCH": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_GASSTATION": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_SUBSTATION": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_TUNNEL": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_RAILWAYCROSSING": {
+          "Status": "approved"
+        },
+        "ID_TOOLTIP_FROZENTRAIL_WEATHERSTATION": {
+          "Status": "approved"
+        },
+        "ID_MAPLOCATIONSDESC_GONDOLA_PROTORYPE": {
+          "Status": "approved",
+          "Note": ""
+        }
+      }
     }
   }
 ]

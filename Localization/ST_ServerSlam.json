@@ -67,37 +67,183 @@
       },
       "KeysToMetaData": {
         "ID_SERVERSLAM_LOCKED_STATE_TITLE_PROJECTS": {
-          "Note": "Title for Projects"
+          "Note": "Title for Projects",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS_EXPEDITION": {
-          "Note": "Description for Project/Expedition, more about the feature"
+          "Note": "Description for Project/Expedition, more about the feature",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECT_EXPEDITION_ALT2": {
-          "Note": "Description for Project/Expedition. More generic"
+          "Note": "Description for Project/Expedition. More generic",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_PROJECTS": {
-          "Note": "Description for projects"
+          "Note": "Description for projects",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPEDITION": {
-          "Note": "Title for Expedition"
+          "Note": "Title for Expedition",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_EXPEDITION": {
-          "Note": "Description for expeditions"
+          "Note": "Description for expeditions",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVELUP": {
-          "Note": "Title for Station level up tooltip"
+          "Note": "Title for Station level up tooltip",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRAINSCRAPPY": {
-          "Note": "Title for Train Scrappy tooltip"
+          "Note": "Title for Train Scrappy tooltip",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_TITLE_STASHEXPANSION": {
-          "Note": "Title for Stash expansion tooltip"
+          "Note": "Title for Stash expansion tooltip",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_CODEX": {
-          "Note": "Description for Codex screen"
+          "Note": "Description for Codex screen",
+          "Status": "approved"
         },
         "ID_SERVERSLAM_BUTTON_PREORDER_CANTINA": {
-          "Note": "CTA button on Cantina"
+          "Note": "CTA button on Cantina",
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_SOON": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_GENERIC_DESCRIPTION_ROW1": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DATE_DESCRIPTION_ROW2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_BADGE_REQUIRES_FULL_GAME": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_LOCKEDSTATION": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_STATION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_ITEM_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVEL": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STATIONLEVEL_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_STATIONLEVEL": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRAINSCRAPPY_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_TRAINSCRAPPY": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPANDSTASH": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_EXPANDSTASH_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_EXPANDSTASH": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRIALS": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_TRIALS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_CUSTOM_DESCRIPTION_TRIALS": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_TRIALS": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_STORE": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_STORE": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_DESCRIPTION_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_LOCKED_STATE_TITLE_BATTLEPASS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_MAP_UNKNOWN_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_MAP_DESCRIPTION_UNKNOWN_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_01": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WISHLIST_NOW": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_02": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_04": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_03": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_ENTER_GAME": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_UPSELL_01": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_UPSELL_01_ALT": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_UPSELL_02": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_PREORDER_NOW": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_PREPURCHASE_NOW": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_CONTINUE_TO_SPERANZA": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_ACCEPTING": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_TERMS_OF_SERVICE": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_WELCOME_01_V2": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_TEMP_BAN_TOOLTIP": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_ENDED": {
+          "Status": "approved"
+        },
+        "ID_SERVERSLAM_ENDED_ALT1": {
+          "Status": "approved"
         }
       }
     }

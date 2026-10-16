@@ -35,9 +35,122 @@
         "ID_CUSTOMIZATION_HAIR_WISPYSHORT": "Wispy Short",
         "ID_CUSTOMIZATION_HAIR_LOWBUN": "Low Bun",
         "ID_CUSTOMIZATION_HAIR_MESSYBUN": "Messy Bun",
-        "ID_CUSTOMIZATION_HAIR_LOOSEBUN": "Loose Bun"
+        "ID_CUSTOMIZATION_HAIR_LOOSEBUN": "Loose Bun",
+        "ID_CUSTOMIZATION_HAIR_LONGBANGS": "Long Bangs",
+        "ID_CUSTOMIZATION_HAIR_SHORTSWEEP": "Short Sweep",
+        "ID_CUSTOMIZATION_HAIR_BOB": "Bob",
+        "ID_CUSTOMIZATION_HAIR_BACKSLICKNEAT": "Slickback Neat",
+        "ID_CUSTOMIZATION_HAIR_BACKSLICK": "Slickback",
+        "ID_CUSTOMIZATION_HAIR_HIGHPONY": "High Ponytail",
+        "ID_CUSTOMIZATION_HAIR_DREADSSHORT": "Short Dreads"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CUSTOMIZATION_HAIR_BUZZCUT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BALD": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_AFROFADE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BOBSLICK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BACKSLICKMESSY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_AFROLONG": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_FRENCHBRAIDS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_PONYTAILCURLY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_DREADSIDECUT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_MULLET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_RECEDE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_MOHAWK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_SHORTWAVY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_MIDDLEFADE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BOWLCUT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BRAIDEDBUN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_CURLYSHORT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIRCOLOR_BLUEMOHAWK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIRCOLOR_TWOTONEMULLET": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_TWOTONEMIDDLEFADE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BOWLCUTMESSY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_MULLETCURLY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_SHOULDERLENGTHWAVY": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_CURTAINFADE": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_WISPYSHORT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_LOWBUN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_MESSYBUN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_LOOSEBUN": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_LONGBANGS": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_SHORTSWEEP": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_DREADSSHORT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BOB": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BACKSLICKNEAT": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_BACKSLICK": {
+          "Status": "approved"
+        },
+        "ID_CUSTOMIZATION_HAIR_HIGHPONY": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

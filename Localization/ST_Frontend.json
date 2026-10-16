@@ -268,313 +268,1096 @@
         "ID_FRONTEND_TRACKER_NAVIGATE": "Navigate",
         "ID_FRONTEND_TRACKER_NAVIGATE_ALT": "Navigate List",
         "ID_FRONTEND_BUTTON_SEE_DESTINATIONS": "See Destinations",
-        "ID_PLATFORM_NEXON_PCCAFE_BENEFITS": "PC CAFE BENEFITS",
         "ID_FRONTEND_BUTTON_PATCHNOTES_VERSION": "Patch Notes {0}",
         "ID_FRONTEND_BUTTON_DESCEND": "Descend",
         "ID_FRONTEND_BUTTON_DESCENDTOSPERANZA": "Descend to Speranza",
         "ID_FRONTEND_BUTTON_GOTOSPERANZA": "Go to Speranza",
-        "ID_FRONTEND_BUTTON_TOSPERANZA": "To Speranza"
+        "ID_FRONTEND_BUTTON_TOSPERANZA": "To Speranza",
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_LEFT": "Left mouse button",
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_RIGHT": "Right mouse button",
+        "ID_FRONTEND_BUTTON_SPACE_BAR": "Space bar",
+        "ID_FRONTEND_BUTTON_SPACE": "Space",
+        "ID_FRONTEND_BUTTON_SHIFT_LEFT": "Left Shift",
+        "ID_FRONTEND_BUTTON_CTRL_LEFT": "Left CTRL",
+        "ID_FRONTEND_BUTTON_ALT_LEFT": "Left ALT",
+        "ID_FRONTEND_BUTTON_MOUSE_WHEEL_UP": "Mouse wheel up",
+        "ID_FRONTEND_BUTTON_MOUSE_WHEEL_DOWN": "Mouse wheel down",
+        "ID_FRONTEND_BUTTON_TAB": "Tab",
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_MIDDLE": "Middle mouse button",
+        "ID_FRONTEND_BUTTON_SHIFT_RIGHT": "Right Shift",
+        "ID_FRONTEND_BUTTON_CTRL_RIGHT": "Right CTRL",
+        "ID_FRONTEND_BUTTON_ALT": "ALT",
+        "ID_FRONTEND_BUTTON_ALT_GR": "ALT GR",
+        "ID_FRONTEND_BUTTON_RETURN": "Return",
+        "ID_FRONTEND_BUTTON_ENTER": "Enter",
+        "ID_FRONTEND_BUTTON_BACKSPACE": "Backspace",
+        "ID_FRONTEND_BUTTON_CAPSLOCK": "Caps Lock",
+        "ID_FRONTEND_BUTTON_CAPS": "Caps",
+        "ID_FRONTEND_BUTTON_ARROW_UP": "Up",
+        "ID_FRONTEND_BUTTON_ARROW_DOWN": "Down",
+        "ID_FRONTEND_BUTTON_ARROW_LEFT": "Left",
+        "ID_FRONTEND_BUTTON_ARROW_RIGHT": "Right",
+        "ID_FRONTEND_BUTTON_SHIFT": "Shift",
+        "ID_FRONTEND_BUTTON_CTRL": "CTRL",
+        "ID_FRONTEND_BUTTON_ALT_RIGHT": "Right ALT",
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE": "Free Loadout unavailable on selected destination ({0} - {1})",
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE_ALT": "Free Loadout unavailable on selected map condition ({0})",
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE_ALT_2": "Free Loadout unavailable on {0}",
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED": "Custom Loadout required on selected destination ({0} - {1})",
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED_ALT": "Custom Loadout required on selected destination ({0})",
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED_ALT_2": "Custom Loadout required on {0}",
+        "ID_FRONTEND_TIME_LIMITED": "Time-Limited",
+        "ID_FRONTEND_TIME_LIMITED_ALT1": "Limited Time",
+        "ID_FRONTEND_TAB_PASS": "Pass",
+        "ID_FRONTEND_TAB_REWARD_PASS": "Reward Pass",
+        "ID_FRONTEND_TAB_CRAFT": "Craft",
+        "ID_FRONTEND_TAB_OUTPOST": "Outpost"
       },
       "KeysToMetaData": {
         "ID_MASTERY_TITLE": {
-          "Note": "Title of screen"
+          "Note": "Title of screen",
+          "Status": "approved"
         },
         "ID_MASTERY_TITLE_ALT": {
-          "Note": "Title of screen - Alternative"
+          "Note": "Title of screen - Alternative",
+          "Status": "approved"
         },
         "ID_MASTERY_POINT_SINGULAR": {
-          "Note": "Single point"
+          "Note": "Single point",
+          "Status": "approved"
         },
         "ID_MASTERY_POINT_PLURAL": {
-          "Note": "Multiple points"
+          "Note": "Multiple points",
+          "Status": "approved"
         },
         "ID_MASTERY_LEADERBOARD_BUTTON_TITLE": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_MASTERY_LEADERBOARD_BUTTON_SUBTITLE": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_MASTERY_OBJECTIVE_SINGULAR": {
-          "Note": "Single objective"
+          "Note": "Single objective",
+          "Status": "approved"
         },
         "ID_MASTERY_OBJECTIVE_PLURAL": {
-          "Note": "Multiple objectives"
+          "Note": "Multiple objectives",
+          "Status": "approved"
         },
         "ID_MASTERY_CLAIM_BUTTON_TITLE": {
-          "Note": "Button action to claim"
+          "Note": "Button action to claim",
+          "Status": "approved"
         },
         "ID_MASTERY_CLAIMED_TITLE": {
-          "Note": "Once a reward is claimed"
+          "Note": "Once a reward is claimed",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_LEVEL_1": {
-          "Note": "Reward tier 1 for any objective"
+          "Note": "Reward tier 1 for any objective",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_LEVEL_2": {
-          "Note": "Reward tier 2 for any objective"
+          "Note": "Reward tier 2 for any objective",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_LEVEL_3": {
-          "Note": "Reward tier 3 for any objective"
+          "Note": "Reward tier 3 for any objective",
+          "Status": "approved"
         },
         "ID_MASTERY_REWARD_LEVEL_4": {
-          "Note": "Reward tier 4 for any objective"
+          "Note": "Reward tier 4 for any objective",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_1": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_2": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_3": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_4": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_1_ALT": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_2_ALT": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_3_ALT": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_REACHED_REWARD_LEVEL_4_ALT": {
-          "Note": "Once a reward is reached"
+          "Note": "Once a reward is reached",
+          "Status": "approved"
         },
         "ID_MASTERY_HIGHSCORE_TITLE": {
-          "Note": "Title for highscore"
+          "Note": "Title for highscore",
+          "Status": "approved"
         },
         "ID_MASTERY_HIGHSCORE_TITLE_ALT": {
-          "Note": "Title for highscore"
+          "Note": "Title for highscore",
+          "Status": "approved"
         },
         "ID_MASTERY_HIGHSCORE_BEATEN_TITLE": {
-          "Note": "Title for highscore"
+          "Note": "Title for highscore",
+          "Status": "approved"
         },
         "ID_MASTERY_NEW_HIGHSCORE_TITLE": {
-          "Note": "Title for highscore"
+          "Note": "Title for highscore",
+          "Status": "approved"
         },
         "ID_MASTERY_SUCCESSFUL_EXTRACTION_REQUIRED": {
-          "Note": "Extraction Required text"
+          "Note": "Extraction Required text",
+          "Status": "approved"
         },
         "ID_MASTERY_FAILED_TO_EXTRACT": {
-          "Note": "Extraction failed text"
+          "Note": "Extraction failed text",
+          "Status": "approved"
         },
         "ID_MASTERY_FAILED_TO_EXTRACT_ALT": {
-          "Note": "Extraction failed text"
+          "Note": "Extraction failed text",
+          "Status": "approved"
         },
         "ID_MAP_MAP_CONDITION_TITLE": {
-          "Note": "Title for map conditons"
+          "Note": "Title for map conditons",
+          "Status": "approved"
         },
         "ID_MAP_MAP_CONDITION_TITLE_ALT": {
-          "Note": "Title for map conditons"
+          "Note": "Title for map conditons",
+          "Status": "approved"
         },
         "ID_MAP_MAP_CONDITIONS_TITLE_ALT": {
-          "Note": "Title for map conditons"
+          "Note": "Title for map conditons",
+          "Status": "approved"
         },
         "ID_MAP_MAP_CONDITION_ENDS_IN": {
-          "Note": "Title for when a condition ends"
+          "Note": "Title for when a condition ends",
+          "Status": "approved"
         },
         "ID_MAP_MAP_CONDITION_STARTS_IN": {
-          "Note": "Title for when a condition starts"
+          "Note": "Title for when a condition starts",
+          "Status": "approved"
         },
         "ID_FRONTEND_OPENINVENTORY_CALLOUT": {
-          "Note": "In case we want to change the label in bottom"
+          "Note": "In case we want to change the label in bottom",
+          "Status": "approved"
         },
         "ID_FRONTEND_TRADER_STASH_FULL_WARNING": {
-          "Note": "Warning text on Trades screen"
+          "Note": "Warning text on Trades screen",
+          "Status": "approved"
         },
         "ID_FRONTEND_TRADER_STASH_OVERFLOWING_WARNING": {
-          "Note": "Warning text on Trades screen - Alternative"
+          "Note": "Warning text on Trades screen - Alternative",
+          "Status": "approved"
         },
         "ID_FRONTEND_REWARDCLAIM_STASH_FULL_WARNING": {
-          "Note": "\"Generic warning text on screens that gives your rewards you can claim (battlepass, mastery, quests,...)\""
+          "Note": "\"Generic warning text on screens that gives your rewards you can claim (battlepass, mastery, quests,...)\"",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_PREPARE": {
-          "Note": "CTA on the Homescreen"
+          "Note": "CTA on the Homescreen",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_PLAY": {
-          "Note": "CTA on the Homescreen"
+          "Note": "CTA on the Homescreen",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_PARTY_OVERLAY": {
-          "Note": "Map selection warning body text"
+          "Note": "Map selection warning body text",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_FILL_SQUAD_TITLE": {
-          "Note": "Loadout Confirmation body text"
+          "Note": "Loadout Confirmation body text",
+          "Status": "approved"
         },
         "ID_FRONTEND_MATCHMAKING_WAITINGFORSQUAD": {
-          "Note": "Matchmaking widget - waiting for squad members to ready up"
+          "Note": "Matchmaking widget - waiting for squad members to ready up",
+          "Status": "approved"
         },
         "ID_FRONTEND_MATCHMAKING_CANCEL": {
-          "Note": "Matchmaking widget button"
+          "Note": "Matchmaking widget button",
+          "Status": "approved"
         },
         "ID_FRONTEND_MATCHMAKING_LOADOUT": {
-          "Note": "Matchmaking widget button to check the loadout you're bringing with you"
+          "Note": "Matchmaking widget button to check the loadout you're bringing with you",
+          "Status": "approved"
         },
         "ID_FRONTEND_CELEBRATIONS_NEWMAP": {
-          "Note": "Celebration title"
+          "Note": "Celebration title",
+          "Status": "approved"
         },
         "ID_FRONTEND_CELEBRATIONS_NEWMAP_BUTTON": {
-          "Note": "Confirm new unlock"
+          "Note": "Confirm new unlock",
+          "Status": "approved"
         },
         "ID_FRONTEND_CELEBRATIONS_NEWTAB": {
-          "Note": "Celebration title"
+          "Note": "Celebration title",
+          "Status": "approved"
         },
         "ID_FRONTEND_CELEBRATIONS_NEWTAB_BUTTON": {
-          "Note": "New tab celebration button"
+          "Note": "New tab celebration button",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_VIEW_REWARDS": {
-          "Note": "allows to select items in the reward panel"
+          "Note": "allows to select items in the reward panel",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_EQUIP": {
-          "Note": "moves item from stash container to avalible loadout"
+          "Note": "moves item from stash container to avalible loadout",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_SWAP": {
-          "Note": "swaps selected item with other Item."
+          "Note": "swaps selected item with other Item.",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_SAFEPOCKET": {
-          "Note": "moves item a Safe Pocket slot"
+          "Note": "moves item a Safe Pocket slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_QUICK": {
-          "Note": "moves item to Quick Belt slot"
+          "Note": "moves item to Quick Belt slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_STASH": {
-          "Note": "moves item to a Stash slot"
+          "Note": "moves item to a Stash slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_MOVE_BACKPACK": {
-          "Note": "moves item to a Backpack slot"
+          "Note": "moves item to a Backpack slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_DETACH_MODS": {
-          "Note": "removes attached mod from weapon and moves them to stash"
+          "Note": "removes attached mod from weapon and moves them to stash",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_GO_TO_QUEST": {
-          "Note": "redirects to Quest screen"
+          "Note": "redirects to Quest screen",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_SWAP_PRIMARY_SLOT": {
-          "Note": "swaps selected weapon with Primary Slot"
+          "Note": "swaps selected weapon with Primary Slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_SWAP_SECONDARY_SLOT": {
-          "Note": "swaps selected weapon with Secondary Slot"
+          "Note": "swaps selected weapon with Secondary Slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_EQUIP_PRIMARY_SLOT": {
-          "Note": "equips selected weapon on Primary Slot"
+          "Note": "equips selected weapon on Primary Slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_EQUIP_SECONDARY_SLOT": {
-          "Note": "equips selected weapon on Secondary Slot"
+          "Note": "equips selected weapon on Secondary Slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_SEND_STASH": {
-          "Note": "moves Item from container to Stash"
+          "Note": "moves Item from container to Stash",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_DROP": {
-          "Note": "drops item selected item to the ground"
+          "Note": "drops item selected item to the ground",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_GRAB": {
-          "Note": "lifts selected item so it can be moved around in the grid"
+          "Note": "lifts selected item so it can be moved around in the grid",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_PLACE": {
-          "Note": "places the selected item on empty slot"
+          "Note": "places the selected item on empty slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_PLACE_HALF": {
-          "Note": "places half of the selected stack on slot"
+          "Note": "places half of the selected stack on slot",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_HIDE_TOOLTIP": {
-          "Note": "hides item tooltip"
+          "Note": "hides item tooltip",
+          "Status": "approved"
         },
         "ID_FRONTEND_ACTIONS_SHOW_TOOLTIP": {
-          "Note": "show item tooltip"
+          "Note": "show item tooltip",
+          "Status": "approved"
         },
         "ID_FRONTEND_TAB_TRACKER": {
-          "Note": "An alternative for the logbook"
+          "Note": "An alternative for the logbook",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_CANCEL": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_RECONNECT": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_MATCHMAKING_STATUS": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_PURCHASE": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_REPAIR": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_BUILD": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_LABEL_COST": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_LABEL_INGREDIENTS": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_DEPLOY": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_NO_FILL": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_FILL": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_CANCEL_MATCHMAKING": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_PREGAME_CANCEL_READY_UP": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_GAMEMODE": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_BUTTON_PLAY_SQUAD": {
-          "Note": "Outdated"
+          "Note": "Outdated",
+          "Status": "approved"
         },
         "ID_LEADERBOARDS_VIEW_REWARDS": {
-          "Note": "View searson rewards"
+          "Note": "View searson rewards",
+          "Status": "approved"
         },
         "ID_MASTERY_NEXT_RAID_FORMAT": {
-          "Note": "Time when next raid will become available."
+          "Note": "Time when next raid will become available.",
+          "Status": "approved"
         },
         "ID_MASTERY_DAMAGE": {
-          "Note": "Used to explain to the player how much of mastery raid objective they did"
+          "Note": "Used to explain to the player how much of mastery raid objective they did",
+          "Status": "approved"
         },
         "ID_MASTERY_BRONZE_CRATE": {
-          "Note": "Mastery tiers"
+          "Note": "Mastery tiers",
+          "Status": "approved"
         },
         "ID_MASTERY_SILVER_CRATE": {
-          "Note": "Mastery tiers"
+          "Note": "Mastery tiers",
+          "Status": "approved"
         },
         "ID_MASTERY_GOLD_CRATE": {
-          "Note": "Mastery tiers"
+          "Note": "Mastery tiers",
+          "Status": "approved"
         },
         "ID_FRONTEND_OFFER_START_TRACKING": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_TRACKED_RECIPES": {
-          "Note": ""
+          "Note": "",
+          "Status": "approved"
         },
         "ID_FRONTEND_LEVELS_UNLOCKED_ALT2": {
-          "Note": "To mark out when features are locked behind a level"
+          "Note": "To mark out when features are locked behind a level",
+          "Status": "approved"
         },
         "ID_FRONTEND_LEVELS_UNLOCKED": {
-          "Note": "To mark out when features are locked behind a level"
+          "Note": "To mark out when features are locked behind a level",
+          "Status": "approved"
         },
         "ID_FRONTEND_RECIPE_VIEW": {
-          "Note": "Button to change the tracking list to display Resources together with the Offer it will create."
+          "Note": "Button to change the tracking list to display Resources together with the Offer it will create.",
+          "Status": "approved"
         },
         "ID_FRONTEND_LIST_VIEW": {
-          "Note": "Button to change the tracking list to display only Resources in a list manner."
+          "Note": "Button to change the tracking list to display only Resources in a list manner.",
+          "Status": "approved"
         },
         "ID_FRONTEND_LIST_VIEW_ALT": {
-          "Note": "Button to change the tracking list to display only Resources in a list manner. (Alternative)"
+          "Note": "Button to change the tracking list to display only Resources in a list manner. (Alternative)",
+          "Status": "approved"
         },
         "ID_FRONTEND_EXPAND": {
-          "Note": "Hint for Expanding a collapsed widget"
+          "Note": "Hint for Expanding a collapsed widget",
+          "Status": "approved"
         },
         "ID_FRONTEND_COLLAPSE": {
-          "Note": "Hint for Expanding a collapsed widget"
+          "Note": "Hint for Expanding a collapsed widget",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_LEFT": {
+          "Note": "max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_RIGHT": {
+          "Note": "max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SPACE_BAR": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SPACE": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SHIFT_LEFT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CTRL_LEFT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ALT_LEFT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_MOUSE_WHEEL_UP": {
+          "Note": "max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_MOUSE_WHEEL_DOWN": {
+          "Note": "max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_TAB": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_MOUSE_BUTTON_MIDDLE": {
+          "Note": "max chars limit 25",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SHIFT_RIGHT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CTRL_RIGHT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ALT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ALT_GR": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_RETURN": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ENTER": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_BACKSPACE": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 15",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CAPSLOCK": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 15",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CAPS": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ARROW_UP": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ARROW_DOWN": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ARROW_LEFT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ARROW_RIGHT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SHIFT": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CTRL": {
+          "Note": "Preferably written out as it is on the keyboard used, not the word; max chars limit 10",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_BACK": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_EXIT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_LOBBY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_CUSTOMIZATION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_BATTLEPASS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_CHARACTERS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_STORE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_OPTIONS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_SKIP_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_SELECT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_ACTIVE_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ONBOARDING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_INSTRUCTIONS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CUSTOMIZE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_HIDEDETAILS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BOOTSCREEN": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CLEAR_NEW": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_LEAVE_PARTY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CANCEL_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MATCHMAKING_CURRENT_WAIT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_EMOTES_SCREEN": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_PLAY_SOLO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_CHAMBERS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_INVENTORY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_TRADERS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_QUEST_SCREEN_DESCRIPTION_OUT_OF_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_QUEST_SCREEN_DESCRIPTION_HAS_QUESTS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_OFFER_STOP_TRACKING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_SOCIAL": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_COLONY_RUN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_COLONY_RUN_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PARTY_DESCRIPTION_SOLO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PARTY_DESCRIPTION_DUO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DEPLOY_SOLO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DEPLOY_DUO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DEPLOY_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SERVER_PREFERENCES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CHANGE_DESTINATION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CHANGE_PREFERENCES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SOLO": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_LONE_RAIDERS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SQUADS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_FILL_SQUAD": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CONFIRM_SELECTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_LONE_RAIDERS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SQUADS_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_LOADOUT_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_PREPARE_TO_DEPLOY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CURRENT_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_DEPLOYING_WITH": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_SELECTED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_SELECT_YOUR_DESTIONATION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_INVENTORY_SYNC_FAIL_NOTIF_ACTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_READY_UP_WAITING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_START": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_READY_UP": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_ARCRAID_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_EQUIP": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SAVE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_TUTORIAL": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_RAIDERDEN": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_STATE_ON": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_STATE_OFF": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_PREVIEW": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CLAIM": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_DESTINATION_NO_PARTY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_REPORT_BUG": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_COMING_FEATURES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_COLONY_RUN_TIME_REMAINING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MATCHMAKING": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MATCHMAKING_ESTIMATED_WAIT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CROSS_PLAY_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_SYSTEM": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_LOGBOOK": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_TRADES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MAP_SELECTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MANAGE_LOADOUT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MASTERY_FORMAT_POINTS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FAILED_TO_EXTRACT_NO_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FAILED_TO_EXTRACT_NO_PROGRESS_ALT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_TRACKED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_PROGRESS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_ROUNDS_PLAYED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_CELEBRATIONS_UNLOCKEDGENERIC": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF_DESCRIPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CROSSPLAYOFF_DESCRIPTION_ALT2": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_READY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DONE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_OVERLAY_PROCESSING_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_WEEKLY_RAIDS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_LEADERBOARD_RANK": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_LEADERBOARD_POSITION": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_POINT_CAPITALIZED": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_UP_FOR_PROMOTION": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_RANK_UNCHANGED": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_RANK_RISK_FOR_DEMOTION": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_PROMOTION": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_PROMOTION_2X": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_DEMOTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_PLAY": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_HOME": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_PROMOTION_2X_ALT": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_PROMOTION_2X_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_UP_FOR_PROMOTION_2X": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_LEADERBOARD_RANK_CHANGE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_LEADERBOARD_RANK_CHANGE_ALT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_LEADERBOARD_RANKS": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_SEASON_REWARDS": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_NO_LEAGUE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS_ALT": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_NO_LEAGUE_INSTRUCTIONS_ALT2": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_RANK_CHANGE": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_VIEW_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_FILTER_FRIENDS": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_VIEW_LEADERBOARD": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_TOP_RANKED_TITLE": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_PROMOTION_BEST": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_YOUR_BEST_SCORE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MILESTONE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_MILESTONE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ACTIVE_RAID_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_ACTIVE_RAID_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_CURRENT_RANK": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_DAMAGE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_SEARCH": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_SEARCH_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_DESTROY": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_DESTROY_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FIND": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_FIND_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_INTERACT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_INTERACT_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_WEEK_ENDS": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_BEST_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_HIGH_SCORE_FORMAT": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_RANK_SCORE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_TOTAL_SCORE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_THIS_ROUND_SCORE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_ON_RETURN_FROM_ROUND_TO_LOBBY_BTN": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MANAGE_LOADOUT_POST_ROUND_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MASTERY_NO_OBJECTIVES_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_RANKS_OVERVIEW_TITLE": {
+          "Status": "approved"
+        },
+        "ID_MASTERY_RANKS_OVERVIEW_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_CONSUME": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_MASTERY_NO_LEAGUE_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_LEADERBOARDS_UNRANKED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_QUEUE_MODE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_QUEUE_MODE_TITLE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TRACKER_VIEW_OBJECTIVES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TRACKER_VIEW_RESOURCES": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TRACKER_NAVIGATE": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TRACKER_NAVIGATE_ALT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_SEE_DESTINATIONS": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_PATCHNOTES_VERSION": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DESCEND": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_DESCENDTOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_GOTOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_TOSPERANZA": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_BUTTON_ALT_RIGHT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE": {
+          "Note": "Tooltip hint on Loadout selection screen, potentially additionally shown on Play widget in later iteration. {0} refers the map, while {1} refers to the map condition. E.g. \"Buried City - Close Scrutiny\". We utilize the Dash format in correspondence to the format that is used on the Select Destination button (matchmaking widget).",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE_ALT": {
+          "Note": "as above with specifying map condition and its name only",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_FREE_LOADOUT_UNAVAILABLE_ALT_2": {
+          "Note": "as above with map condition only",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED_ALT": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_PREGAME_CUSTOM_LOADOUT_REQUIRED_ALT_2": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TIME_LIMITED": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TIME_LIMITED_ALT1": {
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_PASS": {
+          "Note": "Needs to be in line with other places where we refer to Reward Pass -- used in top nav Max. char. limit: 14",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_REWARD_PASS": {
+          "Note": "Needs to be in line with other places where we refer to Reward Pass -- used in top nav Max. char. limit: 22",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_CRAFT": {
+          "Note": "As the verb, to be used in the top bar instead of Workshop Max. char. limit: 20",
+          "Status": "approved"
+        },
+        "ID_FRONTEND_TAB_OUTPOST": {
+          "Note": "Needs to be in line with other places where we refer to Outpost -- used in top nav Max. char. limit: 16",
+          "Status": "approved"
         }
       }
     }

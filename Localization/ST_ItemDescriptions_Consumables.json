@@ -20,7 +20,41 @@
         "ID_ITEMDESC_HEALINGHOT_IMPROVISED": "An improvised medical item that gradually restores health over time.",
         "ID_ITEMDESC_SHIELDOVERTIMEPACK": "A handheld kit that gradually recharges shield over time."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMDESC_ADRENALINSHOT": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEALINGHOT_SMALL": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEALINGHOT_MEDIUM": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEALTHPACK_01": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEALTHSPRAY": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_ARMORPACK": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_DEFIBRILLATOR": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_AGAVEJUICE": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_FRUITMIX": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_HEALINGHOT_IMPROVISED": {
+          "Status": "approved"
+        },
+        "ID_ITEMDESC_SHIELDOVERTIMEPACK": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

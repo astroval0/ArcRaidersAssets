@@ -33,50 +33,112 @@
         "ID_SKILLTREES_LABEL_TIER": "Tier {0}",
         "ID_SKILLTREES_SKILL_NAME_TIER": "{0} (tier {1})",
         "ID_SKILLTREES_CALLOUT_ACQUIRE": "Acquire",
-        "ID_SKILLTREES_CALLOUT_ACQUIRE_ALT2": "Acquire Skill"
+        "ID_SKILLTREES_CALLOUT_ACQUIRE_ALT2": "Acquire Skill",
+        "ID_SKILLTREES_WARNING_UNARMED": "Only available while weapon is stowed",
+        "ID_SKILLTREES_WARNING_ADS": "Only available while aiming down sight",
+        "ID_SKILLTREES_GATED_NODES_SUBSET_EXPLANATION": "Only {0} of these {1} skills can ever be unlocked"
       },
       "KeysToMetaData": {
         "ID_SKILLTREES_RESET_SKILL_TREE": {
-          "Note": "Button for reset"
+          "Note": "Button for reset",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_TITLE": {
-          "Note": "Title in the reset confirmation modal"
+          "Note": "Title in the reset confirmation modal",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION": {
-          "Note": "Description in the reset confirmation modal. Could include info about it not being reversible"
+          "Note": "Description in the reset confirmation modal. Could include info about it not being reversible",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_DESCRIPTION_ALT2": {
-          "Note": "Description in the reset confirmation modal including amount of points reset. Could include info about it not being reversible"
+          "Note": "Description in the reset confirmation modal including amount of points reset. Could include info about it not being reversible",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_LABEL_COST": {
-          "Note": "Label for writing out the cost of resetting the skilltree"
+          "Note": "Label for writing out the cost of resetting the skilltree",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_RESET": {
-          "Note": "Button label"
+          "Note": "Button label",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CONFIRM_RESET": {
-          "Note": "Button label"
+          "Note": "Button label",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_MODAL_BUTTON_CANCEL": {
-          "Note": "Button label"
+          "Note": "Button label",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_AVAILABLE_SKILL_POINTS": {
-          "Note": "Label for informing about available Skill Points"
+          "Note": "Label for informing about available Skill Points",
+          "Status": "approved"
         },
         "ID_SKILLTREES_RESET_SKILL_TREE_TOOLTIP_LABEL_SKILL_POINTS": {
-          "Note": "Label for informing about available Skill Points"
+          "Note": "Label for informing about available Skill Points",
+          "Status": "approved"
         },
         "ID_SKILLTREES_LABEL_TIER": {
-          "Note": "Label for explaining tier of a skill"
+          "Note": "Label for explaining tier of a skill",
+          "Status": "approved"
         },
         "ID_SKILLTREES_SKILL_NAME_TIER": {
-          "Note": "Title for Skill name and tier"
+          "Note": "Title for Skill name and tier",
+          "Status": "approved"
         },
         "ID_SKILLTREES_CALLOUT_ACQUIRE": {
-          "Note": "Callout/Button for acquiring skill"
+          "Note": "Callout/Button for acquiring skill",
+          "Status": "approved"
         },
         "ID_SKILLTREES_CALLOUT_ACQUIRE_ALT2": {
-          "Note": "Callout/Button for acquiring skill ALT"
+          "Note": "Callout/Button for acquiring skill ALT",
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_LARGER_THAN_99": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_NUM_POINTS_AVAILABLE": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_CURRENT_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_SKILL_TREES_CURRENT_AND_NEXT_LEVEL_XP": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_NODE_LOCKED_DESC_POINTS_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_NODE_LOCKED_DESC_INCOMPLETE_PATH": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_SKILL_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_SCREEN_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_BUTTON_LABEL_CHANGE_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_BUTTON_LABEL_NEXT_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_BUTTON_LABEL_PREVIOUS_CATEGORY": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_NODE_LOCKED_DESC_PRECEDINGSKILL_REQUIREMENT": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_WARNING_UNARMED": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_WARNING_ADS": {
+          "Status": "approved"
+        },
+        "ID_SKILLTREES_GATED_NODES_SUBSET_EXPLANATION": {
+          "Status": "approved"
         }
       }
     }

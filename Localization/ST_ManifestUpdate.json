@@ -21,31 +21,43 @@
       },
       "KeysToMetaData": {
         "ID_MANIFEST_UPDATE_TITLE": {
-          "Note": "Title for modal to inform about manifest update that requires restart"
+          "Note": "Title for modal to inform about manifest update that requires restart",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_MESSAGE_ALT2": {
-          "Note": "Description for modal to inform about manifest update that requires restart"
+          "Note": "Description for modal to inform about manifest update that requires restart",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TITLE": {
-          "Note": "Title for modal to inform about client update that requires restart to start working. But you can still play without"
+          "Note": "Title for modal to inform about client update that requires restart to start working. But you can still play without",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_CLIENT_UPDATE_MESSAGE": {
-          "Note": "Description for modal to inform about client update that requires restart"
+          "Note": "Description for modal to inform about client update that requires restart",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_RESTART": {
-          "Note": "Button for players to restart"
+          "Note": "Button for players to restart",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_LATER": {
-          "Note": "Button for players to restart later"
+          "Note": "Button for players to restart later",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_GAME_UPDATE_BUTTON_CLOSE": {
-          "Note": "Button for players to close the modal (This one is important on console where we cant prompt players to restart)"
+          "Note": "Button for players to close the modal (This one is important on console where we cant prompt players to restart)",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_GAME_UPDATE_TOOLTIP": {
-          "Note": "Tooltip to inform players about Play button being disabled due to missing update."
+          "Note": "Tooltip to inform players about Play button being disabled due to missing update.",
+          "Status": "approved"
         },
         "ID_MANIFEST_UPDATE_CLIENT_UPDATE_TOOLTIP": {
-          "Note": "Tooltip to inform players about Play button being disabled due to mismatched update within party"
+          "Note": "Tooltip to inform players about Play button being disabled due to mismatched update within party",
+          "Status": "approved"
+        },
+        "ID_MANIFEST_UPDATE_MESSAGE": {
+          "Status": "approved"
         }
       }
     }

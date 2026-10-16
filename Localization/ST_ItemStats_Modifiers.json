@@ -74,9 +74,351 @@
         "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT2": "+{0}% Durability Repair",
         "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT3": "+{0}% Included Repair",
         "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT4": "+{0}% Durability (Repair)",
-        "ID_ITEMSTATS_MODIFIERS_MAX_DURABILITY": "+{0} Max Durability"
+        "ID_ITEMSTATS_MODIFIERS_MAX_DURABILITY": "+{0} Max Durability",
+        "ID_ITEMSTATS_MODIFIERS_DISTANCEUNTILFALLOFF_POSITIVE": "{0}% Increased Distance Until Damage Falloff",
+        "ID_ITEMSTATS_MODIFIERS_DISTANCEUNTILFALLOFF_NEGATIVE": "{0}% Reduced Distance Until Damage Falloff",
+        "ID_ITEMSTATS_MODIFIERS_FALLOFFDAMAGERETENTION_NEGATIVE": "{0}% Reduced Damage Retention After Falloff",
+        "ID_ITEMSTATS_MODIFIERS_FALLOFFDAMAGERETENTION_POSITIVE": "{0}% Increased Damage Retention After Falloff",
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEFLAT_NEGATIVE": "-{0} Base Damage",
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEFLAT_POSITIVE": "+{0} Base Damage",
+        "ID_ITEMSTATS_MODIFIERS_ARCARMORDAMAGE_POSITIVE": "{0}% Increased Damage vs ARC Armor",
+        "ID_ITEMSTATS_MODIFIERS_ARCARMORDAMAGE_NEGATIVE": "{0}% Reduced Damage vs ARC Armor",
+        "ID_ITEMSTATS_MODIFIERS_BULLETSLOADED_POSITIVE": "+{0} Bullets Loaded at a time",
+        "ID_ITEMSTATS_MODIFIERS_BULLETSLOADED_NEGATIVE": "-{0} Bullets Loaded at a time",
+        "ID_ITEMSTATS_MODIFIERS_SHIELDDAMAGE_POSITIVE": "{0}% Increased Damage vs Raider Shields",
+        "ID_ITEMSTATS_MODIFIERS_SHIELDDAMAGE_NEGATIVE": "{0}% Reduced Damage vs Raider Shields",
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZE_POSITIVE": "+{0} Projectiles in Burst",
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZE_NEGATIVE": "-{0} Projectiles in Burst",
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTDAMAGE_POSITIVE": "{0}% Increased Headshot Damage",
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTDAMAGE_NEGATIVE": "{0}% Reduced Headshot Damage",
+        "ID_ITEMSTATS_MODIFIERS_SHELLSSLOADED_POSITIVE": "+{0} Shells Loaded at a time",
+        "ID_ITEMSTATS_MODIFIERS_SHELLSSLOADED_NEGATIVE": "-{0} Shells Loaded at a time",
+        "ID_ITEMSTATS_MODIFIERS_ADSRECOIL_NEGATIVE": "{0}% Increased ADS Recoil",
+        "ID_ITEMSTATS_MODIFIERS_ADSRECOIL_POSITIVE": "{0}% Reduced ADS Recoil",
+        "ID_ITEMSTATS_MODIFIERS_ARCWEAKPOINTDAMAGE_POSITIVE": "{0}% Increased Damage vs ARC Weak Points",
+        "ID_ITEMSTATS_MODIFIERS_ARCWEAKPOINTDAMAGE_NEGATIVE": "{0}% Reduced Damage vs ARC Weak Points",
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZEMAX_POSITIVE": "+{0} Max Projectiles in Burst",
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZEMAX_NEGATIVE": "-{0} Max Projectiles in Burst",
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILEFIREPOWER_POSITIVE": "{0}% Increased Projectile Velocity",
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILEFIREPOWER_NEGATIVE": "{0}% Reduced Projectile Velocity",
+        "ID_ITEMSTATS_MODIFIERS_ZOOMDISPERSIONSCALE_NEGATIVE": "{0}% Increased ADS Dispersion",
+        "ID_ITEMSTATS_MODIFIERS_TRACKERDURATION_POSITIVE": "+{0}s Tracking Duration",
+        "ID_ITEMSTATS_MODIFIERS_TRACKERDURATION_NEGATIVE": "-{0}s Tracking Duration",
+        "ID_ITEMSTATS_MODIFIERS_BURNDAMAGEOVERTIME_POSITIVE": "+{0}/s Burn Damage",
+        "ID_ITEMSTATS_MODIFIERS_BURNDAMAGEOVERTIME_NEGATIVE": "-{0}/s Burn Damage",
+        "ID_ITEMSTATS_MODIFIERS_BURNDURATION_POSITIVE": "+{0}s Burn Duration",
+        "ID_ITEMSTATS_MODIFIERS_BURNDURATION_NEGATIVE": "-{0}s Burn Duration",
+        "ID_ITEMSTATS_MODIFIERS_MODSLOT_NEGATIVE": "Removes Mod {0}|plural(one=Slot, other=Slots): {1}",
+        "ID_ITEMSTATS_MODIFIERS_MODSLOT_POSITIVE": "Adds Mod {0}|plural(one=Slot, other=Slots): {1}"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ITEMSTATS_MODIFIERS_CLIPSIZE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREPOWER_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_VERTICALRECOIL_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_VERTICALRECOIL_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HORIZONTALRECOIL_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HORIZONTALRECOIL_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RECOILRECOVERYTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RECOILRECOVERYTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_CLIPSIZE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREPOWER_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DISPERSIONRECOVERYTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DISPERSIONRECOVERYTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREDISPERSIONGAIN_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREDISPERSIONGAIN_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BASEDISPERSION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BASEDISPERSION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIRERATE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIRERATE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ZOOMDURATION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ZOOMDURATION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREDISPERSIONMAX_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FIREDISPERSIONMAX_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILESPERSHOT_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILESPERSHOT_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_STEALTH_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ZOOMDISPERSIONSCALE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_EXPLOSIVEDAMAGEREDUCTION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_STAMINAREGENERATION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RELOADSPEED_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RELOADSPEED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BOLTACTIONTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BOLTACTIONTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MAXSTAMINA_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MAXSTAMINA_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RUNSPEED_FLAT_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_RUNSPEED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SPRINTSPEED_FLAT_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SPRINTSPEED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_STAMINAREGENERATION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEMITIGATION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEMITIGATION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PLATEHEALTH_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PLATEHEALTH_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DURABILITYBURNRATE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DURABILITYBURNRATE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_EQUIPTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_EQUIPTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_UNEQUIPTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_UNEQUIPTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MOVEMENTSPEED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MAXDURABILITY_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DURABILITY_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTMULTIPLIER_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTMULTIPLIER_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_ALT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_ALT4": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT2": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT3": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_REPAIR_PERCENTAGE_ALT4": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MAX_DURABILITY": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DISTANCEUNTILFALLOFF_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DISTANCEUNTILFALLOFF_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FALLOFFDAMAGERETENTION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_FALLOFFDAMAGERETENTION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEFLAT_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_DAMAGEFLAT_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ARCARMORDAMAGE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ARCARMORDAMAGE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BULLETSLOADED_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BULLETSLOADED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SHIELDDAMAGE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SHIELDDAMAGE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTDAMAGE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_HEADSHOTDAMAGE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SHELLSSLOADED_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_SHELLSSLOADED_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ADSRECOIL_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ADSRECOIL_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ARCWEAKPOINTDAMAGE_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ARCWEAKPOINTDAMAGE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZEMAX_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURSTSIZEMAX_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILEFIREPOWER_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_PROJECTILEFIREPOWER_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_ZOOMDISPERSIONSCALE_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_TRACKERDURATION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_TRACKERDURATION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURNDAMAGEOVERTIME_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURNDAMAGEOVERTIME_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURNDURATION_POSITIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_BURNDURATION_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MODSLOT_NEGATIVE": {
+          "Status": "approved"
+        },
+        "ID_ITEMSTATS_MODIFIERS_MODSLOT_POSITIVE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

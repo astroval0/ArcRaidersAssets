@@ -16,9 +16,93 @@
         "ID_FORMAT_TIME_MINUTES_SECONDS": "{0}:{1}",
         "ID_FORMAT_TIME_HOUR_MINUTES": "{0}:{1}",
         "ID_FORMAT_TIME_FROM_TO": "{0} - {1}",
-        "ID_TIME_DEV_TIME": "Dev Time: {0}"
+        "ID_TIME_DEV_TIME": "Dev Time: {0}",
+        "ID_TIME_D": "{0}d",
+        "ID_TIME_DAY": "{0} day",
+        "ID_TIME_DAY_HOURS": "{0}d:{1}h",
+        "ID_TIME_HOURS_MINUTES": "{0}h:{1}m",
+        "ID_TIME_H": "{0}h",
+        "ID_TIME_MINUTES": "{0} minutes",
+        "ID_TIME_MINS": "{0} mins",
+        "ID_TIME_M": "{0}m",
+        "ID_TIME_MINUTE": "{0} minute",
+        "ID_TIME_MIN": "{0} min",
+        "ID_TIME_LESS_MINUTE": "< 1 minute",
+        "ID_TIME_LESS_MIN": "< 1 min",
+        "ID_TIME_LESS_M": "< 1m",
+        "ID_TIME_ENDS_IN_DAY": "Ends in {0} day"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "FORMAT_MINUTES": {
+          "Status": "approved"
+        },
+        "FORMAT_SECONDS": {
+          "Status": "approved"
+        },
+        "FORMAT_REMAINING": {
+          "Status": "approved"
+        },
+        "FORMAT_DAYS": {
+          "Status": "approved"
+        },
+        "ID_FORMAT_TIME_HOUR_MINUTES_SECONDS": {
+          "Status": "approved"
+        },
+        "ID_FORMAT_TIME_MINUTES_SECONDS": {
+          "Status": "approved"
+        },
+        "ID_FORMAT_TIME_HOUR_MINUTES": {
+          "Status": "approved"
+        },
+        "ID_FORMAT_TIME_FROM_TO": {
+          "Status": "approved"
+        },
+        "ID_TIME_DEV_TIME": {
+          "Status": "approved"
+        },
+        "ID_TIME_D": {
+          "Status": "approved"
+        },
+        "ID_TIME_DAY": {
+          "Status": "approved"
+        },
+        "ID_TIME_DAY_HOURS": {
+          "Status": "approved"
+        },
+        "ID_TIME_HOURS_MINUTES": {
+          "Status": "approved"
+        },
+        "ID_TIME_H": {
+          "Status": "approved"
+        },
+        "ID_TIME_MINUTES": {
+          "Status": "approved"
+        },
+        "ID_TIME_MINS": {
+          "Status": "approved"
+        },
+        "ID_TIME_M": {
+          "Status": "approved"
+        },
+        "ID_TIME_MINUTE": {
+          "Status": "approved"
+        },
+        "ID_TIME_MIN": {
+          "Status": "approved"
+        },
+        "ID_TIME_LESS_MINUTE": {
+          "Status": "approved"
+        },
+        "ID_TIME_LESS_MIN": {
+          "Status": "approved"
+        },
+        "ID_TIME_LESS_M": {
+          "Status": "approved"
+        },
+        "ID_TIME_ENDS_IN_DAY": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

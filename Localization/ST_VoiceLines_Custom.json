@@ -17,7 +17,32 @@
         "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT1": "Jackpot, look!",
         "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT2": "This should come in handy."
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0010": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0020": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0030": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0050": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0050_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT1": {
+          "Status": "approved"
+        },
+        "ID_ONBOARDINGLEVEL_BEINGAMBUSHED_0040_ALT2": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

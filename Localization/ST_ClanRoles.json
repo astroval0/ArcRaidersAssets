@@ -15,7 +15,26 @@
         "ID_CLAN_ROLE_RECRUITER": "Recruiter",
         "ID_CLAN_ROLE_NONE": "None"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CLAN_ROLE_CAPTAIN": {
+          "Status": "approved"
+        },
+        "ID_CLAN_ROLE_LEADER": {
+          "Status": "approved"
+        },
+        "ID_CLAN_ROLE_MEMBER": {
+          "Status": "approved"
+        },
+        "ID_CLAN_ROLE": {
+          "Status": "approved"
+        },
+        "ID_CLAN_ROLE_RECRUITER": {
+          "Status": "approved"
+        },
+        "ID_CLAN_ROLE_NONE": {
+          "Status": "new"
+        }
+      }
     }
   }
 ]

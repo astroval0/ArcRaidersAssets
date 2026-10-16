@@ -21,20 +21,148 @@
         "ID_SNACKBAR_BLUEPRINT_REQUIRES_BENCH_LEVEL": "Requires {0}",
         "ID_SNACKBAR_BLUEPRINT_MISSING_BENCH": "{0} not installed",
         "ID_SNACKBAR_UPGRADED": "Upgraded",
-        "ID_SNACKBAR_WEAPON_UPGRADED": "Weapon Upgraded"
+        "ID_SNACKBAR_WEAPON_UPGRADED": "Weapon Upgraded",
+        "ID_SNACKBAR_EXPANDED": "Expanded",
+        "ID_SNACKBAR_STASHEXPANSION_EFFECT": "Stash ×{0} Slots",
+        "ID_SNACKBAR_STASHEXPANSION_EFFECT_ALT1": "Stash +{0} Slots",
+        "ID_SNACKBAR_EXPEDITIONVAULT_EFFECT": "Expedition Vault ×{0}",
+        "ID_SNACKBAR_EXPEDITIONVAULT_EFFECT_ALT1": "Expedition Vault +{0}",
+        "ID_SNACKBAR_LOADOUT_INCOMPATIBLE": "Loadout incompatible",
+        "ID_SNACKBAR_MAP_REQUIREMENT_CUSTOM_LOADOUT": "Map Requirement: Custom Loadout",
+        "ID_SNACKBAR_REQUIREMENT_CUSTOM_LOADOUT": "Requirement: Custom Loadout",
+        "ID_SNACKBAR_LOADOUT_CHANGE_REQUIRED": "Loadout change required",
+        "ID_SNACKBAR_MAP_REQUIREMENT_NOT_MET": "Map requirement not met",
+        "ID_SNACKBAR_LOADOUT_INCOMPATIBLE_ALT": "Free Loadout incompatible",
+        "ID_SNACKBAR_LOADOUT_UNAVAILABLE": "Loadout unavailable",
+        "ID_SNACKBAR_CHANGE_LOADOUT": "Change Loadout",
+        "ID_SNACKBAR_CHANGE": "Change",
+        "ID_SNACKBAR_SERVER_CHANGE": "Party Server Changed",
+        "ID_SNACKBAR_SERVER_CHANGE_ALT": "Server Changed",
+        "ID_SNACKBAR_SERVER_DESTINATIONS_UPDATED": "Destinations Updated",
+        "ID_SNACKBAR_SERVER_DESTINATIONS_AVAILABLE": "Available Destinations Changed",
+        "ID_SNACKBAR_AMPLIFICATION_COMPLETE": "Amplification Complete"
       },
       "KeysToMetaData": {
         "ID_SNACKBAR_ADDED_TITLE": {
-          "Note": "Used in snackbar to confirm that items have been added"
+          "Note": "Used in snackbar to confirm that items have been added",
+          "Status": "approved"
         },
         "ID_SNACKBAR_DESCRIPTION_MULTIPLE": {
-          "Note": "Used in snackbar to confirm that multiple items have been added"
+          "Note": "Used in snackbar to confirm that multiple items have been added",
+          "Status": "approved"
         },
         "ID_SNACKBAR_UPGRADED": {
-          "Note": "Mentioned as feedback after a action has been made"
+          "Note": "Mentioned as feedback after a action has been made",
+          "Status": "approved"
         },
         "ID_SNACKBAR_WEAPON_UPGRADED": {
-          "Note": "Mentioned as feedback after a action has been made"
+          "Note": "Mentioned as feedback after a action has been made",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_EXPANDED": {
+          "Note": "Title for when the action of expantion is realised",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_STASHEXPANSION_EFFECT": {
+          "Note": "Description for when the action of adding stash slot; max chars limit20",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_STASHEXPANSION_EFFECT_ALT1": {
+          "Note": "Description for when the action of adding stash slot; max chars limit20",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_EXPEDITIONVAULT_EFFECT": {
+          "Note": "Description for when the action of adding expedition slot; max chars limit26",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_EXPEDITIONVAULT_EFFECT_ALT1": {
+          "Note": "Description for when the action of adding expedition slot; max chars limit26",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_ITEM_CRAFTED": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_TRACKED_RECIPE": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_TRACKED_QUEST": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_ITEM_PURCHASED": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_ITEM_SOLD": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_RESOURCE_ADDED": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_CODEX_TITLE": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_CODEX_MULTIPLE_ENTRIES": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_BLUEPRINT_REQUIRES_BENCH_LEVEL": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_BLUEPRINT_MISSING_BENCH": {
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_LOADOUT_INCOMPATIBLE": {
+          "Note": "Max chars limit: 24 Title of the Snackbar notification when player has currently an incompatible Loadout selected (Free Loadout in this case) when the Squad leader selects a map and/or the final check before queuing players is happening. We keep in general so in the future, we can utilize this notification for potentially other requirements.  This text might also appear in the footer bar as status indicator to the affected player.",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_MAP_REQUIREMENT_CUSTOM_LOADOUT": {
+          "Note": "Snackbar notification - talking about requirement rather than what's incompatible",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_REQUIREMENT_CUSTOM_LOADOUT": {
+          "Note": "Snackbar notification - talking about requirement rather than what's incompatible",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_LOADOUT_CHANGE_REQUIRED": {
+          "Note": "Max chars limit: 24 Snackbar notification - talking about requirement rather than what's incompatible",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_MAP_REQUIREMENT_NOT_MET": {
+          "Note": "Max chars limit: 24 General description of not meeting a requirement",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_LOADOUT_INCOMPATIBLE_ALT": {
+          "Note": "as above, just with specifically addressing Free Loadout",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_LOADOUT_UNAVAILABLE": {
+          "Note": "Max chars limit: 24 Alternative phrasing for incompatible - corresponds to the characterized description in the map condition. Though this might be a bit too specific, refering to a \"full loadout\" (e.g. the Free Loadout) being unavailable, but wouldn't be usable if we ever refer to other loadout requirements.",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_CHANGE_LOADOUT": {
+          "Note": "Max chars limit: 20 Action description on Snackbar notification, as well as potentially an action in the Matchmaking footer bar.  Upon interaction, the affected player with incompatible loadout will be deeplinked into the Loadout selection, where they have their previously configured Custom Loadout reinstated.",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_CHANGE": {
+          "Note": "Max chars limit: 12 Action description on Snackbar notification, as well as potentially an action in the Matchmaking footer bar.  Upon interaction, the affected player with incompatible loadout will be deeplinked into the Loadout selection, where they have their previously configured Custom Loadout reinstated.",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_SERVER_CHANGE": {
+          "Status": "approved",
+          "Note": "This would be for a snackbar notification in case the party leader changes their server. It would inform squad members briefly that the destinations updated as a consequence. We might not have this, so this is just for the case we feel like we need this"
+        },
+        "ID_SNACKBAR_SERVER_CHANGE_ALT": {
+          "Status": "approved",
+          "Note": "as above, but shorter (without the party part)"
+        },
+        "ID_SNACKBAR_SERVER_DESTINATIONS_UPDATED": {
+          "Status": "approved",
+          "Note": "The consequence that players are experiencing after the server change or even when joining a party with a leader in a different region. The map screen refreshes, and of course there's a regional indicator we show, but party members might be in other parts of the game, so it might be nice to inform them on the update. Not 100% sure if we will have this."
+        },
+        "ID_SNACKBAR_SERVER_DESTINATIONS_AVAILABLE": {
+          "Note": "as above for the snackbar, just different wording, talking about the consequence when joining a squad which has a leader in a different region",
+          "Status": "approved"
+        },
+        "ID_SNACKBAR_AMPLIFICATION_COMPLETE": {
+          "Status": "approved"
         }
       }
     }

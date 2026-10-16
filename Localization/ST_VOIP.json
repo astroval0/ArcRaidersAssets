@@ -62,40 +62,169 @@
       },
       "KeysToMetaData": {
         "ID_VOIP_WINDOWS_MIC_PRIVACY_TITLE": {
-          "Note": "Title for the modal where the player gets prompted to enable access to their mic (when we detect that their system settings don't allow our game to access)"
+          "Note": "Title for the modal where the player gets prompted to enable access to their mic (when we detect that their system settings don't allow our game to access)",
+          "Status": "approved"
         },
         "ID_VOIP_WINDOWS_MIC_PRIVACY_BODY": {
-          "Note": "  \t\"Let desktop apps access your microphone\" is the name of the settings in Windows, so when this is translated it needs to be written as the name of the Windows settings screen in the translated language. Furthermore, the string is using Rich Text."
+          "Note": "  \t\"Let desktop apps access your microphone\" is the name of the settings in Windows, so when this is translated it needs to be written as the name of the Windows settings screen in the translated language. Furthermore, the string is using Rich Text.",
+          "Status": "approved"
         },
         "ID_VOIP_DISABLE": {
-          "Note": "Secondary button allowing players to disable Voice Chat (thus don't need mic access)"
+          "Note": "Secondary button allowing players to disable Voice Chat (thus don't need mic access)",
+          "Status": "approved"
         },
         "ID_VOIP_WINDOWS_MIC_PRIVACY_CTA": {
-          "Note": "Primary button bringing players to Windows System Settings to enable access to their mic in the game"
+          "Note": "Primary button bringing players to Windows System Settings to enable access to their mic in the game",
+          "Status": "approved"
         },
         "ID_VOIP_WINDOWS_MIC_PRIVACY_VERIFYING": {
-          "Note": "Loading state on CTA button when the Windows Settings have been open outside the game."
+          "Note": "Loading state on CTA button when the Windows Settings have been open outside the game.",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT": {
-          "Note": "system-based voice chat -- PS terminology under \"Voice Chat\""
+          "Note": "system-based voice chat -- PS terminology under \"Voice Chat\"",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT_ALT": {
-          "Note": "PlayStation system-based voice chat -- PS terminology under \"Voice Chat\""
+          "Note": "PlayStation system-based voice chat -- PS terminology under \"Voice Chat\"",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_OPEN_CONTROL_CENTER": {
-          "Note": "control center -- PS terminology"
+          "Note": "control center -- PS terminology",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA_CONTROL_CENTER": {
-          "Note": "control center -- PS terminology"
+          "Note": "control center -- PS terminology",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_CONTROL_CENTER": {
-          "Note": "control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+          "Note": "control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY": {
-          "Note": "PS button -- PS terminology control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+          "Note": "PS button -- PS terminology control center -- PS terminology Switch Voice Chats -- Need to match PlayStation UI",
+          "Status": "approved"
         },
         "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_PS_BUTTON": {
-          "Note": "PS button -- PS terminology Switch Voice Chats -- Need to match PlayStation UI"
+          "Note": "PS button -- PS terminology Switch Voice Chats -- Need to match PlayStation UI",
+          "Status": "approved"
+        },
+        "ID_VOIP_GLOBAL": {
+          "Status": "approved"
+        },
+        "ID_VOIP_SQUAD_ONLY": {
+          "Status": "approved"
+        },
+        "ID_VOIP_TOGGLE_VOICE": {
+          "Status": "approved"
+        },
+        "ID_VOIP_RAIDERS_IN_PROXIMITY": {
+          "Status": "approved"
+        },
+        "ID_VOIP_RAIDERS_IN_PROXIMITY_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_SEE_MORE": {
+          "Status": "approved"
+        },
+        "ID_VOIP_STATUS_SPEAKING": {
+          "Status": "approved"
+        },
+        "ID_VOIP_INTERACTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_STATUS_MUTED": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_OPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_OPTION_DESC": {
+          "Status": "approved"
+        },
+        "ID_VOIP_OPTION_DESC": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_NOTIFICATION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_NOTIFICATION_BODY": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_NOTIFICATION_CONFIRM": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_NOTIFICATION_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_SANCTION_TEMP": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MODERATION_SANCTION_PERMANENT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_DEFAULT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_DEFAULT_SHORT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_INPUT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_INPUT_SHORT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_OUTPUT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_OUTPUT_SHORT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_TROUBLESHOOT_OPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_TROUBLESHOOT_ACTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ERROR_TITLE": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MIC_TEST_OPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MIC_TEST_CANCEL": {
+          "Status": "approved"
+        },
+        "ID_VOIP_MIC_TEST_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_NOISE_SUPPRESSION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_TROUBLESHOOT_TROUBLESHOOT_AUDIO": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_DESCRIPTION_ALT1": {
+          "Status": "approved"
+        },
+        "ID_VOIP_ENABLE_NOISE_SUPPRESSION_TITLE": {
+          "Status": "approved"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_CTA": {
+          "Status": "approved"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_BODY_ALT": {
+          "Status": "approved"
+        },
+        "ID_VOIP_PLAYSTATION_MIC_USAGE_SHORT_ALT2": {
+          "Status": "approved"
         }
       }
     }

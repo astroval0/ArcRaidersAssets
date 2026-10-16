@@ -56,7 +56,149 @@
         "ROLE_BRAWLER": "Brawler",
         "ID_CHARACTERS_SURVIVAL": "Pathfinder"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CHARACTER_NEWGUY_LONGNAME": {
+          "Status": "new"
+        },
+        "ID_CHARACTER_NEWGUY_SHORTNAME": {
+          "Status": "new"
+        },
+        "ROLE_SCOUT": {
+          "Status": "new"
+        },
+        "FACTION_RACER": {
+          "Status": "new"
+        },
+        "FACTION_RANGER": {
+          "Status": "new"
+        },
+        "ROLE_HEALER": {
+          "Status": "new"
+        },
+        "CHARACTER001_LONGNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER001_SHORTNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER002_LONGNAME": {
+          "Status": "new"
+        },
+        "CHARACTER002_SHORTNAME": {
+          "Status": "new"
+        },
+        "CHARACTER003_LONGNAME": {
+          "Status": "new"
+        },
+        "CHARACTER003_SHORTNAME": {
+          "Status": "new"
+        },
+        "CHARACTER004_LONGNAME": {
+          "Status": "new"
+        },
+        "CHARACTER004_SHORTNAME": {
+          "Status": "new"
+        },
+        "CHARACTER005_LONGNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER005_SHORTNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER006_LONGNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER006_SHORTNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER007_LONGNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER007_SHORTNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER008_LONGNAME": {
+          "Status": "new"
+        },
+        "CHARACTER008_SHORTNAME": {
+          "Status": "new"
+        },
+        "CHARACTER009_LONGNAME": {
+          "Status": "new"
+        },
+        "CHARACTER009_SHORTNAME": {
+          "Status": "new"
+        },
+        "CHARACTER010_LONGNAME": {
+          "Status": "approved"
+        },
+        "CHARACTER010_SHORTNAME": {
+          "Status": "approved"
+        },
+        "ROLE_ENGINEER": {
+          "Status": "new"
+        },
+        "ROLE_DPS": {
+          "Status": "new"
+        },
+        "FACTION_ASTRONAUT": {
+          "Status": "new"
+        },
+        "FACTION_CULTIST": {
+          "Status": "new"
+        },
+        "FACTION_DROID": {
+          "Status": "new"
+        },
+        "CHARACTER001_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER002_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER003_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER004_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER005_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER006_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER007_DESCRIPTION": {
+          "Status": "approved"
+        },
+        "CHARACTER008_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER009_DESCRIPTION": {
+          "Status": "new"
+        },
+        "CHARACTER010_DESCRIPTION": {
+          "Status": "new"
+        },
+        "ROLE_ATTACKER": {
+          "Status": "new"
+        },
+        "ROLE_TANK": {
+          "Status": "new"
+        },
+        "ROLE_HUNTER": {
+          "Status": "new"
+        },
+        "ROLE_MEDIC": {
+          "Status": "new"
+        },
+        "ROLE_BRAWLER": {
+          "Status": "new"
+        },
+        "ID_CHARACTERS_SURVIVAL": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]

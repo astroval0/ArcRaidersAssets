@@ -49,7 +49,128 @@
         "ID_CHARACTERSKILLS_STATS_CRITICALHEALTHREGEN": "Health Regen Limit",
         "ID_CHARACTERSKILLS_STATS_COOLDOWNONDAMAGE": "Cooldown on Damage"
       },
-      "KeysToMetaData": {}
+      "KeysToMetaData": {
+        "ID_CHARACTERSKILLS_MODIFIERS_DODGEROLLSTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_BREACHINGNOISEREDUCTION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_EXPLOSIONIMPACTREDUCTION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_BREACHSPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_ARMORSPEEDPENALTY": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DRONEMELEEDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DBNOBLEEDTIME": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DBNODAMAGEREDUCTION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CARRYWEIGHT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_WEAPONWEIGHT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CLIMBSPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_TRAVERSALSTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DBNOMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_SLIDESPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_EXHAUSTEDSTATETHRESHOLD": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_RECOVERYROLLWINDOW": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_WALLLEAPDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DAMAGESTAMINABOOST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_SPRINTDODGEROLLDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_FALLDAMAGEREDUCED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_LOOTREVEALSPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_LOOTINGNOISEREDUCED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CROUCHMOVESPEED": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_FIELDCRAFTLOOTCHANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DOUBLELOOTREVEAL": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_ENCUMBRANCELIMIT": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CROUCHEDSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_MELEESTAMINACOST": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_COOLDOWN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DURATION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CRITICALHEALTHREGEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_CRITICALSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_DODGEROLLDISTANCE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_HEALINGSTAMINAREGEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_MAXSTAMINA": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_MODIFIERS_COOLDOWNONDAMAGE": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_STATS_COOLDOWN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_STATS_DURATION": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_STATS_CRITICALHEALTHREGEN": {
+          "Status": "approved"
+        },
+        "ID_CHARACTERSKILLS_STATS_COOLDOWNONDAMAGE": {
+          "Status": "approved"
+        }
+      }
     }
   }
 ]
